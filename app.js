@@ -52,7 +52,7 @@ const server = http.createServer((req, res) => {
 
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
-  getTeams();
+  getTeams().then(() => 'Upload complete');
 });
 
 const getTeams = async () => {
@@ -73,7 +73,9 @@ const getTeams = async () => {
           const handle = teamInfo?.handle;
           const teamUrl = `https://${teamInfo?.teamUrl}`;
           if (teamUrl) {
-            const teamRoster = await getRoster(teamUrl, teamName, handle);
+            getRoster(teamUrl, teamName, handle).then(() =>
+              console.log(`Completed exporting ${teamName} athletes`),
+            );
           }
         },
       );
