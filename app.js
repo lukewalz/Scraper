@@ -119,7 +119,7 @@ const getRoster = async (teamUrl, teamName, handle) => {
       const response = await axios
         .get(`${teamUrl}/sports/${sport}/roster?print=true`)
         .catch((error) => {});
-      const team = [];
+
       if (response.status === 200) {
         const $ = cheerio.load(response.data);
         const pl = [];
@@ -140,15 +140,15 @@ const getRoster = async (teamUrl, teamName, handle) => {
             TeamTwitterHandle: handle,
           };
           if (name) {
-            team.push(player);
+            try {
+              axios.post('http://localhost:54661/athlete', [player]);
+            } catch (error) {
+              console.warn(error);
+            }
           }
         });
 
-        try {
-          axios.post('http://localhost:54661/athlete', team);
-        } catch (error) {
-          console.warn(error);
-        }
+        return pl;
       }
     } catch (e) {}
   });
