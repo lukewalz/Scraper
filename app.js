@@ -93,24 +93,23 @@ const getTeamUrl = async (url) => {
   }
 };
 
-// const writeToTeamExcel = (teams) => {
-//   const csvWriter = createObjectCsvWriter({
-//     path: 'teamData.csv',
-//     header: [
-//       { id: 'firstName', title: 'First Name' },
-//       { id: 'lastName', title: 'Last Name' },
-//       { id: 'position', title: 'Position' },
-//       { id: 'number', title: 'Number' },
-//       { id: 'teamName', title: 'Team Name' },
-//       { id: 'teamUrl', title: 'Team Url' },
-//       { id: 'handle', title: 'Handle' },
-//     ],
-//   });
+const writeToTeamExcel = (teams) => {
+  const csvWriter = createObjectCsvWriter({
+    path: 'teamData.csv',
+    header: [
+      { id: 'FirstName', title: 'First Name' },
+      { id: 'LastName', title: 'Last Name' },
+      { id: 'Sport', title: 'sport' },
+      { id: 'Position', title: 'Position' },
+      { id: 'University', title: 'Team Name' },
+      { id: 'TeamTwitterHandle', title: 'Handle' },
+    ],
+  });
 
-//   csvWriter
-//     .writeRecords(teams)
-//     .then(() => console.log('The CSV file was written successfully'));
-// };
+  csvWriter
+    .writeRecords(teams)
+    .then(() => console.log('The CSV file was written successfully'));
+};
 
 const getRoster = async (teamUrl, teamName, handle) => {
   ncaaSports.map(async (sport) => {
@@ -130,6 +129,7 @@ const getRoster = async (teamUrl, teamName, handle) => {
           const year = $(element).find('.roster_class').text();
           const hometown = $(element).find('.hometownhighschool').text();
           const player = {
+            AthleteId: 0,
             FirstName: firstName,
             LastName: lastName,
             University: teamName,
@@ -137,8 +137,13 @@ const getRoster = async (teamUrl, teamName, handle) => {
             Position: position,
             TeamTwitterHandle: handle,
           };
-
-          axios.post('https://localhost:44347/athlete', player);
+          if (name) {
+            try {
+              axios.post('http://localhost:54661/athlete', [player]);
+            } catch (error) {
+              console.warn(error);
+            }
+          }
         });
 
         return pl;
