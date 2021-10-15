@@ -58,7 +58,7 @@ server.listen(port, hostname, () => {
 const getTeams = async () => {
   const url = 'https://www.ncaa.com/schools-index';
   const teams = [];
-  for (let index = 0; index < 2; index++) {
+  for (let index = 0; index < 27; index++) {
     try {
       const response = await axios.get(`${url}/${index}`);
       const $ = cheerio.load(response.data);
@@ -119,7 +119,7 @@ const getRoster = async (teamUrl, teamName, handle) => {
       const response = await axios
         .get(`${teamUrl}/sports/${sport}/roster?print=true`)
         .catch((error) => {});
-
+      const team = [];
       if (response.status === 200) {
         const $ = cheerio.load(response.data);
         const pl = [];
@@ -140,15 +140,17 @@ const getRoster = async (teamUrl, teamName, handle) => {
             TeamTwitterHandle: handle,
           };
           if (name) {
-            try {
-              axios.post('http://localhost:54661/athlete', [player]);
-            } catch (error) {
-              console.warn(error);
-            }
+            team.push(player);
           }
         });
 
-        return pl;
+        console.log(team);
+
+        try {
+          axios.post('http://localhost:54661/athlete', team);
+        } catch (error) {
+          console.warn(error);
+        }
       }
     } catch (e) {}
   });
