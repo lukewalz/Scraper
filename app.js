@@ -144,8 +144,6 @@ const getRoster = async (teamUrl, teamName, handle) => {
           }
         });
 
-        console.log(team);
-
         try {
           axios.post('http://localhost:54661/athlete', team);
         } catch (error) {
