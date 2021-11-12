@@ -1,10 +1,19 @@
 import http from 'http';
 import axios from 'axios';
 import cheerio from 'cheerio';
-import { createObjectCsvWriter } from 'csv-writer';
+import fs from 'fs';
+import cliProgress from 'cli-progress';
 
 const hostname = '127.0.0.1';
 const port = 3000;
+
+const multibar = new cliProgress.MultiBar(
+  {
+    clearOnComplete: false,
+    hideCursor: true,
+  },
+  cliProgress.Presets.shades_grey,
+);
 
 const ncaaSports = [
   'mens-cross-country',
@@ -31,7 +40,8 @@ const ncaaSports = [
   'womens-track-and-field',
   'wrestling',
   'baseball',
-  'Beach Volleyball',
+  'womens-beach-volleyball',
+  'wbvb',
   'mens-golf',
   'womens-golf',
   'mens-lacrosse',
@@ -47,7 +57,6 @@ const ncaaSports = [
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World');
 });
 
 server.listen(port, hostname, () => {
@@ -55,14 +64,17 @@ server.listen(port, hostname, () => {
   getTeams().then(() => 'Upload complete');
 });
 
+// const pageProgressBar = multibar.create(24, 0);
+
 const getTeams = async () => {
   const url = 'https://www.ncaa.com/schools-index';
-  const teams = [];
+
   for (let index = 0; index < 27; index++) {
     try {
       const response = await axios.get(`${url}/${index}`);
       const $ = cheerio.load(response.data);
 
+      let counter = 0;
       $('table.responsive-enabled > tbody > tr > td > a').each(
         async (_idx, el) => {
           const teamName = $(el).text();
@@ -71,11 +83,11 @@ const getTeams = async () => {
           const teamInfo = await getTeamUrl(teamNcaaUrl);
 
           const handle = teamInfo?.handle;
-          const teamUrl = `https://${teamInfo?.teamUrl}`;
-          if (teamUrl) {
-            getRoster(teamUrl, teamName, handle).then(() =>
-              console.log(`Completed exporting ${teamName} athletes`),
-            );
+          if (teamInfo && teamInfo.teamUrl) {
+            const teamUrl = `https://${teamInfo.teamUrl}`;
+            const urlList = await getRoster(teamUrl, teamName, handle);
+            counter++;
+            writeToTextFile(urlList, teamName, counter);
           }
         },
       );
@@ -91,65 +103,35 @@ const getTeamUrl = async (url) => {
     const splitTeam = team.split('@');
     return { teamUrl: splitTeam[0], handle: `@${splitTeam[1]}` };
   } catch (er) {
-    console.log(url);
+    console.log(er.message);
   }
 };
 
-const writeToTeamExcel = (teams) => {
-  const csvWriter = createObjectCsvWriter({
-    path: 'teamData.csv',
-    header: [
-      { id: 'FirstName', title: 'First Name' },
-      { id: 'LastName', title: 'Last Name' },
-      { id: 'Sport', title: 'sport' },
-      { id: 'Position', title: 'Position' },
-      { id: 'University', title: 'Team Name' },
-      { id: 'TeamTwitterHandle', title: 'Handle' },
-    ],
+const writeToTextFile = (teams, name, counter) => {
+  let file_path = '/Users/luke.walz/teamPaths/';
+  let file_name = `${name}.txt`;
+  var filtered = teams.filter(function (el) {
+    return el != null;
   });
-
-  csvWriter
-    .writeRecords(teams)
-    .then(() => console.log('The CSV file was written successfully'));
+  fs.writeFile(file_path + file_name, filtered.join('\r\n'), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+  });
 };
 
-const getRoster = async (teamUrl, teamName, handle) => {
-  ncaaSports.map(async (sport) => {
+const getRoster = async (teamUrl) => {
+  const promises = ncaaSports.map(async (sport) => {
+    let path = `${teamUrl}/sports/${sport}/roster`;
+    path = path.replace('landing/index/', '');
     try {
-      const response = await axios
-        .get(`${teamUrl}/sports/${sport}/roster?print=true`)
-        .catch((error) => {});
-
+      const response = await axios.get(path, { maxRedirects: 0 });
       if (response.status === 200) {
-        const $ = cheerio.load(response.data);
-        const pl = [];
-        $('tbody > tr').each((id, element) => {
-          const number = $(element).find('.roster_jerseynum').text();
-          const name = $(element).find('.sidearm-table-player-name > a').text();
-          const [firstName, lastName] = name.split(' ');
-          const position = $(element).find('.rp_position_short').text();
-          const year = $(element).find('.roster_class').text();
-          const hometown = $(element).find('.hometownhighschool').text();
-          const player = {
-            AthleteId: 0,
-            FirstName: firstName,
-            LastName: lastName,
-            University: teamName,
-            Sport: sport,
-            Position: position,
-            TeamTwitterHandle: handle,
-          };
-          if (name) {
-            try {
-              axios.post('http://localhost:54661/athlete', [player]);
-            } catch (error) {
-              console.warn(error);
-            }
-          }
-        });
-
-        return pl;
+        return path;
       }
-    } catch (e) {}
+    } catch (er) {}
   });
+
+  const results = await Promise.all(promises);
+  return results;
 };
