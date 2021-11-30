@@ -5,13 +5,17 @@
   "main": "app.js",
   "dependencies": {
     "axios": "^0.23.0",
+    "axios-concurrency": "^1.0.4",
     "cheerio": "^1.0.0-rc.10",
     "cli-progress": "^3.9.1",
     "csv-writer": "^1.6.0",
     "fs": "0.0.1-security",
+    "http-proxy": "^1.18.1",
     "node-fetch": "^3.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
