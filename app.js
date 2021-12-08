@@ -1,4 +1,4 @@
-import http from "http";
+import https from "https";
 import axios from "axios";
 import cheerio from "cheerio";
 import fs from "fs";
@@ -46,9 +46,7 @@ const ncaaSports = [
   "womens-water-polo",
 ];
 
-// const pageProgressBar = multibar.create(50 * ncaaSports.length, 0);
-
-const MAX_REQUESTS_COUNT = 10;
+const MAX_REQUESTS_COUNT = 20;
 const INTERVAL_MS = 10;
 let PENDING_REQUESTS = 0;
 
@@ -56,6 +54,10 @@ let PENDING_REQUESTS = 0;
 const api = axios.create({
   baseURL: "https://ncaa.com",
 });
+
+axios.defaults.timeout = 3000;
+axios.defaults.httpsAgent = new https.Agent({ keepAlive: true });
+axios.defaults.maxRedirects = 0;
 
 /**
  * Axios Request Interceptor
@@ -85,7 +87,7 @@ api.interceptors.response.use(
   }
 );
 
-const server = http.createServer((req, res) => {
+const server = https.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader("Content-Type", "text/plain");
 });
@@ -154,7 +156,7 @@ const getTeams = async () => {
 
   let list = [];
 
-  for (let index = 1; index < 25; index++) {
+  for (let index = 1; index < 2; index++) {
     try {
       const response = await axios.get(`${url}/${index}`);
       const $ = cheerio.load(response.data);
@@ -176,15 +178,28 @@ const writeToJson = (school) => {
   var filtered = school.paths.filter(function (el) {
     return el != null;
   });
+
   let filename;
-  if (filtered.length === 0 || filtered.length > 32) {
+  const badList = filtered.filter((e) => e.url);
+  const goodList = filtered.filter((e) => !e.url);
+
+  if (badList.length === 0 || badList.length > 30) {
     filename = `./${school.name}.REVIEW.json`;
   } else {
     filename = `./${school.name}.json`;
   }
   fs.writeFile(
     filename,
-    JSON.stringify({ base: school.base, filtered }, null, 2),
+    JSON.stringify(
+      {
+        school: school.name,
+        base: school.base,
+        goodList,
+        badList,
+      },
+      null,
+      2
+    ),
     function (err) {
       if (err) {
         return console.log(err);
@@ -195,55 +210,44 @@ const writeToJson = (school) => {
 
 const getRoster = async (teamObject) => {
   const urlsToLoop = teamObject.map((url, index) => {
-    const sportUrls = {
-      base: url.url,
-      paths: ncaaSports.map((sport) => `${url.url}/sports/${sport}/roster`),
-      schoolName: url.name,
-    };
-    return sportUrls;
+    if (url) {
+      const sportUrls = {
+        base: url.url,
+        paths: ncaaSports.map((sport) => `${url.url}/sports/${sport}/roster`),
+        schoolName: url.name,
+      };
+      return sportUrls;
+    }
+    return;
   });
 
   urlsToLoop.map(async (group) => {
-    const y = {
-      base: group.base,
-      name: group.schoolName,
-      paths: await axios.all(
-        group.paths.map(
-          async (u) =>
-            await axios
-              .get(u, { maxRedirects: 0 })
-              .then((res) => res.status === 200 && u)
-              .catch((err) => null)
-        )
-      ),
-    };
-    writeToJson(y);
+    if (group) {
+      const y = {
+        base: group.base,
+        name: group.schoolName,
+        paths: await axios.all(
+          group.paths.map(
+            async (u) =>
+              await axios
+                .get(u)
+                .then((res) => res.status === 200 && u)
+                .catch((err) => {
+                  if (!err.response) {
+                    return { url: u, reason: err.code };
+                  } else {
+                    return {
+                      url: err.config.url,
+                      reason: err.response.statusText,
+                    };
+                  }
+                })
+          )
+        ),
+      };
+      writeToJson(y);
+    }
   });
-
-  // console.log(urlsToLoop);
-
-  // var merged = [].concat.apply([], urlsToLoop);
-
-  // return merged;
-
-  // const promises = ncaaSports.map(async (sport) => {
-  //   let path = `${teamUrl}/sports/${sport}/roster`;
-  //   path = path.replace("landing/index/", "");
-  //   try {
-  //     const response = await axios.get(path, { maxRedirects: 0 });
-  //     if (response.status === 200) {
-  //       return { teamUrl, sport };
-  //     }
-  //     return null;
-  //   } catch (er) {
-  //     return null;
-  //   }
-  // });
-
-  // const results = await Promise.all(promises);
-  // console.log(results);
-
-  // return results;
 };
 
 const convertOutputToArray = (path) => {
