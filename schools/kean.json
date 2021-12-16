@@ -1,0 +1,157 @@
+{
+  "school": "/schools/kean",
+  "base": "https://keanathletics.com",
+  "goodList": [
+    "https://keanathletics.com/sports/football/roster",
+    "https://keanathletics.com/sports/mens-soccer/roster",
+    "https://keanathletics.com/sports/womens-soccer/roster",
+    "https://keanathletics.com/sports/mens-basketball/roster",
+    "https://keanathletics.com/sports/womens-basketball/roster",
+    "https://keanathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://keanathletics.com/sports/mens-lacrosse/roster",
+    "https://keanathletics.com/sports/womens-lacrosse/roster",
+    "https://keanathletics.com/sports/baseball/roster",
+    "https://keanathletics.com/sports/softball/roster",
+    "https://keanathletics.com/sports/womens-tennis/roster",
+    "https://keanathletics.com/sports/mens-volleyball/roster",
+    "https://keanathletics.com/sports/womens-volleyball/roster",
+    "https://keanathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://keanathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://keanathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

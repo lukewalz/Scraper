@@ -1,0 +1,137 @@
+{
+  "school": "/schools/limestone",
+  "base": "https://golimestonesaints.com",
+  "goodList": [
+    "https://golimestonesaints.com/sports/football/roster",
+    "https://golimestonesaints.com/sports/mens-soccer/roster",
+    "https://golimestonesaints.com/sports/womens-soccer/roster",
+    "https://golimestonesaints.com/sports/mens-basketball/roster",
+    "https://golimestonesaints.com/sports/womens-basketball/roster",
+    "https://golimestonesaints.com/sports/mens-swimming-and-diving/roster",
+    "https://golimestonesaints.com/sports/womens-swimming-and-diving/roster",
+    "https://golimestonesaints.com/sports/mens-track-and-field/roster",
+    "https://golimestonesaints.com/sports/womens-track-and-field/roster",
+    "https://golimestonesaints.com/sports/mens-cross-country/roster",
+    "https://golimestonesaints.com/sports/womens-cross-country/roster",
+    "https://golimestonesaints.com/sports/mens-golf/roster",
+    "https://golimestonesaints.com/sports/womens-golf/roster",
+    "https://golimestonesaints.com/sports/mens-lacrosse/roster",
+    "https://golimestonesaints.com/sports/womens-lacrosse/roster",
+    "https://golimestonesaints.com/sports/baseball/roster",
+    "https://golimestonesaints.com/sports/softball/roster",
+    "https://golimestonesaints.com/sports/mens-tennis/roster",
+    "https://golimestonesaints.com/sports/womens-tennis/roster",
+    "https://golimestonesaints.com/sports/mens-volleyball/roster",
+    "https://golimestonesaints.com/sports/womens-volleyball/roster",
+    "https://golimestonesaints.com/sports/wrestling/roster",
+    "https://golimestonesaints.com/sports/wwrest/roster",
+    "https://golimestonesaints.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://golimestonesaints.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/golf/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/tri/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://golimestonesaints.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

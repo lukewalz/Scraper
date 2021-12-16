@@ -1,0 +1,133 @@
+{
+  "school": "/schools/roger-williams",
+  "base": "https://rwuhawks.com",
+  "goodList": [
+    "https://rwuhawks.com/sports/mens-soccer/roster",
+    "https://rwuhawks.com/sports/womens-soccer/roster",
+    "https://rwuhawks.com/sports/mens-basketball/roster",
+    "https://rwuhawks.com/sports/womens-basketball/roster",
+    "https://rwuhawks.com/sports/gymnastics/roster",
+    "https://rwuhawks.com/sports/mens-ice-hockey/roster",
+    "https://rwuhawks.com/sports/mens-swimming-and-diving/roster",
+    "https://rwuhawks.com/sports/womens-swimming-and-diving/roster",
+    "https://rwuhawks.com/sports/track-and-field/roster",
+    "https://rwuhawks.com/sports/womens-track-and-field/roster",
+    "https://rwuhawks.com/sports/mens-cross-country/roster",
+    "https://rwuhawks.com/sports/womens-cross-country/roster",
+    "https://rwuhawks.com/sports/equestrian/roster",
+    "https://rwuhawks.com/sports/mens-golf/roster",
+    "https://rwuhawks.com/sports/mens-lacrosse/roster",
+    "https://rwuhawks.com/sports/womens-lacrosse/roster",
+    "https://rwuhawks.com/sports/baseball/roster",
+    "https://rwuhawks.com/sports/softball/roster",
+    "https://rwuhawks.com/sports/mens-tennis/roster",
+    "https://rwuhawks.com/sports/womens-tennis/roster",
+    "https://rwuhawks.com/sports/mens-volleyball/roster",
+    "https://rwuhawks.com/sports/womens-volleyball/roster",
+    "https://rwuhawks.com/sports/wrestling/roster",
+    "https://rwuhawks.com/sports/mens-rugby/roster",
+    "https://rwuhawks.com/sports/womens-rugby/roster",
+    "https://rwuhawks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rwuhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rwuhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

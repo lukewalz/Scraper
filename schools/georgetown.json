@@ -1,0 +1,149 @@
+{
+  "school": "/schools/georgetown",
+  "base": "https://guhoyas.com",
+  "goodList": [
+    "https://guhoyas.com/sports/football/roster",
+    "https://guhoyas.com/sports/mens-soccer/roster",
+    "https://guhoyas.com/sports/womens-soccer/roster",
+    "https://guhoyas.com/sports/mens-basketball/roster",
+    "https://guhoyas.com/sports/womens-basketball/roster",
+    "https://guhoyas.com/sports/swimming-and-diving/roster",
+    "https://guhoyas.com/sports/mens-track-and-field/roster",
+    "https://guhoyas.com/sports/womens-track-and-field/roster",
+    "https://guhoyas.com/sports/mens-golf/roster",
+    "https://guhoyas.com/sports/womens-golf/roster",
+    "https://guhoyas.com/sports/mens-lacrosse/roster",
+    "https://guhoyas.com/sports/womens-lacrosse/roster",
+    "https://guhoyas.com/sports/baseball/roster",
+    "https://guhoyas.com/sports/softball/roster",
+    "https://guhoyas.com/sports/mens-tennis/roster",
+    "https://guhoyas.com/sports/womens-tennis/roster",
+    "https://guhoyas.com/sports/womens-volleyball/roster",
+    "https://guhoyas.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://guhoyas.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/golf/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/tri/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://guhoyas.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

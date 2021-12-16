@@ -1,0 +1,141 @@
+{
+  "school": "/schools/uc-davis",
+  "base": "https://ucdavisaggies.com",
+  "goodList": [
+    "https://ucdavisaggies.com/sports/football/roster",
+    "https://ucdavisaggies.com/sports/mens-soccer/roster",
+    "https://ucdavisaggies.com/sports/womens-soccer/roster",
+    "https://ucdavisaggies.com/sports/mens-basketball/roster",
+    "https://ucdavisaggies.com/sports/womens-basketball/roster",
+    "https://ucdavisaggies.com/sports/womens-gymnastics/roster",
+    "https://ucdavisaggies.com/sports/womens-swimming-and-diving/roster",
+    "https://ucdavisaggies.com/sports/track-and-field/roster",
+    "https://ucdavisaggies.com/sports/cross-country/roster",
+    "https://ucdavisaggies.com/sports/equestrian/roster",
+    "https://ucdavisaggies.com/sports/mens-golf/roster",
+    "https://ucdavisaggies.com/sports/womens-golf/roster",
+    "https://ucdavisaggies.com/sports/womens-lacrosse/roster",
+    "https://ucdavisaggies.com/sports/baseball/roster",
+    "https://ucdavisaggies.com/sports/softball/roster",
+    "https://ucdavisaggies.com/sports/mens-tennis/roster",
+    "https://ucdavisaggies.com/sports/womens-tennis/roster",
+    "https://ucdavisaggies.com/sports/womens-volleyball/roster",
+    "https://ucdavisaggies.com/sports/womens-beach-volleyball/roster",
+    "https://ucdavisaggies.com/sports/mens-water-polo/roster",
+    "https://ucdavisaggies.com/sports/womens-water-polo/roster",
+    "https://ucdavisaggies.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ucdavisaggies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ucdavisaggies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

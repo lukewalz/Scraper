@@ -1,0 +1,159 @@
+{
+  "school": "/schools/emporia-st",
+  "base": "https://esuhornets.com",
+  "goodList": [
+    "https://esuhornets.com/sports/football/roster",
+    "https://esuhornets.com/sports/womens-soccer/roster",
+    "https://esuhornets.com/sports/mens-basketball/roster",
+    "https://esuhornets.com/sports/womens-basketball/roster",
+    "https://esuhornets.com/sports/mens-track-and-field/roster",
+    "https://esuhornets.com/sports/womens-track-and-field/roster",
+    "https://esuhornets.com/sports/mens-cross-country/roster",
+    "https://esuhornets.com/sports/womens-cross-country/roster",
+    "https://esuhornets.com/sports/baseball/roster",
+    "https://esuhornets.com/sports/softball/roster",
+    "https://esuhornets.com/sports/mens-tennis/roster",
+    "https://esuhornets.com/sports/womens-tennis/roster",
+    "https://esuhornets.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://esuhornets.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://esuhornets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

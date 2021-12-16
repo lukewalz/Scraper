@@ -1,0 +1,157 @@
+{
+  "school": "/schools/hampton",
+  "base": "https://hamptonpirates.com",
+  "goodList": [
+    "https://hamptonpirates.com/sports/football/roster",
+    "https://hamptonpirates.com/sports/womens-soccer/roster",
+    "https://hamptonpirates.com/sports/mens-basketball/roster",
+    "https://hamptonpirates.com/sports/womens-basketball/roster",
+    "https://hamptonpirates.com/sports/mens-track-and-field/roster",
+    "https://hamptonpirates.com/sports/womens-track-and-field/roster",
+    "https://hamptonpirates.com/sports/mens-cross-country/roster",
+    "https://hamptonpirates.com/sports/womens-cross-country/roster",
+    "https://hamptonpirates.com/sports/mens-golf/roster",
+    "https://hamptonpirates.com/sports/womens-golf/roster",
+    "https://hamptonpirates.com/sports/softball/roster",
+    "https://hamptonpirates.com/sports/mens-tennis/roster",
+    "https://hamptonpirates.com/sports/womens-tennis/roster",
+    "https://hamptonpirates.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hamptonpirates.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hamptonpirates.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/mcmurry",
+  "base": "https://mcmurrysports.com/",
+  "goodList": [
+    "https://mcmurrysports.com//sports/football/roster",
+    "https://mcmurrysports.com//sports/mens-soccer/roster",
+    "https://mcmurrysports.com//sports/womens-soccer/roster",
+    "https://mcmurrysports.com//sports/mens-basketball/roster",
+    "https://mcmurrysports.com//sports/womens-basketball/roster",
+    "https://mcmurrysports.com//sports/mens-swimming-and-diving/roster",
+    "https://mcmurrysports.com//sports/womens-swimming-and-diving/roster",
+    "https://mcmurrysports.com//sports/mens-track-and-field/roster",
+    "https://mcmurrysports.com//sports/womens-track-and-field/roster",
+    "https://mcmurrysports.com//sports/mens-cross-country/roster",
+    "https://mcmurrysports.com//sports/womens-cross-country/roster",
+    "https://mcmurrysports.com//sports/mens-golf/roster",
+    "https://mcmurrysports.com//sports/womens-golf/roster",
+    "https://mcmurrysports.com//sports/baseball/roster",
+    "https://mcmurrysports.com//sports/softball/roster",
+    "https://mcmurrysports.com//sports/mens-tennis/roster",
+    "https://mcmurrysports.com//sports/womens-tennis/roster",
+    "https://mcmurrysports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mcmurrysports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mcmurrysports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

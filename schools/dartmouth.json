@@ -1,0 +1,131 @@
+{
+  "school": "/schools/dartmouth",
+  "base": "https://dartmouthsports.com",
+  "goodList": [
+    "https://dartmouthsports.com/sports/football/roster",
+    "https://dartmouthsports.com/sports/mens-soccer/roster",
+    "https://dartmouthsports.com/sports/womens-soccer/roster",
+    "https://dartmouthsports.com/sports/mens-basketball/roster",
+    "https://dartmouthsports.com/sports/womens-basketball/roster",
+    "https://dartmouthsports.com/sports/mens-ice-hockey/roster",
+    "https://dartmouthsports.com/sports/womens-ice-hockey/roster",
+    "https://dartmouthsports.com/sports/skiing/roster",
+    "https://dartmouthsports.com/sports/mens-swimming-and-diving/roster",
+    "https://dartmouthsports.com/sports/womens-swimming-and-diving/roster",
+    "https://dartmouthsports.com/sports/mens-track-and-field/roster",
+    "https://dartmouthsports.com/sports/womens-track-and-field/roster",
+    "https://dartmouthsports.com/sports/mens-cross-country/roster",
+    "https://dartmouthsports.com/sports/womens-cross-country/roster",
+    "https://dartmouthsports.com/sports/equestrian/roster",
+    "https://dartmouthsports.com/sports/mens-golf/roster",
+    "https://dartmouthsports.com/sports/womens-golf/roster",
+    "https://dartmouthsports.com/sports/mens-lacrosse/roster",
+    "https://dartmouthsports.com/sports/womens-lacrosse/roster",
+    "https://dartmouthsports.com/sports/rowing/roster",
+    "https://dartmouthsports.com/sports/baseball/roster",
+    "https://dartmouthsports.com/sports/softball/roster",
+    "https://dartmouthsports.com/sports/mens-tennis/roster",
+    "https://dartmouthsports.com/sports/womens-tennis/roster",
+    "https://dartmouthsports.com/sports/womens-volleyball/roster",
+    "https://dartmouthsports.com/sports/womens-rugby/roster",
+    "https://dartmouthsports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://dartmouthsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dartmouthsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

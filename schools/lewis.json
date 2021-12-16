@@ -1,0 +1,145 @@
+{
+  "school": "/schools/lewis",
+  "base": "https://lewisflyers.com",
+  "goodList": [
+    "https://lewisflyers.com/sports/mens-soccer/roster",
+    "https://lewisflyers.com/sports/womens-soccer/roster",
+    "https://lewisflyers.com/sports/mens-basketball/roster",
+    "https://lewisflyers.com/sports/womens-basketball/roster",
+    "https://lewisflyers.com/sports/mens-swimming-and-diving/roster",
+    "https://lewisflyers.com/sports/womens-swimming-and-diving/roster",
+    "https://lewisflyers.com/sports/mens-track-and-field/roster",
+    "https://lewisflyers.com/sports/womens-track-and-field/roster",
+    "https://lewisflyers.com/sports/mens-cross-country/roster",
+    "https://lewisflyers.com/sports/womens-cross-country/roster",
+    "https://lewisflyers.com/sports/mens-golf/roster",
+    "https://lewisflyers.com/sports/womens-golf/roster",
+    "https://lewisflyers.com/sports/mens-lacrosse/roster",
+    "https://lewisflyers.com/sports/womens-lacrosse/roster",
+    "https://lewisflyers.com/sports/baseball/roster",
+    "https://lewisflyers.com/sports/softball/roster",
+    "https://lewisflyers.com/sports/mens-tennis/roster",
+    "https://lewisflyers.com/sports/womens-tennis/roster",
+    "https://lewisflyers.com/sports/mens-volleyball/roster",
+    "https://lewisflyers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lewisflyers.com/sports/football/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lewisflyers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

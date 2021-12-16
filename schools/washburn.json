@@ -1,0 +1,157 @@
+{
+  "school": "/schools/washburn",
+  "base": "https://wusports.com",
+  "goodList": [
+    "https://wusports.com/sports/football/roster",
+    "https://wusports.com/sports/womens-soccer/roster",
+    "https://wusports.com/sports/mens-basketball/roster",
+    "https://wusports.com/sports/womens-basketball/roster",
+    "https://wusports.com/sports/mens-track-and-field/roster",
+    "https://wusports.com/sports/womens-track-and-field/roster",
+    "https://wusports.com/sports/mens-cross-country/roster",
+    "https://wusports.com/sports/womens-cross-country/roster",
+    "https://wusports.com/sports/mens-golf/roster",
+    "https://wusports.com/sports/baseball/roster",
+    "https://wusports.com/sports/softball/roster",
+    "https://wusports.com/sports/mens-tennis/roster",
+    "https://wusports.com/sports/womens-tennis/roster",
+    "https://wusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

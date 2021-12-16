@@ -1,0 +1,151 @@
+{
+  "school": "/schools/okla-christian",
+  "base": "https://oceagles.com/",
+  "goodList": [
+    "https://oceagles.com//sports/mens-soccer/roster",
+    "https://oceagles.com//sports/womens-soccer/roster",
+    "https://oceagles.com//sports/mens-basketball/roster",
+    "https://oceagles.com//sports/womens-basketball/roster",
+    "https://oceagles.com//sports/mens-swimming-and-diving/roster",
+    "https://oceagles.com//sports/womens-swimming-and-diving/roster",
+    "https://oceagles.com//sports/mens-track-and-field/roster",
+    "https://oceagles.com//sports/womens-track-and-field/roster",
+    "https://oceagles.com//sports/mens-cross-country/roster",
+    "https://oceagles.com//sports/womens-cross-country/roster",
+    "https://oceagles.com//sports/mens-golf/roster",
+    "https://oceagles.com//sports/womens-golf/roster",
+    "https://oceagles.com//sports/baseball/roster",
+    "https://oceagles.com//sports/softball/roster",
+    "https://oceagles.com//sports/mens-tennis/roster",
+    "https://oceagles.com//sports/womens-tennis/roster",
+    "https://oceagles.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://oceagles.com//sports/football/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/golf/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/tri/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://oceagles.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

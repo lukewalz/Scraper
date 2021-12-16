@@ -1,0 +1,184 @@
+{
+  "school": "/schools/la-verne",
+  "base": "https://leopardathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://leopardathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://leopardathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

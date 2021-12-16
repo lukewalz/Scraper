@@ -1,0 +1,153 @@
+{
+  "school": "/schools/washington",
+  "base": "https://gohuskies.com",
+  "goodList": [
+    "https://gohuskies.com/sports/football/roster",
+    "https://gohuskies.com/sports/mens-soccer/roster",
+    "https://gohuskies.com/sports/womens-soccer/roster",
+    "https://gohuskies.com/sports/mens-basketball/roster",
+    "https://gohuskies.com/sports/womens-basketball/roster",
+    "https://gohuskies.com/sports/womens-gymnastics/roster",
+    "https://gohuskies.com/sports/track-and-field/roster",
+    "https://gohuskies.com/sports/cross-country/roster",
+    "https://gohuskies.com/sports/mens-golf/roster",
+    "https://gohuskies.com/sports/womens-golf/roster",
+    "https://gohuskies.com/sports/baseball/roster",
+    "https://gohuskies.com/sports/softball/roster",
+    "https://gohuskies.com/sports/mens-tennis/roster",
+    "https://gohuskies.com/sports/womens-tennis/roster",
+    "https://gohuskies.com/sports/womens-volleyball/roster",
+    "https://gohuskies.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gohuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gohuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

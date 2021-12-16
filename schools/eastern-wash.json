@@ -1,0 +1,163 @@
+{
+  "school": "/schools/eastern-wash",
+  "base": "https://goeags.com",
+  "goodList": [
+    "https://goeags.com/sports/football/roster",
+    "https://goeags.com/sports/womens-soccer/roster",
+    "https://goeags.com/sports/mens-basketball/roster",
+    "https://goeags.com/sports/womens-basketball/roster",
+    "https://goeags.com/sports/mens-track-and-field/roster",
+    "https://goeags.com/sports/womens-track-and-field/roster",
+    "https://goeags.com/sports/cross-country/roster",
+    "https://goeags.com/sports/womens-golf/roster",
+    "https://goeags.com/sports/mens-tennis/roster",
+    "https://goeags.com/sports/womens-tennis/roster",
+    "https://goeags.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goeags.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/softball/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goeags.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

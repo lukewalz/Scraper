@@ -1,0 +1,165 @@
+{
+  "school": "/schools/southeastern-okla",
+  "base": "https://gosoutheastern.com",
+  "goodList": [
+    "https://gosoutheastern.com/sports/football/roster",
+    "https://gosoutheastern.com/sports/mens-basketball/roster",
+    "https://gosoutheastern.com/sports/womens-basketball/roster",
+    "https://gosoutheastern.com/sports/womens-cross-country/roster",
+    "https://gosoutheastern.com/sports/mens-golf/roster",
+    "https://gosoutheastern.com/sports/baseball/roster",
+    "https://gosoutheastern.com/sports/softball/roster",
+    "https://gosoutheastern.com/sports/mens-tennis/roster",
+    "https://gosoutheastern.com/sports/womens-tennis/roster",
+    "https://gosoutheastern.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gosoutheastern.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gosoutheastern.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

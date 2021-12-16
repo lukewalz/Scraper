@@ -1,0 +1,161 @@
+{
+  "school": "/schools/tuskegee",
+  "base": "https://goldentigersports.com",
+  "goodList": [
+    "https://goldentigersports.com/sports/football/roster",
+    "https://goldentigersports.com/sports/mens-basketball/roster",
+    "https://goldentigersports.com/sports/womens-basketball/roster",
+    "https://goldentigersports.com/sports/mens-track-and-field/roster",
+    "https://goldentigersports.com/sports/womens-track-and-field/roster",
+    "https://goldentigersports.com/sports/mens-cross-country/roster",
+    "https://goldentigersports.com/sports/womens-cross-country/roster",
+    "https://goldentigersports.com/sports/baseball/roster",
+    "https://goldentigersports.com/sports/softball/roster",
+    "https://goldentigersports.com/sports/mens-tennis/roster",
+    "https://goldentigersports.com/sports/womens-tennis/roster",
+    "https://goldentigersports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goldentigersports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goldentigersports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

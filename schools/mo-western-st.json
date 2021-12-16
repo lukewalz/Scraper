@@ -1,0 +1,155 @@
+{
+  "school": "/schools/mo-western-st",
+  "base": "https://gogriffons.com",
+  "goodList": [
+    "https://gogriffons.com/sports/football/roster",
+    "https://gogriffons.com/sports/womens-soccer/roster",
+    "https://gogriffons.com/sports/mens-basketball/roster",
+    "https://gogriffons.com/sports/womens-basketball/roster",
+    "https://gogriffons.com/sports/mens-track-and-field/roster",
+    "https://gogriffons.com/sports/womens-track-and-field/roster",
+    "https://gogriffons.com/sports/mens-cross-country/roster",
+    "https://gogriffons.com/sports/womens-cross-country/roster",
+    "https://gogriffons.com/sports/mens-golf/roster",
+    "https://gogriffons.com/sports/womens-golf/roster",
+    "https://gogriffons.com/sports/womens-lacrosse/roster",
+    "https://gogriffons.com/sports/baseball/roster",
+    "https://gogriffons.com/sports/softball/roster",
+    "https://gogriffons.com/sports/womens-tennis/roster",
+    "https://gogriffons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gogriffons.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gogriffons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

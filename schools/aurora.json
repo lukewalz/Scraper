@@ -1,0 +1,141 @@
+{
+  "school": "/schools/aurora",
+  "base": "https://athletics.aurora.edu",
+  "goodList": [
+    "https://athletics.aurora.edu/sports/football/roster",
+    "https://athletics.aurora.edu/sports/mens-soccer/roster",
+    "https://athletics.aurora.edu/sports/womens-soccer/roster",
+    "https://athletics.aurora.edu/sports/mens-basketball/roster",
+    "https://athletics.aurora.edu/sports/womens-basketball/roster",
+    "https://athletics.aurora.edu/sports/bowling/roster",
+    "https://athletics.aurora.edu/sports/mens-ice-hockey/roster",
+    "https://athletics.aurora.edu/sports/womens-ice-hockey/roster",
+    "https://athletics.aurora.edu/sports/mens-track-and-field/roster",
+    "https://athletics.aurora.edu/sports/womens-track-and-field/roster",
+    "https://athletics.aurora.edu/sports/mens-cross-country/roster",
+    "https://athletics.aurora.edu/sports/womens-cross-country/roster",
+    "https://athletics.aurora.edu/sports/mens-golf/roster",
+    "https://athletics.aurora.edu/sports/womens-golf/roster",
+    "https://athletics.aurora.edu/sports/mens-lacrosse/roster",
+    "https://athletics.aurora.edu/sports/womens-lacrosse/roster",
+    "https://athletics.aurora.edu/sports/baseball/roster",
+    "https://athletics.aurora.edu/sports/softball/roster",
+    "https://athletics.aurora.edu/sports/mens-tennis/roster",
+    "https://athletics.aurora.edu/sports/womens-tennis/roster",
+    "https://athletics.aurora.edu/sports/mens-volleyball/roster",
+    "https://athletics.aurora.edu/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.aurora.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.aurora.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

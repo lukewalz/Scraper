@@ -1,0 +1,145 @@
+{
+  "school": "/schools/brockport",
+  "base": "https://gobrockport.com",
+  "goodList": [
+    "https://gobrockport.com/sports/football/roster",
+    "https://gobrockport.com/sports/mens-soccer/roster",
+    "https://gobrockport.com/sports/womens-soccer/roster",
+    "https://gobrockport.com/sports/mens-basketball/roster",
+    "https://gobrockport.com/sports/womens-basketball/roster",
+    "https://gobrockport.com/sports/womens-gymnastics/roster",
+    "https://gobrockport.com/sports/mens-ice-hockey/roster",
+    "https://gobrockport.com/sports/mens-swimming-and-diving/roster",
+    "https://gobrockport.com/sports/womens-swimming-and-diving/roster",
+    "https://gobrockport.com/sports/mens-track-and-field/roster",
+    "https://gobrockport.com/sports/womens-track-and-field/roster",
+    "https://gobrockport.com/sports/mens-cross-country/roster",
+    "https://gobrockport.com/sports/womens-cross-country/roster",
+    "https://gobrockport.com/sports/womens-lacrosse/roster",
+    "https://gobrockport.com/sports/baseball/roster",
+    "https://gobrockport.com/sports/softball/roster",
+    "https://gobrockport.com/sports/womens-tennis/roster",
+    "https://gobrockport.com/sports/womens-volleyball/roster",
+    "https://gobrockport.com/sports/wrestling/roster",
+    "https://gobrockport.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobrockport.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gobrockport.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

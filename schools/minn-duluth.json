@@ -1,0 +1,157 @@
+{
+  "school": "/schools/minn-duluth",
+  "base": "https://umdbulldogs.com",
+  "goodList": [
+    "https://umdbulldogs.com/sports/football/roster",
+    "https://umdbulldogs.com/sports/womens-soccer/roster",
+    "https://umdbulldogs.com/sports/mens-basketball/roster",
+    "https://umdbulldogs.com/sports/womens-basketball/roster",
+    "https://umdbulldogs.com/sports/mens-ice-hockey/roster",
+    "https://umdbulldogs.com/sports/womens-ice-hockey/roster",
+    "https://umdbulldogs.com/sports/mens-track-and-field/roster",
+    "https://umdbulldogs.com/sports/womens-track-and-field/roster",
+    "https://umdbulldogs.com/sports/mens-cross-country/roster",
+    "https://umdbulldogs.com/sports/womens-cross-country/roster",
+    "https://umdbulldogs.com/sports/baseball/roster",
+    "https://umdbulldogs.com/sports/softball/roster",
+    "https://umdbulldogs.com/sports/womens-tennis/roster",
+    "https://umdbulldogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umdbulldogs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umdbulldogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

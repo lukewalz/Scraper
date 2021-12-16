@@ -1,0 +1,184 @@
+{
+  "school": "/schools/occidental",
+  "base": "https://oxyathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://oxyathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://oxyathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

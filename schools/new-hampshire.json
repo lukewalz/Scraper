@@ -1,0 +1,153 @@
+{
+  "school": "/schools/new-hampshire",
+  "base": "https://unhwildcats.com",
+  "goodList": [
+    "https://unhwildcats.com/sports/football/roster",
+    "https://unhwildcats.com/sports/mens-soccer/roster",
+    "https://unhwildcats.com/sports/womens-soccer/roster",
+    "https://unhwildcats.com/sports/mens-basketball/roster",
+    "https://unhwildcats.com/sports/womens-basketball/roster",
+    "https://unhwildcats.com/sports/womens-gymnastics/roster",
+    "https://unhwildcats.com/sports/mens-ice-hockey/roster",
+    "https://unhwildcats.com/sports/womens-ice-hockey/roster",
+    "https://unhwildcats.com/sports/womens-swimming-and-diving/roster",
+    "https://unhwildcats.com/sports/mens-track-and-field/roster",
+    "https://unhwildcats.com/sports/womens-track-and-field/roster",
+    "https://unhwildcats.com/sports/mens-cross-country/roster",
+    "https://unhwildcats.com/sports/womens-cross-country/roster",
+    "https://unhwildcats.com/sports/womens-lacrosse/roster",
+    "https://unhwildcats.com/sports/womens-volleyball/roster",
+    "https://unhwildcats.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unhwildcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/softball/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unhwildcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

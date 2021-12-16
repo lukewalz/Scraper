@@ -1,0 +1,147 @@
+{
+  "school": "/schools/augsburg",
+  "base": "https://athletics.augsburg.edu",
+  "goodList": [
+    "https://athletics.augsburg.edu/sports/football/roster",
+    "https://athletics.augsburg.edu/sports/mens-soccer/roster",
+    "https://athletics.augsburg.edu/sports/womens-soccer/roster",
+    "https://athletics.augsburg.edu/sports/mens-basketball/roster",
+    "https://athletics.augsburg.edu/sports/womens-basketball/roster",
+    "https://athletics.augsburg.edu/sports/mens-ice-hockey/roster",
+    "https://athletics.augsburg.edu/sports/womens-ice-hockey/roster",
+    "https://athletics.augsburg.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.augsburg.edu/sports/mens-track-and-field/roster",
+    "https://athletics.augsburg.edu/sports/womens-track-and-field/roster",
+    "https://athletics.augsburg.edu/sports/mens-cross-country/roster",
+    "https://athletics.augsburg.edu/sports/womens-cross-country/roster",
+    "https://athletics.augsburg.edu/sports/mens-golf/roster",
+    "https://athletics.augsburg.edu/sports/womens-golf/roster",
+    "https://athletics.augsburg.edu/sports/womens-lacrosse/roster",
+    "https://athletics.augsburg.edu/sports/baseball/roster",
+    "https://athletics.augsburg.edu/sports/softball/roster",
+    "https://athletics.augsburg.edu/sports/womens-volleyball/roster",
+    "https://athletics.augsburg.edu/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.augsburg.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augsburg.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

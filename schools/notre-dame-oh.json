@@ -1,0 +1,151 @@
+{
+  "school": "/schools/notre-dame-oh",
+  "base": "https://notredamefalcons.com",
+  "goodList": [
+    "https://notredamefalcons.com/sports/football/roster",
+    "https://notredamefalcons.com/sports/mens-soccer/roster",
+    "https://notredamefalcons.com/sports/womens-soccer/roster",
+    "https://notredamefalcons.com/sports/mens-basketball/roster",
+    "https://notredamefalcons.com/sports/womens-basketball/roster",
+    "https://notredamefalcons.com/sports/mens-swimming-and-diving/roster",
+    "https://notredamefalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://notredamefalcons.com/sports/mens-golf/roster",
+    "https://notredamefalcons.com/sports/womens-golf/roster",
+    "https://notredamefalcons.com/sports/womens-lacrosse/roster",
+    "https://notredamefalcons.com/sports/baseball/roster",
+    "https://notredamefalcons.com/sports/softball/roster",
+    "https://notredamefalcons.com/sports/womens-volleyball/roster",
+    "https://notredamefalcons.com/sports/wrestling/roster",
+    "https://notredamefalcons.com/sports/rugby/roster",
+    "https://notredamefalcons.com/sports/mens-rugby/roster",
+    "https://notredamefalcons.com/sports/womens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://notredamefalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://notredamefalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

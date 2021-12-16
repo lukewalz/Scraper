@@ -1,0 +1,184 @@
+{
+  "school": "/schools/george-washington",
+  "base": "https://gwsports.collegesports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://gwsports.collegesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gwsports.collegesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

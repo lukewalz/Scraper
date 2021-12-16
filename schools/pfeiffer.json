@@ -1,0 +1,147 @@
+{
+  "school": "/schools/pfeiffer",
+  "base": "https://gofalconsports.com",
+  "goodList": [
+    "https://gofalconsports.com/sports/mens-soccer/roster",
+    "https://gofalconsports.com/sports/womens-soccer/roster",
+    "https://gofalconsports.com/sports/mens-basketball/roster",
+    "https://gofalconsports.com/sports/womens-basketball/roster",
+    "https://gofalconsports.com/sports/mens-swimming-and-diving/roster",
+    "https://gofalconsports.com/sports/womens-swimming-and-diving/roster",
+    "https://gofalconsports.com/sports/mens-track-and-field/roster",
+    "https://gofalconsports.com/sports/womens-track-and-field/roster",
+    "https://gofalconsports.com/sports/mens-cross-country/roster",
+    "https://gofalconsports.com/sports/womens-cross-country/roster",
+    "https://gofalconsports.com/sports/mens-golf/roster",
+    "https://gofalconsports.com/sports/womens-golf/roster",
+    "https://gofalconsports.com/sports/mens-lacrosse/roster",
+    "https://gofalconsports.com/sports/womens-lacrosse/roster",
+    "https://gofalconsports.com/sports/baseball/roster",
+    "https://gofalconsports.com/sports/softball/roster",
+    "https://gofalconsports.com/sports/mens-tennis/roster",
+    "https://gofalconsports.com/sports/womens-tennis/roster",
+    "https://gofalconsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gofalconsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gofalconsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

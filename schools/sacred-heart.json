@@ -1,0 +1,131 @@
+{
+  "school": "/schools/sacred-heart",
+  "base": "https://sacredheartpioneers.com",
+  "goodList": [
+    "https://sacredheartpioneers.com/sports/football/roster",
+    "https://sacredheartpioneers.com/sports/mens-soccer/roster",
+    "https://sacredheartpioneers.com/sports/womens-soccer/roster",
+    "https://sacredheartpioneers.com/sports/mens-basketball/roster",
+    "https://sacredheartpioneers.com/sports/womens-basketball/roster",
+    "https://sacredheartpioneers.com/sports/mens-ice-hockey/roster",
+    "https://sacredheartpioneers.com/sports/womens-ice-hockey/roster",
+    "https://sacredheartpioneers.com/sports/womens-swimming-and-diving/roster",
+    "https://sacredheartpioneers.com/sports/mens-track-and-field/roster",
+    "https://sacredheartpioneers.com/sports/womens-track-and-field/roster",
+    "https://sacredheartpioneers.com/sports/mens-cross-country/roster",
+    "https://sacredheartpioneers.com/sports/womens-cross-country/roster",
+    "https://sacredheartpioneers.com/sports/equestrian/roster",
+    "https://sacredheartpioneers.com/sports/mens-golf/roster",
+    "https://sacredheartpioneers.com/sports/womens-golf/roster",
+    "https://sacredheartpioneers.com/sports/mens-lacrosse/roster",
+    "https://sacredheartpioneers.com/sports/womens-lacrosse/roster",
+    "https://sacredheartpioneers.com/sports/baseball/roster",
+    "https://sacredheartpioneers.com/sports/softball/roster",
+    "https://sacredheartpioneers.com/sports/mens-tennis/roster",
+    "https://sacredheartpioneers.com/sports/womens-tennis/roster",
+    "https://sacredheartpioneers.com/sports/mens-volleyball/roster",
+    "https://sacredheartpioneers.com/sports/womens-volleyball/roster",
+    "https://sacredheartpioneers.com/sports/wrestling/roster",
+    "https://sacredheartpioneers.com/sports/wwrest/roster",
+    "https://sacredheartpioneers.com/sports/womens-rugby/roster",
+    "https://sacredheartpioneers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sacredheartpioneers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sacredheartpioneers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

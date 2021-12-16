@@ -1,0 +1,137 @@
+{
+  "school": "/schools/kings-pa",
+  "base": "https://kingscollegeathletics.com",
+  "goodList": [
+    "https://kingscollegeathletics.com/sports/football/roster",
+    "https://kingscollegeathletics.com/sports/mens-soccer/roster",
+    "https://kingscollegeathletics.com/sports/womens-soccer/roster",
+    "https://kingscollegeathletics.com/sports/mens-basketball/roster",
+    "https://kingscollegeathletics.com/sports/womens-basketball/roster",
+    "https://kingscollegeathletics.com/sports/mens-ice-hockey/roster",
+    "https://kingscollegeathletics.com/sports/womens-ice-hockey/roster",
+    "https://kingscollegeathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://kingscollegeathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://kingscollegeathletics.com/sports/mens-track-and-field/roster",
+    "https://kingscollegeathletics.com/sports/womens-track-and-field/roster",
+    "https://kingscollegeathletics.com/sports/mens-cross-country/roster",
+    "https://kingscollegeathletics.com/sports/womens-cross-country/roster",
+    "https://kingscollegeathletics.com/sports/mens-golf/roster",
+    "https://kingscollegeathletics.com/sports/mens-lacrosse/roster",
+    "https://kingscollegeathletics.com/sports/womens-lacrosse/roster",
+    "https://kingscollegeathletics.com/sports/baseball/roster",
+    "https://kingscollegeathletics.com/sports/softball/roster",
+    "https://kingscollegeathletics.com/sports/mens-tennis/roster",
+    "https://kingscollegeathletics.com/sports/womens-tennis/roster",
+    "https://kingscollegeathletics.com/sports/mens-volleyball/roster",
+    "https://kingscollegeathletics.com/sports/womens-volleyball/roster",
+    "https://kingscollegeathletics.com/sports/wrestling/roster",
+    "https://kingscollegeathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://kingscollegeathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kingscollegeathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

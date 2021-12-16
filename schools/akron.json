@@ -1,0 +1,153 @@
+{
+  "school": "/schools/akron",
+  "base": "https://gozips.com",
+  "goodList": [
+    "https://gozips.com/sports/football/roster",
+    "https://gozips.com/sports/mens-soccer/roster",
+    "https://gozips.com/sports/womens-soccer/roster",
+    "https://gozips.com/sports/mens-basketball/roster",
+    "https://gozips.com/sports/womens-basketball/roster",
+    "https://gozips.com/sports/rifle/roster",
+    "https://gozips.com/sports/womens-swimming-and-diving/roster",
+    "https://gozips.com/sports/track-and-field/roster",
+    "https://gozips.com/sports/cross-country/roster",
+    "https://gozips.com/sports/mens-golf/roster",
+    "https://gozips.com/sports/womens-golf/roster",
+    "https://gozips.com/sports/womens-lacrosse/roster",
+    "https://gozips.com/sports/baseball/roster",
+    "https://gozips.com/sports/softball/roster",
+    "https://gozips.com/sports/womens-tennis/roster",
+    "https://gozips.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gozips.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gozips.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

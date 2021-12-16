@@ -1,0 +1,155 @@
+{
+  "school": "/schools/seattle",
+  "base": "https://goseattleu.com",
+  "goodList": [
+    "https://goseattleu.com/sports/mens-soccer/roster",
+    "https://goseattleu.com/sports/womens-soccer/roster",
+    "https://goseattleu.com/sports/mens-basketball/roster",
+    "https://goseattleu.com/sports/womens-basketball/roster",
+    "https://goseattleu.com/sports/mens-swimming-and-diving/roster",
+    "https://goseattleu.com/sports/womens-swimming-and-diving/roster",
+    "https://goseattleu.com/sports/track-and-field/roster",
+    "https://goseattleu.com/sports/cross-country/roster",
+    "https://goseattleu.com/sports/mens-golf/roster",
+    "https://goseattleu.com/sports/womens-golf/roster",
+    "https://goseattleu.com/sports/baseball/roster",
+    "https://goseattleu.com/sports/softball/roster",
+    "https://goseattleu.com/sports/mens-tennis/roster",
+    "https://goseattleu.com/sports/womens-tennis/roster",
+    "https://goseattleu.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goseattleu.com/sports/football/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goseattleu.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

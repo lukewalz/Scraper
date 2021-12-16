@@ -1,0 +1,151 @@
+{
+  "school": "/schools/cal-st-northridge",
+  "base": "https://gomatadors.com",
+  "goodList": [
+    "https://gomatadors.com/sports/mens-soccer/roster",
+    "https://gomatadors.com/sports/womens-soccer/roster",
+    "https://gomatadors.com/sports/mens-basketball/roster",
+    "https://gomatadors.com/sports/womens-basketball/roster",
+    "https://gomatadors.com/sports/mens-track-and-field/roster",
+    "https://gomatadors.com/sports/womens-track-and-field/roster",
+    "https://gomatadors.com/sports/cross-country/roster",
+    "https://gomatadors.com/sports/womens-cross-country/roster",
+    "https://gomatadors.com/sports/mens-golf/roster",
+    "https://gomatadors.com/sports/womens-golf/roster",
+    "https://gomatadors.com/sports/baseball/roster",
+    "https://gomatadors.com/sports/softball/roster",
+    "https://gomatadors.com/sports/womens-tennis/roster",
+    "https://gomatadors.com/sports/mens-volleyball/roster",
+    "https://gomatadors.com/sports/womens-volleyball/roster",
+    "https://gomatadors.com/sports/womens-beach-volleyball/roster",
+    "https://gomatadors.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomatadors.com/sports/football/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomatadors.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

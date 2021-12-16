@@ -1,0 +1,157 @@
+{
+  "school": "/schools/loyola-maryland",
+  "base": "https://loyolagreyhounds.com",
+  "goodList": [
+    "https://loyolagreyhounds.com/sports/mens-soccer/roster",
+    "https://loyolagreyhounds.com/sports/womens-soccer/roster",
+    "https://loyolagreyhounds.com/sports/mens-basketball/roster",
+    "https://loyolagreyhounds.com/sports/womens-basketball/roster",
+    "https://loyolagreyhounds.com/sports/swimming-and-diving/roster",
+    "https://loyolagreyhounds.com/sports/womens-track-and-field/roster",
+    "https://loyolagreyhounds.com/sports/cross-country/roster",
+    "https://loyolagreyhounds.com/sports/mens-golf/roster",
+    "https://loyolagreyhounds.com/sports/mens-lacrosse/roster",
+    "https://loyolagreyhounds.com/sports/womens-lacrosse/roster",
+    "https://loyolagreyhounds.com/sports/rowing/roster",
+    "https://loyolagreyhounds.com/sports/mens-tennis/roster",
+    "https://loyolagreyhounds.com/sports/womens-tennis/roster",
+    "https://loyolagreyhounds.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://loyolagreyhounds.com/sports/football/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/golf/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/softball/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/tri/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://loyolagreyhounds.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

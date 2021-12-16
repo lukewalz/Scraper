@@ -1,0 +1,145 @@
+{
+  "school": "/schools/saint-leo",
+  "base": "https://saintleolions.com",
+  "goodList": [
+    "https://saintleolions.com/sports/mens-soccer/roster",
+    "https://saintleolions.com/sports/womens-soccer/roster",
+    "https://saintleolions.com/sports/mens-basketball/roster",
+    "https://saintleolions.com/sports/womens-basketball/roster",
+    "https://saintleolions.com/sports/mens-swimming-and-diving/roster",
+    "https://saintleolions.com/sports/womens-swimming-and-diving/roster",
+    "https://saintleolions.com/sports/mens-track-and-field/roster",
+    "https://saintleolions.com/sports/womens-track-and-field/roster",
+    "https://saintleolions.com/sports/mens-cross-country/roster",
+    "https://saintleolions.com/sports/womens-cross-country/roster",
+    "https://saintleolions.com/sports/mens-golf/roster",
+    "https://saintleolions.com/sports/womens-golf/roster",
+    "https://saintleolions.com/sports/mens-lacrosse/roster",
+    "https://saintleolions.com/sports/womens-lacrosse/roster",
+    "https://saintleolions.com/sports/baseball/roster",
+    "https://saintleolions.com/sports/softball/roster",
+    "https://saintleolions.com/sports/mens-tennis/roster",
+    "https://saintleolions.com/sports/womens-tennis/roster",
+    "https://saintleolions.com/sports/womens-volleyball/roster",
+    "https://saintleolions.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://saintleolions.com/sports/football/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://saintleolions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

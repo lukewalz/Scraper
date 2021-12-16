@@ -1,0 +1,167 @@
+{
+  "school": "/schools/chadron-st",
+  "base": "https://chadroneagles.com",
+  "goodList": [
+    "https://chadroneagles.com/sports/football/roster",
+    "https://chadroneagles.com/sports/mens-basketball/roster",
+    "https://chadroneagles.com/sports/womens-basketball/roster",
+    "https://chadroneagles.com/sports/track-and-field/roster",
+    "https://chadroneagles.com/sports/cross-country/roster",
+    "https://chadroneagles.com/sports/womens-golf/roster",
+    "https://chadroneagles.com/sports/softball/roster",
+    "https://chadroneagles.com/sports/womens-volleyball/roster",
+    "https://chadroneagles.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://chadroneagles.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://chadroneagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

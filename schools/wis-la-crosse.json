@@ -1,0 +1,143 @@
+{
+  "school": "/schools/wis-la-crosse",
+  "base": "https://uwlathletics.com",
+  "goodList": [
+    "https://uwlathletics.com/sports/football/roster",
+    "https://uwlathletics.com/sports/womens-soccer/roster",
+    "https://uwlathletics.com/sports/mens-basketball/roster",
+    "https://uwlathletics.com/sports/womens-basketball/roster",
+    "https://uwlathletics.com/sports/womens-gymnastics/roster",
+    "https://uwlathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://uwlathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://uwlathletics.com/sports/mens-track-and-field/roster",
+    "https://uwlathletics.com/sports/womens-track-and-field/roster",
+    "https://uwlathletics.com/sports/mens-cross-country/roster",
+    "https://uwlathletics.com/sports/womens-cross-country/roster",
+    "https://uwlathletics.com/sports/golf/roster",
+    "https://uwlathletics.com/sports/womens-golf/roster",
+    "https://uwlathletics.com/sports/lacrosse/roster",
+    "https://uwlathletics.com/sports/womens-lacrosse/roster",
+    "https://uwlathletics.com/sports/baseball/roster",
+    "https://uwlathletics.com/sports/softball/roster",
+    "https://uwlathletics.com/sports/mens-tennis/roster",
+    "https://uwlathletics.com/sports/womens-tennis/roster",
+    "https://uwlathletics.com/sports/womens-volleyball/roster",
+    "https://uwlathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uwlathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uwlathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

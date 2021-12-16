@@ -1,0 +1,155 @@
+{
+  "school": "/schools/maine",
+  "base": "https://goblackbears.com",
+  "goodList": [
+    "https://goblackbears.com/sports/football/roster",
+    "https://goblackbears.com/sports/womens-soccer/roster",
+    "https://goblackbears.com/sports/mens-basketball/roster",
+    "https://goblackbears.com/sports/womens-basketball/roster",
+    "https://goblackbears.com/sports/mens-ice-hockey/roster",
+    "https://goblackbears.com/sports/womens-ice-hockey/roster",
+    "https://goblackbears.com/sports/mens-swimming-and-diving/roster",
+    "https://goblackbears.com/sports/womens-swimming-and-diving/roster",
+    "https://goblackbears.com/sports/mens-track-and-field/roster",
+    "https://goblackbears.com/sports/womens-track-and-field/roster",
+    "https://goblackbears.com/sports/mens-cross-country/roster",
+    "https://goblackbears.com/sports/womens-cross-country/roster",
+    "https://goblackbears.com/sports/baseball/roster",
+    "https://goblackbears.com/sports/softball/roster",
+    "https://goblackbears.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goblackbears.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goblackbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

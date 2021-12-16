@@ -1,0 +1,151 @@
+{
+  "school": "/schools/south-carolina",
+  "base": "https://gamecocksonline.com",
+  "goodList": [
+    "https://gamecocksonline.com/sports/football/roster",
+    "https://gamecocksonline.com/sports/mens-soccer/roster",
+    "https://gamecocksonline.com/sports/womens-soccer/roster",
+    "https://gamecocksonline.com/sports/mens-basketball/roster",
+    "https://gamecocksonline.com/sports/womens-basketball/roster",
+    "https://gamecocksonline.com/sports/swimming-and-diving/roster",
+    "https://gamecocksonline.com/sports/track-and-field/roster",
+    "https://gamecocksonline.com/sports/womens-cross-country/roster",
+    "https://gamecocksonline.com/sports/equestrian/roster",
+    "https://gamecocksonline.com/sports/mens-golf/roster",
+    "https://gamecocksonline.com/sports/womens-golf/roster",
+    "https://gamecocksonline.com/sports/baseball/roster",
+    "https://gamecocksonline.com/sports/softball/roster",
+    "https://gamecocksonline.com/sports/mens-tennis/roster",
+    "https://gamecocksonline.com/sports/womens-tennis/roster",
+    "https://gamecocksonline.com/sports/womens-volleyball/roster",
+    "https://gamecocksonline.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gamecocksonline.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gamecocksonline.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

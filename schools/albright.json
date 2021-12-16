@@ -1,0 +1,143 @@
+{
+  "school": "/schools/albright",
+  "base": "https://albrightathletics.com",
+  "goodList": [
+    "https://albrightathletics.com/sports/football/roster",
+    "https://albrightathletics.com/sports/mens-soccer/roster",
+    "https://albrightathletics.com/sports/womens-soccer/roster",
+    "https://albrightathletics.com/sports/mens-basketball/roster",
+    "https://albrightathletics.com/sports/womens-basketball/roster",
+    "https://albrightathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://albrightathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://albrightathletics.com/sports/mens-track-and-field/roster",
+    "https://albrightathletics.com/sports/womens-track-and-field/roster",
+    "https://albrightathletics.com/sports/mens-cross-country/roster",
+    "https://albrightathletics.com/sports/womens-cross-country/roster",
+    "https://albrightathletics.com/sports/mens-golf/roster",
+    "https://albrightathletics.com/sports/womens-golf/roster",
+    "https://albrightathletics.com/sports/mens-lacrosse/roster",
+    "https://albrightathletics.com/sports/womens-lacrosse/roster",
+    "https://albrightathletics.com/sports/baseball/roster",
+    "https://albrightathletics.com/sports/softball/roster",
+    "https://albrightathletics.com/sports/mens-tennis/roster",
+    "https://albrightathletics.com/sports/womens-tennis/roster",
+    "https://albrightathletics.com/sports/womens-volleyball/roster",
+    "https://albrightathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://albrightathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://albrightathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

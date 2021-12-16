@@ -1,0 +1,151 @@
+{
+  "school": "/schools/martin-luther",
+  "base": "https://mlcknights.com",
+  "goodList": [
+    "https://mlcknights.com/sports/football/roster",
+    "https://mlcknights.com/sports/mens-soccer/roster",
+    "https://mlcknights.com/sports/womens-soccer/roster",
+    "https://mlcknights.com/sports/mens-basketball/roster",
+    "https://mlcknights.com/sports/womens-basketball/roster",
+    "https://mlcknights.com/sports/mens-track-and-field/roster",
+    "https://mlcknights.com/sports/womens-track-and-field/roster",
+    "https://mlcknights.com/sports/mens-cross-country/roster",
+    "https://mlcknights.com/sports/womens-cross-country/roster",
+    "https://mlcknights.com/sports/golf/roster",
+    "https://mlcknights.com/sports/mens-golf/roster",
+    "https://mlcknights.com/sports/womens-golf/roster",
+    "https://mlcknights.com/sports/baseball/roster",
+    "https://mlcknights.com/sports/softball/roster",
+    "https://mlcknights.com/sports/mens-tennis/roster",
+    "https://mlcknights.com/sports/womens-tennis/roster",
+    "https://mlcknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mlcknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mlcknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

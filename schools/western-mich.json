@@ -1,0 +1,155 @@
+{
+  "school": "/schools/western-mich",
+  "base": "https://wmubroncos.com",
+  "goodList": [
+    "https://wmubroncos.com/sports/football/roster",
+    "https://wmubroncos.com/sports/mens-soccer/roster",
+    "https://wmubroncos.com/sports/womens-soccer/roster",
+    "https://wmubroncos.com/sports/mens-basketball/roster",
+    "https://wmubroncos.com/sports/womens-basketball/roster",
+    "https://wmubroncos.com/sports/womens-gymnastics/roster",
+    "https://wmubroncos.com/sports/mens-ice-hockey/roster",
+    "https://wmubroncos.com/sports/womens-track-and-field/roster",
+    "https://wmubroncos.com/sports/womens-cross-country/roster",
+    "https://wmubroncos.com/sports/womens-golf/roster",
+    "https://wmubroncos.com/sports/baseball/roster",
+    "https://wmubroncos.com/sports/softball/roster",
+    "https://wmubroncos.com/sports/mens-tennis/roster",
+    "https://wmubroncos.com/sports/womens-tennis/roster",
+    "https://wmubroncos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wmubroncos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wmubroncos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

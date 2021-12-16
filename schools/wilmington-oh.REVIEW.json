@@ -1,0 +1,184 @@
+{
+  "school": "/schools/wilmington-oh",
+  "base": "https://wilmingtonquakers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wilmingtonquakers.com/sports/football/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wilmingtonquakers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

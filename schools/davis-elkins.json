@@ -1,0 +1,143 @@
+{
+  "school": "/schools/davis-elkins",
+  "base": "https://senatornation.com",
+  "goodList": [
+    "https://senatornation.com/sports/mens-soccer/roster",
+    "https://senatornation.com/sports/womens-soccer/roster",
+    "https://senatornation.com/sports/mens-basketball/roster",
+    "https://senatornation.com/sports/womens-basketball/roster",
+    "https://senatornation.com/sports/mens-swimming-and-diving/roster",
+    "https://senatornation.com/sports/womens-swimming-and-diving/roster",
+    "https://senatornation.com/sports/mens-track-and-field/roster",
+    "https://senatornation.com/sports/womens-track-and-field/roster",
+    "https://senatornation.com/sports/mens-cross-country/roster",
+    "https://senatornation.com/sports/womens-cross-country/roster",
+    "https://senatornation.com/sports/mens-golf/roster",
+    "https://senatornation.com/sports/womens-golf/roster",
+    "https://senatornation.com/sports/mens-lacrosse/roster",
+    "https://senatornation.com/sports/womens-lacrosse/roster",
+    "https://senatornation.com/sports/baseball/roster",
+    "https://senatornation.com/sports/softball/roster",
+    "https://senatornation.com/sports/mens-tennis/roster",
+    "https://senatornation.com/sports/womens-tennis/roster",
+    "https://senatornation.com/sports/womens-volleyball/roster",
+    "https://senatornation.com/sports/wrestling/roster",
+    "https://senatornation.com/sports/tri/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://senatornation.com/sports/football/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/golf/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://senatornation.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

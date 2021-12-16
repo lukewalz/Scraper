@@ -1,0 +1,184 @@
+{
+  "school": "/schools/concordia-ny",
+  "base": "https://concordiaclippers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://concordiaclippers.com/sports/football/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://concordiaclippers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

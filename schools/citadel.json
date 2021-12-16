@@ -1,0 +1,159 @@
+{
+  "school": "/schools/citadel",
+  "base": "https://citadelsports.com",
+  "goodList": [
+    "https://citadelsports.com/sports/football/roster",
+    "https://citadelsports.com/sports/womens-soccer/roster",
+    "https://citadelsports.com/sports/mens-basketball/roster",
+    "https://citadelsports.com/sports/rifle/roster",
+    "https://citadelsports.com/sports/mens-track-and-field/roster",
+    "https://citadelsports.com/sports/womens-track-and-field/roster",
+    "https://citadelsports.com/sports/mens-cross-country/roster",
+    "https://citadelsports.com/sports/womens-cross-country/roster",
+    "https://citadelsports.com/sports/womens-golf/roster",
+    "https://citadelsports.com/sports/baseball/roster",
+    "https://citadelsports.com/sports/mens-tennis/roster",
+    "https://citadelsports.com/sports/womens-volleyball/roster",
+    "https://citadelsports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://citadelsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://citadelsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

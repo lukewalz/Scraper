@@ -1,0 +1,184 @@
+{
+  "school": "/schools/miami-oh",
+  "base": "https://muredhawks.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://muredhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/softball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://muredhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/cal-st-east-bay",
+  "base": "https://eastbaypioneers.com",
+  "goodList": [
+    "https://eastbaypioneers.com/sports/mens-soccer/roster",
+    "https://eastbaypioneers.com/sports/womens-soccer/roster",
+    "https://eastbaypioneers.com/sports/mens-basketball/roster",
+    "https://eastbaypioneers.com/sports/womens-basketball/roster",
+    "https://eastbaypioneers.com/sports/womens-swimming-and-diving/roster",
+    "https://eastbaypioneers.com/sports/mens-track-and-field/roster",
+    "https://eastbaypioneers.com/sports/womens-track-and-field/roster",
+    "https://eastbaypioneers.com/sports/mens-cross-country/roster",
+    "https://eastbaypioneers.com/sports/womens-cross-country/roster",
+    "https://eastbaypioneers.com/sports/mens-golf/roster",
+    "https://eastbaypioneers.com/sports/womens-golf/roster",
+    "https://eastbaypioneers.com/sports/baseball/roster",
+    "https://eastbaypioneers.com/sports/softball/roster",
+    "https://eastbaypioneers.com/sports/womens-volleyball/roster",
+    "https://eastbaypioneers.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://eastbaypioneers.com/sports/football/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://eastbaypioneers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

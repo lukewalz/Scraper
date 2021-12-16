@@ -1,0 +1,145 @@
+{
+  "school": "/schools/muhlenberg",
+  "base": "https://muhlenbergsports.com",
+  "goodList": [
+    "https://muhlenbergsports.com/sports/football/roster",
+    "https://muhlenbergsports.com/sports/mens-soccer/roster",
+    "https://muhlenbergsports.com/sports/womens-soccer/roster",
+    "https://muhlenbergsports.com/sports/mens-basketball/roster",
+    "https://muhlenbergsports.com/sports/womens-basketball/roster",
+    "https://muhlenbergsports.com/sports/mens-track-and-field/roster",
+    "https://muhlenbergsports.com/sports/womens-track-and-field/roster",
+    "https://muhlenbergsports.com/sports/mens-cross-country/roster",
+    "https://muhlenbergsports.com/sports/womens-cross-country/roster",
+    "https://muhlenbergsports.com/sports/mens-golf/roster",
+    "https://muhlenbergsports.com/sports/womens-golf/roster",
+    "https://muhlenbergsports.com/sports/mens-lacrosse/roster",
+    "https://muhlenbergsports.com/sports/womens-lacrosse/roster",
+    "https://muhlenbergsports.com/sports/baseball/roster",
+    "https://muhlenbergsports.com/sports/softball/roster",
+    "https://muhlenbergsports.com/sports/mens-tennis/roster",
+    "https://muhlenbergsports.com/sports/womens-tennis/roster",
+    "https://muhlenbergsports.com/sports/womens-volleyball/roster",
+    "https://muhlenbergsports.com/sports/wrestling/roster",
+    "https://muhlenbergsports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://muhlenbergsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://muhlenbergsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

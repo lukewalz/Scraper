@@ -1,0 +1,141 @@
+{
+  "school": "/schools/union-ny",
+  "base": "https://unionathletics.com",
+  "goodList": [
+    "https://unionathletics.com/sports/football/roster",
+    "https://unionathletics.com/sports/mens-soccer/roster",
+    "https://unionathletics.com/sports/womens-soccer/roster",
+    "https://unionathletics.com/sports/mens-basketball/roster",
+    "https://unionathletics.com/sports/womens-basketball/roster",
+    "https://unionathletics.com/sports/mens-ice-hockey/roster",
+    "https://unionathletics.com/sports/womens-ice-hockey/roster",
+    "https://unionathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://unionathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://unionathletics.com/sports/mens-track-and-field/roster",
+    "https://unionathletics.com/sports/womens-track-and-field/roster",
+    "https://unionathletics.com/sports/mens-cross-country/roster",
+    "https://unionathletics.com/sports/womens-cross-country/roster",
+    "https://unionathletics.com/sports/womens-golf/roster",
+    "https://unionathletics.com/sports/mens-lacrosse/roster",
+    "https://unionathletics.com/sports/womens-lacrosse/roster",
+    "https://unionathletics.com/sports/baseball/roster",
+    "https://unionathletics.com/sports/softball/roster",
+    "https://unionathletics.com/sports/mens-tennis/roster",
+    "https://unionathletics.com/sports/womens-tennis/roster",
+    "https://unionathletics.com/sports/womens-volleyball/roster",
+    "https://unionathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unionathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unionathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

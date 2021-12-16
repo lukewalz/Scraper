@@ -1,0 +1,184 @@
+{
+  "school": "/schools/redlands",
+  "base": "https://goredlands.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://goredlands.com/sports/football/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/softball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goredlands.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

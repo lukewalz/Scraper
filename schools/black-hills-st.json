@@ -1,0 +1,163 @@
+{
+  "school": "/schools/black-hills-st",
+  "base": "https://bhsuathletics.com/",
+  "goodList": [
+    "https://bhsuathletics.com//sports/football/roster",
+    "https://bhsuathletics.com//sports/womens-soccer/roster",
+    "https://bhsuathletics.com//sports/mens-basketball/roster",
+    "https://bhsuathletics.com//sports/womens-basketball/roster",
+    "https://bhsuathletics.com//sports/mens-track-and-field/roster",
+    "https://bhsuathletics.com//sports/womens-track-and-field/roster",
+    "https://bhsuathletics.com//sports/mens-cross-country/roster",
+    "https://bhsuathletics.com//sports/womens-cross-country/roster",
+    "https://bhsuathletics.com//sports/womens-golf/roster",
+    "https://bhsuathletics.com//sports/softball/roster",
+    "https://bhsuathletics.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bhsuathletics.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/golf/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/tri/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bhsuathletics.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

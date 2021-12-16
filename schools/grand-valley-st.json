@@ -1,0 +1,143 @@
+{
+  "school": "/schools/grand-valley-st",
+  "base": "https://gvsulakers.com",
+  "goodList": [
+    "https://gvsulakers.com/sports/football/roster",
+    "https://gvsulakers.com/sports/womens-soccer/roster",
+    "https://gvsulakers.com/sports/mens-basketball/roster",
+    "https://gvsulakers.com/sports/womens-basketball/roster",
+    "https://gvsulakers.com/sports/swimming-and-diving/roster",
+    "https://gvsulakers.com/sports/mens-swimming-and-diving/roster",
+    "https://gvsulakers.com/sports/womens-swimming-and-diving/roster",
+    "https://gvsulakers.com/sports/track-and-field/roster",
+    "https://gvsulakers.com/sports/mens-track-and-field/roster",
+    "https://gvsulakers.com/sports/womens-track-and-field/roster",
+    "https://gvsulakers.com/sports/cross-country/roster",
+    "https://gvsulakers.com/sports/mens-cross-country/roster",
+    "https://gvsulakers.com/sports/womens-cross-country/roster",
+    "https://gvsulakers.com/sports/mens-golf/roster",
+    "https://gvsulakers.com/sports/womens-golf/roster",
+    "https://gvsulakers.com/sports/womens-lacrosse/roster",
+    "https://gvsulakers.com/sports/baseball/roster",
+    "https://gvsulakers.com/sports/softball/roster",
+    "https://gvsulakers.com/sports/mens-tennis/roster",
+    "https://gvsulakers.com/sports/womens-tennis/roster",
+    "https://gvsulakers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gvsulakers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gvsulakers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

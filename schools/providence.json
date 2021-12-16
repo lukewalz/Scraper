@@ -1,0 +1,153 @@
+{
+  "school": "/schools/providence",
+  "base": "https://friars.com",
+  "goodList": [
+    "https://friars.com/sports/mens-soccer/roster",
+    "https://friars.com/sports/womens-soccer/roster",
+    "https://friars.com/sports/mens-basketball/roster",
+    "https://friars.com/sports/womens-basketball/roster",
+    "https://friars.com/sports/mens-ice-hockey/roster",
+    "https://friars.com/sports/womens-ice-hockey/roster",
+    "https://friars.com/sports/swimming-and-diving/roster",
+    "https://friars.com/sports/mens-track-and-field/roster",
+    "https://friars.com/sports/womens-track-and-field/roster",
+    "https://friars.com/sports/mens-cross-country/roster",
+    "https://friars.com/sports/womens-cross-country/roster",
+    "https://friars.com/sports/mens-lacrosse/roster",
+    "https://friars.com/sports/softball/roster",
+    "https://friars.com/sports/womens-tennis/roster",
+    "https://friars.com/sports/womens-volleyball/roster",
+    "https://friars.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://friars.com/sports/football/roster"
+    },
+    {
+      "url": "https://friars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://friars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://friars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://friars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://friars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://friars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://friars.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://friars.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://friars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://friars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://friars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://friars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://friars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://friars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://friars.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://friars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://friars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://friars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://friars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://friars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://friars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://friars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://friars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://friars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

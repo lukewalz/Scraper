@@ -1,0 +1,151 @@
+{
+  "school": "/schools/west-liberty",
+  "base": "https://hilltoppersports.com",
+  "goodList": [
+    "https://hilltoppersports.com/sports/football/roster",
+    "https://hilltoppersports.com/sports/mens-soccer/roster",
+    "https://hilltoppersports.com/sports/womens-soccer/roster",
+    "https://hilltoppersports.com/sports/mens-basketball/roster",
+    "https://hilltoppersports.com/sports/womens-basketball/roster",
+    "https://hilltoppersports.com/sports/mens-track-and-field/roster",
+    "https://hilltoppersports.com/sports/womens-track-and-field/roster",
+    "https://hilltoppersports.com/sports/mens-cross-country/roster",
+    "https://hilltoppersports.com/sports/womens-cross-country/roster",
+    "https://hilltoppersports.com/sports/mens-golf/roster",
+    "https://hilltoppersports.com/sports/womens-golf/roster",
+    "https://hilltoppersports.com/sports/baseball/roster",
+    "https://hilltoppersports.com/sports/softball/roster",
+    "https://hilltoppersports.com/sports/mens-tennis/roster",
+    "https://hilltoppersports.com/sports/womens-tennis/roster",
+    "https://hilltoppersports.com/sports/womens-volleyball/roster",
+    "https://hilltoppersports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hilltoppersports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hilltoppersports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

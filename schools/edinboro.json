@@ -1,0 +1,153 @@
+{
+  "school": "/schools/edinboro",
+  "base": "https://gofightingscots.com",
+  "goodList": [
+    "https://gofightingscots.com/sports/football/roster",
+    "https://gofightingscots.com/sports/womens-soccer/roster",
+    "https://gofightingscots.com/sports/mens-basketball/roster",
+    "https://gofightingscots.com/sports/womens-basketball/roster",
+    "https://gofightingscots.com/sports/mens-swimming-and-diving/roster",
+    "https://gofightingscots.com/sports/womens-swimming-and-diving/roster",
+    "https://gofightingscots.com/sports/mens-track-and-field/roster",
+    "https://gofightingscots.com/sports/womens-track-and-field/roster",
+    "https://gofightingscots.com/sports/mens-cross-country/roster",
+    "https://gofightingscots.com/sports/womens-cross-country/roster",
+    "https://gofightingscots.com/sports/womens-lacrosse/roster",
+    "https://gofightingscots.com/sports/softball/roster",
+    "https://gofightingscots.com/sports/mens-tennis/roster",
+    "https://gofightingscots.com/sports/womens-tennis/roster",
+    "https://gofightingscots.com/sports/womens-volleyball/roster",
+    "https://gofightingscots.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gofightingscots.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gofightingscots.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

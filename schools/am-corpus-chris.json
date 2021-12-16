@@ -1,0 +1,159 @@
+{
+  "school": "/schools/am-corpus-chris",
+  "base": "https://goislanders.com",
+  "goodList": [
+    "https://goislanders.com/sports/womens-soccer/roster",
+    "https://goislanders.com/sports/mens-basketball/roster",
+    "https://goislanders.com/sports/womens-basketball/roster",
+    "https://goislanders.com/sports/track-and-field/roster",
+    "https://goislanders.com/sports/mens-track-and-field/roster",
+    "https://goislanders.com/sports/cross-country/roster",
+    "https://goislanders.com/sports/womens-golf/roster",
+    "https://goislanders.com/sports/baseball/roster",
+    "https://goislanders.com/sports/softball/roster",
+    "https://goislanders.com/sports/mens-tennis/roster",
+    "https://goislanders.com/sports/womens-tennis/roster",
+    "https://goislanders.com/sports/womens-volleyball/roster",
+    "https://goislanders.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goislanders.com/sports/football/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goislanders.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

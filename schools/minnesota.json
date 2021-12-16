@@ -1,0 +1,141 @@
+{
+  "school": "/schools/minnesota",
+  "base": "https://gophersports.com",
+  "goodList": [
+    "https://gophersports.com/sports/football/roster",
+    "https://gophersports.com/sports/womens-soccer/roster",
+    "https://gophersports.com/sports/mens-basketball/roster",
+    "https://gophersports.com/sports/womens-basketball/roster",
+    "https://gophersports.com/sports/mens-gymnastics/roster",
+    "https://gophersports.com/sports/womens-gymnastics/roster",
+    "https://gophersports.com/sports/mens-ice-hockey/roster",
+    "https://gophersports.com/sports/womens-ice-hockey/roster",
+    "https://gophersports.com/sports/mens-swimming-and-diving/roster",
+    "https://gophersports.com/sports/womens-swimming-and-diving/roster",
+    "https://gophersports.com/sports/mens-track-and-field/roster",
+    "https://gophersports.com/sports/womens-track-and-field/roster",
+    "https://gophersports.com/sports/mens-cross-country/roster",
+    "https://gophersports.com/sports/womens-cross-country/roster",
+    "https://gophersports.com/sports/mens-golf/roster",
+    "https://gophersports.com/sports/womens-golf/roster",
+    "https://gophersports.com/sports/baseball/roster",
+    "https://gophersports.com/sports/softball/roster",
+    "https://gophersports.com/sports/mens-tennis/roster",
+    "https://gophersports.com/sports/womens-tennis/roster",
+    "https://gophersports.com/sports/womens-volleyball/roster",
+    "https://gophersports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gophersports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gophersports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

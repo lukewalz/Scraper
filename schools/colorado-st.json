@@ -1,0 +1,161 @@
+{
+  "school": "/schools/colorado-st",
+  "base": "https://csurams.com",
+  "goodList": [
+    "https://csurams.com/sports/football/roster",
+    "https://csurams.com/sports/womens-soccer/roster",
+    "https://csurams.com/sports/mens-basketball/roster",
+    "https://csurams.com/sports/womens-basketball/roster",
+    "https://csurams.com/sports/womens-swimming-and-diving/roster",
+    "https://csurams.com/sports/track-and-field/roster",
+    "https://csurams.com/sports/cross-country/roster",
+    "https://csurams.com/sports/mens-golf/roster",
+    "https://csurams.com/sports/womens-golf/roster",
+    "https://csurams.com/sports/softball/roster",
+    "https://csurams.com/sports/womens-tennis/roster",
+    "https://csurams.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://csurams.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/golf/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/tri/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://csurams.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

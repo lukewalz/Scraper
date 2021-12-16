@@ -1,0 +1,151 @@
+{
+  "school": "/schools/buena-vista",
+  "base": "https://bvuathletics.com",
+  "goodList": [
+    "https://bvuathletics.com/sports/football/roster",
+    "https://bvuathletics.com/sports/mens-soccer/roster",
+    "https://bvuathletics.com/sports/womens-soccer/roster",
+    "https://bvuathletics.com/sports/mens-basketball/roster",
+    "https://bvuathletics.com/sports/womens-basketball/roster",
+    "https://bvuathletics.com/sports/mens-track-and-field/roster",
+    "https://bvuathletics.com/sports/womens-track-and-field/roster",
+    "https://bvuathletics.com/sports/mens-cross-country/roster",
+    "https://bvuathletics.com/sports/womens-cross-country/roster",
+    "https://bvuathletics.com/sports/mens-golf/roster",
+    "https://bvuathletics.com/sports/womens-golf/roster",
+    "https://bvuathletics.com/sports/baseball/roster",
+    "https://bvuathletics.com/sports/softball/roster",
+    "https://bvuathletics.com/sports/mens-tennis/roster",
+    "https://bvuathletics.com/sports/womens-tennis/roster",
+    "https://bvuathletics.com/sports/womens-volleyball/roster",
+    "https://bvuathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bvuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bvuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

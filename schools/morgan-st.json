@@ -1,0 +1,167 @@
+{
+  "school": "/schools/morgan-st",
+  "base": "https://morganstatebears.com/",
+  "goodList": [
+    "https://morganstatebears.com//sports/football/roster",
+    "https://morganstatebears.com//sports/mens-basketball/roster",
+    "https://morganstatebears.com//sports/womens-basketball/roster",
+    "https://morganstatebears.com//sports/mens-cross-country/roster",
+    "https://morganstatebears.com//sports/womens-cross-country/roster",
+    "https://morganstatebears.com//sports/softball/roster",
+    "https://morganstatebears.com//sports/mens-tennis/roster",
+    "https://morganstatebears.com//sports/womens-tennis/roster",
+    "https://morganstatebears.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://morganstatebears.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/golf/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/tri/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://morganstatebears.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

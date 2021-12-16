@@ -1,0 +1,184 @@
+{
+  "school": "/schools/utep",
+  "base": "https://utepathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://utepathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utepathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/penn-st-altoona",
+  "base": "https://altoona.psu.edu/sports",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://altoona.psu.edu/sports/sports/football/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/bowling/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/fencing/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/rifle/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/skiing/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/cross-country/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/xctrack/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/equestrian/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/golf/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/rowing/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/baseball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/softball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/tennis/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/wbvb/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/water-polo/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/wrestling/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mwrest/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/wwrest/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/rugby/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/tri/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://altoona.psu.edu/sports/sports/mens-field-hockey/roster"
+    }
+  ]
+}

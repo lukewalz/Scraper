@@ -1,0 +1,153 @@
+{
+  "school": "/schools/medaille",
+  "base": "https://medaillesports.com",
+  "goodList": [
+    "https://medaillesports.com/sports/mens-soccer/roster",
+    "https://medaillesports.com/sports/womens-soccer/roster",
+    "https://medaillesports.com/sports/mens-basketball/roster",
+    "https://medaillesports.com/sports/womens-basketball/roster",
+    "https://medaillesports.com/sports/cross-country/roster",
+    "https://medaillesports.com/sports/mens-cross-country/roster",
+    "https://medaillesports.com/sports/womens-cross-country/roster",
+    "https://medaillesports.com/sports/mens-golf/roster",
+    "https://medaillesports.com/sports/mens-lacrosse/roster",
+    "https://medaillesports.com/sports/womens-lacrosse/roster",
+    "https://medaillesports.com/sports/baseball/roster",
+    "https://medaillesports.com/sports/softball/roster",
+    "https://medaillesports.com/sports/mens-tennis/roster",
+    "https://medaillesports.com/sports/womens-tennis/roster",
+    "https://medaillesports.com/sports/mens-volleyball/roster",
+    "https://medaillesports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://medaillesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://medaillesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

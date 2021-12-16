@@ -1,0 +1,157 @@
+{
+  "school": "/schools/fiu",
+  "base": "https://fiusports.com",
+  "goodList": [
+    "https://fiusports.com/sports/football/roster",
+    "https://fiusports.com/sports/mens-soccer/roster",
+    "https://fiusports.com/sports/womens-soccer/roster",
+    "https://fiusports.com/sports/mens-basketball/roster",
+    "https://fiusports.com/sports/womens-basketball/roster",
+    "https://fiusports.com/sports/womens-swimming-and-diving/roster",
+    "https://fiusports.com/sports/womens-track-and-field/roster",
+    "https://fiusports.com/sports/mens-cross-country/roster",
+    "https://fiusports.com/sports/womens-golf/roster",
+    "https://fiusports.com/sports/baseball/roster",
+    "https://fiusports.com/sports/softball/roster",
+    "https://fiusports.com/sports/womens-tennis/roster",
+    "https://fiusports.com/sports/womens-volleyball/roster",
+    "https://fiusports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fiusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fiusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

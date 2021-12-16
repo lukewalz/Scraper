@@ -1,0 +1,153 @@
+{
+  "school": "/schools/james-madison",
+  "base": "https://jmusports.com",
+  "goodList": [
+    "https://jmusports.com/sports/football/roster",
+    "https://jmusports.com/sports/mens-soccer/roster",
+    "https://jmusports.com/sports/womens-soccer/roster",
+    "https://jmusports.com/sports/mens-basketball/roster",
+    "https://jmusports.com/sports/womens-basketball/roster",
+    "https://jmusports.com/sports/womens-swimming-and-diving/roster",
+    "https://jmusports.com/sports/track-and-field/roster",
+    "https://jmusports.com/sports/womens-cross-country/roster",
+    "https://jmusports.com/sports/mens-golf/roster",
+    "https://jmusports.com/sports/womens-golf/roster",
+    "https://jmusports.com/sports/womens-lacrosse/roster",
+    "https://jmusports.com/sports/baseball/roster",
+    "https://jmusports.com/sports/softball/roster",
+    "https://jmusports.com/sports/mens-tennis/roster",
+    "https://jmusports.com/sports/womens-volleyball/roster",
+    "https://jmusports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://jmusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://jmusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

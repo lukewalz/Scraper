@@ -1,0 +1,165 @@
+{
+  "school": "/schools/st-catherine",
+  "base": "https://stkatesathletics.com",
+  "goodList": [
+    "https://stkatesathletics.com/sports/womens-soccer/roster",
+    "https://stkatesathletics.com/sports/womens-basketball/roster",
+    "https://stkatesathletics.com/sports/womens-ice-hockey/roster",
+    "https://stkatesathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://stkatesathletics.com/sports/womens-track-and-field/roster",
+    "https://stkatesathletics.com/sports/womens-cross-country/roster",
+    "https://stkatesathletics.com/sports/womens-golf/roster",
+    "https://stkatesathletics.com/sports/softball/roster",
+    "https://stkatesathletics.com/sports/womens-tennis/roster",
+    "https://stkatesathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://stkatesathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://stkatesathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

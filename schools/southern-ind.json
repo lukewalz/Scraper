@@ -1,0 +1,155 @@
+{
+  "school": "/schools/southern-ind",
+  "base": "https://gousieagles.com/",
+  "goodList": [
+    "https://gousieagles.com//sports/mens-soccer/roster",
+    "https://gousieagles.com//sports/womens-soccer/roster",
+    "https://gousieagles.com//sports/mens-basketball/roster",
+    "https://gousieagles.com//sports/womens-basketball/roster",
+    "https://gousieagles.com//sports/mens-track-and-field/roster",
+    "https://gousieagles.com//sports/womens-track-and-field/roster",
+    "https://gousieagles.com//sports/mens-cross-country/roster",
+    "https://gousieagles.com//sports/womens-cross-country/roster",
+    "https://gousieagles.com//sports/mens-golf/roster",
+    "https://gousieagles.com//sports/womens-golf/roster",
+    "https://gousieagles.com//sports/baseball/roster",
+    "https://gousieagles.com//sports/softball/roster",
+    "https://gousieagles.com//sports/mens-tennis/roster",
+    "https://gousieagles.com//sports/womens-tennis/roster",
+    "https://gousieagles.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gousieagles.com//sports/football/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/golf/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/tri/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gousieagles.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

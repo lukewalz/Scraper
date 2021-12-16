@@ -1,0 +1,153 @@
+{
+  "school": "/schools/point-loma",
+  "base": "https://plnusealions.com",
+  "goodList": [
+    "https://plnusealions.com/sports/mens-soccer/roster",
+    "https://plnusealions.com/sports/womens-soccer/roster",
+    "https://plnusealions.com/sports/mens-basketball/roster",
+    "https://plnusealions.com/sports/womens-basketball/roster",
+    "https://plnusealions.com/sports/track-and-field/roster",
+    "https://plnusealions.com/sports/mens-track-and-field/roster",
+    "https://plnusealions.com/sports/cross-country/roster",
+    "https://plnusealions.com/sports/mens-cross-country/roster",
+    "https://plnusealions.com/sports/womens-cross-country/roster",
+    "https://plnusealions.com/sports/mens-golf/roster",
+    "https://plnusealions.com/sports/womens-golf/roster",
+    "https://plnusealions.com/sports/baseball/roster",
+    "https://plnusealions.com/sports/softball/roster",
+    "https://plnusealions.com/sports/mens-tennis/roster",
+    "https://plnusealions.com/sports/womens-tennis/roster",
+    "https://plnusealions.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://plnusealions.com/sports/football/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://plnusealions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

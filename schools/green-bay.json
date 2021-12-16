@@ -1,0 +1,161 @@
+{
+  "school": "/schools/green-bay",
+  "base": "https://greenbayphoenix.com",
+  "goodList": [
+    "https://greenbayphoenix.com/sports/mens-soccer/roster",
+    "https://greenbayphoenix.com/sports/womens-soccer/roster",
+    "https://greenbayphoenix.com/sports/mens-basketball/roster",
+    "https://greenbayphoenix.com/sports/womens-basketball/roster",
+    "https://greenbayphoenix.com/sports/swimming-and-diving/roster",
+    "https://greenbayphoenix.com/sports/cross-country/roster",
+    "https://greenbayphoenix.com/sports/mens-golf/roster",
+    "https://greenbayphoenix.com/sports/womens-golf/roster",
+    "https://greenbayphoenix.com/sports/softball/roster",
+    "https://greenbayphoenix.com/sports/mens-tennis/roster",
+    "https://greenbayphoenix.com/sports/womens-tennis/roster",
+    "https://greenbayphoenix.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://greenbayphoenix.com/sports/football/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/golf/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/tri/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://greenbayphoenix.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

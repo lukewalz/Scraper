@@ -1,0 +1,157 @@
+{
+  "school": "/schools/southern-ark",
+  "base": "https://muleriderathletics.com",
+  "goodList": [
+    "https://muleriderathletics.com/sports/football/roster",
+    "https://muleriderathletics.com/sports/mens-basketball/roster",
+    "https://muleriderathletics.com/sports/womens-basketball/roster",
+    "https://muleriderathletics.com/sports/mens-track-and-field/roster",
+    "https://muleriderathletics.com/sports/womens-track-and-field/roster",
+    "https://muleriderathletics.com/sports/mens-cross-country/roster",
+    "https://muleriderathletics.com/sports/womens-cross-country/roster",
+    "https://muleriderathletics.com/sports/mens-golf/roster",
+    "https://muleriderathletics.com/sports/womens-golf/roster",
+    "https://muleriderathletics.com/sports/baseball/roster",
+    "https://muleriderathletics.com/sports/softball/roster",
+    "https://muleriderathletics.com/sports/mens-tennis/roster",
+    "https://muleriderathletics.com/sports/womens-tennis/roster",
+    "https://muleriderathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://muleriderathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://muleriderathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

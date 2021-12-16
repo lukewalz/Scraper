@@ -1,0 +1,153 @@
+{
+  "school": "/schools/nova-southeastern",
+  "base": "https://nsusharks.com",
+  "goodList": [
+    "https://nsusharks.com/sports/mens-soccer/roster",
+    "https://nsusharks.com/sports/womens-soccer/roster",
+    "https://nsusharks.com/sports/mens-basketball/roster",
+    "https://nsusharks.com/sports/womens-basketball/roster",
+    "https://nsusharks.com/sports/mens-swimming-and-diving/roster",
+    "https://nsusharks.com/sports/womens-swimming-and-diving/roster",
+    "https://nsusharks.com/sports/mens-track-and-field/roster",
+    "https://nsusharks.com/sports/womens-track-and-field/roster",
+    "https://nsusharks.com/sports/mens-cross-country/roster",
+    "https://nsusharks.com/sports/womens-cross-country/roster",
+    "https://nsusharks.com/sports/mens-golf/roster",
+    "https://nsusharks.com/sports/womens-golf/roster",
+    "https://nsusharks.com/sports/baseball/roster",
+    "https://nsusharks.com/sports/softball/roster",
+    "https://nsusharks.com/sports/womens-tennis/roster",
+    "https://nsusharks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nsusharks.com/sports/football/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nsusharks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

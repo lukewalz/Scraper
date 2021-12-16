@@ -1,0 +1,139 @@
+{
+  "school": "/schools/gettysburg",
+  "base": "https://gettysburgsports.com",
+  "goodList": [
+    "https://gettysburgsports.com/sports/football/roster",
+    "https://gettysburgsports.com/sports/mens-soccer/roster",
+    "https://gettysburgsports.com/sports/womens-soccer/roster",
+    "https://gettysburgsports.com/sports/mens-basketball/roster",
+    "https://gettysburgsports.com/sports/womens-basketball/roster",
+    "https://gettysburgsports.com/sports/mens-swimming-and-diving/roster",
+    "https://gettysburgsports.com/sports/womens-swimming-and-diving/roster",
+    "https://gettysburgsports.com/sports/mens-track-and-field/roster",
+    "https://gettysburgsports.com/sports/womens-track-and-field/roster",
+    "https://gettysburgsports.com/sports/mens-cross-country/roster",
+    "https://gettysburgsports.com/sports/womens-cross-country/roster",
+    "https://gettysburgsports.com/sports/mens-golf/roster",
+    "https://gettysburgsports.com/sports/womens-golf/roster",
+    "https://gettysburgsports.com/sports/mens-lacrosse/roster",
+    "https://gettysburgsports.com/sports/womens-lacrosse/roster",
+    "https://gettysburgsports.com/sports/baseball/roster",
+    "https://gettysburgsports.com/sports/softball/roster",
+    "https://gettysburgsports.com/sports/mens-tennis/roster",
+    "https://gettysburgsports.com/sports/womens-tennis/roster",
+    "https://gettysburgsports.com/sports/womens-volleyball/roster",
+    "https://gettysburgsports.com/sports/wrestling/roster",
+    "https://gettysburgsports.com/sports/mwrest/roster",
+    "https://gettysburgsports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gettysburgsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gettysburgsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

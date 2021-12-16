@@ -1,0 +1,184 @@
+{
+  "school": "/schools/simpson",
+  "base": "https://simpsonathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://simpsonathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://simpsonathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "school": "/schools/allen",
+  "base": "https://auyellowjackets.com",
+  "goodList": [
+    "https://auyellowjackets.com/sports/football/roster",
+    "https://auyellowjackets.com/sports/womens-soccer/roster",
+    "https://auyellowjackets.com/sports/mens-basketball/roster",
+    "https://auyellowjackets.com/sports/womens-basketball/roster",
+    "https://auyellowjackets.com/sports/mens-cross-country/roster",
+    "https://auyellowjackets.com/sports/womens-cross-country/roster",
+    "https://auyellowjackets.com/sports/softball/roster",
+    "https://auyellowjackets.com/sports/mwrest/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://auyellowjackets.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://auyellowjackets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

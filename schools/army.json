@@ -1,0 +1,135 @@
+{
+  "school": "/schools/army",
+  "base": "https://goarmywestpoint.com/",
+  "goodList": [
+    "https://goarmywestpoint.com//sports/football/roster",
+    "https://goarmywestpoint.com//sports/mens-soccer/roster",
+    "https://goarmywestpoint.com//sports/womens-soccer/roster",
+    "https://goarmywestpoint.com//sports/mens-basketball/roster",
+    "https://goarmywestpoint.com//sports/womens-basketball/roster",
+    "https://goarmywestpoint.com//sports/mens-gymnastics/roster",
+    "https://goarmywestpoint.com//sports/mens-ice-hockey/roster",
+    "https://goarmywestpoint.com//sports/rifle/roster",
+    "https://goarmywestpoint.com//sports/mens-swimming-and-diving/roster",
+    "https://goarmywestpoint.com//sports/womens-swimming-and-diving/roster",
+    "https://goarmywestpoint.com//sports/mens-track-and-field/roster",
+    "https://goarmywestpoint.com//sports/womens-track-and-field/roster",
+    "https://goarmywestpoint.com//sports/mens-cross-country/roster",
+    "https://goarmywestpoint.com//sports/womens-cross-country/roster",
+    "https://goarmywestpoint.com//sports/mens-golf/roster",
+    "https://goarmywestpoint.com//sports/mens-lacrosse/roster",
+    "https://goarmywestpoint.com//sports/womens-lacrosse/roster",
+    "https://goarmywestpoint.com//sports/baseball/roster",
+    "https://goarmywestpoint.com//sports/softball/roster",
+    "https://goarmywestpoint.com//sports/mens-tennis/roster",
+    "https://goarmywestpoint.com//sports/womens-tennis/roster",
+    "https://goarmywestpoint.com//sports/womens-volleyball/roster",
+    "https://goarmywestpoint.com//sports/wrestling/roster",
+    "https://goarmywestpoint.com//sports/mens-rugby/roster",
+    "https://goarmywestpoint.com//sports/womens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goarmywestpoint.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/golf/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/tri/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goarmywestpoint.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

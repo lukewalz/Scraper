@@ -1,0 +1,159 @@
+{
+  "school": "/schools/cal-st-stanislaus",
+  "base": "https://warriorathletics.com",
+  "goodList": [
+    "https://warriorathletics.com/sports/mens-soccer/roster",
+    "https://warriorathletics.com/sports/womens-soccer/roster",
+    "https://warriorathletics.com/sports/mens-basketball/roster",
+    "https://warriorathletics.com/sports/womens-basketball/roster",
+    "https://warriorathletics.com/sports/mens-track-and-field/roster",
+    "https://warriorathletics.com/sports/womens-track-and-field/roster",
+    "https://warriorathletics.com/sports/mens-cross-country/roster",
+    "https://warriorathletics.com/sports/womens-cross-country/roster",
+    "https://warriorathletics.com/sports/mens-golf/roster",
+    "https://warriorathletics.com/sports/baseball/roster",
+    "https://warriorathletics.com/sports/softball/roster",
+    "https://warriorathletics.com/sports/womens-tennis/roster",
+    "https://warriorathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://warriorathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://warriorathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

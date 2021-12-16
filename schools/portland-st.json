@@ -1,0 +1,163 @@
+{
+  "school": "/schools/portland-st",
+  "base": "https://goviks.com",
+  "goodList": [
+    "https://goviks.com/sports/football/roster",
+    "https://goviks.com/sports/womens-soccer/roster",
+    "https://goviks.com/sports/mens-basketball/roster",
+    "https://goviks.com/sports/womens-basketball/roster",
+    "https://goviks.com/sports/track-and-field/roster",
+    "https://goviks.com/sports/cross-country/roster",
+    "https://goviks.com/sports/womens-golf/roster",
+    "https://goviks.com/sports/softball/roster",
+    "https://goviks.com/sports/mens-tennis/roster",
+    "https://goviks.com/sports/womens-tennis/roster",
+    "https://goviks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goviks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goviks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

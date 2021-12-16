@@ -1,0 +1,184 @@
+{
+  "school": "/schools/lynn",
+  "base": "https://lynnfightingknights.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://lynnfightingknights.com/sports/football/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/softball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lynnfightingknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

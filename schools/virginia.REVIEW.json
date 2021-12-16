@@ -1,0 +1,184 @@
+{
+  "school": "/schools/virginia",
+  "base": "https://virginiasports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://virginiasports.com/sports/football/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://virginiasports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

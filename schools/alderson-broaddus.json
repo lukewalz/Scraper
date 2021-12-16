@@ -1,0 +1,145 @@
+{
+  "school": "/schools/alderson-broaddus",
+  "base": "https://gobattlers.com",
+  "goodList": [
+    "https://gobattlers.com/sports/football/roster",
+    "https://gobattlers.com/sports/mens-soccer/roster",
+    "https://gobattlers.com/sports/womens-soccer/roster",
+    "https://gobattlers.com/sports/mens-basketball/roster",
+    "https://gobattlers.com/sports/womens-basketball/roster",
+    "https://gobattlers.com/sports/mens-swimming-and-diving/roster",
+    "https://gobattlers.com/sports/womens-swimming-and-diving/roster",
+    "https://gobattlers.com/sports/mens-track-and-field/roster",
+    "https://gobattlers.com/sports/womens-track-and-field/roster",
+    "https://gobattlers.com/sports/mens-cross-country/roster",
+    "https://gobattlers.com/sports/womens-cross-country/roster",
+    "https://gobattlers.com/sports/mens-lacrosse/roster",
+    "https://gobattlers.com/sports/womens-lacrosse/roster",
+    "https://gobattlers.com/sports/baseball/roster",
+    "https://gobattlers.com/sports/softball/roster",
+    "https://gobattlers.com/sports/womens-tennis/roster",
+    "https://gobattlers.com/sports/mens-volleyball/roster",
+    "https://gobattlers.com/sports/womens-volleyball/roster",
+    "https://gobattlers.com/sports/wrestling/roster",
+    "https://gobattlers.com/sports/rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobattlers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gobattlers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

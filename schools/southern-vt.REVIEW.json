@@ -1,0 +1,184 @@
+{
+  "school": "/schools/southern-vt",
+  "base": "https://svcathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://svcathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://svcathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "school": "/schools/iupui",
+  "base": "https://iupuijags.com",
+  "goodList": [
+    "https://iupuijags.com/sports/mens-soccer/roster",
+    "https://iupuijags.com/sports/womens-soccer/roster",
+    "https://iupuijags.com/sports/mens-basketball/roster",
+    "https://iupuijags.com/sports/womens-basketball/roster",
+    "https://iupuijags.com/sports/mens-swimming-and-diving/roster",
+    "https://iupuijags.com/sports/womens-swimming-and-diving/roster",
+    "https://iupuijags.com/sports/mens-track-and-field/roster",
+    "https://iupuijags.com/sports/womens-track-and-field/roster",
+    "https://iupuijags.com/sports/mens-cross-country/roster",
+    "https://iupuijags.com/sports/womens-cross-country/roster",
+    "https://iupuijags.com/sports/mens-golf/roster",
+    "https://iupuijags.com/sports/womens-golf/roster",
+    "https://iupuijags.com/sports/softball/roster",
+    "https://iupuijags.com/sports/mens-tennis/roster",
+    "https://iupuijags.com/sports/womens-tennis/roster",
+    "https://iupuijags.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://iupuijags.com/sports/football/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/golf/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/tri/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://iupuijags.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

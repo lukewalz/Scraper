@@ -1,0 +1,155 @@
+{
+  "school": "/schools/bethany-lutheran",
+  "base": "https://blcvikings.com",
+  "goodList": [
+    "https://blcvikings.com/sports/mens-soccer/roster",
+    "https://blcvikings.com/sports/womens-soccer/roster",
+    "https://blcvikings.com/sports/mens-basketball/roster",
+    "https://blcvikings.com/sports/womens-basketball/roster",
+    "https://blcvikings.com/sports/mens-track-and-field/roster",
+    "https://blcvikings.com/sports/womens-track-and-field/roster",
+    "https://blcvikings.com/sports/mens-cross-country/roster",
+    "https://blcvikings.com/sports/womens-cross-country/roster",
+    "https://blcvikings.com/sports/mens-golf/roster",
+    "https://blcvikings.com/sports/womens-golf/roster",
+    "https://blcvikings.com/sports/baseball/roster",
+    "https://blcvikings.com/sports/softball/roster",
+    "https://blcvikings.com/sports/mens-tennis/roster",
+    "https://blcvikings.com/sports/womens-tennis/roster",
+    "https://blcvikings.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://blcvikings.com/sports/football/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/golf/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/tri/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://blcvikings.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

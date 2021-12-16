@@ -1,0 +1,184 @@
+{
+  "school": "/schools/washington-st-louis",
+  "base": "https://bearsports.wustl.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://bearsports.wustl.edu/sports/football/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bearsports.wustl.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

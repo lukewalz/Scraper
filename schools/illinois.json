@@ -1,0 +1,147 @@
+{
+  "school": "/schools/illinois",
+  "base": "https://fightingillini.com",
+  "goodList": [
+    "https://fightingillini.com/sports/football/roster",
+    "https://fightingillini.com/sports/womens-soccer/roster",
+    "https://fightingillini.com/sports/mens-basketball/roster",
+    "https://fightingillini.com/sports/womens-basketball/roster",
+    "https://fightingillini.com/sports/mens-gymnastics/roster",
+    "https://fightingillini.com/sports/womens-gymnastics/roster",
+    "https://fightingillini.com/sports/womens-swimming-and-diving/roster",
+    "https://fightingillini.com/sports/mens-track-and-field/roster",
+    "https://fightingillini.com/sports/womens-track-and-field/roster",
+    "https://fightingillini.com/sports/mens-cross-country/roster",
+    "https://fightingillini.com/sports/womens-cross-country/roster",
+    "https://fightingillini.com/sports/mens-golf/roster",
+    "https://fightingillini.com/sports/womens-golf/roster",
+    "https://fightingillini.com/sports/baseball/roster",
+    "https://fightingillini.com/sports/softball/roster",
+    "https://fightingillini.com/sports/mens-tennis/roster",
+    "https://fightingillini.com/sports/womens-tennis/roster",
+    "https://fightingillini.com/sports/womens-volleyball/roster",
+    "https://fightingillini.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fightingillini.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fightingillini.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

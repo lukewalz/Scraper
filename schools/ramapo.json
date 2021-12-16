@@ -1,0 +1,149 @@
+{
+  "school": "/schools/ramapo",
+  "base": "https://ramapoathletics.com",
+  "goodList": [
+    "https://ramapoathletics.com/sports/mens-soccer/roster",
+    "https://ramapoathletics.com/sports/womens-soccer/roster",
+    "https://ramapoathletics.com/sports/mens-basketball/roster",
+    "https://ramapoathletics.com/sports/womens-basketball/roster",
+    "https://ramapoathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://ramapoathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://ramapoathletics.com/sports/mens-track-and-field/roster",
+    "https://ramapoathletics.com/sports/womens-track-and-field/roster",
+    "https://ramapoathletics.com/sports/mens-cross-country/roster",
+    "https://ramapoathletics.com/sports/womens-cross-country/roster",
+    "https://ramapoathletics.com/sports/womens-lacrosse/roster",
+    "https://ramapoathletics.com/sports/baseball/roster",
+    "https://ramapoathletics.com/sports/softball/roster",
+    "https://ramapoathletics.com/sports/mens-tennis/roster",
+    "https://ramapoathletics.com/sports/womens-tennis/roster",
+    "https://ramapoathletics.com/sports/mens-volleyball/roster",
+    "https://ramapoathletics.com/sports/womens-volleyball/roster",
+    "https://ramapoathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ramapoathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ramapoathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

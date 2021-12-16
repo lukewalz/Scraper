@@ -1,0 +1,184 @@
+{
+  "school": "/schools/michigan-tech",
+  "base": "https://michigantechhuskies.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://michigantechhuskies.com/sports/football/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/softball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://michigantechhuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

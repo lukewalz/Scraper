@@ -1,0 +1,149 @@
+{
+  "school": "/schools/grinnell",
+  "base": "https://pioneers.grinnell.edu/",
+  "goodList": [
+    "https://pioneers.grinnell.edu//sports/football/roster",
+    "https://pioneers.grinnell.edu//sports/mens-soccer/roster",
+    "https://pioneers.grinnell.edu//sports/womens-soccer/roster",
+    "https://pioneers.grinnell.edu//sports/mens-basketball/roster",
+    "https://pioneers.grinnell.edu//sports/womens-basketball/roster",
+    "https://pioneers.grinnell.edu//sports/mens-swimming-and-diving/roster",
+    "https://pioneers.grinnell.edu//sports/womens-swimming-and-diving/roster",
+    "https://pioneers.grinnell.edu//sports/mens-track-and-field/roster",
+    "https://pioneers.grinnell.edu//sports/womens-track-and-field/roster",
+    "https://pioneers.grinnell.edu//sports/mens-cross-country/roster",
+    "https://pioneers.grinnell.edu//sports/womens-cross-country/roster",
+    "https://pioneers.grinnell.edu//sports/mens-golf/roster",
+    "https://pioneers.grinnell.edu//sports/womens-golf/roster",
+    "https://pioneers.grinnell.edu//sports/baseball/roster",
+    "https://pioneers.grinnell.edu//sports/softball/roster",
+    "https://pioneers.grinnell.edu//sports/mens-tennis/roster",
+    "https://pioneers.grinnell.edu//sports/womens-tennis/roster",
+    "https://pioneers.grinnell.edu//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pioneers.grinnell.edu//sports/bowling/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/fencing/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/rifle/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/skiing/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/cross-country/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/xctrack/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/equestrian/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/golf/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/rowing/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/tennis/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/wbvb/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/water-polo/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/wrestling/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mwrest/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/wwrest/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/rugby/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/tri/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pioneers.grinnell.edu//sports/mens-field-hockey/roster"
+    }
+  ]
+}

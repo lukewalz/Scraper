@@ -1,0 +1,151 @@
+{
+  "school": "/schools/uab",
+  "base": "https://uabsports.com",
+  "goodList": [
+    "https://uabsports.com/sports/football/roster",
+    "https://uabsports.com/sports/mens-soccer/roster",
+    "https://uabsports.com/sports/womens-soccer/roster",
+    "https://uabsports.com/sports/mens-basketball/roster",
+    "https://uabsports.com/sports/womens-basketball/roster",
+    "https://uabsports.com/sports/rifle/roster",
+    "https://uabsports.com/sports/track-and-field/roster",
+    "https://uabsports.com/sports/womens-track-and-field/roster",
+    "https://uabsports.com/sports/womens-cross-country/roster",
+    "https://uabsports.com/sports/mens-golf/roster",
+    "https://uabsports.com/sports/womens-golf/roster",
+    "https://uabsports.com/sports/baseball/roster",
+    "https://uabsports.com/sports/softball/roster",
+    "https://uabsports.com/sports/mens-tennis/roster",
+    "https://uabsports.com/sports/womens-tennis/roster",
+    "https://uabsports.com/sports/womens-volleyball/roster",
+    "https://uabsports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uabsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uabsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

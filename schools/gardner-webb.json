@@ -1,0 +1,151 @@
+{
+  "school": "/schools/gardner-webb",
+  "base": "https://gwusports.com",
+  "goodList": [
+    "https://gwusports.com/sports/football/roster",
+    "https://gwusports.com/sports/mens-soccer/roster",
+    "https://gwusports.com/sports/womens-soccer/roster",
+    "https://gwusports.com/sports/mens-basketball/roster",
+    "https://gwusports.com/sports/womens-basketball/roster",
+    "https://gwusports.com/sports/mens-swimming-and-diving/roster",
+    "https://gwusports.com/sports/track-and-field/roster",
+    "https://gwusports.com/sports/cross-country/roster",
+    "https://gwusports.com/sports/mens-golf/roster",
+    "https://gwusports.com/sports/womens-golf/roster",
+    "https://gwusports.com/sports/womens-lacrosse/roster",
+    "https://gwusports.com/sports/baseball/roster",
+    "https://gwusports.com/sports/softball/roster",
+    "https://gwusports.com/sports/mens-tennis/roster",
+    "https://gwusports.com/sports/womens-tennis/roster",
+    "https://gwusports.com/sports/womens-volleyball/roster",
+    "https://gwusports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gwusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gwusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

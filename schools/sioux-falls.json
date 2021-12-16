@@ -1,0 +1,159 @@
+{
+  "school": "/schools/sioux-falls",
+  "base": "https://usfcougars.com",
+  "goodList": [
+    "https://usfcougars.com/sports/football/roster",
+    "https://usfcougars.com/sports/womens-soccer/roster",
+    "https://usfcougars.com/sports/mens-basketball/roster",
+    "https://usfcougars.com/sports/womens-basketball/roster",
+    "https://usfcougars.com/sports/swimming-and-diving/roster",
+    "https://usfcougars.com/sports/track-and-field/roster",
+    "https://usfcougars.com/sports/cross-country/roster",
+    "https://usfcougars.com/sports/mens-golf/roster",
+    "https://usfcougars.com/sports/womens-golf/roster",
+    "https://usfcougars.com/sports/baseball/roster",
+    "https://usfcougars.com/sports/softball/roster",
+    "https://usfcougars.com/sports/womens-tennis/roster",
+    "https://usfcougars.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://usfcougars.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://usfcougars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

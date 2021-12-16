@@ -1,0 +1,147 @@
+{
+  "school": "/schools/king-tn",
+  "base": "https://kingtornado.com",
+  "goodList": [
+    "https://kingtornado.com/sports/mens-soccer/roster",
+    "https://kingtornado.com/sports/womens-soccer/roster",
+    "https://kingtornado.com/sports/mens-basketball/roster",
+    "https://kingtornado.com/sports/womens-basketball/roster",
+    "https://kingtornado.com/sports/mens-swimming-and-diving/roster",
+    "https://kingtornado.com/sports/womens-swimming-and-diving/roster",
+    "https://kingtornado.com/sports/mens-track-and-field/roster",
+    "https://kingtornado.com/sports/womens-track-and-field/roster",
+    "https://kingtornado.com/sports/mens-cross-country/roster",
+    "https://kingtornado.com/sports/womens-cross-country/roster",
+    "https://kingtornado.com/sports/mens-golf/roster",
+    "https://kingtornado.com/sports/womens-golf/roster",
+    "https://kingtornado.com/sports/baseball/roster",
+    "https://kingtornado.com/sports/softball/roster",
+    "https://kingtornado.com/sports/mens-tennis/roster",
+    "https://kingtornado.com/sports/womens-tennis/roster",
+    "https://kingtornado.com/sports/mens-volleyball/roster",
+    "https://kingtornado.com/sports/womens-volleyball/roster",
+    "https://kingtornado.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://kingtornado.com/sports/football/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kingtornado.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

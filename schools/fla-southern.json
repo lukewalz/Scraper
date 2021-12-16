@@ -1,0 +1,141 @@
+{
+  "school": "/schools/fla-southern",
+  "base": "https://fscmocs.com",
+  "goodList": [
+    "https://fscmocs.com/sports/mens-soccer/roster",
+    "https://fscmocs.com/sports/womens-soccer/roster",
+    "https://fscmocs.com/sports/mens-basketball/roster",
+    "https://fscmocs.com/sports/womens-basketball/roster",
+    "https://fscmocs.com/sports/mens-ice-hockey/roster",
+    "https://fscmocs.com/sports/mens-swimming-and-diving/roster",
+    "https://fscmocs.com/sports/womens-swimming-and-diving/roster",
+    "https://fscmocs.com/sports/mens-track-and-field/roster",
+    "https://fscmocs.com/sports/womens-track-and-field/roster",
+    "https://fscmocs.com/sports/mens-cross-country/roster",
+    "https://fscmocs.com/sports/womens-cross-country/roster",
+    "https://fscmocs.com/sports/equestrian/roster",
+    "https://fscmocs.com/sports/mens-golf/roster",
+    "https://fscmocs.com/sports/womens-golf/roster",
+    "https://fscmocs.com/sports/mens-lacrosse/roster",
+    "https://fscmocs.com/sports/womens-lacrosse/roster",
+    "https://fscmocs.com/sports/baseball/roster",
+    "https://fscmocs.com/sports/softball/roster",
+    "https://fscmocs.com/sports/mens-tennis/roster",
+    "https://fscmocs.com/sports/womens-tennis/roster",
+    "https://fscmocs.com/sports/womens-volleyball/roster",
+    "https://fscmocs.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fscmocs.com/sports/football/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fscmocs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/louisiana-col",
+  "base": "https://lcwildcats.net",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://lcwildcats.net/sports/football/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/bowling/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/fencing/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/rifle/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/skiing/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/golf/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/rowing/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/baseball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/softball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/tennis/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/rugby/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/tri/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lcwildcats.net/sports/mens-field-hockey/roster"
+    }
+  ]
+}

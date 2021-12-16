@@ -1,0 +1,151 @@
+{
+  "school": "/schools/principia",
+  "base": "https://principiaathletics.com",
+  "goodList": [
+    "https://principiaathletics.com/sports/mens-soccer/roster",
+    "https://principiaathletics.com/sports/womens-soccer/roster",
+    "https://principiaathletics.com/sports/mens-basketball/roster",
+    "https://principiaathletics.com/sports/womens-basketball/roster",
+    "https://principiaathletics.com/sports/swimming-and-diving/roster",
+    "https://principiaathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://principiaathletics.com/sports/track-and-field/roster",
+    "https://principiaathletics.com/sports/womens-track-and-field/roster",
+    "https://principiaathletics.com/sports/cross-country/roster",
+    "https://principiaathletics.com/sports/womens-cross-country/roster",
+    "https://principiaathletics.com/sports/baseball/roster",
+    "https://principiaathletics.com/sports/softball/roster",
+    "https://principiaathletics.com/sports/tennis/roster",
+    "https://principiaathletics.com/sports/womens-tennis/roster",
+    "https://principiaathletics.com/sports/womens-volleyball/roster",
+    "https://principiaathletics.com/sports/rugby/roster",
+    "https://principiaathletics.com/sports/mens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://principiaathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://principiaathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "school": "/schools/denver",
+  "base": "https://denverpioneers.com/",
+  "goodList": [
+    "https://denverpioneers.com//sports/mens-soccer/roster",
+    "https://denverpioneers.com//sports/womens-soccer/roster",
+    "https://denverpioneers.com//sports/mens-basketball/roster",
+    "https://denverpioneers.com//sports/womens-basketball/roster",
+    "https://denverpioneers.com//sports/womens-gymnastics/roster",
+    "https://denverpioneers.com//sports/mens-ice-hockey/roster",
+    "https://denverpioneers.com//sports/skiing/roster",
+    "https://denverpioneers.com//sports/swimming-and-diving/roster",
+    "https://denverpioneers.com//sports/mens-swimming-and-diving/roster",
+    "https://denverpioneers.com//sports/womens-swimming-and-diving/roster",
+    "https://denverpioneers.com//sports/mens-golf/roster",
+    "https://denverpioneers.com//sports/womens-golf/roster",
+    "https://denverpioneers.com//sports/mens-lacrosse/roster",
+    "https://denverpioneers.com//sports/womens-lacrosse/roster",
+    "https://denverpioneers.com//sports/mens-tennis/roster",
+    "https://denverpioneers.com//sports/womens-tennis/roster",
+    "https://denverpioneers.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://denverpioneers.com//sports/football/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/golf/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/softball/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/tri/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://denverpioneers.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

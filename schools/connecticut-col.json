@@ -1,0 +1,145 @@
+{
+  "school": "/schools/connecticut-col",
+  "base": "https://camelathletics.com",
+  "goodList": [
+    "https://camelathletics.com/sports/mens-soccer/roster",
+    "https://camelathletics.com/sports/womens-soccer/roster",
+    "https://camelathletics.com/sports/mens-basketball/roster",
+    "https://camelathletics.com/sports/womens-basketball/roster",
+    "https://camelathletics.com/sports/mens-ice-hockey/roster",
+    "https://camelathletics.com/sports/womens-ice-hockey/roster",
+    "https://camelathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://camelathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://camelathletics.com/sports/mens-track-and-field/roster",
+    "https://camelathletics.com/sports/womens-track-and-field/roster",
+    "https://camelathletics.com/sports/mens-cross-country/roster",
+    "https://camelathletics.com/sports/womens-cross-country/roster",
+    "https://camelathletics.com/sports/mens-lacrosse/roster",
+    "https://camelathletics.com/sports/womens-lacrosse/roster",
+    "https://camelathletics.com/sports/mens-tennis/roster",
+    "https://camelathletics.com/sports/womens-tennis/roster",
+    "https://camelathletics.com/sports/womens-volleyball/roster",
+    "https://camelathletics.com/sports/mens-water-polo/roster",
+    "https://camelathletics.com/sports/womens-water-polo/roster",
+    "https://camelathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://camelathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://camelathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

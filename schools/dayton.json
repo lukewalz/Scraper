@@ -1,0 +1,155 @@
+{
+  "school": "/schools/dayton",
+  "base": "https://daytonflyers.com",
+  "goodList": [
+    "https://daytonflyers.com/sports/football/roster",
+    "https://daytonflyers.com/sports/mens-soccer/roster",
+    "https://daytonflyers.com/sports/womens-soccer/roster",
+    "https://daytonflyers.com/sports/mens-basketball/roster",
+    "https://daytonflyers.com/sports/womens-basketball/roster",
+    "https://daytonflyers.com/sports/womens-track-and-field/roster",
+    "https://daytonflyers.com/sports/mens-cross-country/roster",
+    "https://daytonflyers.com/sports/womens-cross-country/roster",
+    "https://daytonflyers.com/sports/mens-golf/roster",
+    "https://daytonflyers.com/sports/womens-golf/roster",
+    "https://daytonflyers.com/sports/baseball/roster",
+    "https://daytonflyers.com/sports/softball/roster",
+    "https://daytonflyers.com/sports/mens-tennis/roster",
+    "https://daytonflyers.com/sports/womens-tennis/roster",
+    "https://daytonflyers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://daytonflyers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://daytonflyers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

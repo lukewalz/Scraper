@@ -1,0 +1,155 @@
+{
+  "school": "/schools/umass-lowell",
+  "base": "https://goriverhawks.com",
+  "goodList": [
+    "https://goriverhawks.com/sports/mens-soccer/roster",
+    "https://goriverhawks.com/sports/womens-soccer/roster",
+    "https://goriverhawks.com/sports/mens-basketball/roster",
+    "https://goriverhawks.com/sports/womens-basketball/roster",
+    "https://goriverhawks.com/sports/mens-ice-hockey/roster",
+    "https://goriverhawks.com/sports/mens-track-and-field/roster",
+    "https://goriverhawks.com/sports/womens-track-and-field/roster",
+    "https://goriverhawks.com/sports/mens-golf/roster",
+    "https://goriverhawks.com/sports/mens-lacrosse/roster",
+    "https://goriverhawks.com/sports/womens-lacrosse/roster",
+    "https://goriverhawks.com/sports/rowing/roster",
+    "https://goriverhawks.com/sports/baseball/roster",
+    "https://goriverhawks.com/sports/softball/roster",
+    "https://goriverhawks.com/sports/womens-volleyball/roster",
+    "https://goriverhawks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goriverhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goriverhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

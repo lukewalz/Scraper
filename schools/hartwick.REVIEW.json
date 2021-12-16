@@ -1,0 +1,184 @@
+{
+  "school": "/schools/hartwick",
+  "base": "https://hartwickhawks.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hartwickhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/softball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hartwickhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

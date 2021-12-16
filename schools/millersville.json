@@ -1,0 +1,149 @@
+{
+  "school": "/schools/millersville",
+  "base": "https://millersvilleathletics.com/",
+  "goodList": [
+    "https://millersvilleathletics.com//sports/football/roster",
+    "https://millersvilleathletics.com//sports/mens-soccer/roster",
+    "https://millersvilleathletics.com//sports/womens-soccer/roster",
+    "https://millersvilleathletics.com//sports/mens-basketball/roster",
+    "https://millersvilleathletics.com//sports/womens-basketball/roster",
+    "https://millersvilleathletics.com//sports/womens-swimming-and-diving/roster",
+    "https://millersvilleathletics.com//sports/womens-track-and-field/roster",
+    "https://millersvilleathletics.com//sports/womens-cross-country/roster",
+    "https://millersvilleathletics.com//sports/mens-golf/roster",
+    "https://millersvilleathletics.com//sports/womens-golf/roster",
+    "https://millersvilleathletics.com//sports/womens-lacrosse/roster",
+    "https://millersvilleathletics.com//sports/baseball/roster",
+    "https://millersvilleathletics.com//sports/softball/roster",
+    "https://millersvilleathletics.com//sports/mens-tennis/roster",
+    "https://millersvilleathletics.com//sports/womens-tennis/roster",
+    "https://millersvilleathletics.com//sports/womens-volleyball/roster",
+    "https://millersvilleathletics.com//sports/wrestling/roster",
+    "https://millersvilleathletics.com//sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://millersvilleathletics.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/golf/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/tri/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://millersvilleathletics.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

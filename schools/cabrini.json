@@ -1,0 +1,143 @@
+{
+  "school": "/schools/cabrini",
+  "base": "https://cabriniathletics.com",
+  "goodList": [
+    "https://cabriniathletics.com/sports/mens-soccer/roster",
+    "https://cabriniathletics.com/sports/womens-soccer/roster",
+    "https://cabriniathletics.com/sports/mens-basketball/roster",
+    "https://cabriniathletics.com/sports/womens-basketball/roster",
+    "https://cabriniathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://cabriniathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://cabriniathletics.com/sports/mens-track-and-field/roster",
+    "https://cabriniathletics.com/sports/womens-track-and-field/roster",
+    "https://cabriniathletics.com/sports/mens-cross-country/roster",
+    "https://cabriniathletics.com/sports/womens-cross-country/roster",
+    "https://cabriniathletics.com/sports/mens-golf/roster",
+    "https://cabriniathletics.com/sports/womens-golf/roster",
+    "https://cabriniathletics.com/sports/mens-lacrosse/roster",
+    "https://cabriniathletics.com/sports/womens-lacrosse/roster",
+    "https://cabriniathletics.com/sports/rowing/roster",
+    "https://cabriniathletics.com/sports/baseball/roster",
+    "https://cabriniathletics.com/sports/softball/roster",
+    "https://cabriniathletics.com/sports/mens-tennis/roster",
+    "https://cabriniathletics.com/sports/womens-tennis/roster",
+    "https://cabriniathletics.com/sports/womens-volleyball/roster",
+    "https://cabriniathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cabriniathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cabriniathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

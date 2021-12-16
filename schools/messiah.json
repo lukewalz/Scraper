@@ -1,0 +1,143 @@
+{
+  "school": "/schools/messiah",
+  "base": "https://gomessiah.com",
+  "goodList": [
+    "https://gomessiah.com/sports/mens-soccer/roster",
+    "https://gomessiah.com/sports/womens-soccer/roster",
+    "https://gomessiah.com/sports/mens-basketball/roster",
+    "https://gomessiah.com/sports/womens-basketball/roster",
+    "https://gomessiah.com/sports/mens-swimming-and-diving/roster",
+    "https://gomessiah.com/sports/womens-swimming-and-diving/roster",
+    "https://gomessiah.com/sports/mens-track-and-field/roster",
+    "https://gomessiah.com/sports/womens-track-and-field/roster",
+    "https://gomessiah.com/sports/mens-cross-country/roster",
+    "https://gomessiah.com/sports/womens-cross-country/roster",
+    "https://gomessiah.com/sports/mens-golf/roster",
+    "https://gomessiah.com/sports/mens-lacrosse/roster",
+    "https://gomessiah.com/sports/womens-lacrosse/roster",
+    "https://gomessiah.com/sports/baseball/roster",
+    "https://gomessiah.com/sports/softball/roster",
+    "https://gomessiah.com/sports/mens-tennis/roster",
+    "https://gomessiah.com/sports/womens-tennis/roster",
+    "https://gomessiah.com/sports/mens-volleyball/roster",
+    "https://gomessiah.com/sports/womens-volleyball/roster",
+    "https://gomessiah.com/sports/wrestling/roster",
+    "https://gomessiah.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomessiah.com/sports/football/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomessiah.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/spelman",
+  "base": "https://spelmanjaguars.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://spelmanjaguars.com/sports/football/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/softball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://spelmanjaguars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

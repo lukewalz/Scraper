@@ -1,0 +1,163 @@
+{
+  "school": "/schools/texas-arlington",
+  "base": "https://utamavs.com",
+  "goodList": [
+    "https://utamavs.com/sports/mens-basketball/roster",
+    "https://utamavs.com/sports/womens-basketball/roster",
+    "https://utamavs.com/sports/track-and-field/roster",
+    "https://utamavs.com/sports/cross-country/roster",
+    "https://utamavs.com/sports/mens-golf/roster",
+    "https://utamavs.com/sports/womens-golf/roster",
+    "https://utamavs.com/sports/baseball/roster",
+    "https://utamavs.com/sports/softball/roster",
+    "https://utamavs.com/sports/mens-tennis/roster",
+    "https://utamavs.com/sports/womens-tennis/roster",
+    "https://utamavs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utamavs.com/sports/football/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utamavs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

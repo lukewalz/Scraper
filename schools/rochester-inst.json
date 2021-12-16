@@ -1,0 +1,145 @@
+{
+  "school": "/schools/rochester-inst",
+  "base": "https://ritathletics.com",
+  "goodList": [
+    "https://ritathletics.com/sports/mens-soccer/roster",
+    "https://ritathletics.com/sports/womens-soccer/roster",
+    "https://ritathletics.com/sports/mens-basketball/roster",
+    "https://ritathletics.com/sports/womens-basketball/roster",
+    "https://ritathletics.com/sports/mens-ice-hockey/roster",
+    "https://ritathletics.com/sports/womens-ice-hockey/roster",
+    "https://ritathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://ritathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://ritathletics.com/sports/mens-track-and-field/roster",
+    "https://ritathletics.com/sports/womens-track-and-field/roster",
+    "https://ritathletics.com/sports/mens-cross-country/roster",
+    "https://ritathletics.com/sports/womens-cross-country/roster",
+    "https://ritathletics.com/sports/mens-lacrosse/roster",
+    "https://ritathletics.com/sports/womens-lacrosse/roster",
+    "https://ritathletics.com/sports/baseball/roster",
+    "https://ritathletics.com/sports/softball/roster",
+    "https://ritathletics.com/sports/mens-tennis/roster",
+    "https://ritathletics.com/sports/womens-tennis/roster",
+    "https://ritathletics.com/sports/womens-volleyball/roster",
+    "https://ritathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ritathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ritathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

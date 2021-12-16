@@ -1,0 +1,149 @@
+{
+  "school": "/schools/colorado-st-pueblo",
+  "base": "https://gothunderwolves.com",
+  "goodList": [
+    "https://gothunderwolves.com/sports/football/roster",
+    "https://gothunderwolves.com/sports/mens-soccer/roster",
+    "https://gothunderwolves.com/sports/womens-soccer/roster",
+    "https://gothunderwolves.com/sports/mens-basketball/roster",
+    "https://gothunderwolves.com/sports/womens-basketball/roster",
+    "https://gothunderwolves.com/sports/womens-swimming-and-diving/roster",
+    "https://gothunderwolves.com/sports/cross-country/roster",
+    "https://gothunderwolves.com/sports/mens-cross-country/roster",
+    "https://gothunderwolves.com/sports/mens-golf/roster",
+    "https://gothunderwolves.com/sports/womens-golf/roster",
+    "https://gothunderwolves.com/sports/mens-lacrosse/roster",
+    "https://gothunderwolves.com/sports/womens-lacrosse/roster",
+    "https://gothunderwolves.com/sports/baseball/roster",
+    "https://gothunderwolves.com/sports/softball/roster",
+    "https://gothunderwolves.com/sports/mens-tennis/roster",
+    "https://gothunderwolves.com/sports/womens-tennis/roster",
+    "https://gothunderwolves.com/sports/womens-volleyball/roster",
+    "https://gothunderwolves.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gothunderwolves.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gothunderwolves.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

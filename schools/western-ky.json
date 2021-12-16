@@ -1,0 +1,161 @@
+{
+  "school": "/schools/western-ky",
+  "base": "https://wkusports.com",
+  "goodList": [
+    "https://wkusports.com/sports/football/roster",
+    "https://wkusports.com/sports/womens-soccer/roster",
+    "https://wkusports.com/sports/mens-basketball/roster",
+    "https://wkusports.com/sports/womens-basketball/roster",
+    "https://wkusports.com/sports/track-and-field/roster",
+    "https://wkusports.com/sports/cross-country/roster",
+    "https://wkusports.com/sports/mens-golf/roster",
+    "https://wkusports.com/sports/womens-golf/roster",
+    "https://wkusports.com/sports/baseball/roster",
+    "https://wkusports.com/sports/softball/roster",
+    "https://wkusports.com/sports/womens-tennis/roster",
+    "https://wkusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wkusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wkusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

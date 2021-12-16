@@ -1,0 +1,159 @@
+{
+  "school": "/schools/montana",
+  "base": "https://gogriz.com",
+  "goodList": [
+    "https://gogriz.com/sports/football/roster",
+    "https://gogriz.com/sports/womens-soccer/roster",
+    "https://gogriz.com/sports/mens-basketball/roster",
+    "https://gogriz.com/sports/womens-basketball/roster",
+    "https://gogriz.com/sports/mens-track-and-field/roster",
+    "https://gogriz.com/sports/womens-track-and-field/roster",
+    "https://gogriz.com/sports/mens-cross-country/roster",
+    "https://gogriz.com/sports/womens-cross-country/roster",
+    "https://gogriz.com/sports/womens-golf/roster",
+    "https://gogriz.com/sports/softball/roster",
+    "https://gogriz.com/sports/mens-tennis/roster",
+    "https://gogriz.com/sports/womens-tennis/roster",
+    "https://gogriz.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gogriz.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gogriz.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

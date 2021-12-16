@@ -1,0 +1,153 @@
+{
+  "school": "/schools/umass-boston",
+  "base": "https://beaconsathletics.com",
+  "goodList": [
+    "https://beaconsathletics.com/sports/mens-soccer/roster",
+    "https://beaconsathletics.com/sports/womens-soccer/roster",
+    "https://beaconsathletics.com/sports/mens-basketball/roster",
+    "https://beaconsathletics.com/sports/womens-basketball/roster",
+    "https://beaconsathletics.com/sports/mens-ice-hockey/roster",
+    "https://beaconsathletics.com/sports/womens-ice-hockey/roster",
+    "https://beaconsathletics.com/sports/mens-track-and-field/roster",
+    "https://beaconsathletics.com/sports/womens-track-and-field/roster",
+    "https://beaconsathletics.com/sports/mens-cross-country/roster",
+    "https://beaconsathletics.com/sports/womens-cross-country/roster",
+    "https://beaconsathletics.com/sports/mens-lacrosse/roster",
+    "https://beaconsathletics.com/sports/baseball/roster",
+    "https://beaconsathletics.com/sports/softball/roster",
+    "https://beaconsathletics.com/sports/mens-tennis/roster",
+    "https://beaconsathletics.com/sports/womens-tennis/roster",
+    "https://beaconsathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://beaconsathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://beaconsathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

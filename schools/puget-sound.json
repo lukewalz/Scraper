@@ -1,0 +1,157 @@
+{
+  "school": "/schools/puget-sound",
+  "base": "https://loggerathletics.com",
+  "goodList": [
+    "https://loggerathletics.com/sports/football/roster",
+    "https://loggerathletics.com/sports/mens-soccer/roster",
+    "https://loggerathletics.com/sports/womens-soccer/roster",
+    "https://loggerathletics.com/sports/mens-basketball/roster",
+    "https://loggerathletics.com/sports/womens-basketball/roster",
+    "https://loggerathletics.com/sports/track-and-field/roster",
+    "https://loggerathletics.com/sports/cross-country/roster",
+    "https://loggerathletics.com/sports/golf/roster",
+    "https://loggerathletics.com/sports/womens-lacrosse/roster",
+    "https://loggerathletics.com/sports/baseball/roster",
+    "https://loggerathletics.com/sports/softball/roster",
+    "https://loggerathletics.com/sports/mens-tennis/roster",
+    "https://loggerathletics.com/sports/womens-tennis/roster",
+    "https://loggerathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://loggerathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://loggerathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

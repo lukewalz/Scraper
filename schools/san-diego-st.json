@@ -1,0 +1,151 @@
+{
+  "school": "/schools/san-diego-st",
+  "base": "https://goaztecs.com",
+  "goodList": [
+    "https://goaztecs.com/sports/football/roster",
+    "https://goaztecs.com/sports/mens-soccer/roster",
+    "https://goaztecs.com/sports/womens-soccer/roster",
+    "https://goaztecs.com/sports/mens-basketball/roster",
+    "https://goaztecs.com/sports/womens-basketball/roster",
+    "https://goaztecs.com/sports/womens-swimming-and-diving/roster",
+    "https://goaztecs.com/sports/womens-track-and-field/roster",
+    "https://goaztecs.com/sports/womens-cross-country/roster",
+    "https://goaztecs.com/sports/mens-golf/roster",
+    "https://goaztecs.com/sports/womens-golf/roster",
+    "https://goaztecs.com/sports/womens-lacrosse/roster",
+    "https://goaztecs.com/sports/baseball/roster",
+    "https://goaztecs.com/sports/softball/roster",
+    "https://goaztecs.com/sports/mens-tennis/roster",
+    "https://goaztecs.com/sports/womens-tennis/roster",
+    "https://goaztecs.com/sports/womens-volleyball/roster",
+    "https://goaztecs.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goaztecs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goaztecs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

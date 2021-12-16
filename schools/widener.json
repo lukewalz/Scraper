@@ -1,0 +1,147 @@
+{
+  "school": "/schools/widener",
+  "base": "https://widenerpride.com",
+  "goodList": [
+    "https://widenerpride.com/sports/football/roster",
+    "https://widenerpride.com/sports/mens-soccer/roster",
+    "https://widenerpride.com/sports/womens-soccer/roster",
+    "https://widenerpride.com/sports/mens-basketball/roster",
+    "https://widenerpride.com/sports/womens-basketball/roster",
+    "https://widenerpride.com/sports/mens-swimming-and-diving/roster",
+    "https://widenerpride.com/sports/womens-swimming-and-diving/roster",
+    "https://widenerpride.com/sports/mens-track-and-field/roster",
+    "https://widenerpride.com/sports/womens-track-and-field/roster",
+    "https://widenerpride.com/sports/mens-cross-country/roster",
+    "https://widenerpride.com/sports/womens-cross-country/roster",
+    "https://widenerpride.com/sports/mens-golf/roster",
+    "https://widenerpride.com/sports/mens-lacrosse/roster",
+    "https://widenerpride.com/sports/womens-lacrosse/roster",
+    "https://widenerpride.com/sports/baseball/roster",
+    "https://widenerpride.com/sports/softball/roster",
+    "https://widenerpride.com/sports/mens-volleyball/roster",
+    "https://widenerpride.com/sports/womens-volleyball/roster",
+    "https://widenerpride.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://widenerpride.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/golf/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/tri/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://widenerpride.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/bethel-mn",
+  "base": "https://athletics.bethel.edu/",
+  "goodList": [
+    "https://athletics.bethel.edu//sports/football/roster",
+    "https://athletics.bethel.edu//sports/mens-soccer/roster",
+    "https://athletics.bethel.edu//sports/womens-soccer/roster",
+    "https://athletics.bethel.edu//sports/mens-basketball/roster",
+    "https://athletics.bethel.edu//sports/womens-basketball/roster",
+    "https://athletics.bethel.edu//sports/mens-ice-hockey/roster",
+    "https://athletics.bethel.edu//sports/womens-ice-hockey/roster",
+    "https://athletics.bethel.edu//sports/mens-track-and-field/roster",
+    "https://athletics.bethel.edu//sports/womens-track-and-field/roster",
+    "https://athletics.bethel.edu//sports/mens-cross-country/roster",
+    "https://athletics.bethel.edu//sports/womens-cross-country/roster",
+    "https://athletics.bethel.edu//sports/mens-golf/roster",
+    "https://athletics.bethel.edu//sports/womens-golf/roster",
+    "https://athletics.bethel.edu//sports/baseball/roster",
+    "https://athletics.bethel.edu//sports/softball/roster",
+    "https://athletics.bethel.edu//sports/mens-tennis/roster",
+    "https://athletics.bethel.edu//sports/womens-tennis/roster",
+    "https://athletics.bethel.edu//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.bethel.edu//sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bethel.edu//sports/mens-field-hockey/roster"
+    }
+  ]
+}

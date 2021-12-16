@@ -1,0 +1,153 @@
+{
+  "school": "/schools/pittsburgh",
+  "base": "https://pittsburghpanthers.com",
+  "goodList": [
+    "https://pittsburghpanthers.com/sports/football/roster",
+    "https://pittsburghpanthers.com/sports/mens-soccer/roster",
+    "https://pittsburghpanthers.com/sports/womens-soccer/roster",
+    "https://pittsburghpanthers.com/sports/mens-basketball/roster",
+    "https://pittsburghpanthers.com/sports/womens-basketball/roster",
+    "https://pittsburghpanthers.com/sports/womens-gymnastics/roster",
+    "https://pittsburghpanthers.com/sports/swimming-and-diving/roster",
+    "https://pittsburghpanthers.com/sports/track-and-field/roster",
+    "https://pittsburghpanthers.com/sports/womens-track-and-field/roster",
+    "https://pittsburghpanthers.com/sports/cross-country/roster",
+    "https://pittsburghpanthers.com/sports/womens-lacrosse/roster",
+    "https://pittsburghpanthers.com/sports/baseball/roster",
+    "https://pittsburghpanthers.com/sports/softball/roster",
+    "https://pittsburghpanthers.com/sports/womens-tennis/roster",
+    "https://pittsburghpanthers.com/sports/womens-volleyball/roster",
+    "https://pittsburghpanthers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pittsburghpanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pittsburghpanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

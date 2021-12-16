@@ -1,0 +1,157 @@
+{
+  "school": "/schools/staten-island",
+  "base": "https://csidolphins.com",
+  "goodList": [
+    "https://csidolphins.com/sports/mens-soccer/roster",
+    "https://csidolphins.com/sports/womens-soccer/roster",
+    "https://csidolphins.com/sports/mens-basketball/roster",
+    "https://csidolphins.com/sports/womens-basketball/roster",
+    "https://csidolphins.com/sports/mens-swimming-and-diving/roster",
+    "https://csidolphins.com/sports/womens-swimming-and-diving/roster",
+    "https://csidolphins.com/sports/mens-cross-country/roster",
+    "https://csidolphins.com/sports/womens-cross-country/roster",
+    "https://csidolphins.com/sports/baseball/roster",
+    "https://csidolphins.com/sports/softball/roster",
+    "https://csidolphins.com/sports/mens-tennis/roster",
+    "https://csidolphins.com/sports/womens-tennis/roster",
+    "https://csidolphins.com/sports/mens-volleyball/roster",
+    "https://csidolphins.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://csidolphins.com/sports/football/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/golf/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/tri/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://csidolphins.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

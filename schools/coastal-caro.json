@@ -1,0 +1,153 @@
+{
+  "school": "/schools/coastal-caro",
+  "base": "https://goccusports.com",
+  "goodList": [
+    "https://goccusports.com/sports/football/roster",
+    "https://goccusports.com/sports/mens-soccer/roster",
+    "https://goccusports.com/sports/womens-soccer/roster",
+    "https://goccusports.com/sports/mens-basketball/roster",
+    "https://goccusports.com/sports/womens-basketball/roster",
+    "https://goccusports.com/sports/track-and-field/roster",
+    "https://goccusports.com/sports/xctrack/roster",
+    "https://goccusports.com/sports/mens-golf/roster",
+    "https://goccusports.com/sports/womens-golf/roster",
+    "https://goccusports.com/sports/womens-lacrosse/roster",
+    "https://goccusports.com/sports/baseball/roster",
+    "https://goccusports.com/sports/softball/roster",
+    "https://goccusports.com/sports/mens-tennis/roster",
+    "https://goccusports.com/sports/womens-tennis/roster",
+    "https://goccusports.com/sports/womens-volleyball/roster",
+    "https://goccusports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goccusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goccusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

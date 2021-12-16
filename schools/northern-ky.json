@@ -1,0 +1,155 @@
+{
+  "school": "/schools/northern-ky",
+  "base": "https://nkunorse.com",
+  "goodList": [
+    "https://nkunorse.com/sports/mens-soccer/roster",
+    "https://nkunorse.com/sports/womens-soccer/roster",
+    "https://nkunorse.com/sports/mens-basketball/roster",
+    "https://nkunorse.com/sports/womens-basketball/roster",
+    "https://nkunorse.com/sports/mens-track-and-field/roster",
+    "https://nkunorse.com/sports/womens-track-and-field/roster",
+    "https://nkunorse.com/sports/mens-cross-country/roster",
+    "https://nkunorse.com/sports/womens-cross-country/roster",
+    "https://nkunorse.com/sports/mens-golf/roster",
+    "https://nkunorse.com/sports/womens-golf/roster",
+    "https://nkunorse.com/sports/baseball/roster",
+    "https://nkunorse.com/sports/softball/roster",
+    "https://nkunorse.com/sports/mens-tennis/roster",
+    "https://nkunorse.com/sports/womens-tennis/roster",
+    "https://nkunorse.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nkunorse.com/sports/football/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nkunorse.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

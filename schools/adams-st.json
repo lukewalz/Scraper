@@ -1,0 +1,151 @@
+{
+  "school": "/schools/adams-st",
+  "base": "https://asugrizzlies.com",
+  "goodList": [
+    "https://asugrizzlies.com/sports/football/roster",
+    "https://asugrizzlies.com/sports/mens-soccer/roster",
+    "https://asugrizzlies.com/sports/womens-soccer/roster",
+    "https://asugrizzlies.com/sports/mens-basketball/roster",
+    "https://asugrizzlies.com/sports/womens-basketball/roster",
+    "https://asugrizzlies.com/sports/womens-swimming-and-diving/roster",
+    "https://asugrizzlies.com/sports/mens-track-and-field/roster",
+    "https://asugrizzlies.com/sports/womens-track-and-field/roster",
+    "https://asugrizzlies.com/sports/mens-cross-country/roster",
+    "https://asugrizzlies.com/sports/womens-cross-country/roster",
+    "https://asugrizzlies.com/sports/womens-golf/roster",
+    "https://asugrizzlies.com/sports/mens-lacrosse/roster",
+    "https://asugrizzlies.com/sports/womens-lacrosse/roster",
+    "https://asugrizzlies.com/sports/baseball/roster",
+    "https://asugrizzlies.com/sports/softball/roster",
+    "https://asugrizzlies.com/sports/womens-volleyball/roster",
+    "https://asugrizzlies.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://asugrizzlies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://asugrizzlies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

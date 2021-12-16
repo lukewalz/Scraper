@@ -1,0 +1,147 @@
+{
+  "school": "/schools/oneonta-st",
+  "base": "https://oneontaathletics.com",
+  "goodList": [
+    "https://oneontaathletics.com/sports/mens-soccer/roster",
+    "https://oneontaathletics.com/sports/womens-soccer/roster",
+    "https://oneontaathletics.com/sports/mens-basketball/roster",
+    "https://oneontaathletics.com/sports/womens-basketball/roster",
+    "https://oneontaathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://oneontaathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://oneontaathletics.com/sports/mens-track-and-field/roster",
+    "https://oneontaathletics.com/sports/womens-track-and-field/roster",
+    "https://oneontaathletics.com/sports/mens-cross-country/roster",
+    "https://oneontaathletics.com/sports/womens-cross-country/roster",
+    "https://oneontaathletics.com/sports/mens-lacrosse/roster",
+    "https://oneontaathletics.com/sports/womens-lacrosse/roster",
+    "https://oneontaathletics.com/sports/baseball/roster",
+    "https://oneontaathletics.com/sports/softball/roster",
+    "https://oneontaathletics.com/sports/mens-tennis/roster",
+    "https://oneontaathletics.com/sports/womens-tennis/roster",
+    "https://oneontaathletics.com/sports/womens-volleyball/roster",
+    "https://oneontaathletics.com/sports/wrestling/roster",
+    "https://oneontaathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://oneontaathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://oneontaathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

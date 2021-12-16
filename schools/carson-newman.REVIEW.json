@@ -1,0 +1,184 @@
+{
+  "school": "/schools/carson-newman",
+  "base": "https://cneagles.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://cneagles.com/sports/football/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/softball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cneagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

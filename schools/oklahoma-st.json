@@ -1,0 +1,161 @@
+{
+  "school": "/schools/oklahoma-st",
+  "base": "https://okstate.com",
+  "goodList": [
+    "https://okstate.com/sports/football/roster",
+    "https://okstate.com/sports/womens-soccer/roster",
+    "https://okstate.com/sports/mens-basketball/roster",
+    "https://okstate.com/sports/womens-basketball/roster",
+    "https://okstate.com/sports/equestrian/roster",
+    "https://okstate.com/sports/mens-golf/roster",
+    "https://okstate.com/sports/womens-golf/roster",
+    "https://okstate.com/sports/baseball/roster",
+    "https://okstate.com/sports/softball/roster",
+    "https://okstate.com/sports/mens-tennis/roster",
+    "https://okstate.com/sports/womens-tennis/roster",
+    "https://okstate.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://okstate.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/golf/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/tri/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://okstate.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/appalachian-st",
+  "base": "https://appstatesports.com",
+  "goodList": [
+    "https://appstatesports.com/sports/football/roster",
+    "https://appstatesports.com/sports/mens-soccer/roster",
+    "https://appstatesports.com/sports/womens-soccer/roster",
+    "https://appstatesports.com/sports/mens-basketball/roster",
+    "https://appstatesports.com/sports/womens-basketball/roster",
+    "https://appstatesports.com/sports/mens-track-and-field/roster",
+    "https://appstatesports.com/sports/womens-track-and-field/roster",
+    "https://appstatesports.com/sports/mens-cross-country/roster",
+    "https://appstatesports.com/sports/womens-cross-country/roster",
+    "https://appstatesports.com/sports/mens-golf/roster",
+    "https://appstatesports.com/sports/womens-golf/roster",
+    "https://appstatesports.com/sports/baseball/roster",
+    "https://appstatesports.com/sports/softball/roster",
+    "https://appstatesports.com/sports/mens-tennis/roster",
+    "https://appstatesports.com/sports/womens-tennis/roster",
+    "https://appstatesports.com/sports/womens-volleyball/roster",
+    "https://appstatesports.com/sports/wrestling/roster",
+    "https://appstatesports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://appstatesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://appstatesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

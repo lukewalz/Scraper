@@ -1,0 +1,151 @@
+{
+  "school": "/schools/utah",
+  "base": "https://utahutes.com",
+  "goodList": [
+    "https://utahutes.com/sports/football/roster",
+    "https://utahutes.com/sports/womens-soccer/roster",
+    "https://utahutes.com/sports/mens-basketball/roster",
+    "https://utahutes.com/sports/womens-basketball/roster",
+    "https://utahutes.com/sports/womens-gymnastics/roster",
+    "https://utahutes.com/sports/mens-swimming-and-diving/roster",
+    "https://utahutes.com/sports/womens-swimming-and-diving/roster",
+    "https://utahutes.com/sports/track-and-field/roster",
+    "https://utahutes.com/sports/cross-country/roster",
+    "https://utahutes.com/sports/mens-golf/roster",
+    "https://utahutes.com/sports/mens-lacrosse/roster",
+    "https://utahutes.com/sports/baseball/roster",
+    "https://utahutes.com/sports/softball/roster",
+    "https://utahutes.com/sports/mens-tennis/roster",
+    "https://utahutes.com/sports/womens-tennis/roster",
+    "https://utahutes.com/sports/womens-volleyball/roster",
+    "https://utahutes.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utahutes.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utahutes.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

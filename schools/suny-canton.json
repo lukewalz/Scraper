@@ -1,0 +1,155 @@
+{
+  "school": "/schools/suny-canton",
+  "base": "https://rooathletics.com",
+  "goodList": [
+    "https://rooathletics.com/sports/mens-soccer/roster",
+    "https://rooathletics.com/sports/womens-soccer/roster",
+    "https://rooathletics.com/sports/mens-basketball/roster",
+    "https://rooathletics.com/sports/womens-basketball/roster",
+    "https://rooathletics.com/sports/mens-ice-hockey/roster",
+    "https://rooathletics.com/sports/womens-ice-hockey/roster",
+    "https://rooathletics.com/sports/mens-cross-country/roster",
+    "https://rooathletics.com/sports/womens-cross-country/roster",
+    "https://rooathletics.com/sports/mens-golf/roster",
+    "https://rooathletics.com/sports/womens-golf/roster",
+    "https://rooathletics.com/sports/mens-lacrosse/roster",
+    "https://rooathletics.com/sports/womens-lacrosse/roster",
+    "https://rooathletics.com/sports/baseball/roster",
+    "https://rooathletics.com/sports/softball/roster",
+    "https://rooathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rooathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rooathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

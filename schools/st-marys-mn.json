@@ -1,0 +1,147 @@
+{
+  "school": "/schools/st-marys-mn",
+  "base": "https://saintmaryssports.com",
+  "goodList": [
+    "https://saintmaryssports.com/sports/mens-soccer/roster",
+    "https://saintmaryssports.com/sports/womens-soccer/roster",
+    "https://saintmaryssports.com/sports/mens-basketball/roster",
+    "https://saintmaryssports.com/sports/womens-basketball/roster",
+    "https://saintmaryssports.com/sports/mens-ice-hockey/roster",
+    "https://saintmaryssports.com/sports/womens-ice-hockey/roster",
+    "https://saintmaryssports.com/sports/mens-swimming-and-diving/roster",
+    "https://saintmaryssports.com/sports/womens-swimming-and-diving/roster",
+    "https://saintmaryssports.com/sports/mens-track-and-field/roster",
+    "https://saintmaryssports.com/sports/womens-track-and-field/roster",
+    "https://saintmaryssports.com/sports/mens-cross-country/roster",
+    "https://saintmaryssports.com/sports/womens-cross-country/roster",
+    "https://saintmaryssports.com/sports/mens-golf/roster",
+    "https://saintmaryssports.com/sports/womens-golf/roster",
+    "https://saintmaryssports.com/sports/baseball/roster",
+    "https://saintmaryssports.com/sports/softball/roster",
+    "https://saintmaryssports.com/sports/mens-tennis/roster",
+    "https://saintmaryssports.com/sports/womens-tennis/roster",
+    "https://saintmaryssports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://saintmaryssports.com/sports/football/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://saintmaryssports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

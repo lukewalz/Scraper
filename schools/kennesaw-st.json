@@ -1,0 +1,153 @@
+{
+  "school": "/schools/kennesaw-st",
+  "base": "https://ksuowls.com",
+  "goodList": [
+    "https://ksuowls.com/sports/football/roster",
+    "https://ksuowls.com/sports/womens-soccer/roster",
+    "https://ksuowls.com/sports/mens-basketball/roster",
+    "https://ksuowls.com/sports/womens-basketball/roster",
+    "https://ksuowls.com/sports/mens-track-and-field/roster",
+    "https://ksuowls.com/sports/womens-track-and-field/roster",
+    "https://ksuowls.com/sports/mens-cross-country/roster",
+    "https://ksuowls.com/sports/womens-cross-country/roster",
+    "https://ksuowls.com/sports/mens-golf/roster",
+    "https://ksuowls.com/sports/womens-golf/roster",
+    "https://ksuowls.com/sports/womens-lacrosse/roster",
+    "https://ksuowls.com/sports/baseball/roster",
+    "https://ksuowls.com/sports/softball/roster",
+    "https://ksuowls.com/sports/mens-tennis/roster",
+    "https://ksuowls.com/sports/womens-tennis/roster",
+    "https://ksuowls.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ksuowls.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ksuowls.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

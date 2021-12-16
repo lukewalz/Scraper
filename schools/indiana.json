@@ -1,0 +1,145 @@
+{
+  "school": "/schools/indiana",
+  "base": "https://iuhoosiers.com",
+  "goodList": [
+    "https://iuhoosiers.com/sports/football/roster",
+    "https://iuhoosiers.com/sports/mens-soccer/roster",
+    "https://iuhoosiers.com/sports/womens-soccer/roster",
+    "https://iuhoosiers.com/sports/mens-basketball/roster",
+    "https://iuhoosiers.com/sports/womens-basketball/roster",
+    "https://iuhoosiers.com/sports/mens-swimming-and-diving/roster",
+    "https://iuhoosiers.com/sports/womens-swimming-and-diving/roster",
+    "https://iuhoosiers.com/sports/track-and-field/roster",
+    "https://iuhoosiers.com/sports/mens-track-and-field/roster",
+    "https://iuhoosiers.com/sports/cross-country/roster",
+    "https://iuhoosiers.com/sports/mens-golf/roster",
+    "https://iuhoosiers.com/sports/womens-golf/roster",
+    "https://iuhoosiers.com/sports/baseball/roster",
+    "https://iuhoosiers.com/sports/softball/roster",
+    "https://iuhoosiers.com/sports/mens-tennis/roster",
+    "https://iuhoosiers.com/sports/womens-tennis/roster",
+    "https://iuhoosiers.com/sports/womens-volleyball/roster",
+    "https://iuhoosiers.com/sports/womens-water-polo/roster",
+    "https://iuhoosiers.com/sports/wrestling/roster",
+    "https://iuhoosiers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://iuhoosiers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://iuhoosiers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

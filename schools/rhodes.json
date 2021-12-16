@@ -1,0 +1,143 @@
+{
+  "school": "/schools/rhodes",
+  "base": "https://rhodeslynx.com",
+  "goodList": [
+    "https://rhodeslynx.com/sports/football/roster",
+    "https://rhodeslynx.com/sports/mens-soccer/roster",
+    "https://rhodeslynx.com/sports/womens-soccer/roster",
+    "https://rhodeslynx.com/sports/mens-basketball/roster",
+    "https://rhodeslynx.com/sports/womens-basketball/roster",
+    "https://rhodeslynx.com/sports/mens-swimming-and-diving/roster",
+    "https://rhodeslynx.com/sports/womens-swimming-and-diving/roster",
+    "https://rhodeslynx.com/sports/mens-track-and-field/roster",
+    "https://rhodeslynx.com/sports/womens-track-and-field/roster",
+    "https://rhodeslynx.com/sports/mens-cross-country/roster",
+    "https://rhodeslynx.com/sports/womens-cross-country/roster",
+    "https://rhodeslynx.com/sports/mens-golf/roster",
+    "https://rhodeslynx.com/sports/womens-golf/roster",
+    "https://rhodeslynx.com/sports/mens-lacrosse/roster",
+    "https://rhodeslynx.com/sports/womens-lacrosse/roster",
+    "https://rhodeslynx.com/sports/baseball/roster",
+    "https://rhodeslynx.com/sports/softball/roster",
+    "https://rhodeslynx.com/sports/mens-tennis/roster",
+    "https://rhodeslynx.com/sports/womens-tennis/roster",
+    "https://rhodeslynx.com/sports/womens-volleyball/roster",
+    "https://rhodeslynx.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rhodeslynx.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rhodeslynx.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

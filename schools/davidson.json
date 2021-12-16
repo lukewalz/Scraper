@@ -1,0 +1,147 @@
+{
+  "school": "/schools/davidson",
+  "base": "https://davidsonwildcats.com",
+  "goodList": [
+    "https://davidsonwildcats.com/sports/football/roster",
+    "https://davidsonwildcats.com/sports/mens-soccer/roster",
+    "https://davidsonwildcats.com/sports/womens-soccer/roster",
+    "https://davidsonwildcats.com/sports/mens-basketball/roster",
+    "https://davidsonwildcats.com/sports/womens-basketball/roster",
+    "https://davidsonwildcats.com/sports/mens-swimming-and-diving/roster",
+    "https://davidsonwildcats.com/sports/womens-swimming-and-diving/roster",
+    "https://davidsonwildcats.com/sports/mens-track-and-field/roster",
+    "https://davidsonwildcats.com/sports/womens-track-and-field/roster",
+    "https://davidsonwildcats.com/sports/mens-cross-country/roster",
+    "https://davidsonwildcats.com/sports/womens-cross-country/roster",
+    "https://davidsonwildcats.com/sports/mens-golf/roster",
+    "https://davidsonwildcats.com/sports/womens-lacrosse/roster",
+    "https://davidsonwildcats.com/sports/baseball/roster",
+    "https://davidsonwildcats.com/sports/mens-tennis/roster",
+    "https://davidsonwildcats.com/sports/womens-tennis/roster",
+    "https://davidsonwildcats.com/sports/womens-volleyball/roster",
+    "https://davidsonwildcats.com/sports/wrestling/roster",
+    "https://davidsonwildcats.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://davidsonwildcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/softball/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://davidsonwildcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

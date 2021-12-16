@@ -1,0 +1,149 @@
+{
+  "school": "/schools/st-anselm",
+  "base": "https://saintanselmhawks.com",
+  "goodList": [
+    "https://saintanselmhawks.com/sports/football/roster",
+    "https://saintanselmhawks.com/sports/mens-soccer/roster",
+    "https://saintanselmhawks.com/sports/womens-soccer/roster",
+    "https://saintanselmhawks.com/sports/mens-basketball/roster",
+    "https://saintanselmhawks.com/sports/womens-basketball/roster",
+    "https://saintanselmhawks.com/sports/mens-ice-hockey/roster",
+    "https://saintanselmhawks.com/sports/womens-ice-hockey/roster",
+    "https://saintanselmhawks.com/sports/mens-cross-country/roster",
+    "https://saintanselmhawks.com/sports/womens-cross-country/roster",
+    "https://saintanselmhawks.com/sports/mens-golf/roster",
+    "https://saintanselmhawks.com/sports/mens-lacrosse/roster",
+    "https://saintanselmhawks.com/sports/womens-lacrosse/roster",
+    "https://saintanselmhawks.com/sports/baseball/roster",
+    "https://saintanselmhawks.com/sports/softball/roster",
+    "https://saintanselmhawks.com/sports/mens-tennis/roster",
+    "https://saintanselmhawks.com/sports/womens-tennis/roster",
+    "https://saintanselmhawks.com/sports/womens-volleyball/roster",
+    "https://saintanselmhawks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://saintanselmhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://saintanselmhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

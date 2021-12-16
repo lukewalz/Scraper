@@ -1,0 +1,145 @@
+{
+  "school": "/schools/monmouth",
+  "base": "https://monmouthhawks.com",
+  "goodList": [
+    "https://monmouthhawks.com/sports/football/roster",
+    "https://monmouthhawks.com/sports/mens-soccer/roster",
+    "https://monmouthhawks.com/sports/womens-soccer/roster",
+    "https://monmouthhawks.com/sports/mens-basketball/roster",
+    "https://monmouthhawks.com/sports/womens-basketball/roster",
+    "https://monmouthhawks.com/sports/mens-swimming-and-diving/roster",
+    "https://monmouthhawks.com/sports/womens-swimming-and-diving/roster",
+    "https://monmouthhawks.com/sports/mens-track-and-field/roster",
+    "https://monmouthhawks.com/sports/womens-track-and-field/roster",
+    "https://monmouthhawks.com/sports/mens-cross-country/roster",
+    "https://monmouthhawks.com/sports/womens-cross-country/roster",
+    "https://monmouthhawks.com/sports/mens-golf/roster",
+    "https://monmouthhawks.com/sports/womens-golf/roster",
+    "https://monmouthhawks.com/sports/mens-lacrosse/roster",
+    "https://monmouthhawks.com/sports/womens-lacrosse/roster",
+    "https://monmouthhawks.com/sports/baseball/roster",
+    "https://monmouthhawks.com/sports/softball/roster",
+    "https://monmouthhawks.com/sports/mens-tennis/roster",
+    "https://monmouthhawks.com/sports/womens-tennis/roster",
+    "https://monmouthhawks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://monmouthhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://monmouthhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

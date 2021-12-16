@@ -1,0 +1,147 @@
+{
+  "school": "/schools/marist",
+  "base": "https://goredfoxes.com",
+  "goodList": [
+    "https://goredfoxes.com/sports/football/roster",
+    "https://goredfoxes.com/sports/mens-soccer/roster",
+    "https://goredfoxes.com/sports/womens-soccer/roster",
+    "https://goredfoxes.com/sports/mens-basketball/roster",
+    "https://goredfoxes.com/sports/womens-basketball/roster",
+    "https://goredfoxes.com/sports/mens-swimming-and-diving/roster",
+    "https://goredfoxes.com/sports/womens-swimming-and-diving/roster",
+    "https://goredfoxes.com/sports/mens-track-and-field/roster",
+    "https://goredfoxes.com/sports/womens-track-and-field/roster",
+    "https://goredfoxes.com/sports/mens-cross-country/roster",
+    "https://goredfoxes.com/sports/womens-cross-country/roster",
+    "https://goredfoxes.com/sports/mens-lacrosse/roster",
+    "https://goredfoxes.com/sports/womens-lacrosse/roster",
+    "https://goredfoxes.com/sports/baseball/roster",
+    "https://goredfoxes.com/sports/softball/roster",
+    "https://goredfoxes.com/sports/mens-tennis/roster",
+    "https://goredfoxes.com/sports/womens-tennis/roster",
+    "https://goredfoxes.com/sports/womens-volleyball/roster",
+    "https://goredfoxes.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goredfoxes.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goredfoxes.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

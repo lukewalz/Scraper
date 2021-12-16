@@ -1,0 +1,159 @@
+{
+  "school": "/schools/st-marys-ca",
+  "base": "https://smcgaels.com",
+  "goodList": [
+    "https://smcgaels.com/sports/mens-soccer/roster",
+    "https://smcgaels.com/sports/womens-soccer/roster",
+    "https://smcgaels.com/sports/mens-basketball/roster",
+    "https://smcgaels.com/sports/womens-basketball/roster",
+    "https://smcgaels.com/sports/track-and-field/roster",
+    "https://smcgaels.com/sports/cross-country/roster",
+    "https://smcgaels.com/sports/mens-golf/roster",
+    "https://smcgaels.com/sports/baseball/roster",
+    "https://smcgaels.com/sports/softball/roster",
+    "https://smcgaels.com/sports/mens-tennis/roster",
+    "https://smcgaels.com/sports/womens-tennis/roster",
+    "https://smcgaels.com/sports/womens-volleyball/roster",
+    "https://smcgaels.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://smcgaels.com/sports/football/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/golf/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/tri/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://smcgaels.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

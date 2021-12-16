@@ -1,0 +1,184 @@
+{
+  "school": "/schools/hollins",
+  "base": "https://hollins.edu/athletics/athletics.htm",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/football/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/bowling/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/fencing/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/rifle/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/skiing/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/golf/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/rowing/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/baseball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/softball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/tennis/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/rugby/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/tri/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hollins.edu/athletics/athletics.htm/sports/mens-field-hockey/roster"
+    }
+  ]
+}

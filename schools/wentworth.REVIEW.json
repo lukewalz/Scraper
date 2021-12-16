@@ -1,0 +1,184 @@
+{
+  "school": "/schools/wentworth",
+  "base": "https://wentworthathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wentworthathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wentworthathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "school": "/schools/florida",
+  "base": "https://floridagators.com",
+  "goodList": [
+    "https://floridagators.com/sports/football/roster",
+    "https://floridagators.com/sports/womens-soccer/roster",
+    "https://floridagators.com/sports/mens-basketball/roster",
+    "https://floridagators.com/sports/womens-basketball/roster",
+    "https://floridagators.com/sports/gymnastics/roster",
+    "https://floridagators.com/sports/womens-gymnastics/roster",
+    "https://floridagators.com/sports/mens-swimming-and-diving/roster",
+    "https://floridagators.com/sports/womens-swimming-and-diving/roster",
+    "https://floridagators.com/sports/track-and-field/roster",
+    "https://floridagators.com/sports/mens-track-and-field/roster",
+    "https://floridagators.com/sports/womens-track-and-field/roster",
+    "https://floridagators.com/sports/cross-country/roster",
+    "https://floridagators.com/sports/mens-golf/roster",
+    "https://floridagators.com/sports/womens-golf/roster",
+    "https://floridagators.com/sports/lacrosse/roster",
+    "https://floridagators.com/sports/womens-lacrosse/roster",
+    "https://floridagators.com/sports/baseball/roster",
+    "https://floridagators.com/sports/softball/roster",
+    "https://floridagators.com/sports/mens-tennis/roster",
+    "https://floridagators.com/sports/womens-tennis/roster",
+    "https://floridagators.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://floridagators.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/golf/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/tri/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://floridagators.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

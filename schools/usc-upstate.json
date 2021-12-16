@@ -1,0 +1,155 @@
+{
+  "school": "/schools/usc-upstate",
+  "base": "https://upstatespartans.com",
+  "goodList": [
+    "https://upstatespartans.com/sports/mens-soccer/roster",
+    "https://upstatespartans.com/sports/womens-soccer/roster",
+    "https://upstatespartans.com/sports/mens-basketball/roster",
+    "https://upstatespartans.com/sports/womens-basketball/roster",
+    "https://upstatespartans.com/sports/track-and-field/roster",
+    "https://upstatespartans.com/sports/cross-country/roster",
+    "https://upstatespartans.com/sports/mens-cross-country/roster",
+    "https://upstatespartans.com/sports/womens-cross-country/roster",
+    "https://upstatespartans.com/sports/mens-golf/roster",
+    "https://upstatespartans.com/sports/womens-golf/roster",
+    "https://upstatespartans.com/sports/baseball/roster",
+    "https://upstatespartans.com/sports/softball/roster",
+    "https://upstatespartans.com/sports/mens-tennis/roster",
+    "https://upstatespartans.com/sports/womens-tennis/roster",
+    "https://upstatespartans.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://upstatespartans.com/sports/football/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://upstatespartans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

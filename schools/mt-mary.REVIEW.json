@@ -1,0 +1,184 @@
+{
+  "school": "/schools/mt-mary",
+  "base": "https://mtmaryathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://mtmaryathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mtmaryathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

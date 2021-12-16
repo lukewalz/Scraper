@@ -1,0 +1,155 @@
+{
+  "school": "/schools/southern-utah",
+  "base": "https://suutbirds.com",
+  "goodList": [
+    "https://suutbirds.com/sports/football/roster",
+    "https://suutbirds.com/sports/womens-soccer/roster",
+    "https://suutbirds.com/sports/mens-basketball/roster",
+    "https://suutbirds.com/sports/womens-basketball/roster",
+    "https://suutbirds.com/sports/womens-gymnastics/roster",
+    "https://suutbirds.com/sports/mens-track-and-field/roster",
+    "https://suutbirds.com/sports/womens-track-and-field/roster",
+    "https://suutbirds.com/sports/mens-cross-country/roster",
+    "https://suutbirds.com/sports/womens-cross-country/roster",
+    "https://suutbirds.com/sports/mens-golf/roster",
+    "https://suutbirds.com/sports/womens-golf/roster",
+    "https://suutbirds.com/sports/softball/roster",
+    "https://suutbirds.com/sports/mens-tennis/roster",
+    "https://suutbirds.com/sports/womens-tennis/roster",
+    "https://suutbirds.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://suutbirds.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/golf/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/tri/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://suutbirds.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

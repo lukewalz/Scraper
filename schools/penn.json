@@ -1,0 +1,139 @@
+{
+  "school": "/schools/penn",
+  "base": "https://pennathletics.com",
+  "goodList": [
+    "https://pennathletics.com/sports/football/roster",
+    "https://pennathletics.com/sports/mens-soccer/roster",
+    "https://pennathletics.com/sports/womens-soccer/roster",
+    "https://pennathletics.com/sports/mens-basketball/roster",
+    "https://pennathletics.com/sports/womens-basketball/roster",
+    "https://pennathletics.com/sports/womens-gymnastics/roster",
+    "https://pennathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://pennathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://pennathletics.com/sports/mens-track-and-field/roster",
+    "https://pennathletics.com/sports/womens-track-and-field/roster",
+    "https://pennathletics.com/sports/mens-cross-country/roster",
+    "https://pennathletics.com/sports/womens-cross-country/roster",
+    "https://pennathletics.com/sports/mens-golf/roster",
+    "https://pennathletics.com/sports/womens-golf/roster",
+    "https://pennathletics.com/sports/mens-lacrosse/roster",
+    "https://pennathletics.com/sports/womens-lacrosse/roster",
+    "https://pennathletics.com/sports/baseball/roster",
+    "https://pennathletics.com/sports/softball/roster",
+    "https://pennathletics.com/sports/mens-tennis/roster",
+    "https://pennathletics.com/sports/womens-tennis/roster",
+    "https://pennathletics.com/sports/womens-volleyball/roster",
+    "https://pennathletics.com/sports/wrestling/roster",
+    "https://pennathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pennathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pennathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

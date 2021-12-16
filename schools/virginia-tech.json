@@ -1,0 +1,151 @@
+{
+  "school": "/schools/virginia-tech",
+  "base": "https://hokiesports.com",
+  "goodList": [
+    "https://hokiesports.com/sports/football/roster",
+    "https://hokiesports.com/sports/mens-soccer/roster",
+    "https://hokiesports.com/sports/womens-soccer/roster",
+    "https://hokiesports.com/sports/mens-basketball/roster",
+    "https://hokiesports.com/sports/womens-basketball/roster",
+    "https://hokiesports.com/sports/swimming-and-diving/roster",
+    "https://hokiesports.com/sports/track-and-field/roster",
+    "https://hokiesports.com/sports/cross-country/roster",
+    "https://hokiesports.com/sports/mens-golf/roster",
+    "https://hokiesports.com/sports/womens-golf/roster",
+    "https://hokiesports.com/sports/womens-lacrosse/roster",
+    "https://hokiesports.com/sports/baseball/roster",
+    "https://hokiesports.com/sports/softball/roster",
+    "https://hokiesports.com/sports/mens-tennis/roster",
+    "https://hokiesports.com/sports/womens-tennis/roster",
+    "https://hokiesports.com/sports/womens-volleyball/roster",
+    "https://hokiesports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hokiesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hokiesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

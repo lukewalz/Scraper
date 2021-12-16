@@ -1,0 +1,161 @@
+{
+  "school": "/schools/bradley",
+  "base": "https://bradleybraves.com",
+  "goodList": [
+    "https://bradleybraves.com/sports/mens-soccer/roster",
+    "https://bradleybraves.com/sports/mens-basketball/roster",
+    "https://bradleybraves.com/sports/womens-basketball/roster",
+    "https://bradleybraves.com/sports/track-and-field/roster",
+    "https://bradleybraves.com/sports/womens-track-and-field/roster",
+    "https://bradleybraves.com/sports/cross-country/roster",
+    "https://bradleybraves.com/sports/mens-golf/roster",
+    "https://bradleybraves.com/sports/womens-golf/roster",
+    "https://bradleybraves.com/sports/baseball/roster",
+    "https://bradleybraves.com/sports/softball/roster",
+    "https://bradleybraves.com/sports/womens-tennis/roster",
+    "https://bradleybraves.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bradleybraves.com/sports/football/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bradleybraves.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/massachusetts",
+  "base": "https://umassathletics.com",
+  "goodList": [
+    "https://umassathletics.com/sports/football/roster",
+    "https://umassathletics.com/sports/mens-soccer/roster",
+    "https://umassathletics.com/sports/womens-soccer/roster",
+    "https://umassathletics.com/sports/mens-basketball/roster",
+    "https://umassathletics.com/sports/womens-basketball/roster",
+    "https://umassathletics.com/sports/mens-ice-hockey/roster",
+    "https://umassathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://umassathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://umassathletics.com/sports/mens-track-and-field/roster",
+    "https://umassathletics.com/sports/womens-track-and-field/roster",
+    "https://umassathletics.com/sports/mens-cross-country/roster",
+    "https://umassathletics.com/sports/womens-cross-country/roster",
+    "https://umassathletics.com/sports/mens-lacrosse/roster",
+    "https://umassathletics.com/sports/womens-lacrosse/roster",
+    "https://umassathletics.com/sports/baseball/roster",
+    "https://umassathletics.com/sports/softball/roster",
+    "https://umassathletics.com/sports/womens-tennis/roster",
+    "https://umassathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umassathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umassathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

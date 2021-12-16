@@ -1,0 +1,137 @@
+{
+  "school": "/schools/lehigh",
+  "base": "https://lehighsports.com",
+  "goodList": [
+    "https://lehighsports.com/sports/football/roster",
+    "https://lehighsports.com/sports/mens-soccer/roster",
+    "https://lehighsports.com/sports/womens-soccer/roster",
+    "https://lehighsports.com/sports/mens-basketball/roster",
+    "https://lehighsports.com/sports/womens-basketball/roster",
+    "https://lehighsports.com/sports/mens-ice-hockey/roster",
+    "https://lehighsports.com/sports/mens-swimming-and-diving/roster",
+    "https://lehighsports.com/sports/womens-swimming-and-diving/roster",
+    "https://lehighsports.com/sports/mens-track-and-field/roster",
+    "https://lehighsports.com/sports/womens-track-and-field/roster",
+    "https://lehighsports.com/sports/mens-cross-country/roster",
+    "https://lehighsports.com/sports/womens-cross-country/roster",
+    "https://lehighsports.com/sports/mens-golf/roster",
+    "https://lehighsports.com/sports/womens-golf/roster",
+    "https://lehighsports.com/sports/mens-lacrosse/roster",
+    "https://lehighsports.com/sports/womens-lacrosse/roster",
+    "https://lehighsports.com/sports/rowing/roster",
+    "https://lehighsports.com/sports/baseball/roster",
+    "https://lehighsports.com/sports/softball/roster",
+    "https://lehighsports.com/sports/mens-tennis/roster",
+    "https://lehighsports.com/sports/womens-tennis/roster",
+    "https://lehighsports.com/sports/womens-volleyball/roster",
+    "https://lehighsports.com/sports/wrestling/roster",
+    "https://lehighsports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lehighsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lehighsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

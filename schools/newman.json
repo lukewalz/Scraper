@@ -1,0 +1,157 @@
+{
+  "school": "/schools/newman",
+  "base": "https://newmanjets.com",
+  "goodList": [
+    "https://newmanjets.com/sports/mens-soccer/roster",
+    "https://newmanjets.com/sports/womens-soccer/roster",
+    "https://newmanjets.com/sports/mens-basketball/roster",
+    "https://newmanjets.com/sports/womens-basketball/roster",
+    "https://newmanjets.com/sports/mens-cross-country/roster",
+    "https://newmanjets.com/sports/womens-cross-country/roster",
+    "https://newmanjets.com/sports/mens-golf/roster",
+    "https://newmanjets.com/sports/womens-golf/roster",
+    "https://newmanjets.com/sports/baseball/roster",
+    "https://newmanjets.com/sports/softball/roster",
+    "https://newmanjets.com/sports/mens-tennis/roster",
+    "https://newmanjets.com/sports/womens-tennis/roster",
+    "https://newmanjets.com/sports/womens-volleyball/roster",
+    "https://newmanjets.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://newmanjets.com/sports/football/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://newmanjets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

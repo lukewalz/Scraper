@@ -1,0 +1,145 @@
+{
+  "school": "/schools/kutztown",
+  "base": "https://kubears.com",
+  "goodList": [
+    "https://kubears.com/sports/football/roster",
+    "https://kubears.com/sports/womens-soccer/roster",
+    "https://kubears.com/sports/mens-basketball/roster",
+    "https://kubears.com/sports/womens-basketball/roster",
+    "https://kubears.com/sports/womens-swimming-and-diving/roster",
+    "https://kubears.com/sports/mens-track-and-field/roster",
+    "https://kubears.com/sports/womens-track-and-field/roster",
+    "https://kubears.com/sports/mens-cross-country/roster",
+    "https://kubears.com/sports/womens-cross-country/roster",
+    "https://kubears.com/sports/womens-golf/roster",
+    "https://kubears.com/sports/womens-lacrosse/roster",
+    "https://kubears.com/sports/baseball/roster",
+    "https://kubears.com/sports/softball/roster",
+    "https://kubears.com/sports/mens-tennis/roster",
+    "https://kubears.com/sports/womens-tennis/roster",
+    "https://kubears.com/sports/womens-volleyball/roster",
+    "https://kubears.com/sports/wrestling/roster",
+    "https://kubears.com/sports/mens-rugby/roster",
+    "https://kubears.com/sports/womens-rugby/roster",
+    "https://kubears.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://kubears.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kubears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

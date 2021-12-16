@@ -1,0 +1,161 @@
+{
+  "school": "/schools/eckerd",
+  "base": "https://eckerdtritons.com",
+  "goodList": [
+    "https://eckerdtritons.com/sports/mens-soccer/roster",
+    "https://eckerdtritons.com/sports/womens-soccer/roster",
+    "https://eckerdtritons.com/sports/mens-basketball/roster",
+    "https://eckerdtritons.com/sports/womens-basketball/roster",
+    "https://eckerdtritons.com/sports/mens-golf/roster",
+    "https://eckerdtritons.com/sports/womens-golf/roster",
+    "https://eckerdtritons.com/sports/baseball/roster",
+    "https://eckerdtritons.com/sports/softball/roster",
+    "https://eckerdtritons.com/sports/mens-tennis/roster",
+    "https://eckerdtritons.com/sports/womens-tennis/roster",
+    "https://eckerdtritons.com/sports/womens-volleyball/roster",
+    "https://eckerdtritons.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://eckerdtritons.com/sports/football/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://eckerdtritons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

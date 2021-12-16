@@ -1,0 +1,167 @@
+{
+  "school": "/schools/western-nm",
+  "base": "https://wnmumustangs.com",
+  "goodList": [
+    "https://wnmumustangs.com/sports/football/roster",
+    "https://wnmumustangs.com/sports/mens-basketball/roster",
+    "https://wnmumustangs.com/sports/womens-basketball/roster",
+    "https://wnmumustangs.com/sports/mens-cross-country/roster",
+    "https://wnmumustangs.com/sports/womens-cross-country/roster",
+    "https://wnmumustangs.com/sports/mens-golf/roster",
+    "https://wnmumustangs.com/sports/womens-golf/roster",
+    "https://wnmumustangs.com/sports/softball/roster",
+    "https://wnmumustangs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wnmumustangs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wnmumustangs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

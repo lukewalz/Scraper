@@ -1,0 +1,145 @@
+{
+  "school": "/schools/delaware",
+  "base": "https://bluehens.com",
+  "goodList": [
+    "https://bluehens.com/sports/football/roster",
+    "https://bluehens.com/sports/mens-soccer/roster",
+    "https://bluehens.com/sports/womens-soccer/roster",
+    "https://bluehens.com/sports/mens-basketball/roster",
+    "https://bluehens.com/sports/womens-basketball/roster",
+    "https://bluehens.com/sports/mens-swimming-and-diving/roster",
+    "https://bluehens.com/sports/womens-swimming-and-diving/roster",
+    "https://bluehens.com/sports/track-and-field/roster",
+    "https://bluehens.com/sports/womens-cross-country/roster",
+    "https://bluehens.com/sports/mens-golf/roster",
+    "https://bluehens.com/sports/womens-golf/roster",
+    "https://bluehens.com/sports/mens-lacrosse/roster",
+    "https://bluehens.com/sports/womens-lacrosse/roster",
+    "https://bluehens.com/sports/rowing/roster",
+    "https://bluehens.com/sports/baseball/roster",
+    "https://bluehens.com/sports/softball/roster",
+    "https://bluehens.com/sports/mens-tennis/roster",
+    "https://bluehens.com/sports/womens-tennis/roster",
+    "https://bluehens.com/sports/womens-volleyball/roster",
+    "https://bluehens.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bluehens.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bluehens.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

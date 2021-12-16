@@ -1,0 +1,149 @@
+{
+  "school": "/schools/kent-st",
+  "base": "https://kentstatesports.com",
+  "goodList": [
+    "https://kentstatesports.com/sports/football/roster",
+    "https://kentstatesports.com/sports/womens-soccer/roster",
+    "https://kentstatesports.com/sports/mens-basketball/roster",
+    "https://kentstatesports.com/sports/womens-basketball/roster",
+    "https://kentstatesports.com/sports/gymnastics/roster",
+    "https://kentstatesports.com/sports/womens-gymnastics/roster",
+    "https://kentstatesports.com/sports/track-and-field/roster",
+    "https://kentstatesports.com/sports/mens-track-and-field/roster",
+    "https://kentstatesports.com/sports/womens-track-and-field/roster",
+    "https://kentstatesports.com/sports/cross-country/roster",
+    "https://kentstatesports.com/sports/mens-golf/roster",
+    "https://kentstatesports.com/sports/womens-golf/roster",
+    "https://kentstatesports.com/sports/womens-lacrosse/roster",
+    "https://kentstatesports.com/sports/baseball/roster",
+    "https://kentstatesports.com/sports/softball/roster",
+    "https://kentstatesports.com/sports/womens-volleyball/roster",
+    "https://kentstatesports.com/sports/wrestling/roster",
+    "https://kentstatesports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://kentstatesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kentstatesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

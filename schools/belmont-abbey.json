@@ -1,0 +1,143 @@
+{
+  "school": "/schools/belmont-abbey",
+  "base": "https://abbeyathletics.com",
+  "goodList": [
+    "https://abbeyathletics.com/sports/mens-soccer/roster",
+    "https://abbeyathletics.com/sports/womens-soccer/roster",
+    "https://abbeyathletics.com/sports/mens-basketball/roster",
+    "https://abbeyathletics.com/sports/womens-basketball/roster",
+    "https://abbeyathletics.com/sports/mens-track-and-field/roster",
+    "https://abbeyathletics.com/sports/womens-track-and-field/roster",
+    "https://abbeyathletics.com/sports/mens-cross-country/roster",
+    "https://abbeyathletics.com/sports/womens-cross-country/roster",
+    "https://abbeyathletics.com/sports/golf/roster",
+    "https://abbeyathletics.com/sports/womens-golf/roster",
+    "https://abbeyathletics.com/sports/mens-lacrosse/roster",
+    "https://abbeyathletics.com/sports/womens-lacrosse/roster",
+    "https://abbeyathletics.com/sports/baseball/roster",
+    "https://abbeyathletics.com/sports/softball/roster",
+    "https://abbeyathletics.com/sports/mens-tennis/roster",
+    "https://abbeyathletics.com/sports/womens-tennis/roster",
+    "https://abbeyathletics.com/sports/mens-volleyball/roster",
+    "https://abbeyathletics.com/sports/womens-volleyball/roster",
+    "https://abbeyathletics.com/sports/wrestling/roster",
+    "https://abbeyathletics.com/sports/mens-rugby/roster",
+    "https://abbeyathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://abbeyathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://abbeyathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

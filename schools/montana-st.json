@@ -1,0 +1,163 @@
+{
+  "school": "/schools/montana-st",
+  "base": "https://msubobcats.com",
+  "goodList": [
+    "https://msubobcats.com/sports/football/roster",
+    "https://msubobcats.com/sports/mens-basketball/roster",
+    "https://msubobcats.com/sports/womens-basketball/roster",
+    "https://msubobcats.com/sports/mens-track-and-field/roster",
+    "https://msubobcats.com/sports/womens-track-and-field/roster",
+    "https://msubobcats.com/sports/mens-cross-country/roster",
+    "https://msubobcats.com/sports/womens-cross-country/roster",
+    "https://msubobcats.com/sports/womens-golf/roster",
+    "https://msubobcats.com/sports/mens-tennis/roster",
+    "https://msubobcats.com/sports/womens-tennis/roster",
+    "https://msubobcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://msubobcats.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/softball/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://msubobcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

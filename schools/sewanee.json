@@ -1,0 +1,141 @@
+{
+  "school": "/schools/sewanee",
+  "base": "https://sewaneetigers.com/",
+  "goodList": [
+    "https://sewaneetigers.com//sports/football/roster",
+    "https://sewaneetigers.com//sports/mens-soccer/roster",
+    "https://sewaneetigers.com//sports/womens-soccer/roster",
+    "https://sewaneetigers.com//sports/mens-basketball/roster",
+    "https://sewaneetigers.com//sports/womens-basketball/roster",
+    "https://sewaneetigers.com//sports/mens-swimming-and-diving/roster",
+    "https://sewaneetigers.com//sports/womens-swimming-and-diving/roster",
+    "https://sewaneetigers.com//sports/mens-track-and-field/roster",
+    "https://sewaneetigers.com//sports/womens-track-and-field/roster",
+    "https://sewaneetigers.com//sports/mens-cross-country/roster",
+    "https://sewaneetigers.com//sports/womens-cross-country/roster",
+    "https://sewaneetigers.com//sports/equestrian/roster",
+    "https://sewaneetigers.com//sports/mens-golf/roster",
+    "https://sewaneetigers.com//sports/womens-golf/roster",
+    "https://sewaneetigers.com//sports/mens-lacrosse/roster",
+    "https://sewaneetigers.com//sports/womens-lacrosse/roster",
+    "https://sewaneetigers.com//sports/baseball/roster",
+    "https://sewaneetigers.com//sports/softball/roster",
+    "https://sewaneetigers.com//sports/mens-tennis/roster",
+    "https://sewaneetigers.com//sports/womens-tennis/roster",
+    "https://sewaneetigers.com//sports/womens-volleyball/roster",
+    "https://sewaneetigers.com//sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sewaneetigers.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/golf/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/tri/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sewaneetigers.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

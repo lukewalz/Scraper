@@ -1,0 +1,149 @@
+{
+  "school": "/schools/siena",
+  "base": "https://sienasaints.com",
+  "goodList": [
+    "https://sienasaints.com/sports/mens-soccer/roster",
+    "https://sienasaints.com/sports/womens-soccer/roster",
+    "https://sienasaints.com/sports/mens-basketball/roster",
+    "https://sienasaints.com/sports/womens-basketball/roster",
+    "https://sienasaints.com/sports/womens-swimming-and-diving/roster",
+    "https://sienasaints.com/sports/cross-country/roster",
+    "https://sienasaints.com/sports/xctrack/roster",
+    "https://sienasaints.com/sports/mens-golf/roster",
+    "https://sienasaints.com/sports/womens-golf/roster",
+    "https://sienasaints.com/sports/mens-lacrosse/roster",
+    "https://sienasaints.com/sports/womens-lacrosse/roster",
+    "https://sienasaints.com/sports/baseball/roster",
+    "https://sienasaints.com/sports/softball/roster",
+    "https://sienasaints.com/sports/mens-tennis/roster",
+    "https://sienasaints.com/sports/womens-tennis/roster",
+    "https://sienasaints.com/sports/womens-volleyball/roster",
+    "https://sienasaints.com/sports/womens-water-polo/roster",
+    "https://sienasaints.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sienasaints.com/sports/football/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/golf/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sienasaints.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

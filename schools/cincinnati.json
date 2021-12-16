@@ -1,0 +1,157 @@
+{
+  "school": "/schools/cincinnati",
+  "base": "https://gobearcats.com",
+  "goodList": [
+    "https://gobearcats.com/sports/football/roster",
+    "https://gobearcats.com/sports/mens-soccer/roster",
+    "https://gobearcats.com/sports/womens-soccer/roster",
+    "https://gobearcats.com/sports/mens-basketball/roster",
+    "https://gobearcats.com/sports/womens-basketball/roster",
+    "https://gobearcats.com/sports/swimming-and-diving/roster",
+    "https://gobearcats.com/sports/track-and-field/roster",
+    "https://gobearcats.com/sports/cross-country/roster",
+    "https://gobearcats.com/sports/mens-golf/roster",
+    "https://gobearcats.com/sports/womens-golf/roster",
+    "https://gobearcats.com/sports/womens-lacrosse/roster",
+    "https://gobearcats.com/sports/baseball/roster",
+    "https://gobearcats.com/sports/womens-tennis/roster",
+    "https://gobearcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobearcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gobearcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

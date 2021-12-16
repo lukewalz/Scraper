@@ -1,0 +1,131 @@
+{
+  "school": "/schools/mckendree",
+  "base": "https://mckbearcats.com",
+  "goodList": [
+    "https://mckbearcats.com/sports/football/roster",
+    "https://mckbearcats.com/sports/mens-soccer/roster",
+    "https://mckbearcats.com/sports/womens-soccer/roster",
+    "https://mckbearcats.com/sports/mens-basketball/roster",
+    "https://mckbearcats.com/sports/womens-basketball/roster",
+    "https://mckbearcats.com/sports/fencing/roster",
+    "https://mckbearcats.com/sports/mens-ice-hockey/roster",
+    "https://mckbearcats.com/sports/womens-ice-hockey/roster",
+    "https://mckbearcats.com/sports/mens-swimming-and-diving/roster",
+    "https://mckbearcats.com/sports/womens-swimming-and-diving/roster",
+    "https://mckbearcats.com/sports/mens-track-and-field/roster",
+    "https://mckbearcats.com/sports/womens-track-and-field/roster",
+    "https://mckbearcats.com/sports/mens-cross-country/roster",
+    "https://mckbearcats.com/sports/womens-cross-country/roster",
+    "https://mckbearcats.com/sports/mens-golf/roster",
+    "https://mckbearcats.com/sports/womens-golf/roster",
+    "https://mckbearcats.com/sports/womens-lacrosse/roster",
+    "https://mckbearcats.com/sports/baseball/roster",
+    "https://mckbearcats.com/sports/softball/roster",
+    "https://mckbearcats.com/sports/mens-tennis/roster",
+    "https://mckbearcats.com/sports/womens-tennis/roster",
+    "https://mckbearcats.com/sports/mens-volleyball/roster",
+    "https://mckbearcats.com/sports/womens-volleyball/roster",
+    "https://mckbearcats.com/sports/mens-water-polo/roster",
+    "https://mckbearcats.com/sports/womens-water-polo/roster",
+    "https://mckbearcats.com/sports/mwrest/roster",
+    "https://mckbearcats.com/sports/wwrest/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mckbearcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mckbearcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

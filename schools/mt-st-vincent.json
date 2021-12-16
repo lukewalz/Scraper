@@ -1,0 +1,157 @@
+{
+  "school": "/schools/mt-st-vincent",
+  "base": "https://cmsvathletics.com",
+  "goodList": [
+    "https://cmsvathletics.com/sports/mens-soccer/roster",
+    "https://cmsvathletics.com/sports/womens-soccer/roster",
+    "https://cmsvathletics.com/sports/mens-basketball/roster",
+    "https://cmsvathletics.com/sports/womens-basketball/roster",
+    "https://cmsvathletics.com/sports/cross-country/roster",
+    "https://cmsvathletics.com/sports/womens-cross-country/roster",
+    "https://cmsvathletics.com/sports/golf/roster",
+    "https://cmsvathletics.com/sports/mens-lacrosse/roster",
+    "https://cmsvathletics.com/sports/womens-lacrosse/roster",
+    "https://cmsvathletics.com/sports/baseball/roster",
+    "https://cmsvathletics.com/sports/softball/roster",
+    "https://cmsvathletics.com/sports/mens-volleyball/roster",
+    "https://cmsvathletics.com/sports/womens-volleyball/roster",
+    "https://cmsvathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cmsvathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cmsvathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

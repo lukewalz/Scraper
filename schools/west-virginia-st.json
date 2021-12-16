@@ -1,0 +1,161 @@
+{
+  "school": "/schools/west-virginia-st",
+  "base": "https://wvsuyellowjackets.com",
+  "goodList": [
+    "https://wvsuyellowjackets.com/sports/football/roster",
+    "https://wvsuyellowjackets.com/sports/womens-soccer/roster",
+    "https://wvsuyellowjackets.com/sports/mens-basketball/roster",
+    "https://wvsuyellowjackets.com/sports/womens-basketball/roster",
+    "https://wvsuyellowjackets.com/sports/mens-track-and-field/roster",
+    "https://wvsuyellowjackets.com/sports/womens-cross-country/roster",
+    "https://wvsuyellowjackets.com/sports/mens-golf/roster",
+    "https://wvsuyellowjackets.com/sports/baseball/roster",
+    "https://wvsuyellowjackets.com/sports/softball/roster",
+    "https://wvsuyellowjackets.com/sports/mens-tennis/roster",
+    "https://wvsuyellowjackets.com/sports/womens-tennis/roster",
+    "https://wvsuyellowjackets.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wvsuyellowjackets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

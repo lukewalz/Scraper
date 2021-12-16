@@ -1,0 +1,139 @@
+{
+  "school": "/schools/st-lawrence",
+  "base": "https://saintsathletics.com",
+  "goodList": [
+    "https://saintsathletics.com/sports/football/roster",
+    "https://saintsathletics.com/sports/mens-soccer/roster",
+    "https://saintsathletics.com/sports/womens-soccer/roster",
+    "https://saintsathletics.com/sports/mens-basketball/roster",
+    "https://saintsathletics.com/sports/womens-basketball/roster",
+    "https://saintsathletics.com/sports/mens-ice-hockey/roster",
+    "https://saintsathletics.com/sports/womens-ice-hockey/roster",
+    "https://saintsathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://saintsathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://saintsathletics.com/sports/mens-track-and-field/roster",
+    "https://saintsathletics.com/sports/womens-track-and-field/roster",
+    "https://saintsathletics.com/sports/mens-cross-country/roster",
+    "https://saintsathletics.com/sports/womens-cross-country/roster",
+    "https://saintsathletics.com/sports/mens-golf/roster",
+    "https://saintsathletics.com/sports/womens-golf/roster",
+    "https://saintsathletics.com/sports/mens-lacrosse/roster",
+    "https://saintsathletics.com/sports/womens-lacrosse/roster",
+    "https://saintsathletics.com/sports/baseball/roster",
+    "https://saintsathletics.com/sports/softball/roster",
+    "https://saintsathletics.com/sports/mens-tennis/roster",
+    "https://saintsathletics.com/sports/womens-tennis/roster",
+    "https://saintsathletics.com/sports/womens-volleyball/roster",
+    "https://saintsathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://saintsathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://saintsathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

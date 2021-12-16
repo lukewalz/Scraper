@@ -1,0 +1,149 @@
+{
+  "school": "/schools/lander",
+  "base": "https://landerbearcats.com",
+  "goodList": [
+    "https://landerbearcats.com/sports/mens-soccer/roster",
+    "https://landerbearcats.com/sports/womens-soccer/roster",
+    "https://landerbearcats.com/sports/mens-basketball/roster",
+    "https://landerbearcats.com/sports/womens-basketball/roster",
+    "https://landerbearcats.com/sports/mens-cross-country/roster",
+    "https://landerbearcats.com/sports/womens-cross-country/roster",
+    "https://landerbearcats.com/sports/mens-golf/roster",
+    "https://landerbearcats.com/sports/womens-golf/roster",
+    "https://landerbearcats.com/sports/mens-lacrosse/roster",
+    "https://landerbearcats.com/sports/womens-lacrosse/roster",
+    "https://landerbearcats.com/sports/baseball/roster",
+    "https://landerbearcats.com/sports/softball/roster",
+    "https://landerbearcats.com/sports/mens-tennis/roster",
+    "https://landerbearcats.com/sports/womens-tennis/roster",
+    "https://landerbearcats.com/sports/womens-volleyball/roster",
+    "https://landerbearcats.com/sports/wrestling/roster",
+    "https://landerbearcats.com/sports/mens-rugby/roster",
+    "https://landerbearcats.com/sports/womens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://landerbearcats.com/sports/football/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://landerbearcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

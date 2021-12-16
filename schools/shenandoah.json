@@ -1,0 +1,149 @@
+{
+  "school": "/schools/shenandoah",
+  "base": "https://suhornets.com",
+  "goodList": [
+    "https://suhornets.com/sports/football/roster",
+    "https://suhornets.com/sports/mens-soccer/roster",
+    "https://suhornets.com/sports/womens-soccer/roster",
+    "https://suhornets.com/sports/mens-basketball/roster",
+    "https://suhornets.com/sports/womens-basketball/roster",
+    "https://suhornets.com/sports/track-and-field/roster",
+    "https://suhornets.com/sports/cross-country/roster",
+    "https://suhornets.com/sports/mens-golf/roster",
+    "https://suhornets.com/sports/womens-golf/roster",
+    "https://suhornets.com/sports/mens-lacrosse/roster",
+    "https://suhornets.com/sports/womens-lacrosse/roster",
+    "https://suhornets.com/sports/baseball/roster",
+    "https://suhornets.com/sports/softball/roster",
+    "https://suhornets.com/sports/mens-tennis/roster",
+    "https://suhornets.com/sports/womens-tennis/roster",
+    "https://suhornets.com/sports/womens-volleyball/roster",
+    "https://suhornets.com/sports/wrestling/roster",
+    "https://suhornets.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://suhornets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://suhornets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

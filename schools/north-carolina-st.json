@@ -1,0 +1,149 @@
+{
+  "school": "/schools/north-carolina-st",
+  "base": "https://gopack.com",
+  "goodList": [
+    "https://gopack.com/sports/football/roster",
+    "https://gopack.com/sports/mens-soccer/roster",
+    "https://gopack.com/sports/womens-soccer/roster",
+    "https://gopack.com/sports/mens-basketball/roster",
+    "https://gopack.com/sports/womens-basketball/roster",
+    "https://gopack.com/sports/womens-gymnastics/roster",
+    "https://gopack.com/sports/rifle/roster",
+    "https://gopack.com/sports/swimming-and-diving/roster",
+    "https://gopack.com/sports/track-and-field/roster",
+    "https://gopack.com/sports/cross-country/roster",
+    "https://gopack.com/sports/mens-golf/roster",
+    "https://gopack.com/sports/womens-golf/roster",
+    "https://gopack.com/sports/baseball/roster",
+    "https://gopack.com/sports/softball/roster",
+    "https://gopack.com/sports/mens-tennis/roster",
+    "https://gopack.com/sports/womens-tennis/roster",
+    "https://gopack.com/sports/womens-volleyball/roster",
+    "https://gopack.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gopack.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopack.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

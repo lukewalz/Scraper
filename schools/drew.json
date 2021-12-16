@@ -1,0 +1,149 @@
+{
+  "school": "/schools/drew",
+  "base": "https://drewrangers.com",
+  "goodList": [
+    "https://drewrangers.com/sports/mens-soccer/roster",
+    "https://drewrangers.com/sports/womens-soccer/roster",
+    "https://drewrangers.com/sports/mens-basketball/roster",
+    "https://drewrangers.com/sports/womens-basketball/roster",
+    "https://drewrangers.com/sports/mens-swimming-and-diving/roster",
+    "https://drewrangers.com/sports/womens-swimming-and-diving/roster",
+    "https://drewrangers.com/sports/mens-cross-country/roster",
+    "https://drewrangers.com/sports/womens-cross-country/roster",
+    "https://drewrangers.com/sports/equestrian/roster",
+    "https://drewrangers.com/sports/mens-golf/roster",
+    "https://drewrangers.com/sports/womens-golf/roster",
+    "https://drewrangers.com/sports/mens-lacrosse/roster",
+    "https://drewrangers.com/sports/womens-lacrosse/roster",
+    "https://drewrangers.com/sports/baseball/roster",
+    "https://drewrangers.com/sports/softball/roster",
+    "https://drewrangers.com/sports/mens-tennis/roster",
+    "https://drewrangers.com/sports/womens-tennis/roster",
+    "https://drewrangers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://drewrangers.com/sports/football/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://drewrangers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

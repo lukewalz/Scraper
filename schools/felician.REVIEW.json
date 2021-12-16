@@ -1,0 +1,184 @@
+{
+  "school": "/schools/felician",
+  "base": "https://felicianathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://felicianathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://felicianathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "school": "/schools/cal-poly",
+  "base": "https://gopoly.com",
+  "goodList": [
+    "https://gopoly.com/sports/football/roster",
+    "https://gopoly.com/sports/mens-soccer/roster",
+    "https://gopoly.com/sports/womens-soccer/roster",
+    "https://gopoly.com/sports/mens-basketball/roster",
+    "https://gopoly.com/sports/womens-basketball/roster",
+    "https://gopoly.com/sports/swimming-and-diving/roster",
+    "https://gopoly.com/sports/track-and-field/roster",
+    "https://gopoly.com/sports/cross-country/roster",
+    "https://gopoly.com/sports/mens-golf/roster",
+    "https://gopoly.com/sports/womens-golf/roster",
+    "https://gopoly.com/sports/baseball/roster",
+    "https://gopoly.com/sports/softball/roster",
+    "https://gopoly.com/sports/mens-tennis/roster",
+    "https://gopoly.com/sports/womens-tennis/roster",
+    "https://gopoly.com/sports/womens-volleyball/roster",
+    "https://gopoly.com/sports/womens-beach-volleyball/roster",
+    "https://gopoly.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gopoly.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopoly.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

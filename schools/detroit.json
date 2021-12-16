@@ -1,0 +1,155 @@
+{
+  "school": "/schools/detroit",
+  "base": "https://detroittitans.com",
+  "goodList": [
+    "https://detroittitans.com/sports/mens-soccer/roster",
+    "https://detroittitans.com/sports/womens-soccer/roster",
+    "https://detroittitans.com/sports/mens-basketball/roster",
+    "https://detroittitans.com/sports/womens-basketball/roster",
+    "https://detroittitans.com/sports/mens-track-and-field/roster",
+    "https://detroittitans.com/sports/womens-track-and-field/roster",
+    "https://detroittitans.com/sports/mens-cross-country/roster",
+    "https://detroittitans.com/sports/womens-cross-country/roster",
+    "https://detroittitans.com/sports/mens-golf/roster",
+    "https://detroittitans.com/sports/womens-golf/roster",
+    "https://detroittitans.com/sports/mens-lacrosse/roster",
+    "https://detroittitans.com/sports/womens-lacrosse/roster",
+    "https://detroittitans.com/sports/softball/roster",
+    "https://detroittitans.com/sports/mens-tennis/roster",
+    "https://detroittitans.com/sports/womens-tennis/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://detroittitans.com/sports/football/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://detroittitans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

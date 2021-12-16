@@ -1,0 +1,147 @@
+{
+  "school": "/schools/east-stroudsburg",
+  "base": "https://esuwarriors.com",
+  "goodList": [
+    "https://esuwarriors.com/sports/football/roster",
+    "https://esuwarriors.com/sports/mens-soccer/roster",
+    "https://esuwarriors.com/sports/womens-soccer/roster",
+    "https://esuwarriors.com/sports/mens-basketball/roster",
+    "https://esuwarriors.com/sports/womens-basketball/roster",
+    "https://esuwarriors.com/sports/womens-swimming-and-diving/roster",
+    "https://esuwarriors.com/sports/mens-track-and-field/roster",
+    "https://esuwarriors.com/sports/womens-track-and-field/roster",
+    "https://esuwarriors.com/sports/mens-cross-country/roster",
+    "https://esuwarriors.com/sports/womens-cross-country/roster",
+    "https://esuwarriors.com/sports/womens-golf/roster",
+    "https://esuwarriors.com/sports/womens-lacrosse/roster",
+    "https://esuwarriors.com/sports/baseball/roster",
+    "https://esuwarriors.com/sports/softball/roster",
+    "https://esuwarriors.com/sports/mens-tennis/roster",
+    "https://esuwarriors.com/sports/womens-tennis/roster",
+    "https://esuwarriors.com/sports/womens-volleyball/roster",
+    "https://esuwarriors.com/sports/wrestling/roster",
+    "https://esuwarriors.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://esuwarriors.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/golf/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/tri/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://esuwarriors.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

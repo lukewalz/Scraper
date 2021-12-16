@@ -1,0 +1,143 @@
+{
+  "school": "/schools/berry",
+  "base": "https://berryvikings.com",
+  "goodList": [
+    "https://berryvikings.com/sports/football/roster",
+    "https://berryvikings.com/sports/mens-soccer/roster",
+    "https://berryvikings.com/sports/womens-soccer/roster",
+    "https://berryvikings.com/sports/mens-basketball/roster",
+    "https://berryvikings.com/sports/womens-basketball/roster",
+    "https://berryvikings.com/sports/mens-swimming-and-diving/roster",
+    "https://berryvikings.com/sports/womens-swimming-and-diving/roster",
+    "https://berryvikings.com/sports/mens-track-and-field/roster",
+    "https://berryvikings.com/sports/womens-track-and-field/roster",
+    "https://berryvikings.com/sports/mens-cross-country/roster",
+    "https://berryvikings.com/sports/womens-cross-country/roster",
+    "https://berryvikings.com/sports/equestrian/roster",
+    "https://berryvikings.com/sports/mens-golf/roster",
+    "https://berryvikings.com/sports/womens-golf/roster",
+    "https://berryvikings.com/sports/mens-lacrosse/roster",
+    "https://berryvikings.com/sports/womens-lacrosse/roster",
+    "https://berryvikings.com/sports/baseball/roster",
+    "https://berryvikings.com/sports/softball/roster",
+    "https://berryvikings.com/sports/mens-tennis/roster",
+    "https://berryvikings.com/sports/womens-tennis/roster",
+    "https://berryvikings.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://berryvikings.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/golf/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/tri/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://berryvikings.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

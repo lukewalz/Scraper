@@ -1,0 +1,184 @@
+{
+  "school": "/schools/pace",
+  "base": "https://pacesettersathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://pacesettersathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pacesettersathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/pitt-johnstown",
+  "base": "https://pittjohnstownathletics.com/",
+  "goodList": [
+    "https://pittjohnstownathletics.com//sports/mens-soccer/roster",
+    "https://pittjohnstownathletics.com//sports/womens-soccer/roster",
+    "https://pittjohnstownathletics.com//sports/mens-basketball/roster",
+    "https://pittjohnstownathletics.com//sports/womens-basketball/roster",
+    "https://pittjohnstownathletics.com//sports/mens-track-and-field/roster",
+    "https://pittjohnstownathletics.com//sports/womens-track-and-field/roster",
+    "https://pittjohnstownathletics.com//sports/mens-cross-country/roster",
+    "https://pittjohnstownathletics.com//sports/womens-cross-country/roster",
+    "https://pittjohnstownathletics.com//sports/mens-golf/roster",
+    "https://pittjohnstownathletics.com//sports/baseball/roster",
+    "https://pittjohnstownathletics.com//sports/softball/roster",
+    "https://pittjohnstownathletics.com//sports/womens-volleyball/roster",
+    "https://pittjohnstownathletics.com//sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pittjohnstownathletics.com//sports/football/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/golf/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/tri/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pittjohnstownathletics.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

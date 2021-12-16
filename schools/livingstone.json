@@ -1,0 +1,163 @@
+{
+  "school": "/schools/livingstone",
+  "base": "https://bluebearathletics.com",
+  "goodList": [
+    "https://bluebearathletics.com/sports/football/roster",
+    "https://bluebearathletics.com/sports/mens-basketball/roster",
+    "https://bluebearathletics.com/sports/womens-basketball/roster",
+    "https://bluebearathletics.com/sports/mens-track-and-field/roster",
+    "https://bluebearathletics.com/sports/womens-track-and-field/roster",
+    "https://bluebearathletics.com/sports/mens-cross-country/roster",
+    "https://bluebearathletics.com/sports/womens-cross-country/roster",
+    "https://bluebearathletics.com/sports/golf/roster",
+    "https://bluebearathletics.com/sports/softball/roster",
+    "https://bluebearathletics.com/sports/womens-tennis/roster",
+    "https://bluebearathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bluebearathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bluebearathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

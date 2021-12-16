@@ -1,0 +1,157 @@
+{
+  "school": "/schools/charleston-so",
+  "base": "https://csusports.com",
+  "goodList": [
+    "https://csusports.com/sports/football/roster",
+    "https://csusports.com/sports/womens-soccer/roster",
+    "https://csusports.com/sports/mens-basketball/roster",
+    "https://csusports.com/sports/womens-basketball/roster",
+    "https://csusports.com/sports/mens-track-and-field/roster",
+    "https://csusports.com/sports/womens-track-and-field/roster",
+    "https://csusports.com/sports/mens-cross-country/roster",
+    "https://csusports.com/sports/womens-cross-country/roster",
+    "https://csusports.com/sports/mens-golf/roster",
+    "https://csusports.com/sports/womens-golf/roster",
+    "https://csusports.com/sports/baseball/roster",
+    "https://csusports.com/sports/softball/roster",
+    "https://csusports.com/sports/womens-tennis/roster",
+    "https://csusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://csusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://csusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "school": "/schools/spring-hill",
+  "base": "https://shcbadgers.com/",
+  "goodList": [
+    "https://shcbadgers.com//sports/mens-soccer/roster",
+    "https://shcbadgers.com//sports/womens-soccer/roster",
+    "https://shcbadgers.com//sports/mens-basketball/roster",
+    "https://shcbadgers.com//sports/womens-basketball/roster",
+    "https://shcbadgers.com//sports/mens-track-and-field/roster",
+    "https://shcbadgers.com//sports/womens-track-and-field/roster",
+    "https://shcbadgers.com//sports/mens-cross-country/roster",
+    "https://shcbadgers.com//sports/womens-cross-country/roster",
+    "https://shcbadgers.com//sports/mens-golf/roster",
+    "https://shcbadgers.com//sports/womens-golf/roster",
+    "https://shcbadgers.com//sports/baseball/roster",
+    "https://shcbadgers.com//sports/softball/roster",
+    "https://shcbadgers.com//sports/mens-tennis/roster",
+    "https://shcbadgers.com//sports/womens-tennis/roster",
+    "https://shcbadgers.com//sports/womens-volleyball/roster",
+    "https://shcbadgers.com//sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://shcbadgers.com//sports/football/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/golf/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/tri/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://shcbadgers.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

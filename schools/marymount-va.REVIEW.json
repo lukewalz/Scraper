@@ -1,0 +1,184 @@
+{
+  "school": "/schools/marymount-va",
+  "base": "https://marymountsaints.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://marymountsaints.com/sports/football/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/golf/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/softball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/tri/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://marymountsaints.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

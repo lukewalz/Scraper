@@ -1,0 +1,147 @@
+{
+  "school": "/schools/west-va-wesleyan",
+  "base": "https://wesleyanbobcats.com",
+  "goodList": [
+    "https://wesleyanbobcats.com/sports/football/roster",
+    "https://wesleyanbobcats.com/sports/mens-soccer/roster",
+    "https://wesleyanbobcats.com/sports/womens-soccer/roster",
+    "https://wesleyanbobcats.com/sports/mens-basketball/roster",
+    "https://wesleyanbobcats.com/sports/womens-basketball/roster",
+    "https://wesleyanbobcats.com/sports/mens-swimming-and-diving/roster",
+    "https://wesleyanbobcats.com/sports/womens-swimming-and-diving/roster",
+    "https://wesleyanbobcats.com/sports/mens-track-and-field/roster",
+    "https://wesleyanbobcats.com/sports/womens-track-and-field/roster",
+    "https://wesleyanbobcats.com/sports/mens-cross-country/roster",
+    "https://wesleyanbobcats.com/sports/womens-cross-country/roster",
+    "https://wesleyanbobcats.com/sports/mens-golf/roster",
+    "https://wesleyanbobcats.com/sports/womens-golf/roster",
+    "https://wesleyanbobcats.com/sports/womens-lacrosse/roster",
+    "https://wesleyanbobcats.com/sports/baseball/roster",
+    "https://wesleyanbobcats.com/sports/softball/roster",
+    "https://wesleyanbobcats.com/sports/mens-tennis/roster",
+    "https://wesleyanbobcats.com/sports/womens-tennis/roster",
+    "https://wesleyanbobcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wesleyanbobcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wesleyanbobcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

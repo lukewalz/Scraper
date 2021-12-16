@@ -1,0 +1,141 @@
+{
+  "school": "/schools/lenoir-rhyne",
+  "base": "https://lrbears.com",
+  "goodList": [
+    "https://lrbears.com/sports/football/roster",
+    "https://lrbears.com/sports/mens-soccer/roster",
+    "https://lrbears.com/sports/womens-soccer/roster",
+    "https://lrbears.com/sports/mens-basketball/roster",
+    "https://lrbears.com/sports/womens-basketball/roster",
+    "https://lrbears.com/sports/swimming-and-diving/roster",
+    "https://lrbears.com/sports/mens-swimming-and-diving/roster",
+    "https://lrbears.com/sports/womens-swimming-and-diving/roster",
+    "https://lrbears.com/sports/mens-track-and-field/roster",
+    "https://lrbears.com/sports/womens-track-and-field/roster",
+    "https://lrbears.com/sports/cross-country/roster",
+    "https://lrbears.com/sports/mens-cross-country/roster",
+    "https://lrbears.com/sports/womens-cross-country/roster",
+    "https://lrbears.com/sports/mens-golf/roster",
+    "https://lrbears.com/sports/womens-golf/roster",
+    "https://lrbears.com/sports/mens-lacrosse/roster",
+    "https://lrbears.com/sports/womens-lacrosse/roster",
+    "https://lrbears.com/sports/baseball/roster",
+    "https://lrbears.com/sports/softball/roster",
+    "https://lrbears.com/sports/mens-tennis/roster",
+    "https://lrbears.com/sports/womens-tennis/roster",
+    "https://lrbears.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lrbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lrbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

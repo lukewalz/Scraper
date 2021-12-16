@@ -1,0 +1,184 @@
+{
+  "school": "/schools/saginaw-valley",
+  "base": "https://svsucardinals.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://svsucardinals.com/sports/football/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/golf/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/softball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/tri/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://svsucardinals.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/north-carolina",
+  "base": "https://tarheelblue.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://tarheelblue.com/sports/football/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/golf/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/softball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/tri/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://tarheelblue.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

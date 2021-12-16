@@ -1,0 +1,145 @@
+{
+  "school": "/schools/missouri",
+  "base": "https://mutigers.com",
+  "goodList": [
+    "https://mutigers.com/sports/football/roster",
+    "https://mutigers.com/sports/womens-soccer/roster",
+    "https://mutigers.com/sports/mens-basketball/roster",
+    "https://mutigers.com/sports/womens-basketball/roster",
+    "https://mutigers.com/sports/womens-gymnastics/roster",
+    "https://mutigers.com/sports/swimming-and-diving/roster",
+    "https://mutigers.com/sports/mens-swimming-and-diving/roster",
+    "https://mutigers.com/sports/womens-swimming-and-diving/roster",
+    "https://mutigers.com/sports/mens-track-and-field/roster",
+    "https://mutigers.com/sports/womens-track-and-field/roster",
+    "https://mutigers.com/sports/cross-country/roster",
+    "https://mutigers.com/sports/mens-cross-country/roster",
+    "https://mutigers.com/sports/womens-cross-country/roster",
+    "https://mutigers.com/sports/mens-golf/roster",
+    "https://mutigers.com/sports/womens-golf/roster",
+    "https://mutigers.com/sports/baseball/roster",
+    "https://mutigers.com/sports/softball/roster",
+    "https://mutigers.com/sports/womens-tennis/roster",
+    "https://mutigers.com/sports/womens-volleyball/roster",
+    "https://mutigers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mutigers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mutigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

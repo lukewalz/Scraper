@@ -1,0 +1,149 @@
+{
+  "school": "/schools/mt-st-mary-ny",
+  "base": "https://msmcknights.com",
+  "goodList": [
+    "https://msmcknights.com/sports/mens-soccer/roster",
+    "https://msmcknights.com/sports/womens-soccer/roster",
+    "https://msmcknights.com/sports/mens-basketball/roster",
+    "https://msmcknights.com/sports/womens-basketball/roster",
+    "https://msmcknights.com/sports/mens-swimming-and-diving/roster",
+    "https://msmcknights.com/sports/womens-swimming-and-diving/roster",
+    "https://msmcknights.com/sports/mens-track-and-field/roster",
+    "https://msmcknights.com/sports/womens-track-and-field/roster",
+    "https://msmcknights.com/sports/mens-cross-country/roster",
+    "https://msmcknights.com/sports/womens-cross-country/roster",
+    "https://msmcknights.com/sports/golf/roster",
+    "https://msmcknights.com/sports/mens-lacrosse/roster",
+    "https://msmcknights.com/sports/womens-lacrosse/roster",
+    "https://msmcknights.com/sports/baseball/roster",
+    "https://msmcknights.com/sports/softball/roster",
+    "https://msmcknights.com/sports/mens-tennis/roster",
+    "https://msmcknights.com/sports/womens-tennis/roster",
+    "https://msmcknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://msmcknights.com/sports/football/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://msmcknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

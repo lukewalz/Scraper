@@ -1,0 +1,184 @@
+{
+  "school": "/schools/iowa",
+  "base": "https://hawkeyesports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hawkeyesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hawkeyesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

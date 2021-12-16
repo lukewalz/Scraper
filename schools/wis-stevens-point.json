@@ -1,0 +1,149 @@
+{
+  "school": "/schools/wis-stevens-point",
+  "base": "https://athletics.uwsp.edu",
+  "goodList": [
+    "https://athletics.uwsp.edu/sports/football/roster",
+    "https://athletics.uwsp.edu/sports/womens-soccer/roster",
+    "https://athletics.uwsp.edu/sports/mens-basketball/roster",
+    "https://athletics.uwsp.edu/sports/womens-basketball/roster",
+    "https://athletics.uwsp.edu/sports/mens-ice-hockey/roster",
+    "https://athletics.uwsp.edu/sports/womens-ice-hockey/roster",
+    "https://athletics.uwsp.edu/sports/swimming-and-diving/roster",
+    "https://athletics.uwsp.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.uwsp.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.uwsp.edu/sports/track-and-field/roster",
+    "https://athletics.uwsp.edu/sports/cross-country/roster",
+    "https://athletics.uwsp.edu/sports/womens-cross-country/roster",
+    "https://athletics.uwsp.edu/sports/womens-golf/roster",
+    "https://athletics.uwsp.edu/sports/baseball/roster",
+    "https://athletics.uwsp.edu/sports/softball/roster",
+    "https://athletics.uwsp.edu/sports/womens-tennis/roster",
+    "https://athletics.uwsp.edu/sports/womens-volleyball/roster",
+    "https://athletics.uwsp.edu/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.uwsp.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

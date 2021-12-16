@@ -1,0 +1,147 @@
+{
+  "school": "/schools/radford",
+  "base": "https://radfordathletics.com",
+  "goodList": [
+    "https://radfordathletics.com/sports/mens-soccer/roster",
+    "https://radfordathletics.com/sports/womens-soccer/roster",
+    "https://radfordathletics.com/sports/mens-basketball/roster",
+    "https://radfordathletics.com/sports/womens-basketball/roster",
+    "https://radfordathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://radfordathletics.com/sports/track-and-field/roster",
+    "https://radfordathletics.com/sports/mens-track-and-field/roster",
+    "https://radfordathletics.com/sports/womens-track-and-field/roster",
+    "https://radfordathletics.com/sports/cross-country/roster",
+    "https://radfordathletics.com/sports/mens-cross-country/roster",
+    "https://radfordathletics.com/sports/womens-cross-country/roster",
+    "https://radfordathletics.com/sports/mens-golf/roster",
+    "https://radfordathletics.com/sports/womens-golf/roster",
+    "https://radfordathletics.com/sports/womens-lacrosse/roster",
+    "https://radfordathletics.com/sports/baseball/roster",
+    "https://radfordathletics.com/sports/softball/roster",
+    "https://radfordathletics.com/sports/mens-tennis/roster",
+    "https://radfordathletics.com/sports/womens-tennis/roster",
+    "https://radfordathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://radfordathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://radfordathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

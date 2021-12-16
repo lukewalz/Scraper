@@ -1,0 +1,184 @@
+{
+  "school": "/schools/urbana",
+  "base": "https://sports.urbana.edu/",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://sports.urbana.edu//sports/football/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/bowling/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/fencing/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/rifle/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/skiing/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/cross-country/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/xctrack/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/equestrian/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/golf/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/rowing/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/baseball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/softball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/tennis/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/wbvb/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/water-polo/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/wrestling/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mwrest/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/wwrest/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/rugby/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/tri/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sports.urbana.edu//sports/mens-field-hockey/roster"
+    }
+  ]
+}

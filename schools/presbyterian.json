@@ -1,0 +1,151 @@
+{
+  "school": "/schools/presbyterian",
+  "base": "https://gobluehose.com",
+  "goodList": [
+    "https://gobluehose.com/sports/football/roster",
+    "https://gobluehose.com/sports/mens-soccer/roster",
+    "https://gobluehose.com/sports/womens-soccer/roster",
+    "https://gobluehose.com/sports/mens-basketball/roster",
+    "https://gobluehose.com/sports/womens-basketball/roster",
+    "https://gobluehose.com/sports/mens-cross-country/roster",
+    "https://gobluehose.com/sports/womens-cross-country/roster",
+    "https://gobluehose.com/sports/mens-golf/roster",
+    "https://gobluehose.com/sports/womens-golf/roster",
+    "https://gobluehose.com/sports/womens-lacrosse/roster",
+    "https://gobluehose.com/sports/baseball/roster",
+    "https://gobluehose.com/sports/softball/roster",
+    "https://gobluehose.com/sports/mens-tennis/roster",
+    "https://gobluehose.com/sports/womens-tennis/roster",
+    "https://gobluehose.com/sports/womens-volleyball/roster",
+    "https://gobluehose.com/sports/wrestling/roster",
+    "https://gobluehose.com/sports/wwrest/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobluehose.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gobluehose.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

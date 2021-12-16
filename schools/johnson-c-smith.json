@@ -1,0 +1,161 @@
+{
+  "school": "/schools/johnson-c-smith",
+  "base": "https://goldenbullsports.com",
+  "goodList": [
+    "https://goldenbullsports.com/sports/football/roster",
+    "https://goldenbullsports.com/sports/mens-basketball/roster",
+    "https://goldenbullsports.com/sports/womens-basketball/roster",
+    "https://goldenbullsports.com/sports/mens-track-and-field/roster",
+    "https://goldenbullsports.com/sports/womens-track-and-field/roster",
+    "https://goldenbullsports.com/sports/mens-cross-country/roster",
+    "https://goldenbullsports.com/sports/womens-cross-country/roster",
+    "https://goldenbullsports.com/sports/mens-golf/roster",
+    "https://goldenbullsports.com/sports/softball/roster",
+    "https://goldenbullsports.com/sports/mens-tennis/roster",
+    "https://goldenbullsports.com/sports/womens-tennis/roster",
+    "https://goldenbullsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goldenbullsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goldenbullsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

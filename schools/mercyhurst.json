@@ -1,0 +1,139 @@
+{
+  "school": "/schools/mercyhurst",
+  "base": "https://hurstathletics.com",
+  "goodList": [
+    "https://hurstathletics.com/sports/football/roster",
+    "https://hurstathletics.com/sports/mens-soccer/roster",
+    "https://hurstathletics.com/sports/womens-soccer/roster",
+    "https://hurstathletics.com/sports/mens-basketball/roster",
+    "https://hurstathletics.com/sports/womens-basketball/roster",
+    "https://hurstathletics.com/sports/bowling/roster",
+    "https://hurstathletics.com/sports/mens-ice-hockey/roster",
+    "https://hurstathletics.com/sports/womens-ice-hockey/roster",
+    "https://hurstathletics.com/sports/mens-cross-country/roster",
+    "https://hurstathletics.com/sports/womens-cross-country/roster",
+    "https://hurstathletics.com/sports/mens-golf/roster",
+    "https://hurstathletics.com/sports/womens-golf/roster",
+    "https://hurstathletics.com/sports/mens-lacrosse/roster",
+    "https://hurstathletics.com/sports/womens-lacrosse/roster",
+    "https://hurstathletics.com/sports/baseball/roster",
+    "https://hurstathletics.com/sports/softball/roster",
+    "https://hurstathletics.com/sports/mens-tennis/roster",
+    "https://hurstathletics.com/sports/womens-tennis/roster",
+    "https://hurstathletics.com/sports/womens-volleyball/roster",
+    "https://hurstathletics.com/sports/mens-water-polo/roster",
+    "https://hurstathletics.com/sports/womens-water-polo/roster",
+    "https://hurstathletics.com/sports/wrestling/roster",
+    "https://hurstathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hurstathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hurstathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

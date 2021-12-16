@@ -1,0 +1,147 @@
+{
+  "school": "/schools/binghamton",
+  "base": "https://bubearcats.com",
+  "goodList": [
+    "https://bubearcats.com/sports/mens-soccer/roster",
+    "https://bubearcats.com/sports/womens-soccer/roster",
+    "https://bubearcats.com/sports/mens-basketball/roster",
+    "https://bubearcats.com/sports/womens-basketball/roster",
+    "https://bubearcats.com/sports/mens-swimming-and-diving/roster",
+    "https://bubearcats.com/sports/womens-swimming-and-diving/roster",
+    "https://bubearcats.com/sports/mens-track-and-field/roster",
+    "https://bubearcats.com/sports/womens-track-and-field/roster",
+    "https://bubearcats.com/sports/mens-cross-country/roster",
+    "https://bubearcats.com/sports/womens-cross-country/roster",
+    "https://bubearcats.com/sports/mens-golf/roster",
+    "https://bubearcats.com/sports/mens-lacrosse/roster",
+    "https://bubearcats.com/sports/womens-lacrosse/roster",
+    "https://bubearcats.com/sports/baseball/roster",
+    "https://bubearcats.com/sports/softball/roster",
+    "https://bubearcats.com/sports/mens-tennis/roster",
+    "https://bubearcats.com/sports/womens-tennis/roster",
+    "https://bubearcats.com/sports/womens-volleyball/roster",
+    "https://bubearcats.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bubearcats.com/sports/football/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bubearcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

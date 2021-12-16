@@ -1,0 +1,157 @@
+{
+  "school": "/schools/lehman",
+  "base": "https://lehmanathletics.com",
+  "goodList": [
+    "https://lehmanathletics.com/sports/mens-soccer/roster",
+    "https://lehmanathletics.com/sports/womens-soccer/roster",
+    "https://lehmanathletics.com/sports/mens-basketball/roster",
+    "https://lehmanathletics.com/sports/womens-basketball/roster",
+    "https://lehmanathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://lehmanathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://lehmanathletics.com/sports/mens-cross-country/roster",
+    "https://lehmanathletics.com/sports/womens-cross-country/roster",
+    "https://lehmanathletics.com/sports/baseball/roster",
+    "https://lehmanathletics.com/sports/softball/roster",
+    "https://lehmanathletics.com/sports/mens-tennis/roster",
+    "https://lehmanathletics.com/sports/womens-tennis/roster",
+    "https://lehmanathletics.com/sports/mens-volleyball/roster",
+    "https://lehmanathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lehmanathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lehmanathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

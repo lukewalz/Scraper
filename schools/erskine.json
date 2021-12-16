@@ -1,0 +1,149 @@
+{
+  "school": "/schools/erskine",
+  "base": "https://erskinesports.com",
+  "goodList": [
+    "https://erskinesports.com/sports/football/roster",
+    "https://erskinesports.com/sports/mens-soccer/roster",
+    "https://erskinesports.com/sports/womens-soccer/roster",
+    "https://erskinesports.com/sports/mens-basketball/roster",
+    "https://erskinesports.com/sports/womens-basketball/roster",
+    "https://erskinesports.com/sports/mens-track-and-field/roster",
+    "https://erskinesports.com/sports/womens-track-and-field/roster",
+    "https://erskinesports.com/sports/mens-cross-country/roster",
+    "https://erskinesports.com/sports/womens-cross-country/roster",
+    "https://erskinesports.com/sports/mens-golf/roster",
+    "https://erskinesports.com/sports/womens-golf/roster",
+    "https://erskinesports.com/sports/womens-lacrosse/roster",
+    "https://erskinesports.com/sports/baseball/roster",
+    "https://erskinesports.com/sports/softball/roster",
+    "https://erskinesports.com/sports/womens-tennis/roster",
+    "https://erskinesports.com/sports/mens-volleyball/roster",
+    "https://erskinesports.com/sports/womens-volleyball/roster",
+    "https://erskinesports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://erskinesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://erskinesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

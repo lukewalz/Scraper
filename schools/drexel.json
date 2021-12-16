@@ -1,0 +1,155 @@
+{
+  "school": "/schools/drexel",
+  "base": "https://drexeldragons.com",
+  "goodList": [
+    "https://drexeldragons.com/sports/mens-soccer/roster",
+    "https://drexeldragons.com/sports/womens-soccer/roster",
+    "https://drexeldragons.com/sports/mens-basketball/roster",
+    "https://drexeldragons.com/sports/womens-basketball/roster",
+    "https://drexeldragons.com/sports/mens-swimming-and-diving/roster",
+    "https://drexeldragons.com/sports/womens-swimming-and-diving/roster",
+    "https://drexeldragons.com/sports/mens-golf/roster",
+    "https://drexeldragons.com/sports/mens-lacrosse/roster",
+    "https://drexeldragons.com/sports/womens-lacrosse/roster",
+    "https://drexeldragons.com/sports/softball/roster",
+    "https://drexeldragons.com/sports/mens-tennis/roster",
+    "https://drexeldragons.com/sports/womens-tennis/roster",
+    "https://drexeldragons.com/sports/wrestling/roster",
+    "https://drexeldragons.com/sports/mwrest/roster",
+    "https://drexeldragons.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://drexeldragons.com/sports/football/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://drexeldragons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

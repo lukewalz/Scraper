@@ -1,0 +1,163 @@
+{
+  "school": "/schools/loyola-chicago",
+  "base": "https://loyolaramblers.com",
+  "goodList": [
+    "https://loyolaramblers.com/sports/mens-soccer/roster",
+    "https://loyolaramblers.com/sports/womens-soccer/roster",
+    "https://loyolaramblers.com/sports/mens-basketball/roster",
+    "https://loyolaramblers.com/sports/womens-basketball/roster",
+    "https://loyolaramblers.com/sports/track-and-field/roster",
+    "https://loyolaramblers.com/sports/cross-country/roster",
+    "https://loyolaramblers.com/sports/mens-golf/roster",
+    "https://loyolaramblers.com/sports/womens-golf/roster",
+    "https://loyolaramblers.com/sports/softball/roster",
+    "https://loyolaramblers.com/sports/mens-volleyball/roster",
+    "https://loyolaramblers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://loyolaramblers.com/sports/football/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://loyolaramblers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "school": "/schools/missouri-st",
+  "base": "https://missouristatebears.com",
+  "goodList": [
+    "https://missouristatebears.com/sports/football/roster",
+    "https://missouristatebears.com/sports/mens-soccer/roster",
+    "https://missouristatebears.com/sports/womens-soccer/roster",
+    "https://missouristatebears.com/sports/mens-basketball/roster",
+    "https://missouristatebears.com/sports/womens-basketball/roster",
+    "https://missouristatebears.com/sports/swimming-and-diving/roster",
+    "https://missouristatebears.com/sports/womens-track-and-field/roster",
+    "https://missouristatebears.com/sports/womens-cross-country/roster",
+    "https://missouristatebears.com/sports/mens-golf/roster",
+    "https://missouristatebears.com/sports/womens-golf/roster",
+    "https://missouristatebears.com/sports/baseball/roster",
+    "https://missouristatebears.com/sports/softball/roster",
+    "https://missouristatebears.com/sports/womens-tennis/roster",
+    "https://missouristatebears.com/sports/womens-volleyball/roster",
+    "https://missouristatebears.com/sports/womens-beach-volleyball/roster",
+    "https://missouristatebears.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://missouristatebears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://missouristatebears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "school": "/schools/minn-st-mankato",
+  "base": "https://msumavericks.com",
+  "goodList": [
+    "https://msumavericks.com/sports/football/roster",
+    "https://msumavericks.com/sports/womens-soccer/roster",
+    "https://msumavericks.com/sports/mens-basketball/roster",
+    "https://msumavericks.com/sports/womens-basketball/roster",
+    "https://msumavericks.com/sports/mens-ice-hockey/roster",
+    "https://msumavericks.com/sports/womens-ice-hockey/roster",
+    "https://msumavericks.com/sports/womens-swimming-and-diving/roster",
+    "https://msumavericks.com/sports/mens-track-and-field/roster",
+    "https://msumavericks.com/sports/womens-track-and-field/roster",
+    "https://msumavericks.com/sports/mens-cross-country/roster",
+    "https://msumavericks.com/sports/womens-cross-country/roster",
+    "https://msumavericks.com/sports/mens-golf/roster",
+    "https://msumavericks.com/sports/womens-golf/roster",
+    "https://msumavericks.com/sports/baseball/roster",
+    "https://msumavericks.com/sports/softball/roster",
+    "https://msumavericks.com/sports/mens-tennis/roster",
+    "https://msumavericks.com/sports/womens-tennis/roster",
+    "https://msumavericks.com/sports/womens-volleyball/roster",
+    "https://msumavericks.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://msumavericks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://msumavericks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "school": "/schools/ohio-wesleyan",
+  "base": "https://battlingbishops.com",
+  "goodList": [
+    "https://battlingbishops.com/sports/football/roster",
+    "https://battlingbishops.com/sports/mens-soccer/roster",
+    "https://battlingbishops.com/sports/womens-soccer/roster",
+    "https://battlingbishops.com/sports/mens-basketball/roster",
+    "https://battlingbishops.com/sports/womens-basketball/roster",
+    "https://battlingbishops.com/sports/mens-swimming-and-diving/roster",
+    "https://battlingbishops.com/sports/womens-swimming-and-diving/roster",
+    "https://battlingbishops.com/sports/mens-track-and-field/roster",
+    "https://battlingbishops.com/sports/womens-track-and-field/roster",
+    "https://battlingbishops.com/sports/mens-cross-country/roster",
+    "https://battlingbishops.com/sports/womens-cross-country/roster",
+    "https://battlingbishops.com/sports/mens-golf/roster",
+    "https://battlingbishops.com/sports/womens-golf/roster",
+    "https://battlingbishops.com/sports/mens-lacrosse/roster",
+    "https://battlingbishops.com/sports/womens-lacrosse/roster",
+    "https://battlingbishops.com/sports/rowing/roster",
+    "https://battlingbishops.com/sports/baseball/roster",
+    "https://battlingbishops.com/sports/softball/roster",
+    "https://battlingbishops.com/sports/mens-tennis/roster",
+    "https://battlingbishops.com/sports/womens-tennis/roster",
+    "https://battlingbishops.com/sports/womens-volleyball/roster",
+    "https://battlingbishops.com/sports/wrestling/roster",
+    "https://battlingbishops.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://battlingbishops.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/golf/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/tri/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://battlingbishops.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

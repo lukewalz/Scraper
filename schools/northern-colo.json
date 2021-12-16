@@ -1,0 +1,151 @@
+{
+  "school": "/schools/northern-colo",
+  "base": "https://uncbears.com",
+  "goodList": [
+    "https://uncbears.com/sports/football/roster",
+    "https://uncbears.com/sports/womens-soccer/roster",
+    "https://uncbears.com/sports/mens-basketball/roster",
+    "https://uncbears.com/sports/womens-basketball/roster",
+    "https://uncbears.com/sports/womens-swimming-and-diving/roster",
+    "https://uncbears.com/sports/track-and-field/roster",
+    "https://uncbears.com/sports/mens-track-and-field/roster",
+    "https://uncbears.com/sports/womens-track-and-field/roster",
+    "https://uncbears.com/sports/cross-country/roster",
+    "https://uncbears.com/sports/mens-cross-country/roster",
+    "https://uncbears.com/sports/womens-cross-country/roster",
+    "https://uncbears.com/sports/mens-golf/roster",
+    "https://uncbears.com/sports/womens-golf/roster",
+    "https://uncbears.com/sports/baseball/roster",
+    "https://uncbears.com/sports/softball/roster",
+    "https://uncbears.com/sports/womens-volleyball/roster",
+    "https://uncbears.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uncbears.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uncbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

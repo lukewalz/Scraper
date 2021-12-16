@@ -1,0 +1,143 @@
+{
+  "school": "/schools/hood",
+  "base": "https://hoodathletics.com",
+  "goodList": [
+    "https://hoodathletics.com/sports/mens-soccer/roster",
+    "https://hoodathletics.com/sports/womens-soccer/roster",
+    "https://hoodathletics.com/sports/mens-basketball/roster",
+    "https://hoodathletics.com/sports/womens-basketball/roster",
+    "https://hoodathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://hoodathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://hoodathletics.com/sports/mens-track-and-field/roster",
+    "https://hoodathletics.com/sports/womens-track-and-field/roster",
+    "https://hoodathletics.com/sports/mens-cross-country/roster",
+    "https://hoodathletics.com/sports/womens-cross-country/roster",
+    "https://hoodathletics.com/sports/equestrian/roster",
+    "https://hoodathletics.com/sports/mens-golf/roster",
+    "https://hoodathletics.com/sports/womens-golf/roster",
+    "https://hoodathletics.com/sports/mens-lacrosse/roster",
+    "https://hoodathletics.com/sports/womens-lacrosse/roster",
+    "https://hoodathletics.com/sports/baseball/roster",
+    "https://hoodathletics.com/sports/softball/roster",
+    "https://hoodathletics.com/sports/mens-tennis/roster",
+    "https://hoodathletics.com/sports/womens-tennis/roster",
+    "https://hoodathletics.com/sports/womens-volleyball/roster",
+    "https://hoodathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hoodathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hoodathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

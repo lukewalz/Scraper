@@ -1,0 +1,155 @@
+{
+  "school": "/schools/queens-ny",
+  "base": "https://queensknights.com",
+  "goodList": [
+    "https://queensknights.com/sports/mens-soccer/roster",
+    "https://queensknights.com/sports/womens-soccer/roster",
+    "https://queensknights.com/sports/mens-basketball/roster",
+    "https://queensknights.com/sports/womens-basketball/roster",
+    "https://queensknights.com/sports/womens-swimming-and-diving/roster",
+    "https://queensknights.com/sports/mens-track-and-field/roster",
+    "https://queensknights.com/sports/womens-track-and-field/roster",
+    "https://queensknights.com/sports/mens-cross-country/roster",
+    "https://queensknights.com/sports/womens-cross-country/roster",
+    "https://queensknights.com/sports/womens-lacrosse/roster",
+    "https://queensknights.com/sports/baseball/roster",
+    "https://queensknights.com/sports/softball/roster",
+    "https://queensknights.com/sports/mens-tennis/roster",
+    "https://queensknights.com/sports/womens-tennis/roster",
+    "https://queensknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://queensknights.com/sports/football/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/golf/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://queensknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

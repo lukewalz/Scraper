@@ -1,0 +1,163 @@
+{
+  "school": "/schools/northwestern-okla",
+  "base": "https://riderangersride.com",
+  "goodList": [
+    "https://riderangersride.com/sports/football/roster",
+    "https://riderangersride.com/sports/womens-soccer/roster",
+    "https://riderangersride.com/sports/mens-basketball/roster",
+    "https://riderangersride.com/sports/womens-basketball/roster",
+    "https://riderangersride.com/sports/mens-cross-country/roster",
+    "https://riderangersride.com/sports/womens-cross-country/roster",
+    "https://riderangersride.com/sports/mens-golf/roster",
+    "https://riderangersride.com/sports/womens-golf/roster",
+    "https://riderangersride.com/sports/baseball/roster",
+    "https://riderangersride.com/sports/softball/roster",
+    "https://riderangersride.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://riderangersride.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/golf/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/tri/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://riderangersride.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

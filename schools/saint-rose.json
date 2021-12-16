@@ -1,0 +1,147 @@
+{
+  "school": "/schools/saint-rose",
+  "base": "https://gogoldenknights.com",
+  "goodList": [
+    "https://gogoldenknights.com/sports/mens-soccer/roster",
+    "https://gogoldenknights.com/sports/womens-soccer/roster",
+    "https://gogoldenknights.com/sports/mens-basketball/roster",
+    "https://gogoldenknights.com/sports/womens-basketball/roster",
+    "https://gogoldenknights.com/sports/swimming-and-diving/roster",
+    "https://gogoldenknights.com/sports/womens-swimming-and-diving/roster",
+    "https://gogoldenknights.com/sports/track-and-field/roster",
+    "https://gogoldenknights.com/sports/womens-track-and-field/roster",
+    "https://gogoldenknights.com/sports/cross-country/roster",
+    "https://gogoldenknights.com/sports/womens-cross-country/roster",
+    "https://gogoldenknights.com/sports/golf/roster",
+    "https://gogoldenknights.com/sports/mens-golf/roster",
+    "https://gogoldenknights.com/sports/womens-golf/roster",
+    "https://gogoldenknights.com/sports/mens-lacrosse/roster",
+    "https://gogoldenknights.com/sports/womens-lacrosse/roster",
+    "https://gogoldenknights.com/sports/baseball/roster",
+    "https://gogoldenknights.com/sports/softball/roster",
+    "https://gogoldenknights.com/sports/womens-tennis/roster",
+    "https://gogoldenknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gogoldenknights.com/sports/football/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gogoldenknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

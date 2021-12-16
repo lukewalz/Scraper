@@ -1,0 +1,165 @@
+{
+  "school": "/schools/ark-fort-smith",
+  "base": "https://uafortsmithlions.com",
+  "goodList": [
+    "https://uafortsmithlions.com/sports/mens-basketball/roster",
+    "https://uafortsmithlions.com/sports/womens-basketball/roster",
+    "https://uafortsmithlions.com/sports/mens-cross-country/roster",
+    "https://uafortsmithlions.com/sports/womens-cross-country/roster",
+    "https://uafortsmithlions.com/sports/mens-golf/roster",
+    "https://uafortsmithlions.com/sports/womens-golf/roster",
+    "https://uafortsmithlions.com/sports/baseball/roster",
+    "https://uafortsmithlions.com/sports/mens-tennis/roster",
+    "https://uafortsmithlions.com/sports/womens-tennis/roster",
+    "https://uafortsmithlions.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uafortsmithlions.com/sports/football/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/softball/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uafortsmithlions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

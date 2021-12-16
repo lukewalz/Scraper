@@ -1,0 +1,139 @@
+{
+  "school": "/schools/wash-lee",
+  "base": "https://generalssports.com",
+  "goodList": [
+    "https://generalssports.com/sports/football/roster",
+    "https://generalssports.com/sports/mens-soccer/roster",
+    "https://generalssports.com/sports/womens-soccer/roster",
+    "https://generalssports.com/sports/mens-basketball/roster",
+    "https://generalssports.com/sports/womens-basketball/roster",
+    "https://generalssports.com/sports/mens-swimming-and-diving/roster",
+    "https://generalssports.com/sports/womens-swimming-and-diving/roster",
+    "https://generalssports.com/sports/mens-track-and-field/roster",
+    "https://generalssports.com/sports/womens-track-and-field/roster",
+    "https://generalssports.com/sports/mens-cross-country/roster",
+    "https://generalssports.com/sports/womens-cross-country/roster",
+    "https://generalssports.com/sports/equestrian/roster",
+    "https://generalssports.com/sports/golf/roster",
+    "https://generalssports.com/sports/mens-golf/roster",
+    "https://generalssports.com/sports/womens-golf/roster",
+    "https://generalssports.com/sports/mens-lacrosse/roster",
+    "https://generalssports.com/sports/womens-lacrosse/roster",
+    "https://generalssports.com/sports/baseball/roster",
+    "https://generalssports.com/sports/mens-tennis/roster",
+    "https://generalssports.com/sports/womens-tennis/roster",
+    "https://generalssports.com/sports/womens-volleyball/roster",
+    "https://generalssports.com/sports/wrestling/roster",
+    "https://generalssports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://generalssports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://generalssports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/stetson",
+  "base": "https://gohatters.com",
+  "goodList": [
+    "https://gohatters.com/sports/football/roster",
+    "https://gohatters.com/sports/mens-soccer/roster",
+    "https://gohatters.com/sports/womens-soccer/roster",
+    "https://gohatters.com/sports/mens-basketball/roster",
+    "https://gohatters.com/sports/womens-basketball/roster",
+    "https://gohatters.com/sports/cross-country/roster",
+    "https://gohatters.com/sports/mens-golf/roster",
+    "https://gohatters.com/sports/womens-golf/roster",
+    "https://gohatters.com/sports/womens-lacrosse/roster",
+    "https://gohatters.com/sports/baseball/roster",
+    "https://gohatters.com/sports/softball/roster",
+    "https://gohatters.com/sports/mens-tennis/roster",
+    "https://gohatters.com/sports/womens-tennis/roster",
+    "https://gohatters.com/sports/womens-volleyball/roster",
+    "https://gohatters.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gohatters.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gohatters.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

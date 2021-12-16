@@ -1,0 +1,155 @@
+{
+  "school": "/schools/oakland",
+  "base": "https://goldengrizzlies.com",
+  "goodList": [
+    "https://goldengrizzlies.com/sports/mens-soccer/roster",
+    "https://goldengrizzlies.com/sports/womens-soccer/roster",
+    "https://goldengrizzlies.com/sports/mens-basketball/roster",
+    "https://goldengrizzlies.com/sports/womens-basketball/roster",
+    "https://goldengrizzlies.com/sports/swimming-and-diving/roster",
+    "https://goldengrizzlies.com/sports/track-and-field/roster",
+    "https://goldengrizzlies.com/sports/cross-country/roster",
+    "https://goldengrizzlies.com/sports/mens-cross-country/roster",
+    "https://goldengrizzlies.com/sports/womens-cross-country/roster",
+    "https://goldengrizzlies.com/sports/mens-golf/roster",
+    "https://goldengrizzlies.com/sports/womens-golf/roster",
+    "https://goldengrizzlies.com/sports/baseball/roster",
+    "https://goldengrizzlies.com/sports/softball/roster",
+    "https://goldengrizzlies.com/sports/womens-tennis/roster",
+    "https://goldengrizzlies.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goldengrizzlies.com/sports/football/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goldengrizzlies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

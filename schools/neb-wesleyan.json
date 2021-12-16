@@ -1,0 +1,147 @@
+{
+  "school": "/schools/neb-wesleyan",
+  "base": "https://nwusports.com",
+  "goodList": [
+    "https://nwusports.com/sports/football/roster",
+    "https://nwusports.com/sports/mens-soccer/roster",
+    "https://nwusports.com/sports/womens-soccer/roster",
+    "https://nwusports.com/sports/mens-basketball/roster",
+    "https://nwusports.com/sports/womens-basketball/roster",
+    "https://nwusports.com/sports/mens-swimming-and-diving/roster",
+    "https://nwusports.com/sports/womens-swimming-and-diving/roster",
+    "https://nwusports.com/sports/mens-track-and-field/roster",
+    "https://nwusports.com/sports/womens-track-and-field/roster",
+    "https://nwusports.com/sports/mens-cross-country/roster",
+    "https://nwusports.com/sports/womens-cross-country/roster",
+    "https://nwusports.com/sports/mens-golf/roster",
+    "https://nwusports.com/sports/womens-golf/roster",
+    "https://nwusports.com/sports/baseball/roster",
+    "https://nwusports.com/sports/softball/roster",
+    "https://nwusports.com/sports/mens-tennis/roster",
+    "https://nwusports.com/sports/womens-tennis/roster",
+    "https://nwusports.com/sports/womens-volleyball/roster",
+    "https://nwusports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nwusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nwusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

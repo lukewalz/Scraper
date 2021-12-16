@@ -1,0 +1,157 @@
+{
+  "school": "/schools/tarleton-st",
+  "base": "https://tarletonsports.com",
+  "goodList": [
+    "https://tarletonsports.com/sports/football/roster",
+    "https://tarletonsports.com/sports/mens-basketball/roster",
+    "https://tarletonsports.com/sports/womens-basketball/roster",
+    "https://tarletonsports.com/sports/track-and-field/roster",
+    "https://tarletonsports.com/sports/mens-track-and-field/roster",
+    "https://tarletonsports.com/sports/womens-track-and-field/roster",
+    "https://tarletonsports.com/sports/cross-country/roster",
+    "https://tarletonsports.com/sports/mens-cross-country/roster",
+    "https://tarletonsports.com/sports/womens-cross-country/roster",
+    "https://tarletonsports.com/sports/womens-golf/roster",
+    "https://tarletonsports.com/sports/baseball/roster",
+    "https://tarletonsports.com/sports/softball/roster",
+    "https://tarletonsports.com/sports/womens-tennis/roster",
+    "https://tarletonsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://tarletonsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://tarletonsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

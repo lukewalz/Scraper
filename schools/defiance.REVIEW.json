@@ -1,0 +1,184 @@
+{
+  "school": "/schools/defiance",
+  "base": "https://defianceathletics.com/",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://defianceathletics.com//sports/football/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/golf/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/softball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/tri/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://defianceathletics.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

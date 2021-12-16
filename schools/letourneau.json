@@ -1,0 +1,155 @@
+{
+  "school": "/schools/letourneau",
+  "base": "https://letuathletics.com",
+  "goodList": [
+    "https://letuathletics.com/sports/mens-soccer/roster",
+    "https://letuathletics.com/sports/womens-soccer/roster",
+    "https://letuathletics.com/sports/mens-basketball/roster",
+    "https://letuathletics.com/sports/womens-basketball/roster",
+    "https://letuathletics.com/sports/mens-track-and-field/roster",
+    "https://letuathletics.com/sports/womens-track-and-field/roster",
+    "https://letuathletics.com/sports/mens-cross-country/roster",
+    "https://letuathletics.com/sports/womens-cross-country/roster",
+    "https://letuathletics.com/sports/mens-golf/roster",
+    "https://letuathletics.com/sports/womens-golf/roster",
+    "https://letuathletics.com/sports/baseball/roster",
+    "https://letuathletics.com/sports/softball/roster",
+    "https://letuathletics.com/sports/mens-tennis/roster",
+    "https://letuathletics.com/sports/womens-tennis/roster",
+    "https://letuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://letuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://letuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

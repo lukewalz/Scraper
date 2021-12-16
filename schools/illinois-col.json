@@ -1,0 +1,145 @@
+{
+  "school": "/schools/illinois-col",
+  "base": "https://illinoiscollegeathletics.com",
+  "goodList": [
+    "https://illinoiscollegeathletics.com/sports/football/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-soccer/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-soccer/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-basketball/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-basketball/roster",
+    "https://illinoiscollegeathletics.com/sports/swimming-and-diving/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://illinoiscollegeathletics.com/sports/track-and-field/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-track-and-field/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-track-and-field/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-cross-country/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-cross-country/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-golf/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-golf/roster",
+    "https://illinoiscollegeathletics.com/sports/baseball/roster",
+    "https://illinoiscollegeathletics.com/sports/softball/roster",
+    "https://illinoiscollegeathletics.com/sports/mens-tennis/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-tennis/roster",
+    "https://illinoiscollegeathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://illinoiscollegeathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

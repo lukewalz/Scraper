@@ -1,0 +1,141 @@
+{
+  "school": "/schools/elizabethtown",
+  "base": "https://etownbluejays.com",
+  "goodList": [
+    "https://etownbluejays.com/sports/mens-soccer/roster",
+    "https://etownbluejays.com/sports/womens-soccer/roster",
+    "https://etownbluejays.com/sports/mens-basketball/roster",
+    "https://etownbluejays.com/sports/womens-basketball/roster",
+    "https://etownbluejays.com/sports/mens-swimming-and-diving/roster",
+    "https://etownbluejays.com/sports/womens-swimming-and-diving/roster",
+    "https://etownbluejays.com/sports/mens-track-and-field/roster",
+    "https://etownbluejays.com/sports/womens-track-and-field/roster",
+    "https://etownbluejays.com/sports/mens-cross-country/roster",
+    "https://etownbluejays.com/sports/womens-cross-country/roster",
+    "https://etownbluejays.com/sports/golf/roster",
+    "https://etownbluejays.com/sports/womens-golf/roster",
+    "https://etownbluejays.com/sports/mens-lacrosse/roster",
+    "https://etownbluejays.com/sports/womens-lacrosse/roster",
+    "https://etownbluejays.com/sports/baseball/roster",
+    "https://etownbluejays.com/sports/softball/roster",
+    "https://etownbluejays.com/sports/mens-tennis/roster",
+    "https://etownbluejays.com/sports/womens-tennis/roster",
+    "https://etownbluejays.com/sports/mens-volleyball/roster",
+    "https://etownbluejays.com/sports/womens-volleyball/roster",
+    "https://etownbluejays.com/sports/wrestling/roster",
+    "https://etownbluejays.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://etownbluejays.com/sports/football/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/tri/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://etownbluejays.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

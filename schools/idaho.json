@@ -1,0 +1,165 @@
+{
+  "school": "/schools/idaho",
+  "base": "https://govandals.com",
+  "goodList": [
+    "https://govandals.com/sports/football/roster",
+    "https://govandals.com/sports/womens-soccer/roster",
+    "https://govandals.com/sports/mens-basketball/roster",
+    "https://govandals.com/sports/womens-basketball/roster",
+    "https://govandals.com/sports/womens-swimming-and-diving/roster",
+    "https://govandals.com/sports/mens-golf/roster",
+    "https://govandals.com/sports/womens-golf/roster",
+    "https://govandals.com/sports/mens-tennis/roster",
+    "https://govandals.com/sports/womens-tennis/roster",
+    "https://govandals.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://govandals.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/golf/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/softball/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/tri/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://govandals.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

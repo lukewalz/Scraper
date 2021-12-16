@@ -1,0 +1,149 @@
+{
+  "school": "/schools/edgewood",
+  "base": "https://edgewoodcollegeeagles.com",
+  "goodList": [
+    "https://edgewoodcollegeeagles.com/sports/mens-soccer/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-soccer/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-basketball/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-basketball/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-track-and-field/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-track-and-field/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-cross-country/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-cross-country/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-golf/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-golf/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-lacrosse/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-lacrosse/roster",
+    "https://edgewoodcollegeeagles.com/sports/baseball/roster",
+    "https://edgewoodcollegeeagles.com/sports/softball/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-tennis/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-tennis/roster",
+    "https://edgewoodcollegeeagles.com/sports/mens-volleyball/roster",
+    "https://edgewoodcollegeeagles.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/football/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://edgewoodcollegeeagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

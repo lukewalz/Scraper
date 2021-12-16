@@ -1,0 +1,155 @@
+{
+  "school": "/schools/mississippi-val",
+  "base": "https://mvsusports.com",
+  "goodList": [
+    "https://mvsusports.com/sports/football/roster",
+    "https://mvsusports.com/sports/womens-soccer/roster",
+    "https://mvsusports.com/sports/mens-basketball/roster",
+    "https://mvsusports.com/sports/womens-basketball/roster",
+    "https://mvsusports.com/sports/mens-track-and-field/roster",
+    "https://mvsusports.com/sports/womens-track-and-field/roster",
+    "https://mvsusports.com/sports/mens-cross-country/roster",
+    "https://mvsusports.com/sports/womens-cross-country/roster",
+    "https://mvsusports.com/sports/mens-golf/roster",
+    "https://mvsusports.com/sports/womens-golf/roster",
+    "https://mvsusports.com/sports/baseball/roster",
+    "https://mvsusports.com/sports/softball/roster",
+    "https://mvsusports.com/sports/mens-tennis/roster",
+    "https://mvsusports.com/sports/womens-tennis/roster",
+    "https://mvsusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mvsusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mvsusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

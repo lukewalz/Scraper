@@ -1,0 +1,161 @@
+{
+  "school": "/schools/ccny",
+  "base": "https://ccnyathletics.com",
+  "goodList": [
+    "https://ccnyathletics.com/sports/mens-soccer/roster",
+    "https://ccnyathletics.com/sports/womens-soccer/roster",
+    "https://ccnyathletics.com/sports/mens-basketball/roster",
+    "https://ccnyathletics.com/sports/womens-basketball/roster",
+    "https://ccnyathletics.com/sports/mens-cross-country/roster",
+    "https://ccnyathletics.com/sports/womens-cross-country/roster",
+    "https://ccnyathletics.com/sports/lacrosse/roster",
+    "https://ccnyathletics.com/sports/mens-lacrosse/roster",
+    "https://ccnyathletics.com/sports/mens-tennis/roster",
+    "https://ccnyathletics.com/sports/womens-tennis/roster",
+    "https://ccnyathletics.com/sports/mens-volleyball/roster",
+    "https://ccnyathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ccnyathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ccnyathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

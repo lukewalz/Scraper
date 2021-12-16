@@ -1,0 +1,184 @@
+{
+  "school": "/schools/incarnate-word",
+  "base": "https://cardinalathletics.com/",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://cardinalathletics.com//sports/football/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/golf/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/softball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/tri/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cardinalathletics.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

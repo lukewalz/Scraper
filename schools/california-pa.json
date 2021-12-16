@@ -1,0 +1,153 @@
+{
+  "school": "/schools/california-pa",
+  "base": "https://calvulcans.com",
+  "goodList": [
+    "https://calvulcans.com/sports/football/roster",
+    "https://calvulcans.com/sports/mens-soccer/roster",
+    "https://calvulcans.com/sports/womens-soccer/roster",
+    "https://calvulcans.com/sports/mens-basketball/roster",
+    "https://calvulcans.com/sports/womens-basketball/roster",
+    "https://calvulcans.com/sports/womens-swimming-and-diving/roster",
+    "https://calvulcans.com/sports/mens-track-and-field/roster",
+    "https://calvulcans.com/sports/womens-track-and-field/roster",
+    "https://calvulcans.com/sports/mens-cross-country/roster",
+    "https://calvulcans.com/sports/womens-cross-country/roster",
+    "https://calvulcans.com/sports/mens-golf/roster",
+    "https://calvulcans.com/sports/womens-golf/roster",
+    "https://calvulcans.com/sports/baseball/roster",
+    "https://calvulcans.com/sports/softball/roster",
+    "https://calvulcans.com/sports/womens-tennis/roster",
+    "https://calvulcans.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://calvulcans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://calvulcans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

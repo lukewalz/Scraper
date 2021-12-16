@@ -1,0 +1,149 @@
+{
+  "school": "/schools/fairfield",
+  "base": "https://fairfieldstags.com",
+  "goodList": [
+    "https://fairfieldstags.com/sports/mens-soccer/roster",
+    "https://fairfieldstags.com/sports/womens-soccer/roster",
+    "https://fairfieldstags.com/sports/mens-basketball/roster",
+    "https://fairfieldstags.com/sports/womens-basketball/roster",
+    "https://fairfieldstags.com/sports/mens-swimming-and-diving/roster",
+    "https://fairfieldstags.com/sports/womens-swimming-and-diving/roster",
+    "https://fairfieldstags.com/sports/mens-cross-country/roster",
+    "https://fairfieldstags.com/sports/womens-cross-country/roster",
+    "https://fairfieldstags.com/sports/mens-golf/roster",
+    "https://fairfieldstags.com/sports/womens-golf/roster",
+    "https://fairfieldstags.com/sports/mens-lacrosse/roster",
+    "https://fairfieldstags.com/sports/womens-lacrosse/roster",
+    "https://fairfieldstags.com/sports/baseball/roster",
+    "https://fairfieldstags.com/sports/softball/roster",
+    "https://fairfieldstags.com/sports/mens-tennis/roster",
+    "https://fairfieldstags.com/sports/womens-tennis/roster",
+    "https://fairfieldstags.com/sports/womens-volleyball/roster",
+    "https://fairfieldstags.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fairfieldstags.com/sports/football/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fairfieldstags.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "school": "/schools/hendrix",
+  "base": "https://hendrixwarriors.com",
+  "goodList": [
+    "https://hendrixwarriors.com/sports/football/roster",
+    "https://hendrixwarriors.com/sports/mens-soccer/roster",
+    "https://hendrixwarriors.com/sports/womens-soccer/roster",
+    "https://hendrixwarriors.com/sports/mens-basketball/roster",
+    "https://hendrixwarriors.com/sports/womens-basketball/roster",
+    "https://hendrixwarriors.com/sports/mens-swimming-and-diving/roster",
+    "https://hendrixwarriors.com/sports/womens-swimming-and-diving/roster",
+    "https://hendrixwarriors.com/sports/mens-track-and-field/roster",
+    "https://hendrixwarriors.com/sports/womens-track-and-field/roster",
+    "https://hendrixwarriors.com/sports/mens-cross-country/roster",
+    "https://hendrixwarriors.com/sports/womens-cross-country/roster",
+    "https://hendrixwarriors.com/sports/mens-golf/roster",
+    "https://hendrixwarriors.com/sports/womens-golf/roster",
+    "https://hendrixwarriors.com/sports/mens-lacrosse/roster",
+    "https://hendrixwarriors.com/sports/womens-lacrosse/roster",
+    "https://hendrixwarriors.com/sports/baseball/roster",
+    "https://hendrixwarriors.com/sports/softball/roster",
+    "https://hendrixwarriors.com/sports/mens-tennis/roster",
+    "https://hendrixwarriors.com/sports/womens-tennis/roster",
+    "https://hendrixwarriors.com/sports/womens-volleyball/roster",
+    "https://hendrixwarriors.com/sports/womens-beach-volleyball/roster",
+    "https://hendrixwarriors.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hendrixwarriors.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hendrixwarriors.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

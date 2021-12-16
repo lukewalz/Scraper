@@ -1,0 +1,184 @@
+{
+  "school": "/schools/blackburn",
+  "base": "https://blackburnbeavers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://blackburnbeavers.com/sports/football/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://blackburnbeavers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

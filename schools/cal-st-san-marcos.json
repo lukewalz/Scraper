@@ -1,0 +1,159 @@
+{
+  "school": "/schools/cal-st-san-marcos",
+  "base": "https://csusmcougars.com",
+  "goodList": [
+    "https://csusmcougars.com/sports/mens-soccer/roster",
+    "https://csusmcougars.com/sports/womens-soccer/roster",
+    "https://csusmcougars.com/sports/mens-basketball/roster",
+    "https://csusmcougars.com/sports/womens-basketball/roster",
+    "https://csusmcougars.com/sports/mens-track-and-field/roster",
+    "https://csusmcougars.com/sports/womens-track-and-field/roster",
+    "https://csusmcougars.com/sports/mens-cross-country/roster",
+    "https://csusmcougars.com/sports/womens-cross-country/roster",
+    "https://csusmcougars.com/sports/mens-golf/roster",
+    "https://csusmcougars.com/sports/womens-golf/roster",
+    "https://csusmcougars.com/sports/baseball/roster",
+    "https://csusmcougars.com/sports/softball/roster",
+    "https://csusmcougars.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://csusmcougars.com/sports/football/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://csusmcougars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

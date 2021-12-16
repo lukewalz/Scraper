@@ -1,0 +1,139 @@
+{
+  "school": "/schools/navy",
+  "base": "https://navysports.com",
+  "goodList": [
+    "https://navysports.com/sports/football/roster",
+    "https://navysports.com/sports/mens-soccer/roster",
+    "https://navysports.com/sports/womens-soccer/roster",
+    "https://navysports.com/sports/mens-basketball/roster",
+    "https://navysports.com/sports/womens-basketball/roster",
+    "https://navysports.com/sports/mens-gymnastics/roster",
+    "https://navysports.com/sports/rifle/roster",
+    "https://navysports.com/sports/mens-swimming-and-diving/roster",
+    "https://navysports.com/sports/womens-swimming-and-diving/roster",
+    "https://navysports.com/sports/mens-track-and-field/roster",
+    "https://navysports.com/sports/womens-track-and-field/roster",
+    "https://navysports.com/sports/mens-cross-country/roster",
+    "https://navysports.com/sports/womens-cross-country/roster",
+    "https://navysports.com/sports/mens-golf/roster",
+    "https://navysports.com/sports/womens-golf/roster",
+    "https://navysports.com/sports/mens-lacrosse/roster",
+    "https://navysports.com/sports/womens-lacrosse/roster",
+    "https://navysports.com/sports/baseball/roster",
+    "https://navysports.com/sports/mens-tennis/roster",
+    "https://navysports.com/sports/womens-tennis/roster",
+    "https://navysports.com/sports/womens-volleyball/roster",
+    "https://navysports.com/sports/mens-water-polo/roster",
+    "https://navysports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://navysports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://navysports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

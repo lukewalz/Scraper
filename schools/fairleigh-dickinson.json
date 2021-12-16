@@ -1,0 +1,155 @@
+{
+  "school": "/schools/fairleigh-dickinson",
+  "base": "https://fduknights.com",
+  "goodList": [
+    "https://fduknights.com/sports/mens-soccer/roster",
+    "https://fduknights.com/sports/womens-soccer/roster",
+    "https://fduknights.com/sports/mens-basketball/roster",
+    "https://fduknights.com/sports/womens-basketball/roster",
+    "https://fduknights.com/sports/mens-track-and-field/roster",
+    "https://fduknights.com/sports/womens-track-and-field/roster",
+    "https://fduknights.com/sports/mens-cross-country/roster",
+    "https://fduknights.com/sports/womens-cross-country/roster",
+    "https://fduknights.com/sports/mens-golf/roster",
+    "https://fduknights.com/sports/womens-golf/roster",
+    "https://fduknights.com/sports/baseball/roster",
+    "https://fduknights.com/sports/softball/roster",
+    "https://fduknights.com/sports/mens-tennis/roster",
+    "https://fduknights.com/sports/womens-tennis/roster",
+    "https://fduknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fduknights.com/sports/football/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fduknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

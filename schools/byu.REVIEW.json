@@ -1,0 +1,184 @@
+{
+  "school": "/schools/byu",
+  "base": "https://BYUcougars.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://BYUcougars.com/sports/football/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/softball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://BYUcougars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

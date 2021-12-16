@@ -1,0 +1,153 @@
+{
+  "school": "/schools/fort-hays-st",
+  "base": "https://fhsuathletics.com",
+  "goodList": [
+    "https://fhsuathletics.com/sports/football/roster",
+    "https://fhsuathletics.com/sports/mens-soccer/roster",
+    "https://fhsuathletics.com/sports/womens-soccer/roster",
+    "https://fhsuathletics.com/sports/mens-basketball/roster",
+    "https://fhsuathletics.com/sports/womens-basketball/roster",
+    "https://fhsuathletics.com/sports/mens-track-and-field/roster",
+    "https://fhsuathletics.com/sports/womens-track-and-field/roster",
+    "https://fhsuathletics.com/sports/mens-cross-country/roster",
+    "https://fhsuathletics.com/sports/womens-cross-country/roster",
+    "https://fhsuathletics.com/sports/mens-golf/roster",
+    "https://fhsuathletics.com/sports/womens-golf/roster",
+    "https://fhsuathletics.com/sports/baseball/roster",
+    "https://fhsuathletics.com/sports/softball/roster",
+    "https://fhsuathletics.com/sports/womens-tennis/roster",
+    "https://fhsuathletics.com/sports/womens-volleyball/roster",
+    "https://fhsuathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fhsuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fhsuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

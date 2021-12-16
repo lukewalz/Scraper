@@ -1,0 +1,151 @@
+{
+  "school": "/schools/richard-stockton",
+  "base": "https://stocktonathletics.com",
+  "goodList": [
+    "https://stocktonathletics.com/sports/mens-soccer/roster",
+    "https://stocktonathletics.com/sports/womens-soccer/roster",
+    "https://stocktonathletics.com/sports/mens-basketball/roster",
+    "https://stocktonathletics.com/sports/womens-basketball/roster",
+    "https://stocktonathletics.com/sports/mens-track-and-field/roster",
+    "https://stocktonathletics.com/sports/womens-track-and-field/roster",
+    "https://stocktonathletics.com/sports/mens-cross-country/roster",
+    "https://stocktonathletics.com/sports/womens-cross-country/roster",
+    "https://stocktonathletics.com/sports/womens-golf/roster",
+    "https://stocktonathletics.com/sports/mens-lacrosse/roster",
+    "https://stocktonathletics.com/sports/womens-lacrosse/roster",
+    "https://stocktonathletics.com/sports/rowing/roster",
+    "https://stocktonathletics.com/sports/baseball/roster",
+    "https://stocktonathletics.com/sports/softball/roster",
+    "https://stocktonathletics.com/sports/womens-tennis/roster",
+    "https://stocktonathletics.com/sports/womens-volleyball/roster",
+    "https://stocktonathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://stocktonathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://stocktonathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

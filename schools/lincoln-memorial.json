@@ -1,0 +1,143 @@
+{
+  "school": "/schools/lincoln-memorial",
+  "base": "https://lmurailsplitters.com",
+  "goodList": [
+    "https://lmurailsplitters.com/sports/mens-soccer/roster",
+    "https://lmurailsplitters.com/sports/womens-soccer/roster",
+    "https://lmurailsplitters.com/sports/mens-basketball/roster",
+    "https://lmurailsplitters.com/sports/womens-basketball/roster",
+    "https://lmurailsplitters.com/sports/mens-track-and-field/roster",
+    "https://lmurailsplitters.com/sports/womens-track-and-field/roster",
+    "https://lmurailsplitters.com/sports/mens-cross-country/roster",
+    "https://lmurailsplitters.com/sports/womens-cross-country/roster",
+    "https://lmurailsplitters.com/sports/mens-golf/roster",
+    "https://lmurailsplitters.com/sports/womens-golf/roster",
+    "https://lmurailsplitters.com/sports/mens-lacrosse/roster",
+    "https://lmurailsplitters.com/sports/womens-lacrosse/roster",
+    "https://lmurailsplitters.com/sports/baseball/roster",
+    "https://lmurailsplitters.com/sports/softball/roster",
+    "https://lmurailsplitters.com/sports/mens-tennis/roster",
+    "https://lmurailsplitters.com/sports/womens-tennis/roster",
+    "https://lmurailsplitters.com/sports/mens-volleyball/roster",
+    "https://lmurailsplitters.com/sports/womens-volleyball/roster",
+    "https://lmurailsplitters.com/sports/womens-beach-volleyball/roster",
+    "https://lmurailsplitters.com/sports/mwrest/roster",
+    "https://lmurailsplitters.com/sports/wwrest/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lmurailsplitters.com/sports/football/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lmurailsplitters.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

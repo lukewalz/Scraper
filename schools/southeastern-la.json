@@ -1,0 +1,155 @@
+{
+  "school": "/schools/southeastern-la",
+  "base": "https://lionsports.net",
+  "goodList": [
+    "https://lionsports.net/sports/football/roster",
+    "https://lionsports.net/sports/womens-soccer/roster",
+    "https://lionsports.net/sports/mens-basketball/roster",
+    "https://lionsports.net/sports/womens-basketball/roster",
+    "https://lionsports.net/sports/mens-track-and-field/roster",
+    "https://lionsports.net/sports/womens-track-and-field/roster",
+    "https://lionsports.net/sports/cross-country/roster",
+    "https://lionsports.net/sports/womens-cross-country/roster",
+    "https://lionsports.net/sports/mens-golf/roster",
+    "https://lionsports.net/sports/baseball/roster",
+    "https://lionsports.net/sports/softball/roster",
+    "https://lionsports.net/sports/mens-tennis/roster",
+    "https://lionsports.net/sports/womens-tennis/roster",
+    "https://lionsports.net/sports/womens-volleyball/roster",
+    "https://lionsports.net/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lionsports.net/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/bowling/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/fencing/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/rifle/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/skiing/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/golf/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/rowing/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/tennis/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/rugby/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/tri/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lionsports.net/sports/mens-field-hockey/roster"
+    }
+  ]
+}

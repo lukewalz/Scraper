@@ -1,0 +1,141 @@
+{
+  "school": "/schools/stevens",
+  "base": "https://stevensducks.com",
+  "goodList": [
+    "https://stevensducks.com/sports/mens-soccer/roster",
+    "https://stevensducks.com/sports/womens-soccer/roster",
+    "https://stevensducks.com/sports/mens-basketball/roster",
+    "https://stevensducks.com/sports/womens-basketball/roster",
+    "https://stevensducks.com/sports/mens-swimming-and-diving/roster",
+    "https://stevensducks.com/sports/womens-swimming-and-diving/roster",
+    "https://stevensducks.com/sports/mens-track-and-field/roster",
+    "https://stevensducks.com/sports/womens-track-and-field/roster",
+    "https://stevensducks.com/sports/mens-cross-country/roster",
+    "https://stevensducks.com/sports/womens-cross-country/roster",
+    "https://stevensducks.com/sports/equestrian/roster",
+    "https://stevensducks.com/sports/mens-golf/roster",
+    "https://stevensducks.com/sports/mens-lacrosse/roster",
+    "https://stevensducks.com/sports/womens-lacrosse/roster",
+    "https://stevensducks.com/sports/baseball/roster",
+    "https://stevensducks.com/sports/softball/roster",
+    "https://stevensducks.com/sports/mens-tennis/roster",
+    "https://stevensducks.com/sports/womens-tennis/roster",
+    "https://stevensducks.com/sports/mens-volleyball/roster",
+    "https://stevensducks.com/sports/womens-volleyball/roster",
+    "https://stevensducks.com/sports/wrestling/roster",
+    "https://stevensducks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://stevensducks.com/sports/football/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://stevensducks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "school": "/schools/iowa-st",
+  "base": "https://cyclones.com",
+  "goodList": [
+    "https://cyclones.com/sports/football/roster",
+    "https://cyclones.com/sports/womens-soccer/roster",
+    "https://cyclones.com/sports/mens-basketball/roster",
+    "https://cyclones.com/sports/womens-basketball/roster",
+    "https://cyclones.com/sports/womens-gymnastics/roster",
+    "https://cyclones.com/sports/womens-swimming-and-diving/roster",
+    "https://cyclones.com/sports/track-and-field/roster",
+    "https://cyclones.com/sports/cross-country/roster",
+    "https://cyclones.com/sports/golf/roster",
+    "https://cyclones.com/sports/womens-golf/roster",
+    "https://cyclones.com/sports/softball/roster",
+    "https://cyclones.com/sports/womens-tennis/roster",
+    "https://cyclones.com/sports/womens-volleyball/roster",
+    "https://cyclones.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cyclones.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cyclones.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

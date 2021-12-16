@@ -1,0 +1,161 @@
+{
+  "school": "/schools/mansfield",
+  "base": "https://gomounties.com",
+  "goodList": [
+    "https://gomounties.com/sports/football/roster",
+    "https://gomounties.com/sports/womens-soccer/roster",
+    "https://gomounties.com/sports/mens-basketball/roster",
+    "https://gomounties.com/sports/womens-basketball/roster",
+    "https://gomounties.com/sports/swimming-and-diving/roster",
+    "https://gomounties.com/sports/track-and-field/roster",
+    "https://gomounties.com/sports/womens-track-and-field/roster",
+    "https://gomounties.com/sports/cross-country/roster",
+    "https://gomounties.com/sports/womens-cross-country/roster",
+    "https://gomounties.com/sports/baseball/roster",
+    "https://gomounties.com/sports/softball/roster",
+    "https://gomounties.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomounties.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomounties.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

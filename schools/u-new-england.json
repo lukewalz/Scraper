@@ -1,0 +1,149 @@
+{
+  "school": "/schools/u-new-england",
+  "base": "https://athletics.une.edu",
+  "goodList": [
+    "https://athletics.une.edu/sports/football/roster",
+    "https://athletics.une.edu/sports/mens-soccer/roster",
+    "https://athletics.une.edu/sports/womens-soccer/roster",
+    "https://athletics.une.edu/sports/mens-basketball/roster",
+    "https://athletics.une.edu/sports/womens-basketball/roster",
+    "https://athletics.une.edu/sports/mens-ice-hockey/roster",
+    "https://athletics.une.edu/sports/womens-ice-hockey/roster",
+    "https://athletics.une.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.une.edu/sports/womens-track-and-field/roster",
+    "https://athletics.une.edu/sports/mens-cross-country/roster",
+    "https://athletics.une.edu/sports/womens-cross-country/roster",
+    "https://athletics.une.edu/sports/mens-golf/roster",
+    "https://athletics.une.edu/sports/mens-lacrosse/roster",
+    "https://athletics.une.edu/sports/womens-lacrosse/roster",
+    "https://athletics.une.edu/sports/softball/roster",
+    "https://athletics.une.edu/sports/womens-volleyball/roster",
+    "https://athletics.une.edu/sports/womens-rugby/roster",
+    "https://athletics.une.edu/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.une.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.une.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

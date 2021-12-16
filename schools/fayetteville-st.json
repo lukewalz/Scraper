@@ -1,0 +1,165 @@
+{
+  "school": "/schools/fayetteville-st",
+  "base": "https://fsubroncos.com",
+  "goodList": [
+    "https://fsubroncos.com/sports/football/roster",
+    "https://fsubroncos.com/sports/mens-basketball/roster",
+    "https://fsubroncos.com/sports/womens-basketball/roster",
+    "https://fsubroncos.com/sports/track-and-field/roster",
+    "https://fsubroncos.com/sports/cross-country/roster",
+    "https://fsubroncos.com/sports/womens-cross-country/roster",
+    "https://fsubroncos.com/sports/mens-golf/roster",
+    "https://fsubroncos.com/sports/softball/roster",
+    "https://fsubroncos.com/sports/womens-tennis/roster",
+    "https://fsubroncos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fsubroncos.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fsubroncos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "school": "/schools/okla-panhandle",
+  "base": "https://opsuaggies.com/",
+  "goodList": [
+    "https://opsuaggies.com//sports/football/roster",
+    "https://opsuaggies.com//sports/mens-soccer/roster",
+    "https://opsuaggies.com//sports/womens-soccer/roster",
+    "https://opsuaggies.com//sports/mens-basketball/roster",
+    "https://opsuaggies.com//sports/womens-basketball/roster",
+    "https://opsuaggies.com//sports/mens-cross-country/roster",
+    "https://opsuaggies.com//sports/womens-cross-country/roster",
+    "https://opsuaggies.com//sports/equestrian/roster",
+    "https://opsuaggies.com//sports/baseball/roster",
+    "https://opsuaggies.com//sports/softball/roster",
+    "https://opsuaggies.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://opsuaggies.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/golf/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/tri/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://opsuaggies.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

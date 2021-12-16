@@ -1,0 +1,184 @@
+{
+  "school": "/schools/washington-col",
+  "base": "https://washingtoncollegesports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://washingtoncollegesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://washingtoncollegesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/flagler",
+  "base": "https://flaglerathletics.com",
+  "goodList": [
+    "https://flaglerathletics.com/sports/mens-soccer/roster",
+    "https://flaglerathletics.com/sports/womens-soccer/roster",
+    "https://flaglerathletics.com/sports/mens-basketball/roster",
+    "https://flaglerathletics.com/sports/womens-basketball/roster",
+    "https://flaglerathletics.com/sports/mens-cross-country/roster",
+    "https://flaglerathletics.com/sports/womens-cross-country/roster",
+    "https://flaglerathletics.com/sports/mens-golf/roster",
+    "https://flaglerathletics.com/sports/womens-golf/roster",
+    "https://flaglerathletics.com/sports/baseball/roster",
+    "https://flaglerathletics.com/sports/softball/roster",
+    "https://flaglerathletics.com/sports/mens-tennis/roster",
+    "https://flaglerathletics.com/sports/womens-tennis/roster",
+    "https://flaglerathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://flaglerathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://flaglerathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

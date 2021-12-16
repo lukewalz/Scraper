@@ -1,0 +1,184 @@
+{
+  "school": "/schools/usciences",
+  "base": "https://devilsathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://devilsathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://devilsathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "school": "/schools/bloomsburg",
+  "base": "https://buhuskies.com",
+  "goodList": [
+    "https://buhuskies.com/sports/football/roster",
+    "https://buhuskies.com/sports/mens-soccer/roster",
+    "https://buhuskies.com/sports/womens-soccer/roster",
+    "https://buhuskies.com/sports/mens-basketball/roster",
+    "https://buhuskies.com/sports/womens-basketball/roster",
+    "https://buhuskies.com/sports/mens-swimming-and-diving/roster",
+    "https://buhuskies.com/sports/womens-swimming-and-diving/roster",
+    "https://buhuskies.com/sports/mens-track-and-field/roster",
+    "https://buhuskies.com/sports/womens-track-and-field/roster",
+    "https://buhuskies.com/sports/mens-cross-country/roster",
+    "https://buhuskies.com/sports/womens-cross-country/roster",
+    "https://buhuskies.com/sports/womens-lacrosse/roster",
+    "https://buhuskies.com/sports/baseball/roster",
+    "https://buhuskies.com/sports/softball/roster",
+    "https://buhuskies.com/sports/mens-tennis/roster",
+    "https://buhuskies.com/sports/womens-tennis/roster",
+    "https://buhuskies.com/sports/womens-volleyball/roster",
+    "https://buhuskies.com/sports/wrestling/roster",
+    "https://buhuskies.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://buhuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://buhuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

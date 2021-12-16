@@ -1,0 +1,147 @@
+{
+  "school": "/schools/george-mason",
+  "base": "https://gomason.com",
+  "goodList": [
+    "https://gomason.com/sports/mens-soccer/roster",
+    "https://gomason.com/sports/womens-soccer/roster",
+    "https://gomason.com/sports/mens-basketball/roster",
+    "https://gomason.com/sports/womens-basketball/roster",
+    "https://gomason.com/sports/mens-swimming-and-diving/roster",
+    "https://gomason.com/sports/womens-swimming-and-diving/roster",
+    "https://gomason.com/sports/mens-track-and-field/roster",
+    "https://gomason.com/sports/womens-track-and-field/roster",
+    "https://gomason.com/sports/mens-cross-country/roster",
+    "https://gomason.com/sports/womens-cross-country/roster",
+    "https://gomason.com/sports/mens-golf/roster",
+    "https://gomason.com/sports/womens-lacrosse/roster",
+    "https://gomason.com/sports/baseball/roster",
+    "https://gomason.com/sports/softball/roster",
+    "https://gomason.com/sports/mens-tennis/roster",
+    "https://gomason.com/sports/womens-tennis/roster",
+    "https://gomason.com/sports/mens-volleyball/roster",
+    "https://gomason.com/sports/womens-volleyball/roster",
+    "https://gomason.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomason.com/sports/football/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomason.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

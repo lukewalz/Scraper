@@ -1,0 +1,184 @@
+{
+  "school": "/schools/trine",
+  "base": "https://trinethunder.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://trinethunder.com/sports/football/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/golf/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/softball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/tri/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://trinethunder.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

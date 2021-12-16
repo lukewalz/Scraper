@@ -1,0 +1,145 @@
+{
+  "school": "/schools/florida-tech",
+  "base": "https://floridatechsports.com",
+  "goodList": [
+    "https://floridatechsports.com/sports/football/roster",
+    "https://floridatechsports.com/sports/mens-soccer/roster",
+    "https://floridatechsports.com/sports/womens-soccer/roster",
+    "https://floridatechsports.com/sports/mens-basketball/roster",
+    "https://floridatechsports.com/sports/womens-basketball/roster",
+    "https://floridatechsports.com/sports/mens-swimming-and-diving/roster",
+    "https://floridatechsports.com/sports/womens-swimming-and-diving/roster",
+    "https://floridatechsports.com/sports/mens-track-and-field/roster",
+    "https://floridatechsports.com/sports/womens-track-and-field/roster",
+    "https://floridatechsports.com/sports/mens-cross-country/roster",
+    "https://floridatechsports.com/sports/womens-cross-country/roster",
+    "https://floridatechsports.com/sports/mens-golf/roster",
+    "https://floridatechsports.com/sports/womens-golf/roster",
+    "https://floridatechsports.com/sports/mens-lacrosse/roster",
+    "https://floridatechsports.com/sports/womens-lacrosse/roster",
+    "https://floridatechsports.com/sports/baseball/roster",
+    "https://floridatechsports.com/sports/softball/roster",
+    "https://floridatechsports.com/sports/mens-tennis/roster",
+    "https://floridatechsports.com/sports/womens-tennis/roster",
+    "https://floridatechsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://floridatechsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://floridatechsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

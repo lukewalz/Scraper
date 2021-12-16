@@ -1,0 +1,157 @@
+{
+  "school": "/schools/tulsa",
+  "base": "https://tulsahurricane.com",
+  "goodList": [
+    "https://tulsahurricane.com/sports/football/roster",
+    "https://tulsahurricane.com/sports/mens-soccer/roster",
+    "https://tulsahurricane.com/sports/womens-soccer/roster",
+    "https://tulsahurricane.com/sports/mens-basketball/roster",
+    "https://tulsahurricane.com/sports/womens-basketball/roster",
+    "https://tulsahurricane.com/sports/track-and-field/roster",
+    "https://tulsahurricane.com/sports/cross-country/roster",
+    "https://tulsahurricane.com/sports/mens-golf/roster",
+    "https://tulsahurricane.com/sports/womens-golf/roster",
+    "https://tulsahurricane.com/sports/rowing/roster",
+    "https://tulsahurricane.com/sports/softball/roster",
+    "https://tulsahurricane.com/sports/mens-tennis/roster",
+    "https://tulsahurricane.com/sports/womens-tennis/roster",
+    "https://tulsahurricane.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://tulsahurricane.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/golf/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/tri/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://tulsahurricane.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/milwaukee",
+  "base": "https://mkepanthers.com",
+  "goodList": [
+    "https://mkepanthers.com/sports/mens-soccer/roster",
+    "https://mkepanthers.com/sports/womens-soccer/roster",
+    "https://mkepanthers.com/sports/mens-basketball/roster",
+    "https://mkepanthers.com/sports/womens-basketball/roster",
+    "https://mkepanthers.com/sports/mens-swimming-and-diving/roster",
+    "https://mkepanthers.com/sports/womens-swimming-and-diving/roster",
+    "https://mkepanthers.com/sports/mens-track-and-field/roster",
+    "https://mkepanthers.com/sports/womens-track-and-field/roster",
+    "https://mkepanthers.com/sports/mens-cross-country/roster",
+    "https://mkepanthers.com/sports/womens-cross-country/roster",
+    "https://mkepanthers.com/sports/baseball/roster",
+    "https://mkepanthers.com/sports/womens-tennis/roster",
+    "https://mkepanthers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mkepanthers.com/sports/football/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mkepanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

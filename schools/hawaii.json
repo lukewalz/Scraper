@@ -1,0 +1,149 @@
+{
+  "school": "/schools/hawaii",
+  "base": "https://hawaiiathletics.com",
+  "goodList": [
+    "https://hawaiiathletics.com/sports/football/roster",
+    "https://hawaiiathletics.com/sports/womens-soccer/roster",
+    "https://hawaiiathletics.com/sports/mens-basketball/roster",
+    "https://hawaiiathletics.com/sports/womens-basketball/roster",
+    "https://hawaiiathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://hawaiiathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://hawaiiathletics.com/sports/womens-track-and-field/roster",
+    "https://hawaiiathletics.com/sports/womens-cross-country/roster",
+    "https://hawaiiathletics.com/sports/mens-golf/roster",
+    "https://hawaiiathletics.com/sports/womens-golf/roster",
+    "https://hawaiiathletics.com/sports/baseball/roster",
+    "https://hawaiiathletics.com/sports/softball/roster",
+    "https://hawaiiathletics.com/sports/mens-tennis/roster",
+    "https://hawaiiathletics.com/sports/womens-tennis/roster",
+    "https://hawaiiathletics.com/sports/mens-volleyball/roster",
+    "https://hawaiiathletics.com/sports/womens-volleyball/roster",
+    "https://hawaiiathletics.com/sports/womens-beach-volleyball/roster",
+    "https://hawaiiathletics.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hawaiiathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

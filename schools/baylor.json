@@ -1,0 +1,157 @@
+{
+  "school": "/schools/baylor",
+  "base": "https://baylorbears.com",
+  "goodList": [
+    "https://baylorbears.com/sports/football/roster",
+    "https://baylorbears.com/sports/womens-soccer/roster",
+    "https://baylorbears.com/sports/mens-basketball/roster",
+    "https://baylorbears.com/sports/womens-basketball/roster",
+    "https://baylorbears.com/sports/track-and-field/roster",
+    "https://baylorbears.com/sports/cross-country/roster",
+    "https://baylorbears.com/sports/equestrian/roster",
+    "https://baylorbears.com/sports/mens-golf/roster",
+    "https://baylorbears.com/sports/womens-golf/roster",
+    "https://baylorbears.com/sports/baseball/roster",
+    "https://baylorbears.com/sports/softball/roster",
+    "https://baylorbears.com/sports/mens-tennis/roster",
+    "https://baylorbears.com/sports/womens-tennis/roster",
+    "https://baylorbears.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://baylorbears.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://baylorbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

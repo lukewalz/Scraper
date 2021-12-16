@@ -1,0 +1,184 @@
+{
+  "school": "/schools/syracuse",
+  "base": "https://suathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://suathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://suathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

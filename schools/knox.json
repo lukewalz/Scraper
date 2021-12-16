@@ -1,0 +1,73 @@
+{
+  "school": "/schools/knox",
+  "base": "https://prairiefire.knox.edu",
+  "goodList": [
+    "https://prairiefire.knox.edu/sports/football/roster",
+    "https://prairiefire.knox.edu/sports/mens-soccer/roster",
+    "https://prairiefire.knox.edu/sports/womens-soccer/roster",
+    "https://prairiefire.knox.edu/sports/mens-basketball/roster",
+    "https://prairiefire.knox.edu/sports/womens-basketball/roster",
+    "https://prairiefire.knox.edu/sports/bowling/roster",
+    "https://prairiefire.knox.edu/sports/fencing/roster",
+    "https://prairiefire.knox.edu/sports/gymnastics/roster",
+    "https://prairiefire.knox.edu/sports/mens-gymnastics/roster",
+    "https://prairiefire.knox.edu/sports/womens-gymnastics/roster",
+    "https://prairiefire.knox.edu/sports/ice-hockey/roster",
+    "https://prairiefire.knox.edu/sports/mens-ice-hockey/roster",
+    "https://prairiefire.knox.edu/sports/womens-ice-hockey/roster",
+    "https://prairiefire.knox.edu/sports/rifle/roster",
+    "https://prairiefire.knox.edu/sports/skiing/roster",
+    "https://prairiefire.knox.edu/sports/swimming-and-diving/roster",
+    "https://prairiefire.knox.edu/sports/mens-swimming-and-diving/roster",
+    "https://prairiefire.knox.edu/sports/womens-swimming-and-diving/roster",
+    "https://prairiefire.knox.edu/sports/track-and-field/roster",
+    "https://prairiefire.knox.edu/sports/mens-track-and-field/roster",
+    "https://prairiefire.knox.edu/sports/womens-track-and-field/roster",
+    "https://prairiefire.knox.edu/sports/cross-country/roster",
+    "https://prairiefire.knox.edu/sports/womens-cross-country/roster",
+    "https://prairiefire.knox.edu/sports/xctrack/roster",
+    "https://prairiefire.knox.edu/sports/equestrian/roster",
+    "https://prairiefire.knox.edu/sports/golf/roster",
+    "https://prairiefire.knox.edu/sports/mens-golf/roster",
+    "https://prairiefire.knox.edu/sports/womens-golf/roster",
+    "https://prairiefire.knox.edu/sports/lacrosse/roster",
+    "https://prairiefire.knox.edu/sports/mens-lacrosse/roster",
+    "https://prairiefire.knox.edu/sports/womens-lacrosse/roster",
+    "https://prairiefire.knox.edu/sports/rowing/roster",
+    "https://prairiefire.knox.edu/sports/baseball/roster",
+    "https://prairiefire.knox.edu/sports/softball/roster",
+    "https://prairiefire.knox.edu/sports/tennis/roster",
+    "https://prairiefire.knox.edu/sports/mens-tennis/roster",
+    "https://prairiefire.knox.edu/sports/womens-tennis/roster",
+    "https://prairiefire.knox.edu/sports/mens-volleyball/roster",
+    "https://prairiefire.knox.edu/sports/womens-volleyball/roster",
+    "https://prairiefire.knox.edu/sports/mens-beach-volleyball/roster",
+    "https://prairiefire.knox.edu/sports/womens-beach-volleyball/roster",
+    "https://prairiefire.knox.edu/sports/wbvb/roster",
+    "https://prairiefire.knox.edu/sports/water-polo/roster",
+    "https://prairiefire.knox.edu/sports/mens-water-polo/roster",
+    "https://prairiefire.knox.edu/sports/womens-water-polo/roster",
+    "https://prairiefire.knox.edu/sports/mwrest/roster",
+    "https://prairiefire.knox.edu/sports/wwrest/roster",
+    "https://prairiefire.knox.edu/sports/rugby/roster",
+    "https://prairiefire.knox.edu/sports/mens-rugby/roster",
+    "https://prairiefire.knox.edu/sports/womens-rugby/roster",
+    "https://prairiefire.knox.edu/sports/tri/roster",
+    "https://prairiefire.knox.edu/sports/mens-tri/roster",
+    "https://prairiefire.knox.edu/sports/womens-tri/roster",
+    "https://prairiefire.knox.edu/sports/field-hockey/roster",
+    "https://prairiefire.knox.edu/sports/womens-field-hockey/roster",
+    "https://prairiefire.knox.edu/sports/mens-field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://prairiefire.knox.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://prairiefire.knox.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://prairiefire.knox.edu/sports/wrestling/roster"
+    }
+  ]
+}

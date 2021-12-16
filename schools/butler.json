@@ -1,0 +1,149 @@
+{
+  "school": "/schools/butler",
+  "base": "https://butlersports.com",
+  "goodList": [
+    "https://butlersports.com/sports/football/roster",
+    "https://butlersports.com/sports/mens-soccer/roster",
+    "https://butlersports.com/sports/womens-soccer/roster",
+    "https://butlersports.com/sports/mens-basketball/roster",
+    "https://butlersports.com/sports/womens-basketball/roster",
+    "https://butlersports.com/sports/womens-swimming-and-diving/roster",
+    "https://butlersports.com/sports/mens-track-and-field/roster",
+    "https://butlersports.com/sports/womens-track-and-field/roster",
+    "https://butlersports.com/sports/mens-cross-country/roster",
+    "https://butlersports.com/sports/womens-cross-country/roster",
+    "https://butlersports.com/sports/golf/roster",
+    "https://butlersports.com/sports/womens-golf/roster",
+    "https://butlersports.com/sports/womens-lacrosse/roster",
+    "https://butlersports.com/sports/baseball/roster",
+    "https://butlersports.com/sports/softball/roster",
+    "https://butlersports.com/sports/mens-tennis/roster",
+    "https://butlersports.com/sports/womens-tennis/roster",
+    "https://butlersports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://butlersports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://butlersports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

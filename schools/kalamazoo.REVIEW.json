@@ -1,0 +1,184 @@
+{
+  "school": "/schools/kalamazoo",
+  "base": "https://hornets.kzoo.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hornets.kzoo.edu/sports/football/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hornets.kzoo.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

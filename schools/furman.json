@@ -1,0 +1,151 @@
+{
+  "school": "/schools/furman",
+  "base": "https://furmanpaladins.com",
+  "goodList": [
+    "https://furmanpaladins.com/sports/football/roster",
+    "https://furmanpaladins.com/sports/mens-soccer/roster",
+    "https://furmanpaladins.com/sports/womens-soccer/roster",
+    "https://furmanpaladins.com/sports/mens-basketball/roster",
+    "https://furmanpaladins.com/sports/womens-basketball/roster",
+    "https://furmanpaladins.com/sports/track-and-field/roster",
+    "https://furmanpaladins.com/sports/mens-cross-country/roster",
+    "https://furmanpaladins.com/sports/womens-cross-country/roster",
+    "https://furmanpaladins.com/sports/golf/roster",
+    "https://furmanpaladins.com/sports/womens-golf/roster",
+    "https://furmanpaladins.com/sports/mens-lacrosse/roster",
+    "https://furmanpaladins.com/sports/womens-lacrosse/roster",
+    "https://furmanpaladins.com/sports/baseball/roster",
+    "https://furmanpaladins.com/sports/softball/roster",
+    "https://furmanpaladins.com/sports/mens-tennis/roster",
+    "https://furmanpaladins.com/sports/womens-tennis/roster",
+    "https://furmanpaladins.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://furmanpaladins.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/tri/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://furmanpaladins.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

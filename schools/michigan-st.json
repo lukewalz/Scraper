@@ -1,0 +1,143 @@
+{
+  "school": "/schools/michigan-st",
+  "base": "https://msuspartans.com",
+  "goodList": [
+    "https://msuspartans.com/sports/football/roster",
+    "https://msuspartans.com/sports/mens-soccer/roster",
+    "https://msuspartans.com/sports/womens-soccer/roster",
+    "https://msuspartans.com/sports/mens-basketball/roster",
+    "https://msuspartans.com/sports/womens-basketball/roster",
+    "https://msuspartans.com/sports/womens-gymnastics/roster",
+    "https://msuspartans.com/sports/mens-ice-hockey/roster",
+    "https://msuspartans.com/sports/swimming-and-diving/roster",
+    "https://msuspartans.com/sports/track-and-field/roster",
+    "https://msuspartans.com/sports/cross-country/roster",
+    "https://msuspartans.com/sports/mens-cross-country/roster",
+    "https://msuspartans.com/sports/womens-cross-country/roster",
+    "https://msuspartans.com/sports/mens-golf/roster",
+    "https://msuspartans.com/sports/womens-golf/roster",
+    "https://msuspartans.com/sports/baseball/roster",
+    "https://msuspartans.com/sports/softball/roster",
+    "https://msuspartans.com/sports/mens-tennis/roster",
+    "https://msuspartans.com/sports/womens-tennis/roster",
+    "https://msuspartans.com/sports/womens-volleyball/roster",
+    "https://msuspartans.com/sports/wrestling/roster",
+    "https://msuspartans.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://msuspartans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://msuspartans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

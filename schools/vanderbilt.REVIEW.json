@@ -1,0 +1,184 @@
+{
+  "school": "/schools/vanderbilt",
+  "base": "https://vucommodores.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://vucommodores.com/sports/football/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/golf/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/softball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/tri/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://vucommodores.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

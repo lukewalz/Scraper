@@ -1,0 +1,149 @@
+{
+  "school": "/schools/southern-nazarene",
+  "base": "https://snuathletics.com",
+  "goodList": [
+    "https://snuathletics.com/sports/football/roster",
+    "https://snuathletics.com/sports/mens-soccer/roster",
+    "https://snuathletics.com/sports/womens-soccer/roster",
+    "https://snuathletics.com/sports/mens-basketball/roster",
+    "https://snuathletics.com/sports/womens-basketball/roster",
+    "https://snuathletics.com/sports/track-and-field/roster",
+    "https://snuathletics.com/sports/mens-track-and-field/roster",
+    "https://snuathletics.com/sports/womens-track-and-field/roster",
+    "https://snuathletics.com/sports/cross-country/roster",
+    "https://snuathletics.com/sports/mens-cross-country/roster",
+    "https://snuathletics.com/sports/womens-cross-country/roster",
+    "https://snuathletics.com/sports/equestrian/roster",
+    "https://snuathletics.com/sports/mens-golf/roster",
+    "https://snuathletics.com/sports/womens-golf/roster",
+    "https://snuathletics.com/sports/baseball/roster",
+    "https://snuathletics.com/sports/softball/roster",
+    "https://snuathletics.com/sports/womens-tennis/roster",
+    "https://snuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://snuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://snuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

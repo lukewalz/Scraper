@@ -1,0 +1,159 @@
+{
+  "school": "/schools/portland",
+  "base": "https://portlandpilots.com",
+  "goodList": [
+    "https://portlandpilots.com/sports/mens-soccer/roster",
+    "https://portlandpilots.com/sports/womens-soccer/roster",
+    "https://portlandpilots.com/sports/mens-basketball/roster",
+    "https://portlandpilots.com/sports/womens-basketball/roster",
+    "https://portlandpilots.com/sports/mens-track-and-field/roster",
+    "https://portlandpilots.com/sports/womens-track-and-field/roster",
+    "https://portlandpilots.com/sports/mens-cross-country/roster",
+    "https://portlandpilots.com/sports/womens-cross-country/roster",
+    "https://portlandpilots.com/sports/baseball/roster",
+    "https://portlandpilots.com/sports/mens-tennis/roster",
+    "https://portlandpilots.com/sports/womens-tennis/roster",
+    "https://portlandpilots.com/sports/womens-volleyball/roster",
+    "https://portlandpilots.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://portlandpilots.com/sports/football/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/golf/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/softball/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/tri/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://portlandpilots.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

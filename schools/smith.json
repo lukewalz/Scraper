@@ -1,0 +1,163 @@
+{
+  "school": "/schools/smith",
+  "base": "https://smithpioneers.com",
+  "goodList": [
+    "https://smithpioneers.com/sports/womens-soccer/roster",
+    "https://smithpioneers.com/sports/womens-basketball/roster",
+    "https://smithpioneers.com/sports/womens-swimming-and-diving/roster",
+    "https://smithpioneers.com/sports/womens-track-and-field/roster",
+    "https://smithpioneers.com/sports/womens-cross-country/roster",
+    "https://smithpioneers.com/sports/womens-lacrosse/roster",
+    "https://smithpioneers.com/sports/rowing/roster",
+    "https://smithpioneers.com/sports/softball/roster",
+    "https://smithpioneers.com/sports/womens-tennis/roster",
+    "https://smithpioneers.com/sports/womens-volleyball/roster",
+    "https://smithpioneers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://smithpioneers.com/sports/football/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://smithpioneers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

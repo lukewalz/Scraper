@@ -1,0 +1,184 @@
+{
+  "school": "/schools/brandeis",
+  "base": "https://brandeisjudges.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://brandeisjudges.com/sports/football/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/golf/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/softball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/tri/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://brandeisjudges.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

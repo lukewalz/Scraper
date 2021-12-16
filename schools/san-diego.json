@@ -1,0 +1,155 @@
+{
+  "school": "/schools/san-diego",
+  "base": "https://usdtoreros.com",
+  "goodList": [
+    "https://usdtoreros.com/sports/football/roster",
+    "https://usdtoreros.com/sports/mens-soccer/roster",
+    "https://usdtoreros.com/sports/womens-soccer/roster",
+    "https://usdtoreros.com/sports/mens-basketball/roster",
+    "https://usdtoreros.com/sports/womens-basketball/roster",
+    "https://usdtoreros.com/sports/womens-swimming-and-diving/roster",
+    "https://usdtoreros.com/sports/womens-track-and-field/roster",
+    "https://usdtoreros.com/sports/mens-cross-country/roster",
+    "https://usdtoreros.com/sports/womens-cross-country/roster",
+    "https://usdtoreros.com/sports/mens-golf/roster",
+    "https://usdtoreros.com/sports/baseball/roster",
+    "https://usdtoreros.com/sports/softball/roster",
+    "https://usdtoreros.com/sports/mens-tennis/roster",
+    "https://usdtoreros.com/sports/womens-tennis/roster",
+    "https://usdtoreros.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://usdtoreros.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/golf/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/tri/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://usdtoreros.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

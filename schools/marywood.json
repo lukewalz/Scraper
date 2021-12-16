@@ -1,0 +1,141 @@
+{
+  "school": "/schools/marywood",
+  "base": "https://marywoodpacers.com",
+  "goodList": [
+    "https://marywoodpacers.com/sports/mens-soccer/roster",
+    "https://marywoodpacers.com/sports/womens-soccer/roster",
+    "https://marywoodpacers.com/sports/mens-basketball/roster",
+    "https://marywoodpacers.com/sports/womens-basketball/roster",
+    "https://marywoodpacers.com/sports/mens-swimming-and-diving/roster",
+    "https://marywoodpacers.com/sports/womens-swimming-and-diving/roster",
+    "https://marywoodpacers.com/sports/mens-track-and-field/roster",
+    "https://marywoodpacers.com/sports/womens-track-and-field/roster",
+    "https://marywoodpacers.com/sports/mens-cross-country/roster",
+    "https://marywoodpacers.com/sports/womens-cross-country/roster",
+    "https://marywoodpacers.com/sports/golf/roster",
+    "https://marywoodpacers.com/sports/womens-golf/roster",
+    "https://marywoodpacers.com/sports/mens-lacrosse/roster",
+    "https://marywoodpacers.com/sports/womens-lacrosse/roster",
+    "https://marywoodpacers.com/sports/baseball/roster",
+    "https://marywoodpacers.com/sports/softball/roster",
+    "https://marywoodpacers.com/sports/mens-tennis/roster",
+    "https://marywoodpacers.com/sports/womens-tennis/roster",
+    "https://marywoodpacers.com/sports/womens-volleyball/roster",
+    "https://marywoodpacers.com/sports/mens-rugby/roster",
+    "https://marywoodpacers.com/sports/womens-rugby/roster",
+    "https://marywoodpacers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://marywoodpacers.com/sports/football/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://marywoodpacers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

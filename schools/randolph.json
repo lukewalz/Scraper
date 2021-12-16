@@ -1,0 +1,151 @@
+{
+  "school": "/schools/randolph",
+  "base": "https://randolphwildcats.com",
+  "goodList": [
+    "https://randolphwildcats.com/sports/mens-soccer/roster",
+    "https://randolphwildcats.com/sports/womens-soccer/roster",
+    "https://randolphwildcats.com/sports/mens-basketball/roster",
+    "https://randolphwildcats.com/sports/womens-basketball/roster",
+    "https://randolphwildcats.com/sports/mens-swimming-and-diving/roster",
+    "https://randolphwildcats.com/sports/womens-swimming-and-diving/roster",
+    "https://randolphwildcats.com/sports/mens-track-and-field/roster",
+    "https://randolphwildcats.com/sports/womens-track-and-field/roster",
+    "https://randolphwildcats.com/sports/mens-cross-country/roster",
+    "https://randolphwildcats.com/sports/womens-cross-country/roster",
+    "https://randolphwildcats.com/sports/equestrian/roster",
+    "https://randolphwildcats.com/sports/mens-lacrosse/roster",
+    "https://randolphwildcats.com/sports/womens-lacrosse/roster",
+    "https://randolphwildcats.com/sports/softball/roster",
+    "https://randolphwildcats.com/sports/mens-tennis/roster",
+    "https://randolphwildcats.com/sports/womens-tennis/roster",
+    "https://randolphwildcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://randolphwildcats.com/sports/football/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://randolphwildcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

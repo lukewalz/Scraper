@@ -1,0 +1,155 @@
+{
+  "school": "/schools/west-florida",
+  "base": "https://goargos.com",
+  "goodList": [
+    "https://goargos.com/sports/football/roster",
+    "https://goargos.com/sports/mens-soccer/roster",
+    "https://goargos.com/sports/womens-soccer/roster",
+    "https://goargos.com/sports/mens-basketball/roster",
+    "https://goargos.com/sports/womens-basketball/roster",
+    "https://goargos.com/sports/womens-swimming-and-diving/roster",
+    "https://goargos.com/sports/mens-cross-country/roster",
+    "https://goargos.com/sports/womens-cross-country/roster",
+    "https://goargos.com/sports/mens-golf/roster",
+    "https://goargos.com/sports/womens-golf/roster",
+    "https://goargos.com/sports/baseball/roster",
+    "https://goargos.com/sports/softball/roster",
+    "https://goargos.com/sports/mens-tennis/roster",
+    "https://goargos.com/sports/womens-tennis/roster",
+    "https://goargos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goargos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goargos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

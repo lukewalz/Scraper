@@ -1,0 +1,159 @@
+{
+  "school": "/schools/washington-st",
+  "base": "https://wsucougars.com",
+  "goodList": [
+    "https://wsucougars.com/sports/football/roster",
+    "https://wsucougars.com/sports/womens-soccer/roster",
+    "https://wsucougars.com/sports/mens-basketball/roster",
+    "https://wsucougars.com/sports/womens-basketball/roster",
+    "https://wsucougars.com/sports/womens-swimming-and-diving/roster",
+    "https://wsucougars.com/sports/track-and-field/roster",
+    "https://wsucougars.com/sports/cross-country/roster",
+    "https://wsucougars.com/sports/mens-golf/roster",
+    "https://wsucougars.com/sports/womens-golf/roster",
+    "https://wsucougars.com/sports/rowing/roster",
+    "https://wsucougars.com/sports/baseball/roster",
+    "https://wsucougars.com/sports/womens-tennis/roster",
+    "https://wsucougars.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wsucougars.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wsucougars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

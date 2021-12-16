@@ -1,0 +1,157 @@
+{
+  "school": "/schools/high-point",
+  "base": "https://highpointpanthers.com",
+  "goodList": [
+    "https://highpointpanthers.com/sports/mens-soccer/roster",
+    "https://highpointpanthers.com/sports/womens-soccer/roster",
+    "https://highpointpanthers.com/sports/mens-basketball/roster",
+    "https://highpointpanthers.com/sports/womens-basketball/roster",
+    "https://highpointpanthers.com/sports/mens-track-and-field/roster",
+    "https://highpointpanthers.com/sports/womens-track-and-field/roster",
+    "https://highpointpanthers.com/sports/mens-cross-country/roster",
+    "https://highpointpanthers.com/sports/womens-cross-country/roster",
+    "https://highpointpanthers.com/sports/mens-golf/roster",
+    "https://highpointpanthers.com/sports/womens-golf/roster",
+    "https://highpointpanthers.com/sports/mens-lacrosse/roster",
+    "https://highpointpanthers.com/sports/womens-lacrosse/roster",
+    "https://highpointpanthers.com/sports/baseball/roster",
+    "https://highpointpanthers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://highpointpanthers.com/sports/football/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://highpointpanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

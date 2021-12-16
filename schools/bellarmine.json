@@ -1,0 +1,149 @@
+{
+  "school": "/schools/bellarmine",
+  "base": "https://athletics.bellarmine.edu",
+  "goodList": [
+    "https://athletics.bellarmine.edu/sports/mens-soccer/roster",
+    "https://athletics.bellarmine.edu/sports/womens-soccer/roster",
+    "https://athletics.bellarmine.edu/sports/mens-basketball/roster",
+    "https://athletics.bellarmine.edu/sports/womens-basketball/roster",
+    "https://athletics.bellarmine.edu/sports/mens-track-and-field/roster",
+    "https://athletics.bellarmine.edu/sports/womens-track-and-field/roster",
+    "https://athletics.bellarmine.edu/sports/mens-cross-country/roster",
+    "https://athletics.bellarmine.edu/sports/womens-cross-country/roster",
+    "https://athletics.bellarmine.edu/sports/mens-golf/roster",
+    "https://athletics.bellarmine.edu/sports/womens-golf/roster",
+    "https://athletics.bellarmine.edu/sports/mens-lacrosse/roster",
+    "https://athletics.bellarmine.edu/sports/baseball/roster",
+    "https://athletics.bellarmine.edu/sports/softball/roster",
+    "https://athletics.bellarmine.edu/sports/mens-tennis/roster",
+    "https://athletics.bellarmine.edu/sports/womens-tennis/roster",
+    "https://athletics.bellarmine.edu/sports/womens-volleyball/roster",
+    "https://athletics.bellarmine.edu/sports/wrestling/roster",
+    "https://athletics.bellarmine.edu/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.bellarmine.edu/sports/football/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bellarmine.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

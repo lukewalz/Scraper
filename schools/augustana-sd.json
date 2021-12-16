@@ -1,0 +1,151 @@
+{
+  "school": "/schools/augustana-sd",
+  "base": "https://goaugie.com",
+  "goodList": [
+    "https://goaugie.com/sports/football/roster",
+    "https://goaugie.com/sports/womens-soccer/roster",
+    "https://goaugie.com/sports/mens-basketball/roster",
+    "https://goaugie.com/sports/womens-basketball/roster",
+    "https://goaugie.com/sports/womens-swimming-and-diving/roster",
+    "https://goaugie.com/sports/mens-track-and-field/roster",
+    "https://goaugie.com/sports/womens-track-and-field/roster",
+    "https://goaugie.com/sports/mens-cross-country/roster",
+    "https://goaugie.com/sports/womens-cross-country/roster",
+    "https://goaugie.com/sports/mens-golf/roster",
+    "https://goaugie.com/sports/womens-golf/roster",
+    "https://goaugie.com/sports/baseball/roster",
+    "https://goaugie.com/sports/softball/roster",
+    "https://goaugie.com/sports/mens-tennis/roster",
+    "https://goaugie.com/sports/womens-tennis/roster",
+    "https://goaugie.com/sports/womens-volleyball/roster",
+    "https://goaugie.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goaugie.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goaugie.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

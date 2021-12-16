@@ -1,0 +1,184 @@
+{
+  "school": "/schools/buffalo",
+  "base": "https://buffalobulls.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://buffalobulls.com/sports/football/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/golf/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/softball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/tri/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://buffalobulls.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

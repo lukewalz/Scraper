@@ -1,0 +1,157 @@
+{
+  "school": "/schools/houghton",
+  "base": "https://athletics.houghton.edu/",
+  "goodList": [
+    "https://athletics.houghton.edu//sports/mens-soccer/roster",
+    "https://athletics.houghton.edu//sports/womens-soccer/roster",
+    "https://athletics.houghton.edu//sports/mens-basketball/roster",
+    "https://athletics.houghton.edu//sports/womens-basketball/roster",
+    "https://athletics.houghton.edu//sports/track-and-field/roster",
+    "https://athletics.houghton.edu//sports/cross-country/roster",
+    "https://athletics.houghton.edu//sports/mens-lacrosse/roster",
+    "https://athletics.houghton.edu//sports/womens-lacrosse/roster",
+    "https://athletics.houghton.edu//sports/baseball/roster",
+    "https://athletics.houghton.edu//sports/softball/roster",
+    "https://athletics.houghton.edu//sports/mens-tennis/roster",
+    "https://athletics.houghton.edu//sports/womens-tennis/roster",
+    "https://athletics.houghton.edu//sports/womens-volleyball/roster",
+    "https://athletics.houghton.edu//sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.houghton.edu//sports/football/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.houghton.edu//sports/mens-field-hockey/roster"
+    }
+  ]
+}

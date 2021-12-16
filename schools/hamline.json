@@ -1,0 +1,145 @@
+{
+  "school": "/schools/hamline",
+  "base": "https://hamlineathletics.com",
+  "goodList": [
+    "https://hamlineathletics.com/sports/football/roster",
+    "https://hamlineathletics.com/sports/mens-soccer/roster",
+    "https://hamlineathletics.com/sports/womens-soccer/roster",
+    "https://hamlineathletics.com/sports/mens-basketball/roster",
+    "https://hamlineathletics.com/sports/womens-basketball/roster",
+    "https://hamlineathletics.com/sports/womens-gymnastics/roster",
+    "https://hamlineathletics.com/sports/mens-ice-hockey/roster",
+    "https://hamlineathletics.com/sports/womens-ice-hockey/roster",
+    "https://hamlineathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://hamlineathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://hamlineathletics.com/sports/mens-track-and-field/roster",
+    "https://hamlineathletics.com/sports/womens-track-and-field/roster",
+    "https://hamlineathletics.com/sports/mens-cross-country/roster",
+    "https://hamlineathletics.com/sports/womens-cross-country/roster",
+    "https://hamlineathletics.com/sports/womens-lacrosse/roster",
+    "https://hamlineathletics.com/sports/baseball/roster",
+    "https://hamlineathletics.com/sports/softball/roster",
+    "https://hamlineathletics.com/sports/mens-tennis/roster",
+    "https://hamlineathletics.com/sports/womens-tennis/roster",
+    "https://hamlineathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hamlineathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hamlineathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

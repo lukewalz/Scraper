@@ -1,0 +1,153 @@
+{
+  "school": "/schools/fla-atlantic",
+  "base": "https://fausports.com",
+  "goodList": [
+    "https://fausports.com/sports/football/roster",
+    "https://fausports.com/sports/mens-soccer/roster",
+    "https://fausports.com/sports/womens-soccer/roster",
+    "https://fausports.com/sports/mens-basketball/roster",
+    "https://fausports.com/sports/womens-basketball/roster",
+    "https://fausports.com/sports/swimming-and-diving/roster",
+    "https://fausports.com/sports/womens-track-and-field/roster",
+    "https://fausports.com/sports/mens-cross-country/roster",
+    "https://fausports.com/sports/mens-golf/roster",
+    "https://fausports.com/sports/womens-golf/roster",
+    "https://fausports.com/sports/baseball/roster",
+    "https://fausports.com/sports/softball/roster",
+    "https://fausports.com/sports/mens-tennis/roster",
+    "https://fausports.com/sports/womens-tennis/roster",
+    "https://fausports.com/sports/womens-volleyball/roster",
+    "https://fausports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fausports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fausports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

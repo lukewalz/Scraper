@@ -1,0 +1,77 @@
+{
+  "school": "/schools/fresno-st",
+  "base": "https://gobulldogs.com",
+  "goodList": [
+    "https://gobulldogs.com/sports/football/roster",
+    "https://gobulldogs.com/sports/womens-soccer/roster",
+    "https://gobulldogs.com/sports/mens-basketball/roster",
+    "https://gobulldogs.com/sports/womens-basketball/roster",
+    "https://gobulldogs.com/sports/bowling/roster",
+    "https://gobulldogs.com/sports/fencing/roster",
+    "https://gobulldogs.com/sports/gymnastics/roster",
+    "https://gobulldogs.com/sports/mens-gymnastics/roster",
+    "https://gobulldogs.com/sports/womens-gymnastics/roster",
+    "https://gobulldogs.com/sports/ice-hockey/roster",
+    "https://gobulldogs.com/sports/mens-ice-hockey/roster",
+    "https://gobulldogs.com/sports/womens-ice-hockey/roster",
+    "https://gobulldogs.com/sports/rifle/roster",
+    "https://gobulldogs.com/sports/skiing/roster",
+    "https://gobulldogs.com/sports/swimming-and-diving/roster",
+    "https://gobulldogs.com/sports/mens-swimming-and-diving/roster",
+    "https://gobulldogs.com/sports/womens-swimming-and-diving/roster",
+    "https://gobulldogs.com/sports/track-and-field/roster",
+    "https://gobulldogs.com/sports/cross-country/roster",
+    "https://gobulldogs.com/sports/mens-cross-country/roster",
+    "https://gobulldogs.com/sports/womens-cross-country/roster",
+    "https://gobulldogs.com/sports/xctrack/roster",
+    "https://gobulldogs.com/sports/outdoor-track/roster",
+    "https://gobulldogs.com/sports/equestrian/roster",
+    "https://gobulldogs.com/sports/golf/roster",
+    "https://gobulldogs.com/sports/mens-golf/roster",
+    "https://gobulldogs.com/sports/womens-golf/roster",
+    "https://gobulldogs.com/sports/lacrosse/roster",
+    "https://gobulldogs.com/sports/mens-lacrosse/roster",
+    "https://gobulldogs.com/sports/womens-lacrosse/roster",
+    "https://gobulldogs.com/sports/rowing/roster",
+    "https://gobulldogs.com/sports/baseball/roster",
+    "https://gobulldogs.com/sports/softball/roster",
+    "https://gobulldogs.com/sports/tennis/roster",
+    "https://gobulldogs.com/sports/womens-tennis/roster",
+    "https://gobulldogs.com/sports/mens-volleyball/roster",
+    "https://gobulldogs.com/sports/womens-volleyball/roster",
+    "https://gobulldogs.com/sports/mens-beach-volleyball/roster",
+    "https://gobulldogs.com/sports/womens-beach-volleyball/roster",
+    "https://gobulldogs.com/sports/wbvb/roster",
+    "https://gobulldogs.com/sports/water-polo/roster",
+    "https://gobulldogs.com/sports/mens-water-polo/roster",
+    "https://gobulldogs.com/sports/womens-water-polo/roster",
+    "https://gobulldogs.com/sports/mwrest/roster",
+    "https://gobulldogs.com/sports/wwrest/roster",
+    "https://gobulldogs.com/sports/rugby/roster",
+    "https://gobulldogs.com/sports/mens-rugby/roster",
+    "https://gobulldogs.com/sports/womens-rugby/roster",
+    "https://gobulldogs.com/sports/tri/roster",
+    "https://gobulldogs.com/sports/mens-tri/roster",
+    "https://gobulldogs.com/sports/womens-tri/roster",
+    "https://gobulldogs.com/sports/field-hockey/roster",
+    "https://gobulldogs.com/sports/womens-field-hockey/roster",
+    "https://gobulldogs.com/sports/mens-field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobulldogs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gobulldogs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobulldogs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gobulldogs.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gobulldogs.com/sports/wrestling/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/ferrum",
+  "base": "https://ferrumpanthers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://ferrumpanthers.com/sports/football/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ferrumpanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

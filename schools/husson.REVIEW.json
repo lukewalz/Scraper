@@ -1,0 +1,184 @@
+{
+  "school": "/schools/husson",
+  "base": "https://athletics.husson.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://athletics.husson.edu/sports/football/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.husson.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

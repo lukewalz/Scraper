@@ -1,0 +1,159 @@
+{
+  "school": "/schools/tex-am-kingsville",
+  "base": "https://javelinaathletics.com",
+  "goodList": [
+    "https://javelinaathletics.com/sports/football/roster",
+    "https://javelinaathletics.com/sports/mens-basketball/roster",
+    "https://javelinaathletics.com/sports/womens-basketball/roster",
+    "https://javelinaathletics.com/sports/mens-track-and-field/roster",
+    "https://javelinaathletics.com/sports/womens-track-and-field/roster",
+    "https://javelinaathletics.com/sports/mens-cross-country/roster",
+    "https://javelinaathletics.com/sports/womens-cross-country/roster",
+    "https://javelinaathletics.com/sports/womens-golf/roster",
+    "https://javelinaathletics.com/sports/baseball/roster",
+    "https://javelinaathletics.com/sports/softball/roster",
+    "https://javelinaathletics.com/sports/womens-tennis/roster",
+    "https://javelinaathletics.com/sports/womens-volleyball/roster",
+    "https://javelinaathletics.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://javelinaathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://javelinaathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

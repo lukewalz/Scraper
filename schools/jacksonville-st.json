@@ -1,0 +1,153 @@
+{
+  "school": "/schools/jacksonville-st",
+  "base": "https://jsugamecocksports.com",
+  "goodList": [
+    "https://jsugamecocksports.com/sports/football/roster",
+    "https://jsugamecocksports.com/sports/womens-soccer/roster",
+    "https://jsugamecocksports.com/sports/mens-basketball/roster",
+    "https://jsugamecocksports.com/sports/womens-basketball/roster",
+    "https://jsugamecocksports.com/sports/rifle/roster",
+    "https://jsugamecocksports.com/sports/womens-track-and-field/roster",
+    "https://jsugamecocksports.com/sports/cross-country/roster",
+    "https://jsugamecocksports.com/sports/womens-cross-country/roster",
+    "https://jsugamecocksports.com/sports/mens-golf/roster",
+    "https://jsugamecocksports.com/sports/womens-golf/roster",
+    "https://jsugamecocksports.com/sports/baseball/roster",
+    "https://jsugamecocksports.com/sports/softball/roster",
+    "https://jsugamecocksports.com/sports/mens-tennis/roster",
+    "https://jsugamecocksports.com/sports/womens-tennis/roster",
+    "https://jsugamecocksports.com/sports/womens-volleyball/roster",
+    "https://jsugamecocksports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://jsugamecocksports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

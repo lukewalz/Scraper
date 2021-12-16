@@ -1,0 +1,143 @@
+{
+  "school": "/schools/denison",
+  "base": "https://denisonbigred.com",
+  "goodList": [
+    "https://denisonbigred.com/sports/football/roster",
+    "https://denisonbigred.com/sports/mens-soccer/roster",
+    "https://denisonbigred.com/sports/womens-soccer/roster",
+    "https://denisonbigred.com/sports/mens-basketball/roster",
+    "https://denisonbigred.com/sports/womens-basketball/roster",
+    "https://denisonbigred.com/sports/mens-swimming-and-diving/roster",
+    "https://denisonbigred.com/sports/womens-swimming-and-diving/roster",
+    "https://denisonbigred.com/sports/mens-track-and-field/roster",
+    "https://denisonbigred.com/sports/womens-track-and-field/roster",
+    "https://denisonbigred.com/sports/mens-cross-country/roster",
+    "https://denisonbigred.com/sports/womens-cross-country/roster",
+    "https://denisonbigred.com/sports/golf/roster",
+    "https://denisonbigred.com/sports/womens-golf/roster",
+    "https://denisonbigred.com/sports/mens-lacrosse/roster",
+    "https://denisonbigred.com/sports/womens-lacrosse/roster",
+    "https://denisonbigred.com/sports/baseball/roster",
+    "https://denisonbigred.com/sports/softball/roster",
+    "https://denisonbigred.com/sports/mens-tennis/roster",
+    "https://denisonbigred.com/sports/womens-tennis/roster",
+    "https://denisonbigred.com/sports/womens-volleyball/roster",
+    "https://denisonbigred.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://denisonbigred.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/tri/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://denisonbigred.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

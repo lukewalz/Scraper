@@ -1,0 +1,163 @@
+{
+  "school": "/schools/louisiana-tech",
+  "base": "https://latechsports.com/",
+  "goodList": [
+    "https://latechsports.com//sports/football/roster",
+    "https://latechsports.com//sports/womens-soccer/roster",
+    "https://latechsports.com//sports/mens-basketball/roster",
+    "https://latechsports.com//sports/womens-basketball/roster",
+    "https://latechsports.com//sports/track-and-field/roster",
+    "https://latechsports.com//sports/cross-country/roster",
+    "https://latechsports.com//sports/mens-golf/roster",
+    "https://latechsports.com//sports/baseball/roster",
+    "https://latechsports.com//sports/softball/roster",
+    "https://latechsports.com//sports/womens-tennis/roster",
+    "https://latechsports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://latechsports.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://latechsports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

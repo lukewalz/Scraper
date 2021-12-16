@@ -1,0 +1,161 @@
+{
+  "school": "/schools/virginia-union",
+  "base": "https://vuusports.com",
+  "goodList": [
+    "https://vuusports.com/sports/football/roster",
+    "https://vuusports.com/sports/mens-basketball/roster",
+    "https://vuusports.com/sports/womens-basketball/roster",
+    "https://vuusports.com/sports/mens-track-and-field/roster",
+    "https://vuusports.com/sports/womens-track-and-field/roster",
+    "https://vuusports.com/sports/mens-cross-country/roster",
+    "https://vuusports.com/sports/womens-cross-country/roster",
+    "https://vuusports.com/sports/mens-golf/roster",
+    "https://vuusports.com/sports/softball/roster",
+    "https://vuusports.com/sports/mens-tennis/roster",
+    "https://vuusports.com/sports/womens-tennis/roster",
+    "https://vuusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://vuusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://vuusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

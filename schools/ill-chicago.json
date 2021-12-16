@@ -1,0 +1,149 @@
+{
+  "school": "/schools/ill-chicago",
+  "base": "https://uicflames.com",
+  "goodList": [
+    "https://uicflames.com/sports/mens-soccer/roster",
+    "https://uicflames.com/sports/womens-soccer/roster",
+    "https://uicflames.com/sports/mens-basketball/roster",
+    "https://uicflames.com/sports/womens-basketball/roster",
+    "https://uicflames.com/sports/mens-gymnastics/roster",
+    "https://uicflames.com/sports/womens-gymnastics/roster",
+    "https://uicflames.com/sports/mens-swimming-and-diving/roster",
+    "https://uicflames.com/sports/womens-swimming-and-diving/roster",
+    "https://uicflames.com/sports/mens-track-and-field/roster",
+    "https://uicflames.com/sports/womens-track-and-field/roster",
+    "https://uicflames.com/sports/mens-cross-country/roster",
+    "https://uicflames.com/sports/womens-cross-country/roster",
+    "https://uicflames.com/sports/womens-golf/roster",
+    "https://uicflames.com/sports/baseball/roster",
+    "https://uicflames.com/sports/softball/roster",
+    "https://uicflames.com/sports/mens-tennis/roster",
+    "https://uicflames.com/sports/womens-tennis/roster",
+    "https://uicflames.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uicflames.com/sports/football/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uicflames.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

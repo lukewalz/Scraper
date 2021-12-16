@@ -1,0 +1,149 @@
+{
+  "school": "/schools/pacific",
+  "base": "https://pacifictigers.com",
+  "goodList": [
+    "https://pacifictigers.com/sports/mens-soccer/roster",
+    "https://pacifictigers.com/sports/womens-soccer/roster",
+    "https://pacifictigers.com/sports/mens-basketball/roster",
+    "https://pacifictigers.com/sports/womens-basketball/roster",
+    "https://pacifictigers.com/sports/mens-swimming-and-diving/roster",
+    "https://pacifictigers.com/sports/womens-swimming-and-diving/roster",
+    "https://pacifictigers.com/sports/womens-track-and-field/roster",
+    "https://pacifictigers.com/sports/womens-cross-country/roster",
+    "https://pacifictigers.com/sports/mens-golf/roster",
+    "https://pacifictigers.com/sports/baseball/roster",
+    "https://pacifictigers.com/sports/softball/roster",
+    "https://pacifictigers.com/sports/mens-tennis/roster",
+    "https://pacifictigers.com/sports/womens-tennis/roster",
+    "https://pacifictigers.com/sports/womens-volleyball/roster",
+    "https://pacifictigers.com/sports/womens-beach-volleyball/roster",
+    "https://pacifictigers.com/sports/mens-water-polo/roster",
+    "https://pacifictigers.com/sports/womens-water-polo/roster",
+    "https://pacifictigers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pacifictigers.com/sports/football/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pacifictigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

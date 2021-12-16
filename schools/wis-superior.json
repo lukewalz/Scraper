@@ -1,0 +1,153 @@
+{
+  "school": "/schools/wis-superior",
+  "base": "https://uwsyellowjackets.com",
+  "goodList": [
+    "https://uwsyellowjackets.com/sports/womens-soccer/roster",
+    "https://uwsyellowjackets.com/sports/mens-basketball/roster",
+    "https://uwsyellowjackets.com/sports/womens-basketball/roster",
+    "https://uwsyellowjackets.com/sports/mens-ice-hockey/roster",
+    "https://uwsyellowjackets.com/sports/womens-ice-hockey/roster",
+    "https://uwsyellowjackets.com/sports/mens-track-and-field/roster",
+    "https://uwsyellowjackets.com/sports/womens-track-and-field/roster",
+    "https://uwsyellowjackets.com/sports/mens-cross-country/roster",
+    "https://uwsyellowjackets.com/sports/womens-cross-country/roster",
+    "https://uwsyellowjackets.com/sports/mens-golf/roster",
+    "https://uwsyellowjackets.com/sports/womens-golf/roster",
+    "https://uwsyellowjackets.com/sports/baseball/roster",
+    "https://uwsyellowjackets.com/sports/softball/roster",
+    "https://uwsyellowjackets.com/sports/mens-tennis/roster",
+    "https://uwsyellowjackets.com/sports/womens-tennis/roster",
+    "https://uwsyellowjackets.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uwsyellowjackets.com/sports/football/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uwsyellowjackets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

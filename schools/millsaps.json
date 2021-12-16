@@ -1,0 +1,153 @@
+{
+  "school": "/schools/millsaps",
+  "base": "https://gomajors.com",
+  "goodList": [
+    "https://gomajors.com/sports/football/roster",
+    "https://gomajors.com/sports/mens-soccer/roster",
+    "https://gomajors.com/sports/womens-soccer/roster",
+    "https://gomajors.com/sports/mens-basketball/roster",
+    "https://gomajors.com/sports/womens-basketball/roster",
+    "https://gomajors.com/sports/mens-track-and-field/roster",
+    "https://gomajors.com/sports/womens-track-and-field/roster",
+    "https://gomajors.com/sports/mens-cross-country/roster",
+    "https://gomajors.com/sports/womens-cross-country/roster",
+    "https://gomajors.com/sports/mens-golf/roster",
+    "https://gomajors.com/sports/womens-golf/roster",
+    "https://gomajors.com/sports/baseball/roster",
+    "https://gomajors.com/sports/softball/roster",
+    "https://gomajors.com/sports/mens-tennis/roster",
+    "https://gomajors.com/sports/womens-tennis/roster",
+    "https://gomajors.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomajors.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomajors.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

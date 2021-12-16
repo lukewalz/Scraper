@@ -1,0 +1,159 @@
+{
+  "school": "/schools/creighton",
+  "base": "https://gocreighton.com",
+  "goodList": [
+    "https://gocreighton.com/sports/mens-soccer/roster",
+    "https://gocreighton.com/sports/womens-soccer/roster",
+    "https://gocreighton.com/sports/mens-basketball/roster",
+    "https://gocreighton.com/sports/womens-basketball/roster",
+    "https://gocreighton.com/sports/mens-cross-country/roster",
+    "https://gocreighton.com/sports/womens-cross-country/roster",
+    "https://gocreighton.com/sports/mens-golf/roster",
+    "https://gocreighton.com/sports/womens-golf/roster",
+    "https://gocreighton.com/sports/baseball/roster",
+    "https://gocreighton.com/sports/softball/roster",
+    "https://gocreighton.com/sports/mens-tennis/roster",
+    "https://gocreighton.com/sports/womens-tennis/roster",
+    "https://gocreighton.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gocreighton.com/sports/football/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gocreighton.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/saint-louis",
+  "base": "https://slubillikens.com",
+  "goodList": [
+    "https://slubillikens.com/sports/mens-soccer/roster",
+    "https://slubillikens.com/sports/womens-soccer/roster",
+    "https://slubillikens.com/sports/mens-basketball/roster",
+    "https://slubillikens.com/sports/womens-basketball/roster",
+    "https://slubillikens.com/sports/swimming-and-diving/roster",
+    "https://slubillikens.com/sports/track-and-field/roster",
+    "https://slubillikens.com/sports/cross-country/roster",
+    "https://slubillikens.com/sports/baseball/roster",
+    "https://slubillikens.com/sports/softball/roster",
+    "https://slubillikens.com/sports/mens-tennis/roster",
+    "https://slubillikens.com/sports/womens-tennis/roster",
+    "https://slubillikens.com/sports/womens-volleyball/roster",
+    "https://slubillikens.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://slubillikens.com/sports/football/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/golf/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/tri/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://slubillikens.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

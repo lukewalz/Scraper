@@ -1,0 +1,184 @@
+{
+  "school": "/schools/endicott",
+  "base": "https://ecgulls.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://ecgulls.com/sports/football/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/softball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ecgulls.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

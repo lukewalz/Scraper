@@ -1,0 +1,161 @@
+{
+  "school": "/schools/dominican-ca",
+  "base": "https://dominicanathletics.com",
+  "goodList": [
+    "https://dominicanathletics.com/sports/mens-soccer/roster",
+    "https://dominicanathletics.com/sports/womens-soccer/roster",
+    "https://dominicanathletics.com/sports/mens-basketball/roster",
+    "https://dominicanathletics.com/sports/womens-basketball/roster",
+    "https://dominicanathletics.com/sports/mens-cross-country/roster",
+    "https://dominicanathletics.com/sports/womens-cross-country/roster",
+    "https://dominicanathletics.com/sports/mens-golf/roster",
+    "https://dominicanathletics.com/sports/womens-golf/roster",
+    "https://dominicanathletics.com/sports/mens-lacrosse/roster",
+    "https://dominicanathletics.com/sports/softball/roster",
+    "https://dominicanathletics.com/sports/womens-tennis/roster",
+    "https://dominicanathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://dominicanathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dominicanathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

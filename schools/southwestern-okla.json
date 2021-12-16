@@ -1,0 +1,163 @@
+{
+  "school": "/schools/southwestern-okla",
+  "base": "https://swosuathletics.com",
+  "goodList": [
+    "https://swosuathletics.com/sports/football/roster",
+    "https://swosuathletics.com/sports/womens-soccer/roster",
+    "https://swosuathletics.com/sports/mens-basketball/roster",
+    "https://swosuathletics.com/sports/womens-basketball/roster",
+    "https://swosuathletics.com/sports/womens-track-and-field/roster",
+    "https://swosuathletics.com/sports/womens-cross-country/roster",
+    "https://swosuathletics.com/sports/mens-golf/roster",
+    "https://swosuathletics.com/sports/womens-golf/roster",
+    "https://swosuathletics.com/sports/baseball/roster",
+    "https://swosuathletics.com/sports/softball/roster",
+    "https://swosuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://swosuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://swosuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

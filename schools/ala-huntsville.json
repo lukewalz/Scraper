@@ -1,0 +1,153 @@
+{
+  "school": "/schools/ala-huntsville",
+  "base": "https://uahchargers.com",
+  "goodList": [
+    "https://uahchargers.com/sports/mens-soccer/roster",
+    "https://uahchargers.com/sports/womens-soccer/roster",
+    "https://uahchargers.com/sports/mens-basketball/roster",
+    "https://uahchargers.com/sports/womens-basketball/roster",
+    "https://uahchargers.com/sports/mens-ice-hockey/roster",
+    "https://uahchargers.com/sports/mens-track-and-field/roster",
+    "https://uahchargers.com/sports/womens-track-and-field/roster",
+    "https://uahchargers.com/sports/mens-cross-country/roster",
+    "https://uahchargers.com/sports/womens-cross-country/roster",
+    "https://uahchargers.com/sports/mens-lacrosse/roster",
+    "https://uahchargers.com/sports/womens-lacrosse/roster",
+    "https://uahchargers.com/sports/baseball/roster",
+    "https://uahchargers.com/sports/softball/roster",
+    "https://uahchargers.com/sports/mens-tennis/roster",
+    "https://uahchargers.com/sports/womens-tennis/roster",
+    "https://uahchargers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uahchargers.com/sports/football/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uahchargers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

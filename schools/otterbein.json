@@ -1,0 +1,147 @@
+{
+  "school": "/schools/otterbein",
+  "base": "https://otterbeincardinals.com",
+  "goodList": [
+    "https://otterbeincardinals.com/sports/football/roster",
+    "https://otterbeincardinals.com/sports/mens-soccer/roster",
+    "https://otterbeincardinals.com/sports/womens-soccer/roster",
+    "https://otterbeincardinals.com/sports/mens-basketball/roster",
+    "https://otterbeincardinals.com/sports/womens-basketball/roster",
+    "https://otterbeincardinals.com/sports/mens-track-and-field/roster",
+    "https://otterbeincardinals.com/sports/womens-track-and-field/roster",
+    "https://otterbeincardinals.com/sports/mens-cross-country/roster",
+    "https://otterbeincardinals.com/sports/womens-cross-country/roster",
+    "https://otterbeincardinals.com/sports/mens-golf/roster",
+    "https://otterbeincardinals.com/sports/womens-golf/roster",
+    "https://otterbeincardinals.com/sports/mens-lacrosse/roster",
+    "https://otterbeincardinals.com/sports/womens-lacrosse/roster",
+    "https://otterbeincardinals.com/sports/baseball/roster",
+    "https://otterbeincardinals.com/sports/softball/roster",
+    "https://otterbeincardinals.com/sports/mens-tennis/roster",
+    "https://otterbeincardinals.com/sports/womens-tennis/roster",
+    "https://otterbeincardinals.com/sports/womens-volleyball/roster",
+    "https://otterbeincardinals.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://otterbeincardinals.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/golf/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/tri/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://otterbeincardinals.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

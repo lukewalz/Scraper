@@ -1,0 +1,157 @@
+{
+  "school": "/schools/texas-tech",
+  "base": "https://texastech.com",
+  "goodList": [
+    "https://texastech.com/sports/football/roster",
+    "https://texastech.com/sports/womens-soccer/roster",
+    "https://texastech.com/sports/mens-basketball/roster",
+    "https://texastech.com/sports/womens-basketball/roster",
+    "https://texastech.com/sports/track-and-field/roster",
+    "https://texastech.com/sports/womens-track-and-field/roster",
+    "https://texastech.com/sports/cross-country/roster",
+    "https://texastech.com/sports/mens-golf/roster",
+    "https://texastech.com/sports/womens-golf/roster",
+    "https://texastech.com/sports/baseball/roster",
+    "https://texastech.com/sports/softball/roster",
+    "https://texastech.com/sports/mens-tennis/roster",
+    "https://texastech.com/sports/womens-tennis/roster",
+    "https://texastech.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://texastech.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/golf/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/tri/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://texastech.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

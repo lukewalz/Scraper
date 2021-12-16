@@ -1,0 +1,143 @@
+{
+  "school": "/schools/albion",
+  "base": "https://gobrits.com",
+  "goodList": [
+    "https://gobrits.com/sports/football/roster",
+    "https://gobrits.com/sports/mens-soccer/roster",
+    "https://gobrits.com/sports/womens-soccer/roster",
+    "https://gobrits.com/sports/mens-basketball/roster",
+    "https://gobrits.com/sports/womens-basketball/roster",
+    "https://gobrits.com/sports/swimming-and-diving/roster",
+    "https://gobrits.com/sports/womens-swimming-and-diving/roster",
+    "https://gobrits.com/sports/mens-track-and-field/roster",
+    "https://gobrits.com/sports/womens-track-and-field/roster",
+    "https://gobrits.com/sports/mens-cross-country/roster",
+    "https://gobrits.com/sports/womens-cross-country/roster",
+    "https://gobrits.com/sports/equestrian/roster",
+    "https://gobrits.com/sports/mens-golf/roster",
+    "https://gobrits.com/sports/womens-golf/roster",
+    "https://gobrits.com/sports/mens-lacrosse/roster",
+    "https://gobrits.com/sports/womens-lacrosse/roster",
+    "https://gobrits.com/sports/baseball/roster",
+    "https://gobrits.com/sports/softball/roster",
+    "https://gobrits.com/sports/mens-tennis/roster",
+    "https://gobrits.com/sports/womens-tennis/roster",
+    "https://gobrits.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gobrits.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gobrits.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

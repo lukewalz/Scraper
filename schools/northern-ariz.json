@@ -1,0 +1,163 @@
+{
+  "school": "/schools/northern-ariz",
+  "base": "https://nauathletics.com",
+  "goodList": [
+    "https://nauathletics.com/sports/football/roster",
+    "https://nauathletics.com/sports/womens-soccer/roster",
+    "https://nauathletics.com/sports/mens-basketball/roster",
+    "https://nauathletics.com/sports/womens-basketball/roster",
+    "https://nauathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://nauathletics.com/sports/track-and-field/roster",
+    "https://nauathletics.com/sports/cross-country/roster",
+    "https://nauathletics.com/sports/womens-golf/roster",
+    "https://nauathletics.com/sports/mens-tennis/roster",
+    "https://nauathletics.com/sports/womens-tennis/roster",
+    "https://nauathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nauathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nauathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

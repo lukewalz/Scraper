@@ -1,0 +1,155 @@
+{
+  "school": "/schools/auburn",
+  "base": "https://auburntigers.com",
+  "goodList": [
+    "https://auburntigers.com/sports/football/roster",
+    "https://auburntigers.com/sports/womens-soccer/roster",
+    "https://auburntigers.com/sports/mens-basketball/roster",
+    "https://auburntigers.com/sports/womens-basketball/roster",
+    "https://auburntigers.com/sports/womens-gymnastics/roster",
+    "https://auburntigers.com/sports/swimming-and-diving/roster",
+    "https://auburntigers.com/sports/xctrack/roster",
+    "https://auburntigers.com/sports/equestrian/roster",
+    "https://auburntigers.com/sports/mens-golf/roster",
+    "https://auburntigers.com/sports/womens-golf/roster",
+    "https://auburntigers.com/sports/baseball/roster",
+    "https://auburntigers.com/sports/softball/roster",
+    "https://auburntigers.com/sports/mens-tennis/roster",
+    "https://auburntigers.com/sports/womens-tennis/roster",
+    "https://auburntigers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://auburntigers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://auburntigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

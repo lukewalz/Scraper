@@ -1,0 +1,163 @@
+{
+  "school": "/schools/wichita-st",
+  "base": "https://goshockers.com",
+  "goodList": [
+    "https://goshockers.com/sports/mens-basketball/roster",
+    "https://goshockers.com/sports/womens-basketball/roster",
+    "https://goshockers.com/sports/track-and-field/roster",
+    "https://goshockers.com/sports/cross-country/roster",
+    "https://goshockers.com/sports/mens-golf/roster",
+    "https://goshockers.com/sports/womens-golf/roster",
+    "https://goshockers.com/sports/baseball/roster",
+    "https://goshockers.com/sports/softball/roster",
+    "https://goshockers.com/sports/mens-tennis/roster",
+    "https://goshockers.com/sports/womens-tennis/roster",
+    "https://goshockers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goshockers.com/sports/football/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goshockers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

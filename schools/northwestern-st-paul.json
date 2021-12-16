@@ -1,0 +1,155 @@
+{
+  "school": "/schools/northwestern-st-paul",
+  "base": "https://unweagles.com",
+  "goodList": [
+    "https://unweagles.com/sports/football/roster",
+    "https://unweagles.com/sports/mens-soccer/roster",
+    "https://unweagles.com/sports/womens-soccer/roster",
+    "https://unweagles.com/sports/mens-basketball/roster",
+    "https://unweagles.com/sports/womens-basketball/roster",
+    "https://unweagles.com/sports/mens-cross-country/roster",
+    "https://unweagles.com/sports/womens-cross-country/roster",
+    "https://unweagles.com/sports/mens-golf/roster",
+    "https://unweagles.com/sports/womens-golf/roster",
+    "https://unweagles.com/sports/mens-lacrosse/roster",
+    "https://unweagles.com/sports/womens-lacrosse/roster",
+    "https://unweagles.com/sports/baseball/roster",
+    "https://unweagles.com/sports/softball/roster",
+    "https://unweagles.com/sports/mens-tennis/roster",
+    "https://unweagles.com/sports/womens-tennis/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unweagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unweagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

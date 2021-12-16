@@ -1,0 +1,153 @@
+{
+  "school": "/schools/howard",
+  "base": "https://hubison.com",
+  "goodList": [
+    "https://hubison.com/sports/football/roster",
+    "https://hubison.com/sports/mens-soccer/roster",
+    "https://hubison.com/sports/womens-soccer/roster",
+    "https://hubison.com/sports/mens-basketball/roster",
+    "https://hubison.com/sports/womens-basketball/roster",
+    "https://hubison.com/sports/mens-swimming-and-diving/roster",
+    "https://hubison.com/sports/womens-swimming-and-diving/roster",
+    "https://hubison.com/sports/mens-track-and-field/roster",
+    "https://hubison.com/sports/womens-track-and-field/roster",
+    "https://hubison.com/sports/mens-cross-country/roster",
+    "https://hubison.com/sports/womens-cross-country/roster",
+    "https://hubison.com/sports/womens-lacrosse/roster",
+    "https://hubison.com/sports/softball/roster",
+    "https://hubison.com/sports/mens-tennis/roster",
+    "https://hubison.com/sports/womens-tennis/roster",
+    "https://hubison.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hubison.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hubison.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

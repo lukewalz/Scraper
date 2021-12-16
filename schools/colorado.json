@@ -1,0 +1,159 @@
+{
+  "school": "/schools/colorado",
+  "base": "https://cubuffs.com",
+  "goodList": [
+    "https://cubuffs.com/sports/football/roster",
+    "https://cubuffs.com/sports/womens-soccer/roster",
+    "https://cubuffs.com/sports/mens-basketball/roster",
+    "https://cubuffs.com/sports/womens-basketball/roster",
+    "https://cubuffs.com/sports/skiing/roster",
+    "https://cubuffs.com/sports/track-and-field/roster",
+    "https://cubuffs.com/sports/cross-country/roster",
+    "https://cubuffs.com/sports/mens-golf/roster",
+    "https://cubuffs.com/sports/womens-golf/roster",
+    "https://cubuffs.com/sports/womens-lacrosse/roster",
+    "https://cubuffs.com/sports/tennis/roster",
+    "https://cubuffs.com/sports/womens-tennis/roster",
+    "https://cubuffs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cubuffs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/softball/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cubuffs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

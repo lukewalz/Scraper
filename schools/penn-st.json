@@ -1,0 +1,129 @@
+{
+  "school": "/schools/penn-st",
+  "base": "https://gopsusports.com",
+  "goodList": [
+    "https://gopsusports.com/sports/football/roster",
+    "https://gopsusports.com/sports/mens-soccer/roster",
+    "https://gopsusports.com/sports/womens-soccer/roster",
+    "https://gopsusports.com/sports/mens-basketball/roster",
+    "https://gopsusports.com/sports/womens-basketball/roster",
+    "https://gopsusports.com/sports/fencing/roster",
+    "https://gopsusports.com/sports/mens-gymnastics/roster",
+    "https://gopsusports.com/sports/womens-gymnastics/roster",
+    "https://gopsusports.com/sports/mens-ice-hockey/roster",
+    "https://gopsusports.com/sports/womens-ice-hockey/roster",
+    "https://gopsusports.com/sports/mens-swimming-and-diving/roster",
+    "https://gopsusports.com/sports/womens-swimming-and-diving/roster",
+    "https://gopsusports.com/sports/track-and-field/roster",
+    "https://gopsusports.com/sports/cross-country/roster",
+    "https://gopsusports.com/sports/mens-golf/roster",
+    "https://gopsusports.com/sports/womens-golf/roster",
+    "https://gopsusports.com/sports/mens-lacrosse/roster",
+    "https://gopsusports.com/sports/womens-lacrosse/roster",
+    "https://gopsusports.com/sports/baseball/roster",
+    "https://gopsusports.com/sports/softball/roster",
+    "https://gopsusports.com/sports/mens-tennis/roster",
+    "https://gopsusports.com/sports/womens-tennis/roster",
+    "https://gopsusports.com/sports/mens-volleyball/roster",
+    "https://gopsusports.com/sports/womens-volleyball/roster",
+    "https://gopsusports.com/sports/wrestling/roster",
+    "https://gopsusports.com/sports/mens-rugby/roster",
+    "https://gopsusports.com/sports/womens-rugby/roster",
+    "https://gopsusports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gopsusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopsusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

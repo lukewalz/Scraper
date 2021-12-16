@@ -1,0 +1,163 @@
+{
+  "school": "/schools/lincoln-mo",
+  "base": "https://lubluetigers.com",
+  "goodList": [
+    "https://lubluetigers.com/sports/football/roster",
+    "https://lubluetigers.com/sports/mens-basketball/roster",
+    "https://lubluetigers.com/sports/womens-basketball/roster",
+    "https://lubluetigers.com/sports/mens-track-and-field/roster",
+    "https://lubluetigers.com/sports/womens-track-and-field/roster",
+    "https://lubluetigers.com/sports/womens-cross-country/roster",
+    "https://lubluetigers.com/sports/mens-golf/roster",
+    "https://lubluetigers.com/sports/womens-golf/roster",
+    "https://lubluetigers.com/sports/baseball/roster",
+    "https://lubluetigers.com/sports/softball/roster",
+    "https://lubluetigers.com/sports/womens-tennis/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lubluetigers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lubluetigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

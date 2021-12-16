@@ -1,0 +1,163 @@
+{
+  "school": "/schools/nc-central",
+  "base": "https://nccueaglepride.com",
+  "goodList": [
+    "https://nccueaglepride.com/sports/football/roster",
+    "https://nccueaglepride.com/sports/mens-basketball/roster",
+    "https://nccueaglepride.com/sports/womens-basketball/roster",
+    "https://nccueaglepride.com/sports/track-and-field/roster",
+    "https://nccueaglepride.com/sports/cross-country/roster",
+    "https://nccueaglepride.com/sports/mens-golf/roster",
+    "https://nccueaglepride.com/sports/baseball/roster",
+    "https://nccueaglepride.com/sports/softball/roster",
+    "https://nccueaglepride.com/sports/mens-tennis/roster",
+    "https://nccueaglepride.com/sports/womens-tennis/roster",
+    "https://nccueaglepride.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nccueaglepride.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nccueaglepride.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

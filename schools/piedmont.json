@@ -1,0 +1,151 @@
+{
+  "school": "/schools/piedmont",
+  "base": "https://piedmontlions.com",
+  "goodList": [
+    "https://piedmontlions.com/sports/mens-soccer/roster",
+    "https://piedmontlions.com/sports/womens-soccer/roster",
+    "https://piedmontlions.com/sports/mens-basketball/roster",
+    "https://piedmontlions.com/sports/womens-basketball/roster",
+    "https://piedmontlions.com/sports/mens-track-and-field/roster",
+    "https://piedmontlions.com/sports/womens-track-and-field/roster",
+    "https://piedmontlions.com/sports/mens-cross-country/roster",
+    "https://piedmontlions.com/sports/womens-cross-country/roster",
+    "https://piedmontlions.com/sports/mens-golf/roster",
+    "https://piedmontlions.com/sports/womens-golf/roster",
+    "https://piedmontlions.com/sports/mens-lacrosse/roster",
+    "https://piedmontlions.com/sports/womens-lacrosse/roster",
+    "https://piedmontlions.com/sports/baseball/roster",
+    "https://piedmontlions.com/sports/softball/roster",
+    "https://piedmontlions.com/sports/mens-tennis/roster",
+    "https://piedmontlions.com/sports/womens-tennis/roster",
+    "https://piedmontlions.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://piedmontlions.com/sports/football/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://piedmontlions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

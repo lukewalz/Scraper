@@ -1,0 +1,157 @@
+{
+  "school": "/schools/mary-hardin-baylor",
+  "base": "https://cruathletics.com",
+  "goodList": [
+    "https://cruathletics.com/sports/football/roster",
+    "https://cruathletics.com/sports/mens-soccer/roster",
+    "https://cruathletics.com/sports/womens-soccer/roster",
+    "https://cruathletics.com/sports/mens-basketball/roster",
+    "https://cruathletics.com/sports/womens-basketball/roster",
+    "https://cruathletics.com/sports/mens-cross-country/roster",
+    "https://cruathletics.com/sports/womens-cross-country/roster",
+    "https://cruathletics.com/sports/mens-golf/roster",
+    "https://cruathletics.com/sports/womens-golf/roster",
+    "https://cruathletics.com/sports/baseball/roster",
+    "https://cruathletics.com/sports/softball/roster",
+    "https://cruathletics.com/sports/mens-tennis/roster",
+    "https://cruathletics.com/sports/womens-tennis/roster",
+    "https://cruathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cruathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cruathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "school": "/schools/unlv",
+  "base": "https://unlvrebels.com",
+  "goodList": [
+    "https://unlvrebels.com/sports/football/roster",
+    "https://unlvrebels.com/sports/mens-soccer/roster",
+    "https://unlvrebels.com/sports/womens-soccer/roster",
+    "https://unlvrebels.com/sports/mens-basketball/roster",
+    "https://unlvrebels.com/sports/womens-basketball/roster",
+    "https://unlvrebels.com/sports/swimming-and-diving/roster",
+    "https://unlvrebels.com/sports/mens-swimming-and-diving/roster",
+    "https://unlvrebels.com/sports/womens-swimming-and-diving/roster",
+    "https://unlvrebels.com/sports/womens-track-and-field/roster",
+    "https://unlvrebels.com/sports/womens-cross-country/roster",
+    "https://unlvrebels.com/sports/mens-golf/roster",
+    "https://unlvrebels.com/sports/womens-golf/roster",
+    "https://unlvrebels.com/sports/baseball/roster",
+    "https://unlvrebels.com/sports/softball/roster",
+    "https://unlvrebels.com/sports/mens-tennis/roster",
+    "https://unlvrebels.com/sports/womens-tennis/roster",
+    "https://unlvrebels.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unlvrebels.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unlvrebels.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

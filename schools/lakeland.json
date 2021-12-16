@@ -1,0 +1,149 @@
+{
+  "school": "/schools/lakeland",
+  "base": "https://lakelandmuskies.com",
+  "goodList": [
+    "https://lakelandmuskies.com/sports/football/roster",
+    "https://lakelandmuskies.com/sports/mens-soccer/roster",
+    "https://lakelandmuskies.com/sports/womens-soccer/roster",
+    "https://lakelandmuskies.com/sports/mens-basketball/roster",
+    "https://lakelandmuskies.com/sports/womens-basketball/roster",
+    "https://lakelandmuskies.com/sports/mens-track-and-field/roster",
+    "https://lakelandmuskies.com/sports/womens-track-and-field/roster",
+    "https://lakelandmuskies.com/sports/mens-cross-country/roster",
+    "https://lakelandmuskies.com/sports/womens-cross-country/roster",
+    "https://lakelandmuskies.com/sports/mens-golf/roster",
+    "https://lakelandmuskies.com/sports/womens-golf/roster",
+    "https://lakelandmuskies.com/sports/baseball/roster",
+    "https://lakelandmuskies.com/sports/softball/roster",
+    "https://lakelandmuskies.com/sports/mens-tennis/roster",
+    "https://lakelandmuskies.com/sports/womens-tennis/roster",
+    "https://lakelandmuskies.com/sports/mens-volleyball/roster",
+    "https://lakelandmuskies.com/sports/womens-volleyball/roster",
+    "https://lakelandmuskies.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lakelandmuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lakelandmuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

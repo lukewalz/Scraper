@@ -1,0 +1,157 @@
+{
+  "school": "/schools/berea",
+  "base": "https://bereaathletics.com",
+  "goodList": [
+    "https://bereaathletics.com/sports/mens-soccer/roster",
+    "https://bereaathletics.com/sports/womens-soccer/roster",
+    "https://bereaathletics.com/sports/mens-basketball/roster",
+    "https://bereaathletics.com/sports/womens-basketball/roster",
+    "https://bereaathletics.com/sports/mens-track-and-field/roster",
+    "https://bereaathletics.com/sports/womens-track-and-field/roster",
+    "https://bereaathletics.com/sports/mens-cross-country/roster",
+    "https://bereaathletics.com/sports/womens-cross-country/roster",
+    "https://bereaathletics.com/sports/mens-golf/roster",
+    "https://bereaathletics.com/sports/baseball/roster",
+    "https://bereaathletics.com/sports/softball/roster",
+    "https://bereaathletics.com/sports/mens-tennis/roster",
+    "https://bereaathletics.com/sports/womens-tennis/roster",
+    "https://bereaathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bereaathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bereaathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

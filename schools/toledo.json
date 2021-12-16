@@ -1,0 +1,157 @@
+{
+  "school": "/schools/toledo",
+  "base": "https://utrockets.com",
+  "goodList": [
+    "https://utrockets.com/sports/football/roster",
+    "https://utrockets.com/sports/womens-soccer/roster",
+    "https://utrockets.com/sports/womens-basketball/roster",
+    "https://utrockets.com/sports/womens-swimming-and-diving/roster",
+    "https://utrockets.com/sports/womens-track-and-field/roster",
+    "https://utrockets.com/sports/mens-cross-country/roster",
+    "https://utrockets.com/sports/womens-cross-country/roster",
+    "https://utrockets.com/sports/mens-golf/roster",
+    "https://utrockets.com/sports/womens-golf/roster",
+    "https://utrockets.com/sports/baseball/roster",
+    "https://utrockets.com/sports/softball/roster",
+    "https://utrockets.com/sports/mens-tennis/roster",
+    "https://utrockets.com/sports/womens-tennis/roster",
+    "https://utrockets.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utrockets.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utrockets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "school": "/schools/uc-colo-springs",
+  "base": "https://gomountainlions.com",
+  "goodList": [
+    "https://gomountainlions.com/sports/mens-soccer/roster",
+    "https://gomountainlions.com/sports/womens-soccer/roster",
+    "https://gomountainlions.com/sports/mens-basketball/roster",
+    "https://gomountainlions.com/sports/womens-basketball/roster",
+    "https://gomountainlions.com/sports/mens-track-and-field/roster",
+    "https://gomountainlions.com/sports/womens-track-and-field/roster",
+    "https://gomountainlions.com/sports/mens-cross-country/roster",
+    "https://gomountainlions.com/sports/womens-cross-country/roster",
+    "https://gomountainlions.com/sports/mens-golf/roster",
+    "https://gomountainlions.com/sports/womens-golf/roster",
+    "https://gomountainlions.com/sports/womens-lacrosse/roster",
+    "https://gomountainlions.com/sports/baseball/roster",
+    "https://gomountainlions.com/sports/softball/roster",
+    "https://gomountainlions.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomountainlions.com/sports/football/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomountainlions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

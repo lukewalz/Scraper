@@ -1,0 +1,153 @@
+{
+  "school": "/schools/whitworth",
+  "base": "https://whitworthpirates.com",
+  "goodList": [
+    "https://whitworthpirates.com/sports/football/roster",
+    "https://whitworthpirates.com/sports/mens-soccer/roster",
+    "https://whitworthpirates.com/sports/womens-soccer/roster",
+    "https://whitworthpirates.com/sports/mens-basketball/roster",
+    "https://whitworthpirates.com/sports/womens-basketball/roster",
+    "https://whitworthpirates.com/sports/swimming-and-diving/roster",
+    "https://whitworthpirates.com/sports/mens-track-and-field/roster",
+    "https://whitworthpirates.com/sports/womens-cross-country/roster",
+    "https://whitworthpirates.com/sports/mens-golf/roster",
+    "https://whitworthpirates.com/sports/womens-golf/roster",
+    "https://whitworthpirates.com/sports/womens-lacrosse/roster",
+    "https://whitworthpirates.com/sports/baseball/roster",
+    "https://whitworthpirates.com/sports/softball/roster",
+    "https://whitworthpirates.com/sports/mens-tennis/roster",
+    "https://whitworthpirates.com/sports/womens-tennis/roster",
+    "https://whitworthpirates.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://whitworthpirates.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/golf/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/tri/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://whitworthpirates.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

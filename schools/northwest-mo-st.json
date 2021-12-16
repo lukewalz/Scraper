@@ -1,0 +1,151 @@
+{
+  "school": "/schools/northwest-mo-st",
+  "base": "https://bearcatsports.com",
+  "goodList": [
+    "https://bearcatsports.com/sports/football/roster",
+    "https://bearcatsports.com/sports/womens-soccer/roster",
+    "https://bearcatsports.com/sports/mens-basketball/roster",
+    "https://bearcatsports.com/sports/womens-basketball/roster",
+    "https://bearcatsports.com/sports/track-and-field/roster",
+    "https://bearcatsports.com/sports/mens-track-and-field/roster",
+    "https://bearcatsports.com/sports/womens-track-and-field/roster",
+    "https://bearcatsports.com/sports/cross-country/roster",
+    "https://bearcatsports.com/sports/mens-cross-country/roster",
+    "https://bearcatsports.com/sports/womens-cross-country/roster",
+    "https://bearcatsports.com/sports/womens-golf/roster",
+    "https://bearcatsports.com/sports/baseball/roster",
+    "https://bearcatsports.com/sports/softball/roster",
+    "https://bearcatsports.com/sports/tennis/roster",
+    "https://bearcatsports.com/sports/mens-tennis/roster",
+    "https://bearcatsports.com/sports/womens-tennis/roster",
+    "https://bearcatsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bearcatsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bearcatsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

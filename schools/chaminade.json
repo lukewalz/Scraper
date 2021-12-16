@@ -1,0 +1,165 @@
+{
+  "school": "/schools/chaminade",
+  "base": "https://goswords.com",
+  "goodList": [
+    "https://goswords.com/sports/mens-soccer/roster",
+    "https://goswords.com/sports/womens-soccer/roster",
+    "https://goswords.com/sports/mens-basketball/roster",
+    "https://goswords.com/sports/womens-basketball/roster",
+    "https://goswords.com/sports/mens-cross-country/roster",
+    "https://goswords.com/sports/womens-cross-country/roster",
+    "https://goswords.com/sports/mens-golf/roster",
+    "https://goswords.com/sports/softball/roster",
+    "https://goswords.com/sports/womens-tennis/roster",
+    "https://goswords.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goswords.com/sports/football/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goswords.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "school": "/schools/queens-nc",
+  "base": "https://queensathletics.com",
+  "goodList": [
+    "https://queensathletics.com/sports/mens-soccer/roster",
+    "https://queensathletics.com/sports/womens-soccer/roster",
+    "https://queensathletics.com/sports/mens-basketball/roster",
+    "https://queensathletics.com/sports/womens-basketball/roster",
+    "https://queensathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://queensathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://queensathletics.com/sports/mens-track-and-field/roster",
+    "https://queensathletics.com/sports/womens-track-and-field/roster",
+    "https://queensathletics.com/sports/mens-cross-country/roster",
+    "https://queensathletics.com/sports/womens-cross-country/roster",
+    "https://queensathletics.com/sports/mens-golf/roster",
+    "https://queensathletics.com/sports/womens-golf/roster",
+    "https://queensathletics.com/sports/mens-lacrosse/roster",
+    "https://queensathletics.com/sports/womens-lacrosse/roster",
+    "https://queensathletics.com/sports/baseball/roster",
+    "https://queensathletics.com/sports/softball/roster",
+    "https://queensathletics.com/sports/mens-volleyball/roster",
+    "https://queensathletics.com/sports/womens-volleyball/roster",
+    "https://queensathletics.com/sports/wrestling/roster",
+    "https://queensathletics.com/sports/mens-rugby/roster",
+    "https://queensathletics.com/sports/womens-rugby/roster",
+    "https://queensathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://queensathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://queensathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

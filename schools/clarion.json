@@ -1,0 +1,155 @@
+{
+  "school": "/schools/clarion",
+  "base": "https://clariongoldeneagles.com/",
+  "goodList": [
+    "https://clariongoldeneagles.com//sports/football/roster",
+    "https://clariongoldeneagles.com//sports/womens-soccer/roster",
+    "https://clariongoldeneagles.com//sports/mens-basketball/roster",
+    "https://clariongoldeneagles.com//sports/womens-basketball/roster",
+    "https://clariongoldeneagles.com//sports/mens-swimming-and-diving/roster",
+    "https://clariongoldeneagles.com//sports/womens-swimming-and-diving/roster",
+    "https://clariongoldeneagles.com//sports/womens-track-and-field/roster",
+    "https://clariongoldeneagles.com//sports/womens-cross-country/roster",
+    "https://clariongoldeneagles.com//sports/mens-golf/roster",
+    "https://clariongoldeneagles.com//sports/womens-golf/roster",
+    "https://clariongoldeneagles.com//sports/baseball/roster",
+    "https://clariongoldeneagles.com//sports/softball/roster",
+    "https://clariongoldeneagles.com//sports/womens-tennis/roster",
+    "https://clariongoldeneagles.com//sports/womens-volleyball/roster",
+    "https://clariongoldeneagles.com//sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/golf/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/tri/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://clariongoldeneagles.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

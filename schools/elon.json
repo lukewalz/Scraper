@@ -1,0 +1,153 @@
+{
+  "school": "/schools/elon",
+  "base": "https://elonphoenix.com",
+  "goodList": [
+    "https://elonphoenix.com/sports/football/roster",
+    "https://elonphoenix.com/sports/mens-soccer/roster",
+    "https://elonphoenix.com/sports/womens-soccer/roster",
+    "https://elonphoenix.com/sports/mens-basketball/roster",
+    "https://elonphoenix.com/sports/womens-basketball/roster",
+    "https://elonphoenix.com/sports/womens-track-and-field/roster",
+    "https://elonphoenix.com/sports/mens-cross-country/roster",
+    "https://elonphoenix.com/sports/womens-cross-country/roster",
+    "https://elonphoenix.com/sports/mens-golf/roster",
+    "https://elonphoenix.com/sports/womens-golf/roster",
+    "https://elonphoenix.com/sports/womens-lacrosse/roster",
+    "https://elonphoenix.com/sports/baseball/roster",
+    "https://elonphoenix.com/sports/softball/roster",
+    "https://elonphoenix.com/sports/mens-tennis/roster",
+    "https://elonphoenix.com/sports/womens-tennis/roster",
+    "https://elonphoenix.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://elonphoenix.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/golf/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/tri/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://elonphoenix.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

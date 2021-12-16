@@ -1,0 +1,161 @@
+{
+  "school": "/schools/gonzaga",
+  "base": "https://gozags.com",
+  "goodList": [
+    "https://gozags.com/sports/mens-soccer/roster",
+    "https://gozags.com/sports/womens-soccer/roster",
+    "https://gozags.com/sports/mens-basketball/roster",
+    "https://gozags.com/sports/womens-basketball/roster",
+    "https://gozags.com/sports/track-and-field/roster",
+    "https://gozags.com/sports/cross-country/roster",
+    "https://gozags.com/sports/mens-golf/roster",
+    "https://gozags.com/sports/womens-golf/roster",
+    "https://gozags.com/sports/baseball/roster",
+    "https://gozags.com/sports/mens-tennis/roster",
+    "https://gozags.com/sports/womens-tennis/roster",
+    "https://gozags.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gozags.com/sports/football/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gozags.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

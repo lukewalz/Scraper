@@ -1,0 +1,147 @@
+{
+  "school": "/schools/swarthmore",
+  "base": "https://swarthmoreathletics.com",
+  "goodList": [
+    "https://swarthmoreathletics.com/sports/mens-soccer/roster",
+    "https://swarthmoreathletics.com/sports/womens-soccer/roster",
+    "https://swarthmoreathletics.com/sports/mens-basketball/roster",
+    "https://swarthmoreathletics.com/sports/womens-basketball/roster",
+    "https://swarthmoreathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://swarthmoreathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://swarthmoreathletics.com/sports/mens-track-and-field/roster",
+    "https://swarthmoreathletics.com/sports/womens-track-and-field/roster",
+    "https://swarthmoreathletics.com/sports/mens-cross-country/roster",
+    "https://swarthmoreathletics.com/sports/womens-cross-country/roster",
+    "https://swarthmoreathletics.com/sports/mens-golf/roster",
+    "https://swarthmoreathletics.com/sports/mens-lacrosse/roster",
+    "https://swarthmoreathletics.com/sports/womens-lacrosse/roster",
+    "https://swarthmoreathletics.com/sports/baseball/roster",
+    "https://swarthmoreathletics.com/sports/softball/roster",
+    "https://swarthmoreathletics.com/sports/mens-tennis/roster",
+    "https://swarthmoreathletics.com/sports/womens-tennis/roster",
+    "https://swarthmoreathletics.com/sports/womens-volleyball/roster",
+    "https://swarthmoreathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://swarthmoreathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://swarthmoreathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/southern-miss",
+  "base": "https://southernmiss.com",
+  "goodList": [
+    "https://southernmiss.com/sports/football/roster",
+    "https://southernmiss.com/sports/womens-soccer/roster",
+    "https://southernmiss.com/sports/mens-basketball/roster",
+    "https://southernmiss.com/sports/womens-basketball/roster",
+    "https://southernmiss.com/sports/track-and-field/roster",
+    "https://southernmiss.com/sports/xctrack/roster",
+    "https://southernmiss.com/sports/mens-golf/roster",
+    "https://southernmiss.com/sports/womens-golf/roster",
+    "https://southernmiss.com/sports/baseball/roster",
+    "https://southernmiss.com/sports/softball/roster",
+    "https://southernmiss.com/sports/mens-tennis/roster",
+    "https://southernmiss.com/sports/womens-tennis/roster",
+    "https://southernmiss.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://southernmiss.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/golf/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/tri/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://southernmiss.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

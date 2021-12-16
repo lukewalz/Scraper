@@ -1,0 +1,157 @@
+{
+  "school": "/schools/rutgers-newark",
+  "base": "https://rutgersnewarkathletics.com",
+  "goodList": [
+    "https://rutgersnewarkathletics.com/sports/mens-soccer/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-soccer/roster",
+    "https://rutgersnewarkathletics.com/sports/mens-basketball/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-basketball/roster",
+    "https://rutgersnewarkathletics.com/sports/mens-track-and-field/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-track-and-field/roster",
+    "https://rutgersnewarkathletics.com/sports/mens-cross-country/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-cross-country/roster",
+    "https://rutgersnewarkathletics.com/sports/baseball/roster",
+    "https://rutgersnewarkathletics.com/sports/softball/roster",
+    "https://rutgersnewarkathletics.com/sports/mens-tennis/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-tennis/roster",
+    "https://rutgersnewarkathletics.com/sports/mens-volleyball/roster",
+    "https://rutgersnewarkathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rutgersnewarkathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

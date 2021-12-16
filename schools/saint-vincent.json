@@ -1,0 +1,141 @@
+{
+  "school": "/schools/saint-vincent",
+  "base": "https://athletics.stvincent.edu",
+  "goodList": [
+    "https://athletics.stvincent.edu/sports/football/roster",
+    "https://athletics.stvincent.edu/sports/mens-soccer/roster",
+    "https://athletics.stvincent.edu/sports/womens-soccer/roster",
+    "https://athletics.stvincent.edu/sports/mens-basketball/roster",
+    "https://athletics.stvincent.edu/sports/womens-basketball/roster",
+    "https://athletics.stvincent.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.stvincent.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.stvincent.edu/sports/mens-track-and-field/roster",
+    "https://athletics.stvincent.edu/sports/womens-track-and-field/roster",
+    "https://athletics.stvincent.edu/sports/mens-cross-country/roster",
+    "https://athletics.stvincent.edu/sports/womens-cross-country/roster",
+    "https://athletics.stvincent.edu/sports/mens-golf/roster",
+    "https://athletics.stvincent.edu/sports/womens-golf/roster",
+    "https://athletics.stvincent.edu/sports/mens-lacrosse/roster",
+    "https://athletics.stvincent.edu/sports/womens-lacrosse/roster",
+    "https://athletics.stvincent.edu/sports/baseball/roster",
+    "https://athletics.stvincent.edu/sports/softball/roster",
+    "https://athletics.stvincent.edu/sports/mens-tennis/roster",
+    "https://athletics.stvincent.edu/sports/womens-tennis/roster",
+    "https://athletics.stvincent.edu/sports/mens-volleyball/roster",
+    "https://athletics.stvincent.edu/sports/womens-volleyball/roster",
+    "https://athletics.stvincent.edu/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.stvincent.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.stvincent.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

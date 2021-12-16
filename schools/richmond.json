@@ -1,0 +1,155 @@
+{
+  "school": "/schools/richmond",
+  "base": "https://richmondspiders.com/",
+  "goodList": [
+    "https://richmondspiders.com//sports/football/roster",
+    "https://richmondspiders.com//sports/womens-soccer/roster",
+    "https://richmondspiders.com//sports/mens-basketball/roster",
+    "https://richmondspiders.com//sports/womens-basketball/roster",
+    "https://richmondspiders.com//sports/womens-swimming-and-diving/roster",
+    "https://richmondspiders.com//sports/womens-track-and-field/roster",
+    "https://richmondspiders.com//sports/cross-country/roster",
+    "https://richmondspiders.com//sports/mens-golf/roster",
+    "https://richmondspiders.com//sports/womens-golf/roster",
+    "https://richmondspiders.com//sports/mens-lacrosse/roster",
+    "https://richmondspiders.com//sports/womens-lacrosse/roster",
+    "https://richmondspiders.com//sports/baseball/roster",
+    "https://richmondspiders.com//sports/mens-tennis/roster",
+    "https://richmondspiders.com//sports/womens-tennis/roster",
+    "https://richmondspiders.com//sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://richmondspiders.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/golf/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/softball/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/tri/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://richmondspiders.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/umbc",
+  "base": "https://umbcretrievers.com",
+  "goodList": [
+    "https://umbcretrievers.com/sports/mens-soccer/roster",
+    "https://umbcretrievers.com/sports/womens-soccer/roster",
+    "https://umbcretrievers.com/sports/mens-basketball/roster",
+    "https://umbcretrievers.com/sports/womens-basketball/roster",
+    "https://umbcretrievers.com/sports/mens-swimming-and-diving/roster",
+    "https://umbcretrievers.com/sports/womens-swimming-and-diving/roster",
+    "https://umbcretrievers.com/sports/mens-track-and-field/roster",
+    "https://umbcretrievers.com/sports/womens-track-and-field/roster",
+    "https://umbcretrievers.com/sports/mens-cross-country/roster",
+    "https://umbcretrievers.com/sports/womens-cross-country/roster",
+    "https://umbcretrievers.com/sports/mens-lacrosse/roster",
+    "https://umbcretrievers.com/sports/womens-lacrosse/roster",
+    "https://umbcretrievers.com/sports/baseball/roster",
+    "https://umbcretrievers.com/sports/softball/roster",
+    "https://umbcretrievers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umbcretrievers.com/sports/football/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umbcretrievers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/fordham",
+  "base": "https://fordhamsports.com",
+  "goodList": [
+    "https://fordhamsports.com/sports/football/roster",
+    "https://fordhamsports.com/sports/mens-soccer/roster",
+    "https://fordhamsports.com/sports/womens-soccer/roster",
+    "https://fordhamsports.com/sports/mens-basketball/roster",
+    "https://fordhamsports.com/sports/womens-basketball/roster",
+    "https://fordhamsports.com/sports/mens-swimming-and-diving/roster",
+    "https://fordhamsports.com/sports/womens-swimming-and-diving/roster",
+    "https://fordhamsports.com/sports/mens-track-and-field/roster",
+    "https://fordhamsports.com/sports/womens-track-and-field/roster",
+    "https://fordhamsports.com/sports/mens-cross-country/roster",
+    "https://fordhamsports.com/sports/womens-cross-country/roster",
+    "https://fordhamsports.com/sports/mens-golf/roster",
+    "https://fordhamsports.com/sports/baseball/roster",
+    "https://fordhamsports.com/sports/softball/roster",
+    "https://fordhamsports.com/sports/mens-tennis/roster",
+    "https://fordhamsports.com/sports/womens-tennis/roster",
+    "https://fordhamsports.com/sports/womens-volleyball/roster",
+    "https://fordhamsports.com/sports/mens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fordhamsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fordhamsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

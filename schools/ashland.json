@@ -1,0 +1,151 @@
+{
+  "school": "/schools/ashland",
+  "base": "https://goashlandeagles.com",
+  "goodList": [
+    "https://goashlandeagles.com/sports/football/roster",
+    "https://goashlandeagles.com/sports/mens-soccer/roster",
+    "https://goashlandeagles.com/sports/womens-soccer/roster",
+    "https://goashlandeagles.com/sports/mens-basketball/roster",
+    "https://goashlandeagles.com/sports/womens-basketball/roster",
+    "https://goashlandeagles.com/sports/swimming-and-diving/roster",
+    "https://goashlandeagles.com/sports/track-and-field/roster",
+    "https://goashlandeagles.com/sports/cross-country/roster",
+    "https://goashlandeagles.com/sports/mens-golf/roster",
+    "https://goashlandeagles.com/sports/womens-golf/roster",
+    "https://goashlandeagles.com/sports/womens-lacrosse/roster",
+    "https://goashlandeagles.com/sports/baseball/roster",
+    "https://goashlandeagles.com/sports/softball/roster",
+    "https://goashlandeagles.com/sports/mens-tennis/roster",
+    "https://goashlandeagles.com/sports/womens-tennis/roster",
+    "https://goashlandeagles.com/sports/womens-volleyball/roster",
+    "https://goashlandeagles.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goashlandeagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goashlandeagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

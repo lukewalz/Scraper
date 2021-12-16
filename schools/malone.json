@@ -1,0 +1,147 @@
+{
+  "school": "/schools/malone",
+  "base": "https://malonepioneers.com",
+  "goodList": [
+    "https://malonepioneers.com/sports/football/roster",
+    "https://malonepioneers.com/sports/mens-soccer/roster",
+    "https://malonepioneers.com/sports/womens-soccer/roster",
+    "https://malonepioneers.com/sports/mens-basketball/roster",
+    "https://malonepioneers.com/sports/womens-basketball/roster",
+    "https://malonepioneers.com/sports/swimming-and-diving/roster",
+    "https://malonepioneers.com/sports/mens-swimming-and-diving/roster",
+    "https://malonepioneers.com/sports/womens-swimming-and-diving/roster",
+    "https://malonepioneers.com/sports/track-and-field/roster",
+    "https://malonepioneers.com/sports/mens-track-and-field/roster",
+    "https://malonepioneers.com/sports/cross-country/roster",
+    "https://malonepioneers.com/sports/mens-cross-country/roster",
+    "https://malonepioneers.com/sports/mens-golf/roster",
+    "https://malonepioneers.com/sports/womens-golf/roster",
+    "https://malonepioneers.com/sports/baseball/roster",
+    "https://malonepioneers.com/sports/softball/roster",
+    "https://malonepioneers.com/sports/mens-tennis/roster",
+    "https://malonepioneers.com/sports/womens-tennis/roster",
+    "https://malonepioneers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://malonepioneers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://malonepioneers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

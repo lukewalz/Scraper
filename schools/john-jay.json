@@ -1,0 +1,157 @@
+{
+  "school": "/schools/john-jay",
+  "base": "https://johnjayathletics.com",
+  "goodList": [
+    "https://johnjayathletics.com/sports/mens-soccer/roster",
+    "https://johnjayathletics.com/sports/womens-soccer/roster",
+    "https://johnjayathletics.com/sports/mens-basketball/roster",
+    "https://johnjayathletics.com/sports/womens-basketball/roster",
+    "https://johnjayathletics.com/sports/rifle/roster",
+    "https://johnjayathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://johnjayathletics.com/sports/mens-cross-country/roster",
+    "https://johnjayathletics.com/sports/womens-cross-country/roster",
+    "https://johnjayathletics.com/sports/baseball/roster",
+    "https://johnjayathletics.com/sports/softball/roster",
+    "https://johnjayathletics.com/sports/mens-tennis/roster",
+    "https://johnjayathletics.com/sports/womens-tennis/roster",
+    "https://johnjayathletics.com/sports/mens-volleyball/roster",
+    "https://johnjayathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://johnjayathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://johnjayathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

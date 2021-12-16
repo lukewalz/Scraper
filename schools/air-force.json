@@ -1,0 +1,141 @@
+{
+  "school": "/schools/air-force",
+  "base": "https://goairforcefalcons.com",
+  "goodList": [
+    "https://goairforcefalcons.com/sports/football/roster",
+    "https://goairforcefalcons.com/sports/mens-soccer/roster",
+    "https://goairforcefalcons.com/sports/womens-soccer/roster",
+    "https://goairforcefalcons.com/sports/mens-basketball/roster",
+    "https://goairforcefalcons.com/sports/womens-basketball/roster",
+    "https://goairforcefalcons.com/sports/fencing/roster",
+    "https://goairforcefalcons.com/sports/mens-gymnastics/roster",
+    "https://goairforcefalcons.com/sports/womens-gymnastics/roster",
+    "https://goairforcefalcons.com/sports/mens-ice-hockey/roster",
+    "https://goairforcefalcons.com/sports/rifle/roster",
+    "https://goairforcefalcons.com/sports/mens-swimming-and-diving/roster",
+    "https://goairforcefalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://goairforcefalcons.com/sports/track-and-field/roster",
+    "https://goairforcefalcons.com/sports/cross-country/roster",
+    "https://goairforcefalcons.com/sports/mens-golf/roster",
+    "https://goairforcefalcons.com/sports/mens-lacrosse/roster",
+    "https://goairforcefalcons.com/sports/baseball/roster",
+    "https://goairforcefalcons.com/sports/mens-tennis/roster",
+    "https://goairforcefalcons.com/sports/womens-tennis/roster",
+    "https://goairforcefalcons.com/sports/womens-volleyball/roster",
+    "https://goairforcefalcons.com/sports/mens-water-polo/roster",
+    "https://goairforcefalcons.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goairforcefalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/softball/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goairforcefalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

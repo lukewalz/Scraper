@@ -1,0 +1,153 @@
+{
+  "school": "/schools/st-francis-il",
+  "base": "https://gofightingsaints.com",
+  "goodList": [
+    "https://gofightingsaints.com/sports/football/roster",
+    "https://gofightingsaints.com/sports/mens-soccer/roster",
+    "https://gofightingsaints.com/sports/womens-soccer/roster",
+    "https://gofightingsaints.com/sports/mens-basketball/roster",
+    "https://gofightingsaints.com/sports/womens-basketball/roster",
+    "https://gofightingsaints.com/sports/mens-track-and-field/roster",
+    "https://gofightingsaints.com/sports/womens-track-and-field/roster",
+    "https://gofightingsaints.com/sports/mens-cross-country/roster",
+    "https://gofightingsaints.com/sports/womens-cross-country/roster",
+    "https://gofightingsaints.com/sports/mens-golf/roster",
+    "https://gofightingsaints.com/sports/womens-golf/roster",
+    "https://gofightingsaints.com/sports/baseball/roster",
+    "https://gofightingsaints.com/sports/softball/roster",
+    "https://gofightingsaints.com/sports/mens-tennis/roster",
+    "https://gofightingsaints.com/sports/womens-tennis/roster",
+    "https://gofightingsaints.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gofightingsaints.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gofightingsaints.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

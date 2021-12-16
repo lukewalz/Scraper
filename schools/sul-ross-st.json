@@ -1,0 +1,157 @@
+{
+  "school": "/schools/sul-ross-st",
+  "base": "https://srlobos.com",
+  "goodList": [
+    "https://srlobos.com/sports/football/roster",
+    "https://srlobos.com/sports/mens-soccer/roster",
+    "https://srlobos.com/sports/womens-soccer/roster",
+    "https://srlobos.com/sports/mens-basketball/roster",
+    "https://srlobos.com/sports/womens-basketball/roster",
+    "https://srlobos.com/sports/track-and-field/roster",
+    "https://srlobos.com/sports/womens-track-and-field/roster",
+    "https://srlobos.com/sports/cross-country/roster",
+    "https://srlobos.com/sports/baseball/roster",
+    "https://srlobos.com/sports/softball/roster",
+    "https://srlobos.com/sports/tennis/roster",
+    "https://srlobos.com/sports/mens-tennis/roster",
+    "https://srlobos.com/sports/womens-tennis/roster",
+    "https://srlobos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://srlobos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://srlobos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

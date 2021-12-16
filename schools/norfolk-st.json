@@ -1,0 +1,161 @@
+{
+  "school": "/schools/norfolk-st",
+  "base": "https://nsuspartans.com",
+  "goodList": [
+    "https://nsuspartans.com/sports/football/roster",
+    "https://nsuspartans.com/sports/mens-basketball/roster",
+    "https://nsuspartans.com/sports/womens-basketball/roster",
+    "https://nsuspartans.com/sports/mens-track-and-field/roster",
+    "https://nsuspartans.com/sports/womens-track-and-field/roster",
+    "https://nsuspartans.com/sports/mens-cross-country/roster",
+    "https://nsuspartans.com/sports/womens-cross-country/roster",
+    "https://nsuspartans.com/sports/baseball/roster",
+    "https://nsuspartans.com/sports/softball/roster",
+    "https://nsuspartans.com/sports/mens-tennis/roster",
+    "https://nsuspartans.com/sports/womens-tennis/roster",
+    "https://nsuspartans.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nsuspartans.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nsuspartans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

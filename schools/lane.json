@@ -1,0 +1,163 @@
+{
+  "school": "/schools/lane",
+  "base": "https://golcdragons.com",
+  "goodList": [
+    "https://golcdragons.com/sports/football/roster",
+    "https://golcdragons.com/sports/mens-basketball/roster",
+    "https://golcdragons.com/sports/womens-basketball/roster",
+    "https://golcdragons.com/sports/cross-country/roster",
+    "https://golcdragons.com/sports/mens-cross-country/roster",
+    "https://golcdragons.com/sports/womens-cross-country/roster",
+    "https://golcdragons.com/sports/baseball/roster",
+    "https://golcdragons.com/sports/softball/roster",
+    "https://golcdragons.com/sports/mens-tennis/roster",
+    "https://golcdragons.com/sports/womens-tennis/roster",
+    "https://golcdragons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://golcdragons.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://golcdragons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

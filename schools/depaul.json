@@ -1,0 +1,163 @@
+{
+  "school": "/schools/depaul",
+  "base": "https://depaulbluedemons.com",
+  "goodList": [
+    "https://depaulbluedemons.com/sports/mens-soccer/roster",
+    "https://depaulbluedemons.com/sports/womens-soccer/roster",
+    "https://depaulbluedemons.com/sports/mens-basketball/roster",
+    "https://depaulbluedemons.com/sports/womens-basketball/roster",
+    "https://depaulbluedemons.com/sports/track-and-field/roster",
+    "https://depaulbluedemons.com/sports/cross-country/roster",
+    "https://depaulbluedemons.com/sports/mens-golf/roster",
+    "https://depaulbluedemons.com/sports/softball/roster",
+    "https://depaulbluedemons.com/sports/mens-tennis/roster",
+    "https://depaulbluedemons.com/sports/womens-tennis/roster",
+    "https://depaulbluedemons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://depaulbluedemons.com/sports/football/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://depaulbluedemons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/la-monroe",
+  "base": "https://ulmwarhawks.com",
+  "goodList": [
+    "https://ulmwarhawks.com/sports/football/roster",
+    "https://ulmwarhawks.com/sports/womens-soccer/roster",
+    "https://ulmwarhawks.com/sports/mens-basketball/roster",
+    "https://ulmwarhawks.com/sports/womens-basketball/roster",
+    "https://ulmwarhawks.com/sports/track-and-field/roster",
+    "https://ulmwarhawks.com/sports/cross-country/roster",
+    "https://ulmwarhawks.com/sports/mens-golf/roster",
+    "https://ulmwarhawks.com/sports/womens-golf/roster",
+    "https://ulmwarhawks.com/sports/baseball/roster",
+    "https://ulmwarhawks.com/sports/softball/roster",
+    "https://ulmwarhawks.com/sports/womens-tennis/roster",
+    "https://ulmwarhawks.com/sports/womens-volleyball/roster",
+    "https://ulmwarhawks.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ulmwarhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

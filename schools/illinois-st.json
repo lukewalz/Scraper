@@ -1,0 +1,155 @@
+{
+  "school": "/schools/illinois-st",
+  "base": "https://goredbirds.com",
+  "goodList": [
+    "https://goredbirds.com/sports/football/roster",
+    "https://goredbirds.com/sports/womens-soccer/roster",
+    "https://goredbirds.com/sports/mens-basketball/roster",
+    "https://goredbirds.com/sports/womens-basketball/roster",
+    "https://goredbirds.com/sports/womens-gymnastics/roster",
+    "https://goredbirds.com/sports/womens-swimming-and-diving/roster",
+    "https://goredbirds.com/sports/track-and-field/roster",
+    "https://goredbirds.com/sports/cross-country/roster",
+    "https://goredbirds.com/sports/mens-golf/roster",
+    "https://goredbirds.com/sports/womens-golf/roster",
+    "https://goredbirds.com/sports/baseball/roster",
+    "https://goredbirds.com/sports/softball/roster",
+    "https://goredbirds.com/sports/mens-tennis/roster",
+    "https://goredbirds.com/sports/womens-tennis/roster",
+    "https://goredbirds.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goredbirds.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goredbirds.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

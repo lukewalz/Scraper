@@ -1,0 +1,153 @@
+{
+  "school": "/schools/colorado-col",
+  "base": "https://cctigers.com",
+  "goodList": [
+    "https://cctigers.com/sports/mens-soccer/roster",
+    "https://cctigers.com/sports/womens-soccer/roster",
+    "https://cctigers.com/sports/mens-basketball/roster",
+    "https://cctigers.com/sports/womens-basketball/roster",
+    "https://cctigers.com/sports/mens-ice-hockey/roster",
+    "https://cctigers.com/sports/mens-swimming-and-diving/roster",
+    "https://cctigers.com/sports/womens-swimming-and-diving/roster",
+    "https://cctigers.com/sports/mens-track-and-field/roster",
+    "https://cctigers.com/sports/womens-track-and-field/roster",
+    "https://cctigers.com/sports/mens-cross-country/roster",
+    "https://cctigers.com/sports/womens-cross-country/roster",
+    "https://cctigers.com/sports/mens-lacrosse/roster",
+    "https://cctigers.com/sports/womens-lacrosse/roster",
+    "https://cctigers.com/sports/mens-tennis/roster",
+    "https://cctigers.com/sports/womens-tennis/roster",
+    "https://cctigers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cctigers.com/sports/football/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cctigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

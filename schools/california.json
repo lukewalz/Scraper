@@ -1,0 +1,137 @@
+{
+  "school": "/schools/california",
+  "base": "https://calbears.com",
+  "goodList": [
+    "https://calbears.com/sports/football/roster",
+    "https://calbears.com/sports/mens-soccer/roster",
+    "https://calbears.com/sports/womens-soccer/roster",
+    "https://calbears.com/sports/mens-basketball/roster",
+    "https://calbears.com/sports/womens-basketball/roster",
+    "https://calbears.com/sports/mens-gymnastics/roster",
+    "https://calbears.com/sports/womens-gymnastics/roster",
+    "https://calbears.com/sports/mens-swimming-and-diving/roster",
+    "https://calbears.com/sports/womens-swimming-and-diving/roster",
+    "https://calbears.com/sports/track-and-field/roster",
+    "https://calbears.com/sports/cross-country/roster",
+    "https://calbears.com/sports/mens-golf/roster",
+    "https://calbears.com/sports/womens-golf/roster",
+    "https://calbears.com/sports/womens-lacrosse/roster",
+    "https://calbears.com/sports/baseball/roster",
+    "https://calbears.com/sports/softball/roster",
+    "https://calbears.com/sports/mens-tennis/roster",
+    "https://calbears.com/sports/womens-tennis/roster",
+    "https://calbears.com/sports/womens-volleyball/roster",
+    "https://calbears.com/sports/womens-beach-volleyball/roster",
+    "https://calbears.com/sports/mens-water-polo/roster",
+    "https://calbears.com/sports/womens-water-polo/roster",
+    "https://calbears.com/sports/mens-rugby/roster",
+    "https://calbears.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://calbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://calbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

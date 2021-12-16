@@ -1,0 +1,184 @@
+{
+  "school": "/schools/babson",
+  "base": "https://babsonathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://babsonathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://babsonathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

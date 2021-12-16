@@ -1,0 +1,159 @@
+{
+  "school": "/schools/mississippi-st",
+  "base": "https://hailstate.com/",
+  "goodList": [
+    "https://hailstate.com//sports/football/roster",
+    "https://hailstate.com//sports/womens-soccer/roster",
+    "https://hailstate.com//sports/mens-basketball/roster",
+    "https://hailstate.com//sports/womens-basketball/roster",
+    "https://hailstate.com//sports/track-and-field/roster",
+    "https://hailstate.com//sports/cross-country/roster",
+    "https://hailstate.com//sports/mens-golf/roster",
+    "https://hailstate.com//sports/womens-golf/roster",
+    "https://hailstate.com//sports/baseball/roster",
+    "https://hailstate.com//sports/softball/roster",
+    "https://hailstate.com//sports/mens-tennis/roster",
+    "https://hailstate.com//sports/womens-tennis/roster",
+    "https://hailstate.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hailstate.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/golf/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/tri/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hailstate.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

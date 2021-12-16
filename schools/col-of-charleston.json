@@ -1,0 +1,153 @@
+{
+  "school": "/schools/col-of-charleston",
+  "base": "https://cofcsports.com",
+  "goodList": [
+    "https://cofcsports.com/sports/mens-soccer/roster",
+    "https://cofcsports.com/sports/womens-soccer/roster",
+    "https://cofcsports.com/sports/mens-basketball/roster",
+    "https://cofcsports.com/sports/womens-basketball/roster",
+    "https://cofcsports.com/sports/womens-track-and-field/roster",
+    "https://cofcsports.com/sports/mens-cross-country/roster",
+    "https://cofcsports.com/sports/womens-cross-country/roster",
+    "https://cofcsports.com/sports/equestrian/roster",
+    "https://cofcsports.com/sports/mens-golf/roster",
+    "https://cofcsports.com/sports/womens-golf/roster",
+    "https://cofcsports.com/sports/baseball/roster",
+    "https://cofcsports.com/sports/softball/roster",
+    "https://cofcsports.com/sports/mens-tennis/roster",
+    "https://cofcsports.com/sports/womens-tennis/roster",
+    "https://cofcsports.com/sports/womens-volleyball/roster",
+    "https://cofcsports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cofcsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cofcsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

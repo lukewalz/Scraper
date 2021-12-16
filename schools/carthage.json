@@ -1,0 +1,141 @@
+{
+  "school": "/schools/carthage",
+  "base": "https://athletics.carthage.edu",
+  "goodList": [
+    "https://athletics.carthage.edu/sports/football/roster",
+    "https://athletics.carthage.edu/sports/mens-soccer/roster",
+    "https://athletics.carthage.edu/sports/womens-soccer/roster",
+    "https://athletics.carthage.edu/sports/mens-basketball/roster",
+    "https://athletics.carthage.edu/sports/womens-basketball/roster",
+    "https://athletics.carthage.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.carthage.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.carthage.edu/sports/mens-track-and-field/roster",
+    "https://athletics.carthage.edu/sports/womens-track-and-field/roster",
+    "https://athletics.carthage.edu/sports/mens-cross-country/roster",
+    "https://athletics.carthage.edu/sports/womens-cross-country/roster",
+    "https://athletics.carthage.edu/sports/mens-golf/roster",
+    "https://athletics.carthage.edu/sports/womens-golf/roster",
+    "https://athletics.carthage.edu/sports/mens-lacrosse/roster",
+    "https://athletics.carthage.edu/sports/womens-lacrosse/roster",
+    "https://athletics.carthage.edu/sports/baseball/roster",
+    "https://athletics.carthage.edu/sports/softball/roster",
+    "https://athletics.carthage.edu/sports/mens-tennis/roster",
+    "https://athletics.carthage.edu/sports/womens-tennis/roster",
+    "https://athletics.carthage.edu/sports/mens-volleyball/roster",
+    "https://athletics.carthage.edu/sports/womens-volleyball/roster",
+    "https://athletics.carthage.edu/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.carthage.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.carthage.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

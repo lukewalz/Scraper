@@ -1,0 +1,145 @@
+{
+  "school": "/schools/william-jewell",
+  "base": "https://jewellcardinals.com",
+  "goodList": [
+    "https://jewellcardinals.com/sports/football/roster",
+    "https://jewellcardinals.com/sports/mens-soccer/roster",
+    "https://jewellcardinals.com/sports/womens-soccer/roster",
+    "https://jewellcardinals.com/sports/mens-basketball/roster",
+    "https://jewellcardinals.com/sports/womens-basketball/roster",
+    "https://jewellcardinals.com/sports/swimming-and-diving/roster",
+    "https://jewellcardinals.com/sports/mens-swimming-and-diving/roster",
+    "https://jewellcardinals.com/sports/mens-track-and-field/roster",
+    "https://jewellcardinals.com/sports/womens-track-and-field/roster",
+    "https://jewellcardinals.com/sports/cross-country/roster",
+    "https://jewellcardinals.com/sports/mens-cross-country/roster",
+    "https://jewellcardinals.com/sports/womens-cross-country/roster",
+    "https://jewellcardinals.com/sports/mens-golf/roster",
+    "https://jewellcardinals.com/sports/womens-golf/roster",
+    "https://jewellcardinals.com/sports/baseball/roster",
+    "https://jewellcardinals.com/sports/softball/roster",
+    "https://jewellcardinals.com/sports/mens-tennis/roster",
+    "https://jewellcardinals.com/sports/womens-tennis/roster",
+    "https://jewellcardinals.com/sports/womens-volleyball/roster",
+    "https://jewellcardinals.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://jewellcardinals.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/golf/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/tri/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://jewellcardinals.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

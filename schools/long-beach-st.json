@@ -1,0 +1,155 @@
+{
+  "school": "/schools/long-beach-st",
+  "base": "https://longbeachstate.com",
+  "goodList": [
+    "https://longbeachstate.com/sports/womens-soccer/roster",
+    "https://longbeachstate.com/sports/mens-basketball/roster",
+    "https://longbeachstate.com/sports/womens-basketball/roster",
+    "https://longbeachstate.com/sports/track-and-field/roster",
+    "https://longbeachstate.com/sports/cross-country/roster",
+    "https://longbeachstate.com/sports/mens-golf/roster",
+    "https://longbeachstate.com/sports/womens-golf/roster",
+    "https://longbeachstate.com/sports/baseball/roster",
+    "https://longbeachstate.com/sports/softball/roster",
+    "https://longbeachstate.com/sports/womens-tennis/roster",
+    "https://longbeachstate.com/sports/mens-volleyball/roster",
+    "https://longbeachstate.com/sports/womens-volleyball/roster",
+    "https://longbeachstate.com/sports/womens-beach-volleyball/roster",
+    "https://longbeachstate.com/sports/mens-water-polo/roster",
+    "https://longbeachstate.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://longbeachstate.com/sports/football/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/golf/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/tri/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://longbeachstate.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

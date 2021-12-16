@@ -1,0 +1,135 @@
+{
+  "school": "/schools/american-intl",
+  "base": "https://aicyellowjackets.com",
+  "goodList": [
+    "https://aicyellowjackets.com/sports/football/roster",
+    "https://aicyellowjackets.com/sports/mens-soccer/roster",
+    "https://aicyellowjackets.com/sports/womens-soccer/roster",
+    "https://aicyellowjackets.com/sports/mens-basketball/roster",
+    "https://aicyellowjackets.com/sports/womens-basketball/roster",
+    "https://aicyellowjackets.com/sports/mens-ice-hockey/roster",
+    "https://aicyellowjackets.com/sports/track-and-field/roster",
+    "https://aicyellowjackets.com/sports/womens-track-and-field/roster",
+    "https://aicyellowjackets.com/sports/cross-country/roster",
+    "https://aicyellowjackets.com/sports/womens-cross-country/roster",
+    "https://aicyellowjackets.com/sports/mens-golf/roster",
+    "https://aicyellowjackets.com/sports/womens-golf/roster",
+    "https://aicyellowjackets.com/sports/mens-lacrosse/roster",
+    "https://aicyellowjackets.com/sports/womens-lacrosse/roster",
+    "https://aicyellowjackets.com/sports/baseball/roster",
+    "https://aicyellowjackets.com/sports/softball/roster",
+    "https://aicyellowjackets.com/sports/mens-tennis/roster",
+    "https://aicyellowjackets.com/sports/womens-tennis/roster",
+    "https://aicyellowjackets.com/sports/mens-volleyball/roster",
+    "https://aicyellowjackets.com/sports/womens-volleyball/roster",
+    "https://aicyellowjackets.com/sports/wrestling/roster",
+    "https://aicyellowjackets.com/sports/mens-rugby/roster",
+    "https://aicyellowjackets.com/sports/womens-rugby/roster",
+    "https://aicyellowjackets.com/sports/tri/roster",
+    "https://aicyellowjackets.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://aicyellowjackets.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/golf/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://aicyellowjackets.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

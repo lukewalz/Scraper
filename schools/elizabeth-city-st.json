@@ -1,0 +1,165 @@
+{
+  "school": "/schools/elizabeth-city-st",
+  "base": "https://ecsuvikings.com",
+  "goodList": [
+    "https://ecsuvikings.com/sports/football/roster",
+    "https://ecsuvikings.com/sports/mens-basketball/roster",
+    "https://ecsuvikings.com/sports/womens-basketball/roster",
+    "https://ecsuvikings.com/sports/mens-cross-country/roster",
+    "https://ecsuvikings.com/sports/womens-cross-country/roster",
+    "https://ecsuvikings.com/sports/mens-golf/roster",
+    "https://ecsuvikings.com/sports/baseball/roster",
+    "https://ecsuvikings.com/sports/softball/roster",
+    "https://ecsuvikings.com/sports/womens-tennis/roster",
+    "https://ecsuvikings.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ecsuvikings.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ecsuvikings.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

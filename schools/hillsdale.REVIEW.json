@@ -1,0 +1,184 @@
+{
+  "school": "/schools/hillsdale",
+  "base": "https://hillsdalechargers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hillsdalechargers.com/sports/football/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hillsdalechargers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

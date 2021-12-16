@@ -1,0 +1,135 @@
+{
+  "school": "/schools/davenport",
+  "base": "https://dupanthers.com/",
+  "goodList": [
+    "https://dupanthers.com//sports/football/roster",
+    "https://dupanthers.com//sports/mens-soccer/roster",
+    "https://dupanthers.com//sports/womens-soccer/roster",
+    "https://dupanthers.com//sports/mens-basketball/roster",
+    "https://dupanthers.com//sports/womens-basketball/roster",
+    "https://dupanthers.com//sports/bowling/roster",
+    "https://dupanthers.com//sports/mens-ice-hockey/roster",
+    "https://dupanthers.com//sports/womens-ice-hockey/roster",
+    "https://dupanthers.com//sports/mens-swimming-and-diving/roster",
+    "https://dupanthers.com//sports/womens-swimming-and-diving/roster",
+    "https://dupanthers.com//sports/track-and-field/roster",
+    "https://dupanthers.com//sports/cross-country/roster",
+    "https://dupanthers.com//sports/mens-golf/roster",
+    "https://dupanthers.com//sports/womens-golf/roster",
+    "https://dupanthers.com//sports/mens-lacrosse/roster",
+    "https://dupanthers.com//sports/womens-lacrosse/roster",
+    "https://dupanthers.com//sports/baseball/roster",
+    "https://dupanthers.com//sports/softball/roster",
+    "https://dupanthers.com//sports/mens-tennis/roster",
+    "https://dupanthers.com//sports/womens-tennis/roster",
+    "https://dupanthers.com//sports/mens-volleyball/roster",
+    "https://dupanthers.com//sports/womens-volleyball/roster",
+    "https://dupanthers.com//sports/wrestling/roster",
+    "https://dupanthers.com//sports/mens-rugby/roster",
+    "https://dupanthers.com//sports/womens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://dupanthers.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/golf/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/tri/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dupanthers.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

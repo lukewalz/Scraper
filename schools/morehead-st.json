@@ -1,0 +1,153 @@
+{
+  "school": "/schools/morehead-st",
+  "base": "https://msueagles.com",
+  "goodList": [
+    "https://msueagles.com/sports/football/roster",
+    "https://msueagles.com/sports/womens-soccer/roster",
+    "https://msueagles.com/sports/mens-basketball/roster",
+    "https://msueagles.com/sports/womens-basketball/roster",
+    "https://msueagles.com/sports/mens-track-and-field/roster",
+    "https://msueagles.com/sports/womens-track-and-field/roster",
+    "https://msueagles.com/sports/mens-cross-country/roster",
+    "https://msueagles.com/sports/womens-cross-country/roster",
+    "https://msueagles.com/sports/mens-golf/roster",
+    "https://msueagles.com/sports/womens-golf/roster",
+    "https://msueagles.com/sports/baseball/roster",
+    "https://msueagles.com/sports/softball/roster",
+    "https://msueagles.com/sports/mens-tennis/roster",
+    "https://msueagles.com/sports/womens-tennis/roster",
+    "https://msueagles.com/sports/womens-volleyball/roster",
+    "https://msueagles.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://msueagles.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://msueagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

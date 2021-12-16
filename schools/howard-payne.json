@@ -1,0 +1,161 @@
+{
+  "school": "/schools/howard-payne",
+  "base": "https://hpusports.com",
+  "goodList": [
+    "https://hpusports.com/sports/football/roster",
+    "https://hpusports.com/sports/mens-soccer/roster",
+    "https://hpusports.com/sports/womens-soccer/roster",
+    "https://hpusports.com/sports/mens-basketball/roster",
+    "https://hpusports.com/sports/womens-basketball/roster",
+    "https://hpusports.com/sports/mens-golf/roster",
+    "https://hpusports.com/sports/womens-golf/roster",
+    "https://hpusports.com/sports/baseball/roster",
+    "https://hpusports.com/sports/softball/roster",
+    "https://hpusports.com/sports/mens-tennis/roster",
+    "https://hpusports.com/sports/womens-tennis/roster",
+    "https://hpusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hpusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hpusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

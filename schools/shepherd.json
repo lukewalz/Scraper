@@ -1,0 +1,155 @@
+{
+  "school": "/schools/shepherd",
+  "base": "https://shepherdrams.com",
+  "goodList": [
+    "https://shepherdrams.com/sports/football/roster",
+    "https://shepherdrams.com/sports/mens-soccer/roster",
+    "https://shepherdrams.com/sports/womens-soccer/roster",
+    "https://shepherdrams.com/sports/mens-basketball/roster",
+    "https://shepherdrams.com/sports/womens-basketball/roster",
+    "https://shepherdrams.com/sports/mens-cross-country/roster",
+    "https://shepherdrams.com/sports/womens-cross-country/roster",
+    "https://shepherdrams.com/sports/mens-golf/roster",
+    "https://shepherdrams.com/sports/womens-golf/roster",
+    "https://shepherdrams.com/sports/womens-lacrosse/roster",
+    "https://shepherdrams.com/sports/baseball/roster",
+    "https://shepherdrams.com/sports/softball/roster",
+    "https://shepherdrams.com/sports/mens-tennis/roster",
+    "https://shepherdrams.com/sports/womens-tennis/roster",
+    "https://shepherdrams.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://shepherdrams.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/golf/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/tri/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://shepherdrams.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

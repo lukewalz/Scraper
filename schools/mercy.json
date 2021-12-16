@@ -1,0 +1,165 @@
+{
+  "school": "/schools/mercy",
+  "base": "https://mercyathletics.com",
+  "goodList": [
+    "https://mercyathletics.com/sports/mens-soccer/roster",
+    "https://mercyathletics.com/sports/womens-soccer/roster",
+    "https://mercyathletics.com/sports/mens-basketball/roster",
+    "https://mercyathletics.com/sports/womens-basketball/roster",
+    "https://mercyathletics.com/sports/mens-lacrosse/roster",
+    "https://mercyathletics.com/sports/womens-lacrosse/roster",
+    "https://mercyathletics.com/sports/baseball/roster",
+    "https://mercyathletics.com/sports/softball/roster",
+    "https://mercyathletics.com/sports/womens-volleyball/roster",
+    "https://mercyathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mercyathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mercyathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

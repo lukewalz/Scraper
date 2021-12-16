@@ -1,0 +1,131 @@
+{
+  "school": "/schools/princeton",
+  "base": "https://goprincetontigers.com",
+  "goodList": [
+    "https://goprincetontigers.com/sports/football/roster",
+    "https://goprincetontigers.com/sports/mens-soccer/roster",
+    "https://goprincetontigers.com/sports/womens-soccer/roster",
+    "https://goprincetontigers.com/sports/mens-basketball/roster",
+    "https://goprincetontigers.com/sports/womens-basketball/roster",
+    "https://goprincetontigers.com/sports/mens-ice-hockey/roster",
+    "https://goprincetontigers.com/sports/womens-ice-hockey/roster",
+    "https://goprincetontigers.com/sports/mens-swimming-and-diving/roster",
+    "https://goprincetontigers.com/sports/womens-swimming-and-diving/roster",
+    "https://goprincetontigers.com/sports/mens-track-and-field/roster",
+    "https://goprincetontigers.com/sports/womens-track-and-field/roster",
+    "https://goprincetontigers.com/sports/mens-cross-country/roster",
+    "https://goprincetontigers.com/sports/womens-cross-country/roster",
+    "https://goprincetontigers.com/sports/mens-golf/roster",
+    "https://goprincetontigers.com/sports/womens-golf/roster",
+    "https://goprincetontigers.com/sports/mens-lacrosse/roster",
+    "https://goprincetontigers.com/sports/womens-lacrosse/roster",
+    "https://goprincetontigers.com/sports/baseball/roster",
+    "https://goprincetontigers.com/sports/softball/roster",
+    "https://goprincetontigers.com/sports/mens-tennis/roster",
+    "https://goprincetontigers.com/sports/womens-tennis/roster",
+    "https://goprincetontigers.com/sports/mens-volleyball/roster",
+    "https://goprincetontigers.com/sports/womens-volleyball/roster",
+    "https://goprincetontigers.com/sports/mens-water-polo/roster",
+    "https://goprincetontigers.com/sports/womens-water-polo/roster",
+    "https://goprincetontigers.com/sports/wrestling/roster",
+    "https://goprincetontigers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goprincetontigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goprincetontigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

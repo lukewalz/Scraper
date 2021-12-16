@@ -1,0 +1,153 @@
+{
+  "school": "/schools/mt-aloysius",
+  "base": "https://mountieathletics.com",
+  "goodList": [
+    "https://mountieathletics.com/sports/mens-soccer/roster",
+    "https://mountieathletics.com/sports/womens-soccer/roster",
+    "https://mountieathletics.com/sports/mens-basketball/roster",
+    "https://mountieathletics.com/sports/womens-basketball/roster",
+    "https://mountieathletics.com/sports/bowling/roster",
+    "https://mountieathletics.com/sports/mens-cross-country/roster",
+    "https://mountieathletics.com/sports/womens-cross-country/roster",
+    "https://mountieathletics.com/sports/golf/roster",
+    "https://mountieathletics.com/sports/womens-golf/roster",
+    "https://mountieathletics.com/sports/lacrosse/roster",
+    "https://mountieathletics.com/sports/womens-lacrosse/roster",
+    "https://mountieathletics.com/sports/baseball/roster",
+    "https://mountieathletics.com/sports/softball/roster",
+    "https://mountieathletics.com/sports/mens-tennis/roster",
+    "https://mountieathletics.com/sports/womens-tennis/roster",
+    "https://mountieathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mountieathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mountieathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

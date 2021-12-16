@@ -1,0 +1,157 @@
+{
+  "school": "/schools/north-ala",
+  "base": "https://roarlions.com",
+  "goodList": [
+    "https://roarlions.com/sports/football/roster",
+    "https://roarlions.com/sports/womens-soccer/roster",
+    "https://roarlions.com/sports/mens-basketball/roster",
+    "https://roarlions.com/sports/womens-basketball/roster",
+    "https://roarlions.com/sports/womens-track-and-field/roster",
+    "https://roarlions.com/sports/mens-cross-country/roster",
+    "https://roarlions.com/sports/womens-cross-country/roster",
+    "https://roarlions.com/sports/mens-golf/roster",
+    "https://roarlions.com/sports/womens-golf/roster",
+    "https://roarlions.com/sports/baseball/roster",
+    "https://roarlions.com/sports/softball/roster",
+    "https://roarlions.com/sports/mens-tennis/roster",
+    "https://roarlions.com/sports/womens-tennis/roster",
+    "https://roarlions.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://roarlions.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://roarlions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

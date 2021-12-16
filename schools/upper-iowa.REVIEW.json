@@ -1,0 +1,184 @@
+{
+  "school": "/schools/upper-iowa",
+  "base": "https://upperiowaathletics.com/index.aspx",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/football/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/bowling/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/fencing/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/rifle/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/skiing/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/cross-country/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/xctrack/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/equestrian/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/golf/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/rowing/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/baseball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/softball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/tennis/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/wbvb/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/water-polo/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/wrestling/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mwrest/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/wwrest/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/rugby/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/tri/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://upperiowaathletics.com/index.aspx/sports/mens-field-hockey/roster"
+    }
+  ]
+}

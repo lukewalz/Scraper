@@ -1,0 +1,155 @@
+{
+  "school": "/schools/oregon-st",
+  "base": "https://osubeavers.com",
+  "goodList": [
+    "https://osubeavers.com/sports/football/roster",
+    "https://osubeavers.com/sports/mens-soccer/roster",
+    "https://osubeavers.com/sports/womens-soccer/roster",
+    "https://osubeavers.com/sports/mens-basketball/roster",
+    "https://osubeavers.com/sports/womens-basketball/roster",
+    "https://osubeavers.com/sports/womens-gymnastics/roster",
+    "https://osubeavers.com/sports/womens-swimming-and-diving/roster",
+    "https://osubeavers.com/sports/track-and-field/roster",
+    "https://osubeavers.com/sports/womens-cross-country/roster",
+    "https://osubeavers.com/sports/mens-golf/roster",
+    "https://osubeavers.com/sports/womens-golf/roster",
+    "https://osubeavers.com/sports/baseball/roster",
+    "https://osubeavers.com/sports/softball/roster",
+    "https://osubeavers.com/sports/womens-volleyball/roster",
+    "https://osubeavers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://osubeavers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://osubeavers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

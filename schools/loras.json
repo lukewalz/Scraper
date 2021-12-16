@@ -1,0 +1,143 @@
+{
+  "school": "/schools/loras",
+  "base": "https://duhawks.com",
+  "goodList": [
+    "https://duhawks.com/sports/football/roster",
+    "https://duhawks.com/sports/mens-soccer/roster",
+    "https://duhawks.com/sports/womens-soccer/roster",
+    "https://duhawks.com/sports/mens-basketball/roster",
+    "https://duhawks.com/sports/womens-basketball/roster",
+    "https://duhawks.com/sports/mens-swimming-and-diving/roster",
+    "https://duhawks.com/sports/womens-swimming-and-diving/roster",
+    "https://duhawks.com/sports/mens-track-and-field/roster",
+    "https://duhawks.com/sports/womens-track-and-field/roster",
+    "https://duhawks.com/sports/cross-country/roster",
+    "https://duhawks.com/sports/womens-cross-country/roster",
+    "https://duhawks.com/sports/mens-golf/roster",
+    "https://duhawks.com/sports/womens-golf/roster",
+    "https://duhawks.com/sports/womens-lacrosse/roster",
+    "https://duhawks.com/sports/baseball/roster",
+    "https://duhawks.com/sports/softball/roster",
+    "https://duhawks.com/sports/mens-tennis/roster",
+    "https://duhawks.com/sports/womens-tennis/roster",
+    "https://duhawks.com/sports/mens-volleyball/roster",
+    "https://duhawks.com/sports/womens-volleyball/roster",
+    "https://duhawks.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://duhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://duhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

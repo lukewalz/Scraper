@@ -1,0 +1,145 @@
+{
+  "school": "/schools/kenyon",
+  "base": "https://athletics.kenyon.edu",
+  "goodList": [
+    "https://athletics.kenyon.edu/sports/football/roster",
+    "https://athletics.kenyon.edu/sports/mens-soccer/roster",
+    "https://athletics.kenyon.edu/sports/womens-soccer/roster",
+    "https://athletics.kenyon.edu/sports/mens-basketball/roster",
+    "https://athletics.kenyon.edu/sports/womens-basketball/roster",
+    "https://athletics.kenyon.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.kenyon.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.kenyon.edu/sports/mens-track-and-field/roster",
+    "https://athletics.kenyon.edu/sports/womens-track-and-field/roster",
+    "https://athletics.kenyon.edu/sports/mens-cross-country/roster",
+    "https://athletics.kenyon.edu/sports/womens-cross-country/roster",
+    "https://athletics.kenyon.edu/sports/mens-golf/roster",
+    "https://athletics.kenyon.edu/sports/mens-lacrosse/roster",
+    "https://athletics.kenyon.edu/sports/womens-lacrosse/roster",
+    "https://athletics.kenyon.edu/sports/baseball/roster",
+    "https://athletics.kenyon.edu/sports/softball/roster",
+    "https://athletics.kenyon.edu/sports/mens-tennis/roster",
+    "https://athletics.kenyon.edu/sports/womens-tennis/roster",
+    "https://athletics.kenyon.edu/sports/womens-volleyball/roster",
+    "https://athletics.kenyon.edu/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.kenyon.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.kenyon.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

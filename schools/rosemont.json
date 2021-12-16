@@ -1,0 +1,157 @@
+{
+  "school": "/schools/rosemont",
+  "base": "https://rosemont-ravens.com",
+  "goodList": [
+    "https://rosemont-ravens.com/sports/mens-soccer/roster",
+    "https://rosemont-ravens.com/sports/womens-soccer/roster",
+    "https://rosemont-ravens.com/sports/mens-basketball/roster",
+    "https://rosemont-ravens.com/sports/womens-basketball/roster",
+    "https://rosemont-ravens.com/sports/mens-cross-country/roster",
+    "https://rosemont-ravens.com/sports/womens-cross-country/roster",
+    "https://rosemont-ravens.com/sports/mens-golf/roster",
+    "https://rosemont-ravens.com/sports/mens-lacrosse/roster",
+    "https://rosemont-ravens.com/sports/womens-lacrosse/roster",
+    "https://rosemont-ravens.com/sports/softball/roster",
+    "https://rosemont-ravens.com/sports/mens-tennis/roster",
+    "https://rosemont-ravens.com/sports/womens-tennis/roster",
+    "https://rosemont-ravens.com/sports/mens-volleyball/roster",
+    "https://rosemont-ravens.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rosemont-ravens.com/sports/football/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rosemont-ravens.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

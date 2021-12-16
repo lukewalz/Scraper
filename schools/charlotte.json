@@ -1,0 +1,157 @@
+{
+  "school": "/schools/charlotte",
+  "base": "https://charlotte49ers.com",
+  "goodList": [
+    "https://charlotte49ers.com/sports/football/roster",
+    "https://charlotte49ers.com/sports/mens-soccer/roster",
+    "https://charlotte49ers.com/sports/womens-soccer/roster",
+    "https://charlotte49ers.com/sports/mens-basketball/roster",
+    "https://charlotte49ers.com/sports/womens-basketball/roster",
+    "https://charlotte49ers.com/sports/track-and-field/roster",
+    "https://charlotte49ers.com/sports/cross-country/roster",
+    "https://charlotte49ers.com/sports/mens-golf/roster",
+    "https://charlotte49ers.com/sports/womens-golf/roster",
+    "https://charlotte49ers.com/sports/baseball/roster",
+    "https://charlotte49ers.com/sports/softball/roster",
+    "https://charlotte49ers.com/sports/mens-tennis/roster",
+    "https://charlotte49ers.com/sports/womens-tennis/roster",
+    "https://charlotte49ers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://charlotte49ers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://charlotte49ers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

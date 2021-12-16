@@ -1,0 +1,137 @@
+{
+  "school": "/schools/bucknell",
+  "base": "https://bucknellbison.com",
+  "goodList": [
+    "https://bucknellbison.com/sports/football/roster",
+    "https://bucknellbison.com/sports/mens-soccer/roster",
+    "https://bucknellbison.com/sports/womens-soccer/roster",
+    "https://bucknellbison.com/sports/mens-basketball/roster",
+    "https://bucknellbison.com/sports/womens-basketball/roster",
+    "https://bucknellbison.com/sports/mens-swimming-and-diving/roster",
+    "https://bucknellbison.com/sports/womens-swimming-and-diving/roster",
+    "https://bucknellbison.com/sports/mens-track-and-field/roster",
+    "https://bucknellbison.com/sports/womens-track-and-field/roster",
+    "https://bucknellbison.com/sports/mens-cross-country/roster",
+    "https://bucknellbison.com/sports/womens-cross-country/roster",
+    "https://bucknellbison.com/sports/mens-golf/roster",
+    "https://bucknellbison.com/sports/womens-golf/roster",
+    "https://bucknellbison.com/sports/mens-lacrosse/roster",
+    "https://bucknellbison.com/sports/womens-lacrosse/roster",
+    "https://bucknellbison.com/sports/baseball/roster",
+    "https://bucknellbison.com/sports/softball/roster",
+    "https://bucknellbison.com/sports/mens-tennis/roster",
+    "https://bucknellbison.com/sports/womens-tennis/roster",
+    "https://bucknellbison.com/sports/womens-volleyball/roster",
+    "https://bucknellbison.com/sports/mens-water-polo/roster",
+    "https://bucknellbison.com/sports/womens-water-polo/roster",
+    "https://bucknellbison.com/sports/wrestling/roster",
+    "https://bucknellbison.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bucknellbison.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bucknellbison.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

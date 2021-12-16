@@ -1,0 +1,141 @@
+{
+  "school": "/schools/california-baptist",
+  "base": "https://cbulancers.com",
+  "goodList": [
+    "https://cbulancers.com/sports/mens-soccer/roster",
+    "https://cbulancers.com/sports/womens-soccer/roster",
+    "https://cbulancers.com/sports/mens-basketball/roster",
+    "https://cbulancers.com/sports/womens-basketball/roster",
+    "https://cbulancers.com/sports/swimming-and-diving/roster",
+    "https://cbulancers.com/sports/mens-swimming-and-diving/roster",
+    "https://cbulancers.com/sports/womens-swimming-and-diving/roster",
+    "https://cbulancers.com/sports/mens-track-and-field/roster",
+    "https://cbulancers.com/sports/womens-track-and-field/roster",
+    "https://cbulancers.com/sports/cross-country/roster",
+    "https://cbulancers.com/sports/mens-cross-country/roster",
+    "https://cbulancers.com/sports/womens-cross-country/roster",
+    "https://cbulancers.com/sports/xctrack/roster",
+    "https://cbulancers.com/sports/mens-golf/roster",
+    "https://cbulancers.com/sports/womens-golf/roster",
+    "https://cbulancers.com/sports/baseball/roster",
+    "https://cbulancers.com/sports/softball/roster",
+    "https://cbulancers.com/sports/mens-volleyball/roster",
+    "https://cbulancers.com/sports/womens-volleyball/roster",
+    "https://cbulancers.com/sports/mens-water-polo/roster",
+    "https://cbulancers.com/sports/womens-water-polo/roster",
+    "https://cbulancers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cbulancers.com/sports/football/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cbulancers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

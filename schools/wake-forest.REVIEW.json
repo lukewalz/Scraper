@@ -1,0 +1,184 @@
+{
+  "school": "/schools/wake-forest",
+  "base": "https://wakeforestsports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wakeforestsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wakeforestsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

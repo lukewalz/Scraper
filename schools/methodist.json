@@ -1,0 +1,153 @@
+{
+  "school": "/schools/methodist",
+  "base": "https://mumonarchs.com",
+  "goodList": [
+    "https://mumonarchs.com/sports/football/roster",
+    "https://mumonarchs.com/sports/mens-soccer/roster",
+    "https://mumonarchs.com/sports/womens-soccer/roster",
+    "https://mumonarchs.com/sports/mens-basketball/roster",
+    "https://mumonarchs.com/sports/womens-basketball/roster",
+    "https://mumonarchs.com/sports/track-and-field/roster",
+    "https://mumonarchs.com/sports/cross-country/roster",
+    "https://mumonarchs.com/sports/mens-golf/roster",
+    "https://mumonarchs.com/sports/womens-golf/roster",
+    "https://mumonarchs.com/sports/mens-lacrosse/roster",
+    "https://mumonarchs.com/sports/womens-lacrosse/roster",
+    "https://mumonarchs.com/sports/baseball/roster",
+    "https://mumonarchs.com/sports/softball/roster",
+    "https://mumonarchs.com/sports/mens-tennis/roster",
+    "https://mumonarchs.com/sports/womens-tennis/roster",
+    "https://mumonarchs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mumonarchs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mumonarchs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

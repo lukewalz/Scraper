@@ -1,0 +1,151 @@
+{
+  "school": "/schools/bowling-green",
+  "base": "https://bgsufalcons.com",
+  "goodList": [
+    "https://bgsufalcons.com/sports/football/roster",
+    "https://bgsufalcons.com/sports/mens-soccer/roster",
+    "https://bgsufalcons.com/sports/womens-soccer/roster",
+    "https://bgsufalcons.com/sports/mens-basketball/roster",
+    "https://bgsufalcons.com/sports/womens-basketball/roster",
+    "https://bgsufalcons.com/sports/womens-gymnastics/roster",
+    "https://bgsufalcons.com/sports/mens-ice-hockey/roster",
+    "https://bgsufalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://bgsufalcons.com/sports/womens-track-and-field/roster",
+    "https://bgsufalcons.com/sports/mens-cross-country/roster",
+    "https://bgsufalcons.com/sports/womens-cross-country/roster",
+    "https://bgsufalcons.com/sports/mens-golf/roster",
+    "https://bgsufalcons.com/sports/womens-golf/roster",
+    "https://bgsufalcons.com/sports/baseball/roster",
+    "https://bgsufalcons.com/sports/softball/roster",
+    "https://bgsufalcons.com/sports/womens-tennis/roster",
+    "https://bgsufalcons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bgsufalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bgsufalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

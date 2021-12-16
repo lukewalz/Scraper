@@ -1,0 +1,141 @@
+{
+  "school": "/schools/west-chester",
+  "base": "https://wcupagoldenrams.com",
+  "goodList": [
+    "https://wcupagoldenrams.com/sports/football/roster",
+    "https://wcupagoldenrams.com/sports/mens-soccer/roster",
+    "https://wcupagoldenrams.com/sports/womens-soccer/roster",
+    "https://wcupagoldenrams.com/sports/mens-basketball/roster",
+    "https://wcupagoldenrams.com/sports/womens-basketball/roster",
+    "https://wcupagoldenrams.com/sports/womens-gymnastics/roster",
+    "https://wcupagoldenrams.com/sports/mens-swimming-and-diving/roster",
+    "https://wcupagoldenrams.com/sports/womens-swimming-and-diving/roster",
+    "https://wcupagoldenrams.com/sports/mens-track-and-field/roster",
+    "https://wcupagoldenrams.com/sports/womens-track-and-field/roster",
+    "https://wcupagoldenrams.com/sports/mens-cross-country/roster",
+    "https://wcupagoldenrams.com/sports/womens-cross-country/roster",
+    "https://wcupagoldenrams.com/sports/mens-golf/roster",
+    "https://wcupagoldenrams.com/sports/womens-golf/roster",
+    "https://wcupagoldenrams.com/sports/womens-lacrosse/roster",
+    "https://wcupagoldenrams.com/sports/baseball/roster",
+    "https://wcupagoldenrams.com/sports/softball/roster",
+    "https://wcupagoldenrams.com/sports/mens-tennis/roster",
+    "https://wcupagoldenrams.com/sports/womens-tennis/roster",
+    "https://wcupagoldenrams.com/sports/womens-volleyball/roster",
+    "https://wcupagoldenrams.com/sports/womens-rugby/roster",
+    "https://wcupagoldenrams.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wcupagoldenrams.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wcupagoldenrams.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

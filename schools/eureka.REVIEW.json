@@ -1,0 +1,184 @@
+{
+  "school": "/schools/eureka",
+  "base": "https://eurekareddevils.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://eurekareddevils.com/sports/football/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/golf/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/softball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/tri/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://eurekareddevils.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "school": "/schools/uni",
+  "base": "https://unipanthers.com",
+  "goodList": [
+    "https://unipanthers.com/sports/football/roster",
+    "https://unipanthers.com/sports/womens-soccer/roster",
+    "https://unipanthers.com/sports/mens-basketball/roster",
+    "https://unipanthers.com/sports/womens-basketball/roster",
+    "https://unipanthers.com/sports/womens-swimming-and-diving/roster",
+    "https://unipanthers.com/sports/track-and-field/roster",
+    "https://unipanthers.com/sports/mens-track-and-field/roster",
+    "https://unipanthers.com/sports/cross-country/roster",
+    "https://unipanthers.com/sports/mens-cross-country/roster",
+    "https://unipanthers.com/sports/womens-cross-country/roster",
+    "https://unipanthers.com/sports/mens-golf/roster",
+    "https://unipanthers.com/sports/womens-golf/roster",
+    "https://unipanthers.com/sports/softball/roster",
+    "https://unipanthers.com/sports/womens-tennis/roster",
+    "https://unipanthers.com/sports/womens-volleyball/roster",
+    "https://unipanthers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unipanthers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unipanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

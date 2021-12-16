@@ -1,0 +1,147 @@
+{
+  "school": "/schools/temple",
+  "base": "https://owlsports.com",
+  "goodList": [
+    "https://owlsports.com/sports/football/roster",
+    "https://owlsports.com/sports/mens-soccer/roster",
+    "https://owlsports.com/sports/womens-soccer/roster",
+    "https://owlsports.com/sports/mens-basketball/roster",
+    "https://owlsports.com/sports/womens-basketball/roster",
+    "https://owlsports.com/sports/mens-gymnastics/roster",
+    "https://owlsports.com/sports/womens-gymnastics/roster",
+    "https://owlsports.com/sports/mens-track-and-field/roster",
+    "https://owlsports.com/sports/womens-track-and-field/roster",
+    "https://owlsports.com/sports/mens-cross-country/roster",
+    "https://owlsports.com/sports/womens-cross-country/roster",
+    "https://owlsports.com/sports/mens-golf/roster",
+    "https://owlsports.com/sports/womens-lacrosse/roster",
+    "https://owlsports.com/sports/baseball/roster",
+    "https://owlsports.com/sports/softball/roster",
+    "https://owlsports.com/sports/mens-tennis/roster",
+    "https://owlsports.com/sports/womens-tennis/roster",
+    "https://owlsports.com/sports/womens-volleyball/roster",
+    "https://owlsports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://owlsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://owlsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

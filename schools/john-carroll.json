@@ -1,0 +1,139 @@
+{
+  "school": "/schools/john-carroll",
+  "base": "https://jcusports.com",
+  "goodList": [
+    "https://jcusports.com/sports/football/roster",
+    "https://jcusports.com/sports/mens-soccer/roster",
+    "https://jcusports.com/sports/womens-soccer/roster",
+    "https://jcusports.com/sports/mens-basketball/roster",
+    "https://jcusports.com/sports/womens-basketball/roster",
+    "https://jcusports.com/sports/mens-swimming-and-diving/roster",
+    "https://jcusports.com/sports/womens-swimming-and-diving/roster",
+    "https://jcusports.com/sports/track-and-field/roster",
+    "https://jcusports.com/sports/mens-track-and-field/roster",
+    "https://jcusports.com/sports/womens-track-and-field/roster",
+    "https://jcusports.com/sports/cross-country/roster",
+    "https://jcusports.com/sports/mens-cross-country/roster",
+    "https://jcusports.com/sports/womens-cross-country/roster",
+    "https://jcusports.com/sports/mens-golf/roster",
+    "https://jcusports.com/sports/womens-golf/roster",
+    "https://jcusports.com/sports/mens-lacrosse/roster",
+    "https://jcusports.com/sports/womens-lacrosse/roster",
+    "https://jcusports.com/sports/baseball/roster",
+    "https://jcusports.com/sports/softball/roster",
+    "https://jcusports.com/sports/mens-tennis/roster",
+    "https://jcusports.com/sports/womens-tennis/roster",
+    "https://jcusports.com/sports/womens-volleyball/roster",
+    "https://jcusports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://jcusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://jcusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

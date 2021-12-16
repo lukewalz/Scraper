@@ -1,0 +1,145 @@
+{
+  "school": "/schools/mount-olive",
+  "base": "https://umotrojans.com",
+  "goodList": [
+    "https://umotrojans.com/sports/mens-soccer/roster",
+    "https://umotrojans.com/sports/womens-soccer/roster",
+    "https://umotrojans.com/sports/mens-basketball/roster",
+    "https://umotrojans.com/sports/womens-basketball/roster",
+    "https://umotrojans.com/sports/mens-track-and-field/roster",
+    "https://umotrojans.com/sports/womens-track-and-field/roster",
+    "https://umotrojans.com/sports/mens-cross-country/roster",
+    "https://umotrojans.com/sports/womens-cross-country/roster",
+    "https://umotrojans.com/sports/mens-golf/roster",
+    "https://umotrojans.com/sports/womens-golf/roster",
+    "https://umotrojans.com/sports/mens-lacrosse/roster",
+    "https://umotrojans.com/sports/womens-lacrosse/roster",
+    "https://umotrojans.com/sports/baseball/roster",
+    "https://umotrojans.com/sports/softball/roster",
+    "https://umotrojans.com/sports/mens-tennis/roster",
+    "https://umotrojans.com/sports/womens-tennis/roster",
+    "https://umotrojans.com/sports/mens-volleyball/roster",
+    "https://umotrojans.com/sports/womens-volleyball/roster",
+    "https://umotrojans.com/sports/wrestling/roster",
+    "https://umotrojans.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umotrojans.com/sports/football/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umotrojans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

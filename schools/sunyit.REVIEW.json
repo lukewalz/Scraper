@@ -1,0 +1,184 @@
+{
+  "school": "/schools/sunyit",
+  "base": "https://wildcats.sunyit.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wildcats.sunyit.edu/sports/football/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wildcats.sunyit.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

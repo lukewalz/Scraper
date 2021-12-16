@@ -1,0 +1,139 @@
+{
+  "school": "/schools/wilkes",
+  "base": "https://gowilkesu.com",
+  "goodList": [
+    "https://gowilkesu.com/sports/football/roster",
+    "https://gowilkesu.com/sports/mens-soccer/roster",
+    "https://gowilkesu.com/sports/womens-soccer/roster",
+    "https://gowilkesu.com/sports/mens-basketball/roster",
+    "https://gowilkesu.com/sports/womens-basketball/roster",
+    "https://gowilkesu.com/sports/mens-ice-hockey/roster",
+    "https://gowilkesu.com/sports/womens-ice-hockey/roster",
+    "https://gowilkesu.com/sports/mens-swimming-and-diving/roster",
+    "https://gowilkesu.com/sports/womens-swimming-and-diving/roster",
+    "https://gowilkesu.com/sports/cross-country/roster",
+    "https://gowilkesu.com/sports/womens-cross-country/roster",
+    "https://gowilkesu.com/sports/golf/roster",
+    "https://gowilkesu.com/sports/womens-golf/roster",
+    "https://gowilkesu.com/sports/mens-lacrosse/roster",
+    "https://gowilkesu.com/sports/womens-lacrosse/roster",
+    "https://gowilkesu.com/sports/baseball/roster",
+    "https://gowilkesu.com/sports/softball/roster",
+    "https://gowilkesu.com/sports/mens-tennis/roster",
+    "https://gowilkesu.com/sports/womens-tennis/roster",
+    "https://gowilkesu.com/sports/mens-volleyball/roster",
+    "https://gowilkesu.com/sports/womens-volleyball/roster",
+    "https://gowilkesu.com/sports/wrestling/roster",
+    "https://gowilkesu.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gowilkesu.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gowilkesu.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

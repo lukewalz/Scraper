@@ -1,0 +1,161 @@
+{
+  "school": "/schools/angelo-st",
+  "base": "https://angelosports.com",
+  "goodList": [
+    "https://angelosports.com/sports/football/roster",
+    "https://angelosports.com/sports/womens-soccer/roster",
+    "https://angelosports.com/sports/mens-basketball/roster",
+    "https://angelosports.com/sports/womens-basketball/roster",
+    "https://angelosports.com/sports/cross-country/roster",
+    "https://angelosports.com/sports/womens-cross-country/roster",
+    "https://angelosports.com/sports/outdoor-track/roster",
+    "https://angelosports.com/sports/golf/roster",
+    "https://angelosports.com/sports/baseball/roster",
+    "https://angelosports.com/sports/softball/roster",
+    "https://angelosports.com/sports/womens-tennis/roster",
+    "https://angelosports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://angelosports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://angelosports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

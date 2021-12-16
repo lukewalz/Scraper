@@ -1,0 +1,184 @@
+{
+  "school": "/schools/hardin-simmons",
+  "base": "https://hsuathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://hsuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hsuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

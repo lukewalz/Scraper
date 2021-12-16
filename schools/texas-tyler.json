@@ -1,0 +1,155 @@
+{
+  "school": "/schools/texas-tyler",
+  "base": "https://uttylerpatriots.com/",
+  "goodList": [
+    "https://uttylerpatriots.com//sports/mens-soccer/roster",
+    "https://uttylerpatriots.com//sports/womens-soccer/roster",
+    "https://uttylerpatriots.com//sports/mens-basketball/roster",
+    "https://uttylerpatriots.com//sports/womens-basketball/roster",
+    "https://uttylerpatriots.com//sports/mens-track-and-field/roster",
+    "https://uttylerpatriots.com//sports/womens-track-and-field/roster",
+    "https://uttylerpatriots.com//sports/mens-cross-country/roster",
+    "https://uttylerpatriots.com//sports/womens-cross-country/roster",
+    "https://uttylerpatriots.com//sports/mens-golf/roster",
+    "https://uttylerpatriots.com//sports/womens-golf/roster",
+    "https://uttylerpatriots.com//sports/baseball/roster",
+    "https://uttylerpatriots.com//sports/softball/roster",
+    "https://uttylerpatriots.com//sports/mens-tennis/roster",
+    "https://uttylerpatriots.com//sports/womens-tennis/roster",
+    "https://uttylerpatriots.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uttylerpatriots.com//sports/football/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/golf/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/tri/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uttylerpatriots.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

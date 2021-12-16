@@ -1,0 +1,149 @@
+{
+  "school": "/schools/maryland",
+  "base": "https://umterps.com",
+  "goodList": [
+    "https://umterps.com/sports/football/roster",
+    "https://umterps.com/sports/mens-soccer/roster",
+    "https://umterps.com/sports/womens-soccer/roster",
+    "https://umterps.com/sports/mens-basketball/roster",
+    "https://umterps.com/sports/womens-basketball/roster",
+    "https://umterps.com/sports/womens-gymnastics/roster",
+    "https://umterps.com/sports/track-and-field/roster",
+    "https://umterps.com/sports/womens-cross-country/roster",
+    "https://umterps.com/sports/mens-golf/roster",
+    "https://umterps.com/sports/womens-golf/roster",
+    "https://umterps.com/sports/mens-lacrosse/roster",
+    "https://umterps.com/sports/womens-lacrosse/roster",
+    "https://umterps.com/sports/baseball/roster",
+    "https://umterps.com/sports/softball/roster",
+    "https://umterps.com/sports/womens-tennis/roster",
+    "https://umterps.com/sports/womens-volleyball/roster",
+    "https://umterps.com/sports/wrestling/roster",
+    "https://umterps.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umterps.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umterps.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

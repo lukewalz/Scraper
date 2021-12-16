@@ -1,0 +1,161 @@
+{
+  "school": "/schools/minn-crookston",
+  "base": "https://goldeneaglesports.com/",
+  "goodList": [
+    "https://goldeneaglesports.com//sports/football/roster",
+    "https://goldeneaglesports.com//sports/womens-soccer/roster",
+    "https://goldeneaglesports.com//sports/mens-basketball/roster",
+    "https://goldeneaglesports.com//sports/womens-basketball/roster",
+    "https://goldeneaglesports.com//sports/womens-cross-country/roster",
+    "https://goldeneaglesports.com//sports/equestrian/roster",
+    "https://goldeneaglesports.com//sports/mens-golf/roster",
+    "https://goldeneaglesports.com//sports/womens-golf/roster",
+    "https://goldeneaglesports.com//sports/baseball/roster",
+    "https://goldeneaglesports.com//sports/softball/roster",
+    "https://goldeneaglesports.com//sports/womens-tennis/roster",
+    "https://goldeneaglesports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goldeneaglesports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

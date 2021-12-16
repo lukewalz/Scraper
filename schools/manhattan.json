@@ -1,0 +1,153 @@
+{
+  "school": "/schools/manhattan",
+  "base": "https://gojaspers.com",
+  "goodList": [
+    "https://gojaspers.com/sports/mens-soccer/roster",
+    "https://gojaspers.com/sports/womens-soccer/roster",
+    "https://gojaspers.com/sports/mens-basketball/roster",
+    "https://gojaspers.com/sports/womens-basketball/roster",
+    "https://gojaspers.com/sports/mens-swimming-and-diving/roster",
+    "https://gojaspers.com/sports/womens-swimming-and-diving/roster",
+    "https://gojaspers.com/sports/mens-track-and-field/roster",
+    "https://gojaspers.com/sports/womens-track-and-field/roster",
+    "https://gojaspers.com/sports/mens-cross-country/roster",
+    "https://gojaspers.com/sports/womens-cross-country/roster",
+    "https://gojaspers.com/sports/mens-golf/roster",
+    "https://gojaspers.com/sports/mens-lacrosse/roster",
+    "https://gojaspers.com/sports/womens-lacrosse/roster",
+    "https://gojaspers.com/sports/baseball/roster",
+    "https://gojaspers.com/sports/softball/roster",
+    "https://gojaspers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gojaspers.com/sports/football/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gojaspers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

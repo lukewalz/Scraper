@@ -1,0 +1,151 @@
+{
+  "school": "/schools/eastern-ky",
+  "base": "https://ekusports.com",
+  "goodList": [
+    "https://ekusports.com/sports/football/roster",
+    "https://ekusports.com/sports/womens-soccer/roster",
+    "https://ekusports.com/sports/mens-basketball/roster",
+    "https://ekusports.com/sports/womens-basketball/roster",
+    "https://ekusports.com/sports/track-and-field/roster",
+    "https://ekusports.com/sports/mens-track-and-field/roster",
+    "https://ekusports.com/sports/womens-track-and-field/roster",
+    "https://ekusports.com/sports/cross-country/roster",
+    "https://ekusports.com/sports/mens-cross-country/roster",
+    "https://ekusports.com/sports/mens-golf/roster",
+    "https://ekusports.com/sports/womens-golf/roster",
+    "https://ekusports.com/sports/baseball/roster",
+    "https://ekusports.com/sports/softball/roster",
+    "https://ekusports.com/sports/mens-tennis/roster",
+    "https://ekusports.com/sports/womens-tennis/roster",
+    "https://ekusports.com/sports/womens-volleyball/roster",
+    "https://ekusports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ekusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ekusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

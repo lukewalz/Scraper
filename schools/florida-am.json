@@ -1,0 +1,159 @@
+{
+  "school": "/schools/florida-am",
+  "base": "https://famuathletics.com",
+  "goodList": [
+    "https://famuathletics.com/sports/football/roster",
+    "https://famuathletics.com/sports/mens-basketball/roster",
+    "https://famuathletics.com/sports/womens-basketball/roster",
+    "https://famuathletics.com/sports/mens-track-and-field/roster",
+    "https://famuathletics.com/sports/womens-track-and-field/roster",
+    "https://famuathletics.com/sports/mens-cross-country/roster",
+    "https://famuathletics.com/sports/womens-cross-country/roster",
+    "https://famuathletics.com/sports/mens-golf/roster",
+    "https://famuathletics.com/sports/baseball/roster",
+    "https://famuathletics.com/sports/softball/roster",
+    "https://famuathletics.com/sports/mens-tennis/roster",
+    "https://famuathletics.com/sports/womens-tennis/roster",
+    "https://famuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://famuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://famuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

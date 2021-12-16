@@ -1,0 +1,184 @@
+{
+  "school": "/schools/dixie-st",
+  "base": "https://dixieathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://dixieathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dixieathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

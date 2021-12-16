@@ -1,0 +1,184 @@
+{
+  "school": "/schools/coast-guard",
+  "base": "https://cgasports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://cgasports.com/sports/football/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cgasports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

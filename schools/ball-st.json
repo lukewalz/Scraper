@@ -1,0 +1,149 @@
+{
+  "school": "/schools/ball-st",
+  "base": "https://ballstatesports.com",
+  "goodList": [
+    "https://ballstatesports.com/sports/football/roster",
+    "https://ballstatesports.com/sports/womens-soccer/roster",
+    "https://ballstatesports.com/sports/mens-basketball/roster",
+    "https://ballstatesports.com/sports/womens-basketball/roster",
+    "https://ballstatesports.com/sports/womens-gymnastics/roster",
+    "https://ballstatesports.com/sports/mens-swimming-and-diving/roster",
+    "https://ballstatesports.com/sports/womens-swimming-and-diving/roster",
+    "https://ballstatesports.com/sports/womens-track-and-field/roster",
+    "https://ballstatesports.com/sports/womens-cross-country/roster",
+    "https://ballstatesports.com/sports/mens-golf/roster",
+    "https://ballstatesports.com/sports/womens-golf/roster",
+    "https://ballstatesports.com/sports/baseball/roster",
+    "https://ballstatesports.com/sports/softball/roster",
+    "https://ballstatesports.com/sports/mens-tennis/roster",
+    "https://ballstatesports.com/sports/womens-tennis/roster",
+    "https://ballstatesports.com/sports/mens-volleyball/roster",
+    "https://ballstatesports.com/sports/womens-volleyball/roster",
+    "https://ballstatesports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ballstatesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ballstatesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/ithaca",
+  "base": "https://bombers.ithaca.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://bombers.ithaca.edu/sports/football/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bombers.ithaca.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/framingham-st",
+  "base": "https://fsurams.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://fsurams.com/sports/football/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/softball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fsurams.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

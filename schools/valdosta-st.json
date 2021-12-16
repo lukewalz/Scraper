@@ -1,0 +1,161 @@
+{
+  "school": "/schools/valdosta-st",
+  "base": "https://vstateblazers.com",
+  "goodList": [
+    "https://vstateblazers.com/sports/football/roster",
+    "https://vstateblazers.com/sports/womens-soccer/roster",
+    "https://vstateblazers.com/sports/mens-basketball/roster",
+    "https://vstateblazers.com/sports/womens-basketball/roster",
+    "https://vstateblazers.com/sports/mens-cross-country/roster",
+    "https://vstateblazers.com/sports/womens-cross-country/roster",
+    "https://vstateblazers.com/sports/mens-golf/roster",
+    "https://vstateblazers.com/sports/baseball/roster",
+    "https://vstateblazers.com/sports/softball/roster",
+    "https://vstateblazers.com/sports/mens-tennis/roster",
+    "https://vstateblazers.com/sports/womens-tennis/roster",
+    "https://vstateblazers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://vstateblazers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://vstateblazers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

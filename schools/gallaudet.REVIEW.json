@@ -1,0 +1,184 @@
+{
+  "school": "/schools/gallaudet",
+  "base": "https://gallaudetathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://gallaudetathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gallaudetathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

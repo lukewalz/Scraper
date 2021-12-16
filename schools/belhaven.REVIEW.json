@@ -1,0 +1,184 @@
+{
+  "school": "/schools/belhaven",
+  "base": "https://blazers.belhaven.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://blazers.belhaven.edu/sports/football/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://blazers.belhaven.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/uc-riverside",
+  "base": "https://gohighlanders.com/",
+  "goodList": [
+    "https://gohighlanders.com//sports/mens-soccer/roster",
+    "https://gohighlanders.com//sports/womens-soccer/roster",
+    "https://gohighlanders.com//sports/mens-basketball/roster",
+    "https://gohighlanders.com//sports/womens-basketball/roster",
+    "https://gohighlanders.com//sports/mens-track-and-field/roster",
+    "https://gohighlanders.com//sports/womens-track-and-field/roster",
+    "https://gohighlanders.com//sports/mens-cross-country/roster",
+    "https://gohighlanders.com//sports/womens-cross-country/roster",
+    "https://gohighlanders.com//sports/mens-golf/roster",
+    "https://gohighlanders.com//sports/womens-golf/roster",
+    "https://gohighlanders.com//sports/baseball/roster",
+    "https://gohighlanders.com//sports/softball/roster",
+    "https://gohighlanders.com//sports/mens-tennis/roster",
+    "https://gohighlanders.com//sports/womens-tennis/roster",
+    "https://gohighlanders.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gohighlanders.com//sports/football/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/golf/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/tri/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gohighlanders.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

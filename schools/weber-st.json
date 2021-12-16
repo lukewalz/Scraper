@@ -1,0 +1,157 @@
+{
+  "school": "/schools/weber-st",
+  "base": "https://weberstatesports.com/",
+  "goodList": [
+    "https://weberstatesports.com//sports/football/roster",
+    "https://weberstatesports.com//sports/womens-soccer/roster",
+    "https://weberstatesports.com//sports/mens-basketball/roster",
+    "https://weberstatesports.com//sports/womens-basketball/roster",
+    "https://weberstatesports.com//sports/track-and-field/roster",
+    "https://weberstatesports.com//sports/mens-track-and-field/roster",
+    "https://weberstatesports.com//sports/mens-cross-country/roster",
+    "https://weberstatesports.com//sports/womens-cross-country/roster",
+    "https://weberstatesports.com//sports/mens-golf/roster",
+    "https://weberstatesports.com//sports/womens-golf/roster",
+    "https://weberstatesports.com//sports/softball/roster",
+    "https://weberstatesports.com//sports/mens-tennis/roster",
+    "https://weberstatesports.com//sports/womens-tennis/roster",
+    "https://weberstatesports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://weberstatesports.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://weberstatesports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/earlham",
+  "base": "https://goearlham.com",
+  "goodList": [
+    "https://goearlham.com/sports/football/roster",
+    "https://goearlham.com/sports/mens-soccer/roster",
+    "https://goearlham.com/sports/womens-soccer/roster",
+    "https://goearlham.com/sports/mens-basketball/roster",
+    "https://goearlham.com/sports/womens-basketball/roster",
+    "https://goearlham.com/sports/mens-track-and-field/roster",
+    "https://goearlham.com/sports/womens-track-and-field/roster",
+    "https://goearlham.com/sports/mens-cross-country/roster",
+    "https://goearlham.com/sports/womens-cross-country/roster",
+    "https://goearlham.com/sports/mens-golf/roster",
+    "https://goearlham.com/sports/womens-golf/roster",
+    "https://goearlham.com/sports/mens-lacrosse/roster",
+    "https://goearlham.com/sports/womens-lacrosse/roster",
+    "https://goearlham.com/sports/baseball/roster",
+    "https://goearlham.com/sports/mens-tennis/roster",
+    "https://goearlham.com/sports/womens-tennis/roster",
+    "https://goearlham.com/sports/womens-volleyball/roster",
+    "https://goearlham.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goearlham.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/softball/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goearlham.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "school": "/schools/rutgers",
+  "base": "https://scarletknights.com",
+  "goodList": [
+    "https://scarletknights.com/sports/football/roster",
+    "https://scarletknights.com/sports/mens-soccer/roster",
+    "https://scarletknights.com/sports/womens-soccer/roster",
+    "https://scarletknights.com/sports/mens-basketball/roster",
+    "https://scarletknights.com/sports/womens-basketball/roster",
+    "https://scarletknights.com/sports/womens-gymnastics/roster",
+    "https://scarletknights.com/sports/womens-swimming-and-diving/roster",
+    "https://scarletknights.com/sports/track-and-field/roster",
+    "https://scarletknights.com/sports/mens-track-and-field/roster",
+    "https://scarletknights.com/sports/womens-track-and-field/roster",
+    "https://scarletknights.com/sports/cross-country/roster",
+    "https://scarletknights.com/sports/mens-cross-country/roster",
+    "https://scarletknights.com/sports/womens-cross-country/roster",
+    "https://scarletknights.com/sports/mens-golf/roster",
+    "https://scarletknights.com/sports/womens-golf/roster",
+    "https://scarletknights.com/sports/mens-lacrosse/roster",
+    "https://scarletknights.com/sports/womens-lacrosse/roster",
+    "https://scarletknights.com/sports/baseball/roster",
+    "https://scarletknights.com/sports/softball/roster",
+    "https://scarletknights.com/sports/womens-tennis/roster",
+    "https://scarletknights.com/sports/womens-volleyball/roster",
+    "https://scarletknights.com/sports/wrestling/roster",
+    "https://scarletknights.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://scarletknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/golf/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://scarletknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

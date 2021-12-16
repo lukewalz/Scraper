@@ -1,0 +1,149 @@
+{
+  "school": "/schools/palm-beach-atl",
+  "base": "https://pbasailfish.com",
+  "goodList": [
+    "https://pbasailfish.com/sports/mens-soccer/roster",
+    "https://pbasailfish.com/sports/womens-soccer/roster",
+    "https://pbasailfish.com/sports/mens-basketball/roster",
+    "https://pbasailfish.com/sports/womens-basketball/roster",
+    "https://pbasailfish.com/sports/mens-track-and-field/roster",
+    "https://pbasailfish.com/sports/womens-track-and-field/roster",
+    "https://pbasailfish.com/sports/mens-cross-country/roster",
+    "https://pbasailfish.com/sports/womens-cross-country/roster",
+    "https://pbasailfish.com/sports/mens-golf/roster",
+    "https://pbasailfish.com/sports/womens-golf/roster",
+    "https://pbasailfish.com/sports/mens-lacrosse/roster",
+    "https://pbasailfish.com/sports/womens-lacrosse/roster",
+    "https://pbasailfish.com/sports/baseball/roster",
+    "https://pbasailfish.com/sports/softball/roster",
+    "https://pbasailfish.com/sports/mens-tennis/roster",
+    "https://pbasailfish.com/sports/womens-tennis/roster",
+    "https://pbasailfish.com/sports/womens-volleyball/roster",
+    "https://pbasailfish.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://pbasailfish.com/sports/football/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/golf/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/tri/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://pbasailfish.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

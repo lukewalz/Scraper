@@ -1,0 +1,184 @@
+{
+  "school": "/schools/roanoke",
+  "base": "https://maroons.roanoke.edu/",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://maroons.roanoke.edu//sports/football/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/bowling/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/fencing/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/rifle/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/skiing/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/cross-country/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/xctrack/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/equestrian/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/golf/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/rowing/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/baseball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/softball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/tennis/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/wbvb/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/water-polo/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/wrestling/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mwrest/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/wwrest/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/rugby/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/tri/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://maroons.roanoke.edu//sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "school": "/schools/coppin-st",
+  "base": "https://coppinstatesports.com",
+  "goodList": [
+    "https://coppinstatesports.com/sports/mens-basketball/roster",
+    "https://coppinstatesports.com/sports/womens-basketball/roster",
+    "https://coppinstatesports.com/sports/mens-track-and-field/roster",
+    "https://coppinstatesports.com/sports/womens-track-and-field/roster",
+    "https://coppinstatesports.com/sports/mens-cross-country/roster",
+    "https://coppinstatesports.com/sports/womens-cross-country/roster",
+    "https://coppinstatesports.com/sports/baseball/roster",
+    "https://coppinstatesports.com/sports/softball/roster",
+    "https://coppinstatesports.com/sports/mens-tennis/roster",
+    "https://coppinstatesports.com/sports/womens-tennis/roster",
+    "https://coppinstatesports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://coppinstatesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://coppinstatesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/meredith",
+  "base": "https://goavengingangels.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://goavengingangels.com/sports/football/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/softball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goavengingangels.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

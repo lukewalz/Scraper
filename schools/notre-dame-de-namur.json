@@ -1,0 +1,161 @@
+{
+  "school": "/schools/notre-dame-de-namur",
+  "base": "https://ndnuargos.com",
+  "goodList": [
+    "https://ndnuargos.com/sports/mens-soccer/roster",
+    "https://ndnuargos.com/sports/womens-soccer/roster",
+    "https://ndnuargos.com/sports/mens-basketball/roster",
+    "https://ndnuargos.com/sports/womens-basketball/roster",
+    "https://ndnuargos.com/sports/mens-track-and-field/roster",
+    "https://ndnuargos.com/sports/womens-track-and-field/roster",
+    "https://ndnuargos.com/sports/mens-cross-country/roster",
+    "https://ndnuargos.com/sports/womens-cross-country/roster",
+    "https://ndnuargos.com/sports/mens-golf/roster",
+    "https://ndnuargos.com/sports/mens-lacrosse/roster",
+    "https://ndnuargos.com/sports/softball/roster",
+    "https://ndnuargos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ndnuargos.com/sports/football/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ndnuargos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

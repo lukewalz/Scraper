@@ -1,0 +1,184 @@
+{
+  "school": "/schools/lsu",
+  "base": "https://lsusports.net",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://lsusports.net/sports/football/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/bowling/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/fencing/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/rifle/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/skiing/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/golf/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/rowing/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/baseball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/softball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/tennis/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/rugby/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/tri/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lsusports.net/sports/mens-field-hockey/roster"
+    }
+  ]
+}

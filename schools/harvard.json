@@ -1,0 +1,131 @@
+{
+  "school": "/schools/harvard",
+  "base": "https://gocrimson.com",
+  "goodList": [
+    "https://gocrimson.com/sports/football/roster",
+    "https://gocrimson.com/sports/mens-soccer/roster",
+    "https://gocrimson.com/sports/womens-soccer/roster",
+    "https://gocrimson.com/sports/mens-basketball/roster",
+    "https://gocrimson.com/sports/womens-basketball/roster",
+    "https://gocrimson.com/sports/mens-ice-hockey/roster",
+    "https://gocrimson.com/sports/womens-ice-hockey/roster",
+    "https://gocrimson.com/sports/skiing/roster",
+    "https://gocrimson.com/sports/mens-swimming-and-diving/roster",
+    "https://gocrimson.com/sports/womens-swimming-and-diving/roster",
+    "https://gocrimson.com/sports/mens-track-and-field/roster",
+    "https://gocrimson.com/sports/cross-country/roster",
+    "https://gocrimson.com/sports/mens-golf/roster",
+    "https://gocrimson.com/sports/womens-golf/roster",
+    "https://gocrimson.com/sports/mens-lacrosse/roster",
+    "https://gocrimson.com/sports/womens-lacrosse/roster",
+    "https://gocrimson.com/sports/baseball/roster",
+    "https://gocrimson.com/sports/softball/roster",
+    "https://gocrimson.com/sports/mens-tennis/roster",
+    "https://gocrimson.com/sports/womens-tennis/roster",
+    "https://gocrimson.com/sports/mens-volleyball/roster",
+    "https://gocrimson.com/sports/womens-volleyball/roster",
+    "https://gocrimson.com/sports/mens-water-polo/roster",
+    "https://gocrimson.com/sports/womens-water-polo/roster",
+    "https://gocrimson.com/sports/wrestling/roster",
+    "https://gocrimson.com/sports/womens-rugby/roster",
+    "https://gocrimson.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gocrimson.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gocrimson.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

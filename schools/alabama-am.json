@@ -1,0 +1,159 @@
+{
+  "school": "/schools/alabama-am",
+  "base": "https://aamusports.com/",
+  "goodList": [
+    "https://aamusports.com//sports/football/roster",
+    "https://aamusports.com//sports/womens-soccer/roster",
+    "https://aamusports.com//sports/mens-basketball/roster",
+    "https://aamusports.com//sports/womens-basketball/roster",
+    "https://aamusports.com//sports/mens-track-and-field/roster",
+    "https://aamusports.com//sports/womens-track-and-field/roster",
+    "https://aamusports.com//sports/womens-cross-country/roster",
+    "https://aamusports.com//sports/mens-golf/roster",
+    "https://aamusports.com//sports/baseball/roster",
+    "https://aamusports.com//sports/softball/roster",
+    "https://aamusports.com//sports/mens-tennis/roster",
+    "https://aamusports.com//sports/womens-tennis/roster",
+    "https://aamusports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://aamusports.com//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://aamusports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

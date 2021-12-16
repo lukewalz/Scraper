@@ -1,0 +1,149 @@
+{
+  "school": "/schools/franciscan",
+  "base": "https://franciscanathletics.com",
+  "goodList": [
+    "https://franciscanathletics.com/sports/mens-soccer/roster",
+    "https://franciscanathletics.com/sports/womens-soccer/roster",
+    "https://franciscanathletics.com/sports/mens-basketball/roster",
+    "https://franciscanathletics.com/sports/womens-basketball/roster",
+    "https://franciscanathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://franciscanathletics.com/sports/mens-track-and-field/roster",
+    "https://franciscanathletics.com/sports/womens-track-and-field/roster",
+    "https://franciscanathletics.com/sports/mens-cross-country/roster",
+    "https://franciscanathletics.com/sports/womens-cross-country/roster",
+    "https://franciscanathletics.com/sports/womens-golf/roster",
+    "https://franciscanathletics.com/sports/mens-lacrosse/roster",
+    "https://franciscanathletics.com/sports/womens-lacrosse/roster",
+    "https://franciscanathletics.com/sports/baseball/roster",
+    "https://franciscanathletics.com/sports/softball/roster",
+    "https://franciscanathletics.com/sports/mens-tennis/roster",
+    "https://franciscanathletics.com/sports/womens-tennis/roster",
+    "https://franciscanathletics.com/sports/womens-volleyball/roster",
+    "https://franciscanathletics.com/sports/mens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://franciscanathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://franciscanathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "school": "/schools/umkc",
+  "base": "https://kcroos.com",
+  "goodList": [
+    "https://kcroos.com/sports/mens-soccer/roster",
+    "https://kcroos.com/sports/womens-soccer/roster",
+    "https://kcroos.com/sports/mens-basketball/roster",
+    "https://kcroos.com/sports/womens-basketball/roster",
+    "https://kcroos.com/sports/track-and-field/roster",
+    "https://kcroos.com/sports/cross-country/roster",
+    "https://kcroos.com/sports/mens-golf/roster",
+    "https://kcroos.com/sports/womens-golf/roster",
+    "https://kcroos.com/sports/softball/roster",
+    "https://kcroos.com/sports/mens-tennis/roster",
+    "https://kcroos.com/sports/womens-tennis/roster",
+    "https://kcroos.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://kcroos.com/sports/football/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kcroos.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

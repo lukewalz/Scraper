@@ -1,0 +1,153 @@
+{
+  "school": "/schools/saint-josephs",
+  "base": "https://sjuhawks.com",
+  "goodList": [
+    "https://sjuhawks.com/sports/mens-soccer/roster",
+    "https://sjuhawks.com/sports/womens-soccer/roster",
+    "https://sjuhawks.com/sports/mens-basketball/roster",
+    "https://sjuhawks.com/sports/womens-basketball/roster",
+    "https://sjuhawks.com/sports/mens-track-and-field/roster",
+    "https://sjuhawks.com/sports/womens-track-and-field/roster",
+    "https://sjuhawks.com/sports/mens-cross-country/roster",
+    "https://sjuhawks.com/sports/womens-cross-country/roster",
+    "https://sjuhawks.com/sports/golf/roster",
+    "https://sjuhawks.com/sports/mens-lacrosse/roster",
+    "https://sjuhawks.com/sports/womens-lacrosse/roster",
+    "https://sjuhawks.com/sports/baseball/roster",
+    "https://sjuhawks.com/sports/softball/roster",
+    "https://sjuhawks.com/sports/mens-tennis/roster",
+    "https://sjuhawks.com/sports/womens-tennis/roster",
+    "https://sjuhawks.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sjuhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sjuhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

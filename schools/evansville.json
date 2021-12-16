@@ -1,0 +1,155 @@
+{
+  "school": "/schools/evansville",
+  "base": "https://gopurpleaces.com",
+  "goodList": [
+    "https://gopurpleaces.com/sports/mens-soccer/roster",
+    "https://gopurpleaces.com/sports/womens-soccer/roster",
+    "https://gopurpleaces.com/sports/mens-basketball/roster",
+    "https://gopurpleaces.com/sports/womens-basketball/roster",
+    "https://gopurpleaces.com/sports/mens-swimming-and-diving/roster",
+    "https://gopurpleaces.com/sports/womens-swimming-and-diving/roster",
+    "https://gopurpleaces.com/sports/track-and-field/roster",
+    "https://gopurpleaces.com/sports/mens-cross-country/roster",
+    "https://gopurpleaces.com/sports/womens-cross-country/roster",
+    "https://gopurpleaces.com/sports/mens-golf/roster",
+    "https://gopurpleaces.com/sports/womens-golf/roster",
+    "https://gopurpleaces.com/sports/baseball/roster",
+    "https://gopurpleaces.com/sports/softball/roster",
+    "https://gopurpleaces.com/sports/womens-tennis/roster",
+    "https://gopurpleaces.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gopurpleaces.com/sports/football/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopurpleaces.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

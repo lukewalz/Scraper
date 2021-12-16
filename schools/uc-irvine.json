@@ -1,0 +1,151 @@
+{
+  "school": "/schools/uc-irvine",
+  "base": "https://ucirvinesports.com",
+  "goodList": [
+    "https://ucirvinesports.com/sports/mens-soccer/roster",
+    "https://ucirvinesports.com/sports/womens-soccer/roster",
+    "https://ucirvinesports.com/sports/mens-basketball/roster",
+    "https://ucirvinesports.com/sports/womens-basketball/roster",
+    "https://ucirvinesports.com/sports/mens-track-and-field/roster",
+    "https://ucirvinesports.com/sports/womens-track-and-field/roster",
+    "https://ucirvinesports.com/sports/mens-cross-country/roster",
+    "https://ucirvinesports.com/sports/womens-cross-country/roster",
+    "https://ucirvinesports.com/sports/mens-golf/roster",
+    "https://ucirvinesports.com/sports/womens-golf/roster",
+    "https://ucirvinesports.com/sports/baseball/roster",
+    "https://ucirvinesports.com/sports/mens-tennis/roster",
+    "https://ucirvinesports.com/sports/womens-tennis/roster",
+    "https://ucirvinesports.com/sports/mens-volleyball/roster",
+    "https://ucirvinesports.com/sports/womens-volleyball/roster",
+    "https://ucirvinesports.com/sports/mens-water-polo/roster",
+    "https://ucirvinesports.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ucirvinesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ucirvinesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

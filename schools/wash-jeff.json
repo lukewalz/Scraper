@@ -1,0 +1,133 @@
+{
+  "school": "/schools/wash-jeff",
+  "base": "https://gopresidents.com",
+  "goodList": [
+    "https://gopresidents.com/sports/football/roster",
+    "https://gopresidents.com/sports/mens-soccer/roster",
+    "https://gopresidents.com/sports/womens-soccer/roster",
+    "https://gopresidents.com/sports/mens-basketball/roster",
+    "https://gopresidents.com/sports/womens-basketball/roster",
+    "https://gopresidents.com/sports/mens-swimming-and-diving/roster",
+    "https://gopresidents.com/sports/womens-swimming-and-diving/roster",
+    "https://gopresidents.com/sports/track-and-field/roster",
+    "https://gopresidents.com/sports/mens-track-and-field/roster",
+    "https://gopresidents.com/sports/womens-track-and-field/roster",
+    "https://gopresidents.com/sports/cross-country/roster",
+    "https://gopresidents.com/sports/mens-cross-country/roster",
+    "https://gopresidents.com/sports/womens-cross-country/roster",
+    "https://gopresidents.com/sports/mens-golf/roster",
+    "https://gopresidents.com/sports/womens-golf/roster",
+    "https://gopresidents.com/sports/mens-lacrosse/roster",
+    "https://gopresidents.com/sports/womens-lacrosse/roster",
+    "https://gopresidents.com/sports/baseball/roster",
+    "https://gopresidents.com/sports/softball/roster",
+    "https://gopresidents.com/sports/mens-tennis/roster",
+    "https://gopresidents.com/sports/womens-tennis/roster",
+    "https://gopresidents.com/sports/womens-volleyball/roster",
+    "https://gopresidents.com/sports/mens-water-polo/roster",
+    "https://gopresidents.com/sports/womens-water-polo/roster",
+    "https://gopresidents.com/sports/wrestling/roster",
+    "https://gopresidents.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gopresidents.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopresidents.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

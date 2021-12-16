@@ -1,0 +1,157 @@
+{
+  "school": "/schools/academy-of-art",
+  "base": "https://artuathletics.com",
+  "goodList": [
+    "https://artuathletics.com/sports/mens-soccer/roster",
+    "https://artuathletics.com/sports/womens-soccer/roster",
+    "https://artuathletics.com/sports/mens-basketball/roster",
+    "https://artuathletics.com/sports/womens-basketball/roster",
+    "https://artuathletics.com/sports/mens-track-and-field/roster",
+    "https://artuathletics.com/sports/womens-track-and-field/roster",
+    "https://artuathletics.com/sports/mens-cross-country/roster",
+    "https://artuathletics.com/sports/womens-cross-country/roster",
+    "https://artuathletics.com/sports/mens-golf/roster",
+    "https://artuathletics.com/sports/womens-golf/roster",
+    "https://artuathletics.com/sports/baseball/roster",
+    "https://artuathletics.com/sports/softball/roster",
+    "https://artuathletics.com/sports/womens-tennis/roster",
+    "https://artuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://artuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://artuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

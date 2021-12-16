@@ -1,0 +1,143 @@
+{
+  "school": "/schools/duke",
+  "base": "https://goduke.com",
+  "goodList": [
+    "https://goduke.com/sports/football/roster",
+    "https://goduke.com/sports/mens-soccer/roster",
+    "https://goduke.com/sports/womens-soccer/roster",
+    "https://goduke.com/sports/mens-basketball/roster",
+    "https://goduke.com/sports/womens-basketball/roster",
+    "https://goduke.com/sports/fencing/roster",
+    "https://goduke.com/sports/swimming-and-diving/roster",
+    "https://goduke.com/sports/track-and-field/roster",
+    "https://goduke.com/sports/cross-country/roster",
+    "https://goduke.com/sports/mens-golf/roster",
+    "https://goduke.com/sports/womens-golf/roster",
+    "https://goduke.com/sports/mens-lacrosse/roster",
+    "https://goduke.com/sports/womens-lacrosse/roster",
+    "https://goduke.com/sports/rowing/roster",
+    "https://goduke.com/sports/baseball/roster",
+    "https://goduke.com/sports/softball/roster",
+    "https://goduke.com/sports/mens-tennis/roster",
+    "https://goduke.com/sports/womens-tennis/roster",
+    "https://goduke.com/sports/womens-volleyball/roster",
+    "https://goduke.com/sports/wrestling/roster",
+    "https://goduke.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goduke.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goduke.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

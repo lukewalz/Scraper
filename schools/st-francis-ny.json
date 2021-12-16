@@ -1,0 +1,149 @@
+{
+  "school": "/schools/st-francis-ny",
+  "base": "https://sfcathletics.com",
+  "goodList": [
+    "https://sfcathletics.com/sports/mens-soccer/roster",
+    "https://sfcathletics.com/sports/womens-soccer/roster",
+    "https://sfcathletics.com/sports/mens-basketball/roster",
+    "https://sfcathletics.com/sports/womens-basketball/roster",
+    "https://sfcathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://sfcathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://sfcathletics.com/sports/mens-track-and-field/roster",
+    "https://sfcathletics.com/sports/womens-track-and-field/roster",
+    "https://sfcathletics.com/sports/mens-cross-country/roster",
+    "https://sfcathletics.com/sports/womens-cross-country/roster",
+    "https://sfcathletics.com/sports/mens-golf/roster",
+    "https://sfcathletics.com/sports/womens-golf/roster",
+    "https://sfcathletics.com/sports/mens-tennis/roster",
+    "https://sfcathletics.com/sports/womens-tennis/roster",
+    "https://sfcathletics.com/sports/mens-volleyball/roster",
+    "https://sfcathletics.com/sports/womens-volleyball/roster",
+    "https://sfcathletics.com/sports/mens-water-polo/roster",
+    "https://sfcathletics.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sfcathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sfcathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

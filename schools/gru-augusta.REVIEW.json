@@ -1,0 +1,184 @@
+{
+  "school": "/schools/gru-augusta",
+  "base": "https://augustajags.com/landing/index",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://augustajags.com/landing/index/sports/football/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/bowling/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/fencing/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/rifle/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/skiing/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/cross-country/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/xctrack/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/equestrian/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/golf/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/rowing/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/baseball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/softball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/tennis/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/wbvb/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/water-polo/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/wrestling/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mwrest/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/wwrest/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/rugby/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/tri/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://augustajags.com/landing/index/sports/mens-field-hockey/roster"
+    }
+  ]
+}

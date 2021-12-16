@@ -1,0 +1,184 @@
+{
+  "school": "/schools/trevecca-nazarene",
+  "base": "https://tnutrojans.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://tnutrojans.com/sports/football/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/softball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://tnutrojans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

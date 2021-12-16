@@ -1,0 +1,149 @@
+{
+  "school": "/schools/tcu",
+  "base": "https://gofrogs.com",
+  "goodList": [
+    "https://gofrogs.com/sports/football/roster",
+    "https://gofrogs.com/sports/womens-soccer/roster",
+    "https://gofrogs.com/sports/mens-basketball/roster",
+    "https://gofrogs.com/sports/womens-basketball/roster",
+    "https://gofrogs.com/sports/rifle/roster",
+    "https://gofrogs.com/sports/swimming-and-diving/roster",
+    "https://gofrogs.com/sports/mens-track-and-field/roster",
+    "https://gofrogs.com/sports/womens-track-and-field/roster",
+    "https://gofrogs.com/sports/mens-cross-country/roster",
+    "https://gofrogs.com/sports/womens-cross-country/roster",
+    "https://gofrogs.com/sports/equestrian/roster",
+    "https://gofrogs.com/sports/mens-golf/roster",
+    "https://gofrogs.com/sports/womens-golf/roster",
+    "https://gofrogs.com/sports/baseball/roster",
+    "https://gofrogs.com/sports/mens-tennis/roster",
+    "https://gofrogs.com/sports/womens-tennis/roster",
+    "https://gofrogs.com/sports/womens-volleyball/roster",
+    "https://gofrogs.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gofrogs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gofrogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

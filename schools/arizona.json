@@ -1,0 +1,151 @@
+{
+  "school": "/schools/arizona",
+  "base": "https://arizonawildcats.com",
+  "goodList": [
+    "https://arizonawildcats.com/sports/football/roster",
+    "https://arizonawildcats.com/sports/womens-soccer/roster",
+    "https://arizonawildcats.com/sports/mens-basketball/roster",
+    "https://arizonawildcats.com/sports/womens-basketball/roster",
+    "https://arizonawildcats.com/sports/womens-gymnastics/roster",
+    "https://arizonawildcats.com/sports/mens-swimming-and-diving/roster",
+    "https://arizonawildcats.com/sports/womens-swimming-and-diving/roster",
+    "https://arizonawildcats.com/sports/track-and-field/roster",
+    "https://arizonawildcats.com/sports/cross-country/roster",
+    "https://arizonawildcats.com/sports/mens-golf/roster",
+    "https://arizonawildcats.com/sports/womens-golf/roster",
+    "https://arizonawildcats.com/sports/baseball/roster",
+    "https://arizonawildcats.com/sports/softball/roster",
+    "https://arizonawildcats.com/sports/mens-tennis/roster",
+    "https://arizonawildcats.com/sports/womens-tennis/roster",
+    "https://arizonawildcats.com/sports/womens-volleyball/roster",
+    "https://arizonawildcats.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://arizonawildcats.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://arizonawildcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

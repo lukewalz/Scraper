@@ -1,0 +1,184 @@
+{
+  "school": "/schools/lasell",
+  "base": "https://laserpride.lasell.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://laserpride.lasell.edu/sports/football/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://laserpride.lasell.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

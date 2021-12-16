@@ -1,0 +1,153 @@
+{
+  "school": "/schools/georgia",
+  "base": "https://georgiadogs.com",
+  "goodList": [
+    "https://georgiadogs.com/sports/football/roster",
+    "https://georgiadogs.com/sports/womens-soccer/roster",
+    "https://georgiadogs.com/sports/mens-basketball/roster",
+    "https://georgiadogs.com/sports/womens-basketball/roster",
+    "https://georgiadogs.com/sports/womens-gymnastics/roster",
+    "https://georgiadogs.com/sports/swimming-and-diving/roster",
+    "https://georgiadogs.com/sports/track-and-field/roster",
+    "https://georgiadogs.com/sports/cross-country/roster",
+    "https://georgiadogs.com/sports/equestrian/roster",
+    "https://georgiadogs.com/sports/mens-golf/roster",
+    "https://georgiadogs.com/sports/womens-golf/roster",
+    "https://georgiadogs.com/sports/baseball/roster",
+    "https://georgiadogs.com/sports/softball/roster",
+    "https://georgiadogs.com/sports/mens-tennis/roster",
+    "https://georgiadogs.com/sports/womens-tennis/roster",
+    "https://georgiadogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://georgiadogs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://georgiadogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

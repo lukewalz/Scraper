@@ -1,0 +1,149 @@
+{
+  "school": "/schools/niagara",
+  "base": "https://purpleeagles.com",
+  "goodList": [
+    "https://purpleeagles.com/sports/mens-soccer/roster",
+    "https://purpleeagles.com/sports/womens-soccer/roster",
+    "https://purpleeagles.com/sports/mens-basketball/roster",
+    "https://purpleeagles.com/sports/womens-basketball/roster",
+    "https://purpleeagles.com/sports/mens-ice-hockey/roster",
+    "https://purpleeagles.com/sports/mens-swimming-and-diving/roster",
+    "https://purpleeagles.com/sports/womens-swimming-and-diving/roster",
+    "https://purpleeagles.com/sports/track-and-field/roster",
+    "https://purpleeagles.com/sports/mens-cross-country/roster",
+    "https://purpleeagles.com/sports/womens-cross-country/roster",
+    "https://purpleeagles.com/sports/mens-golf/roster",
+    "https://purpleeagles.com/sports/womens-golf/roster",
+    "https://purpleeagles.com/sports/womens-lacrosse/roster",
+    "https://purpleeagles.com/sports/baseball/roster",
+    "https://purpleeagles.com/sports/softball/roster",
+    "https://purpleeagles.com/sports/mens-tennis/roster",
+    "https://purpleeagles.com/sports/womens-tennis/roster",
+    "https://purpleeagles.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://purpleeagles.com/sports/football/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://purpleeagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

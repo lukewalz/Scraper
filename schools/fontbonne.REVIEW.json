@@ -1,0 +1,184 @@
+{
+  "school": "/schools/fontbonne",
+  "base": "https://fontbonnegriffins.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://fontbonnegriffins.com/sports/football/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/softball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fontbonnegriffins.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

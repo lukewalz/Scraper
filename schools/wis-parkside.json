@@ -1,0 +1,159 @@
+{
+  "school": "/schools/wis-parkside",
+  "base": "https://parksiderangers.com",
+  "goodList": [
+    "https://parksiderangers.com/sports/mens-soccer/roster",
+    "https://parksiderangers.com/sports/womens-soccer/roster",
+    "https://parksiderangers.com/sports/mens-basketball/roster",
+    "https://parksiderangers.com/sports/womens-basketball/roster",
+    "https://parksiderangers.com/sports/mens-track-and-field/roster",
+    "https://parksiderangers.com/sports/womens-track-and-field/roster",
+    "https://parksiderangers.com/sports/mens-cross-country/roster",
+    "https://parksiderangers.com/sports/womens-cross-country/roster",
+    "https://parksiderangers.com/sports/mens-golf/roster",
+    "https://parksiderangers.com/sports/baseball/roster",
+    "https://parksiderangers.com/sports/softball/roster",
+    "https://parksiderangers.com/sports/womens-volleyball/roster",
+    "https://parksiderangers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://parksiderangers.com/sports/football/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://parksiderangers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

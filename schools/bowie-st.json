@@ -1,0 +1,165 @@
+{
+  "school": "/schools/bowie-st",
+  "base": "https://bsubulldogs.com",
+  "goodList": [
+    "https://bsubulldogs.com/sports/football/roster",
+    "https://bsubulldogs.com/sports/mens-basketball/roster",
+    "https://bsubulldogs.com/sports/womens-basketball/roster",
+    "https://bsubulldogs.com/sports/mens-track-and-field/roster",
+    "https://bsubulldogs.com/sports/womens-track-and-field/roster",
+    "https://bsubulldogs.com/sports/mens-cross-country/roster",
+    "https://bsubulldogs.com/sports/womens-cross-country/roster",
+    "https://bsubulldogs.com/sports/softball/roster",
+    "https://bsubulldogs.com/sports/womens-tennis/roster",
+    "https://bsubulldogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bsubulldogs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bsubulldogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

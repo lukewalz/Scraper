@@ -1,0 +1,159 @@
+{
+  "school": "/schools/hawaii-hilo",
+  "base": "https://hiloathletics.com",
+  "goodList": [
+    "https://hiloathletics.com/sports/mens-soccer/roster",
+    "https://hiloathletics.com/sports/womens-soccer/roster",
+    "https://hiloathletics.com/sports/mens-basketball/roster",
+    "https://hiloathletics.com/sports/womens-basketball/roster",
+    "https://hiloathletics.com/sports/mens-cross-country/roster",
+    "https://hiloathletics.com/sports/womens-cross-country/roster",
+    "https://hiloathletics.com/sports/mens-golf/roster",
+    "https://hiloathletics.com/sports/womens-golf/roster",
+    "https://hiloathletics.com/sports/baseball/roster",
+    "https://hiloathletics.com/sports/softball/roster",
+    "https://hiloathletics.com/sports/mens-tennis/roster",
+    "https://hiloathletics.com/sports/womens-tennis/roster",
+    "https://hiloathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hiloathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hiloathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

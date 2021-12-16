@@ -1,0 +1,143 @@
+{
+  "school": "/schools/merrimack",
+  "base": "https://merrimackathletics.com",
+  "goodList": [
+    "https://merrimackathletics.com/sports/football/roster",
+    "https://merrimackathletics.com/sports/mens-soccer/roster",
+    "https://merrimackathletics.com/sports/womens-soccer/roster",
+    "https://merrimackathletics.com/sports/mens-basketball/roster",
+    "https://merrimackathletics.com/sports/womens-basketball/roster",
+    "https://merrimackathletics.com/sports/mens-ice-hockey/roster",
+    "https://merrimackathletics.com/sports/womens-ice-hockey/roster",
+    "https://merrimackathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://merrimackathletics.com/sports/mens-track-and-field/roster",
+    "https://merrimackathletics.com/sports/womens-track-and-field/roster",
+    "https://merrimackathletics.com/sports/mens-cross-country/roster",
+    "https://merrimackathletics.com/sports/womens-cross-country/roster",
+    "https://merrimackathletics.com/sports/womens-golf/roster",
+    "https://merrimackathletics.com/sports/mens-lacrosse/roster",
+    "https://merrimackathletics.com/sports/womens-lacrosse/roster",
+    "https://merrimackathletics.com/sports/baseball/roster",
+    "https://merrimackathletics.com/sports/softball/roster",
+    "https://merrimackathletics.com/sports/mens-tennis/roster",
+    "https://merrimackathletics.com/sports/womens-tennis/roster",
+    "https://merrimackathletics.com/sports/womens-volleyball/roster",
+    "https://merrimackathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://merrimackathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://merrimackathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

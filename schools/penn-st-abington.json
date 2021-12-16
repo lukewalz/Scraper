@@ -1,0 +1,159 @@
+{
+  "school": "/schools/penn-st-abington",
+  "base": "https://abingtonsports.com",
+  "goodList": [
+    "https://abingtonsports.com/sports/mens-soccer/roster",
+    "https://abingtonsports.com/sports/womens-soccer/roster",
+    "https://abingtonsports.com/sports/mens-basketball/roster",
+    "https://abingtonsports.com/sports/womens-basketball/roster",
+    "https://abingtonsports.com/sports/mens-cross-country/roster",
+    "https://abingtonsports.com/sports/womens-cross-country/roster",
+    "https://abingtonsports.com/sports/golf/roster",
+    "https://abingtonsports.com/sports/womens-lacrosse/roster",
+    "https://abingtonsports.com/sports/baseball/roster",
+    "https://abingtonsports.com/sports/softball/roster",
+    "https://abingtonsports.com/sports/mens-tennis/roster",
+    "https://abingtonsports.com/sports/womens-tennis/roster",
+    "https://abingtonsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://abingtonsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://abingtonsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

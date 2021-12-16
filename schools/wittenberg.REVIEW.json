@@ -1,0 +1,184 @@
+{
+  "school": "/schools/wittenberg",
+  "base": "https://wittenbergtigers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wittenbergtigers.com/sports/football/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wittenbergtigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

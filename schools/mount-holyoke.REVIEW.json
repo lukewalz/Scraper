@@ -1,0 +1,184 @@
+{
+  "school": "/schools/mount-holyoke",
+  "base": "https://athletics.mtholyoke.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/football/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.mtholyoke.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

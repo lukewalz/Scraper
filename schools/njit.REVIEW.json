@@ -1,0 +1,184 @@
+{
+  "school": "/schools/njit",
+  "base": "https://njithighlanders.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://njithighlanders.com/sports/football/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/golf/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/softball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/tri/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://njithighlanders.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

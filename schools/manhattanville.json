@@ -1,0 +1,145 @@
+{
+  "school": "/schools/manhattanville",
+  "base": "https://govaliants.com",
+  "goodList": [
+    "https://govaliants.com/sports/mens-soccer/roster",
+    "https://govaliants.com/sports/womens-soccer/roster",
+    "https://govaliants.com/sports/mens-basketball/roster",
+    "https://govaliants.com/sports/womens-basketball/roster",
+    "https://govaliants.com/sports/mens-ice-hockey/roster",
+    "https://govaliants.com/sports/womens-ice-hockey/roster",
+    "https://govaliants.com/sports/mens-track-and-field/roster",
+    "https://govaliants.com/sports/womens-track-and-field/roster",
+    "https://govaliants.com/sports/mens-cross-country/roster",
+    "https://govaliants.com/sports/womens-cross-country/roster",
+    "https://govaliants.com/sports/mens-golf/roster",
+    "https://govaliants.com/sports/womens-golf/roster",
+    "https://govaliants.com/sports/mens-lacrosse/roster",
+    "https://govaliants.com/sports/womens-lacrosse/roster",
+    "https://govaliants.com/sports/baseball/roster",
+    "https://govaliants.com/sports/softball/roster",
+    "https://govaliants.com/sports/mens-tennis/roster",
+    "https://govaliants.com/sports/womens-tennis/roster",
+    "https://govaliants.com/sports/womens-volleyball/roster",
+    "https://govaliants.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://govaliants.com/sports/football/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/golf/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/tri/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://govaliants.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

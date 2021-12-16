@@ -1,0 +1,149 @@
+{
+  "school": "/schools/chestnut-hill",
+  "base": "https://griffinathletics.com",
+  "goodList": [
+    "https://griffinathletics.com/sports/football/roster",
+    "https://griffinathletics.com/sports/mens-soccer/roster",
+    "https://griffinathletics.com/sports/womens-soccer/roster",
+    "https://griffinathletics.com/sports/mens-basketball/roster",
+    "https://griffinathletics.com/sports/womens-basketball/roster",
+    "https://griffinathletics.com/sports/bowling/roster",
+    "https://griffinathletics.com/sports/mens-track-and-field/roster",
+    "https://griffinathletics.com/sports/womens-track-and-field/roster",
+    "https://griffinathletics.com/sports/cross-country/roster",
+    "https://griffinathletics.com/sports/womens-cross-country/roster",
+    "https://griffinathletics.com/sports/golf/roster",
+    "https://griffinathletics.com/sports/mens-lacrosse/roster",
+    "https://griffinathletics.com/sports/womens-lacrosse/roster",
+    "https://griffinathletics.com/sports/baseball/roster",
+    "https://griffinathletics.com/sports/softball/roster",
+    "https://griffinathletics.com/sports/mens-tennis/roster",
+    "https://griffinathletics.com/sports/womens-tennis/roster",
+    "https://griffinathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://griffinathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://griffinathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

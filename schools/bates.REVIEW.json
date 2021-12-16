@@ -1,0 +1,184 @@
+{
+  "school": "/schools/bates",
+  "base": "https://athletics.bates.edu",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://athletics.bates.edu/sports/football/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/baseball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/softball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.bates.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "school": "/schools/cameron",
+  "base": "https://cameronaggies.com",
+  "goodList": [
+    "https://cameronaggies.com/sports/mens-basketball/roster",
+    "https://cameronaggies.com/sports/womens-basketball/roster",
+    "https://cameronaggies.com/sports/mens-track-and-field/roster",
+    "https://cameronaggies.com/sports/womens-track-and-field/roster",
+    "https://cameronaggies.com/sports/mens-cross-country/roster",
+    "https://cameronaggies.com/sports/womens-cross-country/roster",
+    "https://cameronaggies.com/sports/mens-golf/roster",
+    "https://cameronaggies.com/sports/womens-golf/roster",
+    "https://cameronaggies.com/sports/baseball/roster",
+    "https://cameronaggies.com/sports/softball/roster",
+    "https://cameronaggies.com/sports/mens-tennis/roster",
+    "https://cameronaggies.com/sports/womens-tennis/roster",
+    "https://cameronaggies.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cameronaggies.com/sports/football/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cameronaggies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

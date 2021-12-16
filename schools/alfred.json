@@ -1,0 +1,151 @@
+{
+  "school": "/schools/alfred",
+  "base": "https://gosaxons.com",
+  "goodList": [
+    "https://gosaxons.com/sports/football/roster",
+    "https://gosaxons.com/sports/mens-soccer/roster",
+    "https://gosaxons.com/sports/womens-soccer/roster",
+    "https://gosaxons.com/sports/mens-basketball/roster",
+    "https://gosaxons.com/sports/womens-basketball/roster",
+    "https://gosaxons.com/sports/mens-swimming-and-diving/roster",
+    "https://gosaxons.com/sports/womens-swimming-and-diving/roster",
+    "https://gosaxons.com/sports/mens-track-and-field/roster",
+    "https://gosaxons.com/sports/womens-track-and-field/roster",
+    "https://gosaxons.com/sports/mens-cross-country/roster",
+    "https://gosaxons.com/sports/womens-cross-country/roster",
+    "https://gosaxons.com/sports/mens-lacrosse/roster",
+    "https://gosaxons.com/sports/womens-lacrosse/roster",
+    "https://gosaxons.com/sports/softball/roster",
+    "https://gosaxons.com/sports/mens-tennis/roster",
+    "https://gosaxons.com/sports/womens-tennis/roster",
+    "https://gosaxons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gosaxons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gosaxons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

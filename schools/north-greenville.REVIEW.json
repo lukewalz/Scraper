@@ -1,0 +1,184 @@
+{
+  "school": "/schools/north-greenville",
+  "base": "https://ngcrusaders.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://ngcrusaders.com/sports/football/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/softball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ngcrusaders.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "school": "/schools/johns-hopkins",
+  "base": "https://hopkinssports.com",
+  "goodList": [
+    "https://hopkinssports.com/sports/football/roster",
+    "https://hopkinssports.com/sports/mens-soccer/roster",
+    "https://hopkinssports.com/sports/womens-soccer/roster",
+    "https://hopkinssports.com/sports/mens-basketball/roster",
+    "https://hopkinssports.com/sports/womens-basketball/roster",
+    "https://hopkinssports.com/sports/mens-swimming-and-diving/roster",
+    "https://hopkinssports.com/sports/womens-swimming-and-diving/roster",
+    "https://hopkinssports.com/sports/mens-track-and-field/roster",
+    "https://hopkinssports.com/sports/womens-track-and-field/roster",
+    "https://hopkinssports.com/sports/mens-cross-country/roster",
+    "https://hopkinssports.com/sports/womens-cross-country/roster",
+    "https://hopkinssports.com/sports/mens-lacrosse/roster",
+    "https://hopkinssports.com/sports/womens-lacrosse/roster",
+    "https://hopkinssports.com/sports/baseball/roster",
+    "https://hopkinssports.com/sports/mens-tennis/roster",
+    "https://hopkinssports.com/sports/womens-tennis/roster",
+    "https://hopkinssports.com/sports/womens-volleyball/roster",
+    "https://hopkinssports.com/sports/mens-water-polo/roster",
+    "https://hopkinssports.com/sports/wrestling/roster",
+    "https://hopkinssports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hopkinssports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hopkinssports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

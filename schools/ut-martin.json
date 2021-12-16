@@ -1,0 +1,153 @@
+{
+  "school": "/schools/ut-martin",
+  "base": "https://utmsports.com",
+  "goodList": [
+    "https://utmsports.com/sports/football/roster",
+    "https://utmsports.com/sports/womens-soccer/roster",
+    "https://utmsports.com/sports/mens-basketball/roster",
+    "https://utmsports.com/sports/womens-basketball/roster",
+    "https://utmsports.com/sports/rifle/roster",
+    "https://utmsports.com/sports/mens-track-and-field/roster",
+    "https://utmsports.com/sports/womens-track-and-field/roster",
+    "https://utmsports.com/sports/mens-cross-country/roster",
+    "https://utmsports.com/sports/womens-cross-country/roster",
+    "https://utmsports.com/sports/equestrian/roster",
+    "https://utmsports.com/sports/mens-golf/roster",
+    "https://utmsports.com/sports/baseball/roster",
+    "https://utmsports.com/sports/softball/roster",
+    "https://utmsports.com/sports/womens-tennis/roster",
+    "https://utmsports.com/sports/womens-volleyball/roster",
+    "https://utmsports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utmsports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utmsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

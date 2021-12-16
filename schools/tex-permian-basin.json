@@ -1,0 +1,153 @@
+{
+  "school": "/schools/tex-permian-basin",
+  "base": "https://utpbfalcons.com",
+  "goodList": [
+    "https://utpbfalcons.com/sports/football/roster",
+    "https://utpbfalcons.com/sports/mens-soccer/roster",
+    "https://utpbfalcons.com/sports/womens-soccer/roster",
+    "https://utpbfalcons.com/sports/mens-basketball/roster",
+    "https://utpbfalcons.com/sports/womens-basketball/roster",
+    "https://utpbfalcons.com/sports/mens-swimming-and-diving/roster",
+    "https://utpbfalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://utpbfalcons.com/sports/mens-cross-country/roster",
+    "https://utpbfalcons.com/sports/womens-cross-country/roster",
+    "https://utpbfalcons.com/sports/mens-golf/roster",
+    "https://utpbfalcons.com/sports/womens-golf/roster",
+    "https://utpbfalcons.com/sports/baseball/roster",
+    "https://utpbfalcons.com/sports/softball/roster",
+    "https://utpbfalcons.com/sports/mens-tennis/roster",
+    "https://utpbfalcons.com/sports/womens-tennis/roster",
+    "https://utpbfalcons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utpbfalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utpbfalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

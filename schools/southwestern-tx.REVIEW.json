@@ -1,0 +1,184 @@
+{
+  "school": "/schools/southwestern-tx",
+  "base": "https://southwesternpirates.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://southwesternpirates.com/sports/football/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/golf/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/softball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/tri/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://southwesternpirates.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

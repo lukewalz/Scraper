@@ -1,0 +1,157 @@
+{
+  "school": "/schools/winona-st",
+  "base": "https://winonastatewarriors.com",
+  "goodList": [
+    "https://winonastatewarriors.com/sports/football/roster",
+    "https://winonastatewarriors.com/sports/womens-soccer/roster",
+    "https://winonastatewarriors.com/sports/mens-basketball/roster",
+    "https://winonastatewarriors.com/sports/womens-basketball/roster",
+    "https://winonastatewarriors.com/sports/womens-gymnastics/roster",
+    "https://winonastatewarriors.com/sports/womens-track-and-field/roster",
+    "https://winonastatewarriors.com/sports/mens-cross-country/roster",
+    "https://winonastatewarriors.com/sports/womens-cross-country/roster",
+    "https://winonastatewarriors.com/sports/mens-golf/roster",
+    "https://winonastatewarriors.com/sports/womens-golf/roster",
+    "https://winonastatewarriors.com/sports/baseball/roster",
+    "https://winonastatewarriors.com/sports/softball/roster",
+    "https://winonastatewarriors.com/sports/womens-tennis/roster",
+    "https://winonastatewarriors.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/golf/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/tri/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://winonastatewarriors.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

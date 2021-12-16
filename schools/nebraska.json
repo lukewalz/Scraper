@@ -1,0 +1,147 @@
+{
+  "school": "/schools/nebraska",
+  "base": "https://huskers.com",
+  "goodList": [
+    "https://huskers.com/sports/football/roster",
+    "https://huskers.com/sports/womens-soccer/roster",
+    "https://huskers.com/sports/mens-basketball/roster",
+    "https://huskers.com/sports/womens-basketball/roster",
+    "https://huskers.com/sports/mens-gymnastics/roster",
+    "https://huskers.com/sports/womens-gymnastics/roster",
+    "https://huskers.com/sports/rifle/roster",
+    "https://huskers.com/sports/womens-swimming-and-diving/roster",
+    "https://huskers.com/sports/mens-track-and-field/roster",
+    "https://huskers.com/sports/cross-country/roster",
+    "https://huskers.com/sports/mens-golf/roster",
+    "https://huskers.com/sports/womens-golf/roster",
+    "https://huskers.com/sports/baseball/roster",
+    "https://huskers.com/sports/softball/roster",
+    "https://huskers.com/sports/tennis/roster",
+    "https://huskers.com/sports/mens-tennis/roster",
+    "https://huskers.com/sports/womens-volleyball/roster",
+    "https://huskers.com/sports/womens-beach-volleyball/roster",
+    "https://huskers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://huskers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://huskers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

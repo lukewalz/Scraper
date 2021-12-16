@@ -1,0 +1,75 @@
+{
+  "school": "/schools/texas",
+  "base": "https://texassports.com",
+  "goodList": [
+    "https://texassports.com/sports/football/roster",
+    "https://texassports.com/sports/mens-soccer/roster",
+    "https://texassports.com/sports/womens-soccer/roster",
+    "https://texassports.com/sports/mens-basketball/roster",
+    "https://texassports.com/sports/womens-basketball/roster",
+    "https://texassports.com/sports/bowling/roster",
+    "https://texassports.com/sports/fencing/roster",
+    "https://texassports.com/sports/gymnastics/roster",
+    "https://texassports.com/sports/mens-gymnastics/roster",
+    "https://texassports.com/sports/womens-gymnastics/roster",
+    "https://texassports.com/sports/ice-hockey/roster",
+    "https://texassports.com/sports/mens-ice-hockey/roster",
+    "https://texassports.com/sports/womens-ice-hockey/roster",
+    "https://texassports.com/sports/rifle/roster",
+    "https://texassports.com/sports/skiing/roster",
+    "https://texassports.com/sports/swimming-and-diving/roster",
+    "https://texassports.com/sports/mens-swimming-and-diving/roster",
+    "https://texassports.com/sports/womens-swimming-and-diving/roster",
+    "https://texassports.com/sports/track-and-field/roster",
+    "https://texassports.com/sports/cross-country/roster",
+    "https://texassports.com/sports/xctrack/roster",
+    "https://texassports.com/sports/outdoor-track/roster",
+    "https://texassports.com/sports/equestrian/roster",
+    "https://texassports.com/sports/golf/roster",
+    "https://texassports.com/sports/mens-golf/roster",
+    "https://texassports.com/sports/womens-golf/roster",
+    "https://texassports.com/sports/lacrosse/roster",
+    "https://texassports.com/sports/mens-lacrosse/roster",
+    "https://texassports.com/sports/womens-lacrosse/roster",
+    "https://texassports.com/sports/rowing/roster",
+    "https://texassports.com/sports/baseball/roster",
+    "https://texassports.com/sports/softball/roster",
+    "https://texassports.com/sports/tennis/roster",
+    "https://texassports.com/sports/mens-tennis/roster",
+    "https://texassports.com/sports/womens-tennis/roster",
+    "https://texassports.com/sports/mens-volleyball/roster",
+    "https://texassports.com/sports/womens-volleyball/roster",
+    "https://texassports.com/sports/mens-beach-volleyball/roster",
+    "https://texassports.com/sports/womens-beach-volleyball/roster",
+    "https://texassports.com/sports/wbvb/roster",
+    "https://texassports.com/sports/water-polo/roster",
+    "https://texassports.com/sports/mens-water-polo/roster",
+    "https://texassports.com/sports/womens-water-polo/roster",
+    "https://texassports.com/sports/wrestling/roster",
+    "https://texassports.com/sports/mwrest/roster",
+    "https://texassports.com/sports/wwrest/roster",
+    "https://texassports.com/sports/rugby/roster",
+    "https://texassports.com/sports/mens-rugby/roster",
+    "https://texassports.com/sports/womens-rugby/roster",
+    "https://texassports.com/sports/tri/roster",
+    "https://texassports.com/sports/mens-tri/roster",
+    "https://texassports.com/sports/womens-tri/roster",
+    "https://texassports.com/sports/field-hockey/roster",
+    "https://texassports.com/sports/womens-field-hockey/roster",
+    "https://texassports.com/sports/mens-field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://texassports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://texassports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://texassports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://texassports.com/sports/womens-cross-country/roster"
+    }
+  ]
+}

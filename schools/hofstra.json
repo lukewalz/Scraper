@@ -1,0 +1,151 @@
+{
+  "school": "/schools/hofstra",
+  "base": "https://gohofstra.com",
+  "goodList": [
+    "https://gohofstra.com/sports/mens-soccer/roster",
+    "https://gohofstra.com/sports/womens-soccer/roster",
+    "https://gohofstra.com/sports/mens-basketball/roster",
+    "https://gohofstra.com/sports/womens-basketball/roster",
+    "https://gohofstra.com/sports/mens-cross-country/roster",
+    "https://gohofstra.com/sports/womens-cross-country/roster",
+    "https://gohofstra.com/sports/mens-golf/roster",
+    "https://gohofstra.com/sports/womens-golf/roster",
+    "https://gohofstra.com/sports/mens-lacrosse/roster",
+    "https://gohofstra.com/sports/womens-lacrosse/roster",
+    "https://gohofstra.com/sports/baseball/roster",
+    "https://gohofstra.com/sports/softball/roster",
+    "https://gohofstra.com/sports/mens-tennis/roster",
+    "https://gohofstra.com/sports/womens-tennis/roster",
+    "https://gohofstra.com/sports/womens-volleyball/roster",
+    "https://gohofstra.com/sports/wrestling/roster",
+    "https://gohofstra.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gohofstra.com/sports/football/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gohofstra.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

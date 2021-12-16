@@ -1,0 +1,147 @@
+{
+  "school": "/schools/drury",
+  "base": "https://drurypanthers.com",
+  "goodList": [
+    "https://drurypanthers.com/sports/mens-soccer/roster",
+    "https://drurypanthers.com/sports/womens-soccer/roster",
+    "https://drurypanthers.com/sports/mens-basketball/roster",
+    "https://drurypanthers.com/sports/womens-basketball/roster",
+    "https://drurypanthers.com/sports/bowling/roster",
+    "https://drurypanthers.com/sports/mens-swimming-and-diving/roster",
+    "https://drurypanthers.com/sports/womens-swimming-and-diving/roster",
+    "https://drurypanthers.com/sports/mens-track-and-field/roster",
+    "https://drurypanthers.com/sports/womens-track-and-field/roster",
+    "https://drurypanthers.com/sports/mens-cross-country/roster",
+    "https://drurypanthers.com/sports/womens-cross-country/roster",
+    "https://drurypanthers.com/sports/mens-golf/roster",
+    "https://drurypanthers.com/sports/womens-golf/roster",
+    "https://drurypanthers.com/sports/baseball/roster",
+    "https://drurypanthers.com/sports/softball/roster",
+    "https://drurypanthers.com/sports/mens-tennis/roster",
+    "https://drurypanthers.com/sports/womens-tennis/roster",
+    "https://drurypanthers.com/sports/womens-volleyball/roster",
+    "https://drurypanthers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://drurypanthers.com/sports/football/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://drurypanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

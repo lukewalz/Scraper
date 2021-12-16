@@ -1,0 +1,184 @@
+{
+  "school": "/schools/dickinson",
+  "base": "https://dickinsonathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://dickinsonathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dickinsonathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

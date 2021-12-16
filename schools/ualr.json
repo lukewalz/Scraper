@@ -1,0 +1,161 @@
+{
+  "school": "/schools/ualr",
+  "base": "https://LRTrojans.com",
+  "goodList": [
+    "https://LRTrojans.com/sports/womens-soccer/roster",
+    "https://LRTrojans.com/sports/mens-basketball/roster",
+    "https://LRTrojans.com/sports/womens-basketball/roster",
+    "https://LRTrojans.com/sports/swimming-and-diving/roster",
+    "https://LRTrojans.com/sports/track-and-field/roster",
+    "https://LRTrojans.com/sports/cross-country/roster",
+    "https://LRTrojans.com/sports/outdoor-track/roster",
+    "https://LRTrojans.com/sports/mens-golf/roster",
+    "https://LRTrojans.com/sports/womens-golf/roster",
+    "https://LRTrojans.com/sports/baseball/roster",
+    "https://LRTrojans.com/sports/womens-volleyball/roster",
+    "https://LRTrojans.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://LRTrojans.com/sports/football/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/softball/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://LRTrojans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

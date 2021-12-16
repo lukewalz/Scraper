@@ -1,0 +1,149 @@
+{
+  "school": "/schools/unc-wilmington",
+  "base": "https://uncwsports.com",
+  "goodList": [
+    "https://uncwsports.com/sports/mens-soccer/roster",
+    "https://uncwsports.com/sports/womens-soccer/roster",
+    "https://uncwsports.com/sports/mens-basketball/roster",
+    "https://uncwsports.com/sports/womens-basketball/roster",
+    "https://uncwsports.com/sports/mens-swimming-and-diving/roster",
+    "https://uncwsports.com/sports/womens-swimming-and-diving/roster",
+    "https://uncwsports.com/sports/mens-track-and-field/roster",
+    "https://uncwsports.com/sports/womens-track-and-field/roster",
+    "https://uncwsports.com/sports/mens-cross-country/roster",
+    "https://uncwsports.com/sports/womens-cross-country/roster",
+    "https://uncwsports.com/sports/mens-golf/roster",
+    "https://uncwsports.com/sports/womens-golf/roster",
+    "https://uncwsports.com/sports/baseball/roster",
+    "https://uncwsports.com/sports/softball/roster",
+    "https://uncwsports.com/sports/mens-tennis/roster",
+    "https://uncwsports.com/sports/womens-tennis/roster",
+    "https://uncwsports.com/sports/womens-volleyball/roster",
+    "https://uncwsports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uncwsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uncwsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

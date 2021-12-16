@@ -1,0 +1,163 @@
+{
+  "school": "/schools/paine",
+  "base": "https://paineathletics.com",
+  "goodList": [
+    "https://paineathletics.com/sports/football/roster",
+    "https://paineathletics.com/sports/mens-basketball/roster",
+    "https://paineathletics.com/sports/womens-basketball/roster",
+    "https://paineathletics.com/sports/mens-track-and-field/roster",
+    "https://paineathletics.com/sports/womens-track-and-field/roster",
+    "https://paineathletics.com/sports/mens-cross-country/roster",
+    "https://paineathletics.com/sports/womens-cross-country/roster",
+    "https://paineathletics.com/sports/mens-golf/roster",
+    "https://paineathletics.com/sports/baseball/roster",
+    "https://paineathletics.com/sports/softball/roster",
+    "https://paineathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://paineathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://paineathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

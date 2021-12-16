@@ -1,0 +1,184 @@
+{
+  "school": "/schools/williams",
+  "base": "https://ephsports.williams.edu/landing/",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/football/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/bowling/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/fencing/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/rifle/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/skiing/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/cross-country/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/xctrack/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/equestrian/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/golf/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/rowing/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/baseball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/softball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/tennis/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/wbvb/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/water-polo/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/wrestling/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mwrest/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/wwrest/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/rugby/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/tri/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ephsports.williams.edu/landing//sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "school": "/schools/grambling",
+  "base": "https://gsutigers.com",
+  "goodList": [
+    "https://gsutigers.com/sports/football/roster",
+    "https://gsutigers.com/sports/womens-soccer/roster",
+    "https://gsutigers.com/sports/mens-basketball/roster",
+    "https://gsutigers.com/sports/womens-basketball/roster",
+    "https://gsutigers.com/sports/mens-track-and-field/roster",
+    "https://gsutigers.com/sports/womens-track-and-field/roster",
+    "https://gsutigers.com/sports/mens-cross-country/roster",
+    "https://gsutigers.com/sports/womens-cross-country/roster",
+    "https://gsutigers.com/sports/baseball/roster",
+    "https://gsutigers.com/sports/softball/roster",
+    "https://gsutigers.com/sports/womens-tennis/roster",
+    "https://gsutigers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gsutigers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gsutigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

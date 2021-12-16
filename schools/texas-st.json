@@ -1,0 +1,153 @@
+{
+  "school": "/schools/texas-st",
+  "base": "https://txstatebobcats.com",
+  "goodList": [
+    "https://txstatebobcats.com/sports/football/roster",
+    "https://txstatebobcats.com/sports/womens-soccer/roster",
+    "https://txstatebobcats.com/sports/mens-basketball/roster",
+    "https://txstatebobcats.com/sports/womens-basketball/roster",
+    "https://txstatebobcats.com/sports/track-and-field/roster",
+    "https://txstatebobcats.com/sports/mens-track-and-field/roster",
+    "https://txstatebobcats.com/sports/womens-track-and-field/roster",
+    "https://txstatebobcats.com/sports/cross-country/roster",
+    "https://txstatebobcats.com/sports/mens-cross-country/roster",
+    "https://txstatebobcats.com/sports/womens-cross-country/roster",
+    "https://txstatebobcats.com/sports/mens-golf/roster",
+    "https://txstatebobcats.com/sports/womens-golf/roster",
+    "https://txstatebobcats.com/sports/baseball/roster",
+    "https://txstatebobcats.com/sports/softball/roster",
+    "https://txstatebobcats.com/sports/womens-tennis/roster",
+    "https://txstatebobcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://txstatebobcats.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/golf/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://txstatebobcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

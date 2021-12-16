@@ -1,0 +1,161 @@
+{
+  "school": "/schools/regis-co",
+  "base": "https://regisrangers.com",
+  "goodList": [
+    "https://regisrangers.com/sports/mens-soccer/roster",
+    "https://regisrangers.com/sports/womens-soccer/roster",
+    "https://regisrangers.com/sports/mens-basketball/roster",
+    "https://regisrangers.com/sports/womens-basketball/roster",
+    "https://regisrangers.com/sports/mens-cross-country/roster",
+    "https://regisrangers.com/sports/womens-cross-country/roster",
+    "https://regisrangers.com/sports/mens-golf/roster",
+    "https://regisrangers.com/sports/womens-golf/roster",
+    "https://regisrangers.com/sports/womens-lacrosse/roster",
+    "https://regisrangers.com/sports/baseball/roster",
+    "https://regisrangers.com/sports/softball/roster",
+    "https://regisrangers.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://regisrangers.com/sports/football/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://regisrangers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

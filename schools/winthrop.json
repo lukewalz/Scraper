@@ -1,0 +1,153 @@
+{
+  "school": "/schools/winthrop",
+  "base": "https://winthropeagles.com",
+  "goodList": [
+    "https://winthropeagles.com/sports/mens-soccer/roster",
+    "https://winthropeagles.com/sports/womens-soccer/roster",
+    "https://winthropeagles.com/sports/mens-basketball/roster",
+    "https://winthropeagles.com/sports/womens-basketball/roster",
+    "https://winthropeagles.com/sports/mens-track-and-field/roster",
+    "https://winthropeagles.com/sports/womens-track-and-field/roster",
+    "https://winthropeagles.com/sports/mens-cross-country/roster",
+    "https://winthropeagles.com/sports/womens-cross-country/roster",
+    "https://winthropeagles.com/sports/mens-golf/roster",
+    "https://winthropeagles.com/sports/womens-golf/roster",
+    "https://winthropeagles.com/sports/womens-lacrosse/roster",
+    "https://winthropeagles.com/sports/baseball/roster",
+    "https://winthropeagles.com/sports/softball/roster",
+    "https://winthropeagles.com/sports/mens-tennis/roster",
+    "https://winthropeagles.com/sports/womens-tennis/roster",
+    "https://winthropeagles.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://winthropeagles.com/sports/football/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/golf/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/tri/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://winthropeagles.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

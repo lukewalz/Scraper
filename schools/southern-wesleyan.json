@@ -1,0 +1,153 @@
+{
+  "school": "/schools/southern-wesleyan",
+  "base": "https://swuathletics.com",
+  "goodList": [
+    "https://swuathletics.com/sports/mens-soccer/roster",
+    "https://swuathletics.com/sports/womens-soccer/roster",
+    "https://swuathletics.com/sports/mens-basketball/roster",
+    "https://swuathletics.com/sports/womens-basketball/roster",
+    "https://swuathletics.com/sports/mens-track-and-field/roster",
+    "https://swuathletics.com/sports/womens-track-and-field/roster",
+    "https://swuathletics.com/sports/mens-cross-country/roster",
+    "https://swuathletics.com/sports/womens-cross-country/roster",
+    "https://swuathletics.com/sports/mens-golf/roster",
+    "https://swuathletics.com/sports/womens-golf/roster",
+    "https://swuathletics.com/sports/womens-lacrosse/roster",
+    "https://swuathletics.com/sports/baseball/roster",
+    "https://swuathletics.com/sports/softball/roster",
+    "https://swuathletics.com/sports/mens-tennis/roster",
+    "https://swuathletics.com/sports/womens-tennis/roster",
+    "https://swuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://swuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://swuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

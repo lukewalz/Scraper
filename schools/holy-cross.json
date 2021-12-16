@@ -1,0 +1,139 @@
+{
+  "school": "/schools/holy-cross",
+  "base": "https://goholycross.com",
+  "goodList": [
+    "https://goholycross.com/sports/football/roster",
+    "https://goholycross.com/sports/mens-soccer/roster",
+    "https://goholycross.com/sports/womens-soccer/roster",
+    "https://goholycross.com/sports/mens-basketball/roster",
+    "https://goholycross.com/sports/womens-basketball/roster",
+    "https://goholycross.com/sports/mens-ice-hockey/roster",
+    "https://goholycross.com/sports/womens-ice-hockey/roster",
+    "https://goholycross.com/sports/mens-swimming-and-diving/roster",
+    "https://goholycross.com/sports/womens-swimming-and-diving/roster",
+    "https://goholycross.com/sports/mens-track-and-field/roster",
+    "https://goholycross.com/sports/womens-track-and-field/roster",
+    "https://goholycross.com/sports/mens-cross-country/roster",
+    "https://goholycross.com/sports/womens-cross-country/roster",
+    "https://goholycross.com/sports/mens-golf/roster",
+    "https://goholycross.com/sports/womens-golf/roster",
+    "https://goholycross.com/sports/mens-lacrosse/roster",
+    "https://goholycross.com/sports/womens-lacrosse/roster",
+    "https://goholycross.com/sports/baseball/roster",
+    "https://goholycross.com/sports/softball/roster",
+    "https://goholycross.com/sports/mens-tennis/roster",
+    "https://goholycross.com/sports/womens-tennis/roster",
+    "https://goholycross.com/sports/womens-volleyball/roster",
+    "https://goholycross.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goholycross.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goholycross.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

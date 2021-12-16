@@ -1,0 +1,159 @@
+{
+  "school": "/schools/san-francisco",
+  "base": "https://usfdons.com",
+  "goodList": [
+    "https://usfdons.com/sports/mens-soccer/roster",
+    "https://usfdons.com/sports/womens-soccer/roster",
+    "https://usfdons.com/sports/mens-basketball/roster",
+    "https://usfdons.com/sports/womens-basketball/roster",
+    "https://usfdons.com/sports/track-and-field/roster",
+    "https://usfdons.com/sports/cross-country/roster",
+    "https://usfdons.com/sports/mens-golf/roster",
+    "https://usfdons.com/sports/womens-golf/roster",
+    "https://usfdons.com/sports/baseball/roster",
+    "https://usfdons.com/sports/mens-tennis/roster",
+    "https://usfdons.com/sports/womens-tennis/roster",
+    "https://usfdons.com/sports/womens-volleyball/roster",
+    "https://usfdons.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://usfdons.com/sports/football/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/softball/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://usfdons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

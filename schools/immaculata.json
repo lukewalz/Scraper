@@ -1,0 +1,145 @@
+{
+  "school": "/schools/immaculata",
+  "base": "https://gomightymacs.com",
+  "goodList": [
+    "https://gomightymacs.com/sports/mens-soccer/roster",
+    "https://gomightymacs.com/sports/womens-soccer/roster",
+    "https://gomightymacs.com/sports/mens-basketball/roster",
+    "https://gomightymacs.com/sports/womens-basketball/roster",
+    "https://gomightymacs.com/sports/mens-swimming-and-diving/roster",
+    "https://gomightymacs.com/sports/womens-swimming-and-diving/roster",
+    "https://gomightymacs.com/sports/mens-track-and-field/roster",
+    "https://gomightymacs.com/sports/womens-track-and-field/roster",
+    "https://gomightymacs.com/sports/mens-cross-country/roster",
+    "https://gomightymacs.com/sports/womens-cross-country/roster",
+    "https://gomightymacs.com/sports/mens-golf/roster",
+    "https://gomightymacs.com/sports/mens-lacrosse/roster",
+    "https://gomightymacs.com/sports/womens-lacrosse/roster",
+    "https://gomightymacs.com/sports/baseball/roster",
+    "https://gomightymacs.com/sports/softball/roster",
+    "https://gomightymacs.com/sports/mens-tennis/roster",
+    "https://gomightymacs.com/sports/womens-tennis/roster",
+    "https://gomightymacs.com/sports/mens-volleyball/roster",
+    "https://gomightymacs.com/sports/womens-volleyball/roster",
+    "https://gomightymacs.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomightymacs.com/sports/football/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomightymacs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/nevada",
+  "base": "https://nevadawolfpack.com",
+  "goodList": [
+    "https://nevadawolfpack.com/sports/football/roster",
+    "https://nevadawolfpack.com/sports/womens-soccer/roster",
+    "https://nevadawolfpack.com/sports/mens-basketball/roster",
+    "https://nevadawolfpack.com/sports/womens-basketball/roster",
+    "https://nevadawolfpack.com/sports/rifle/roster",
+    "https://nevadawolfpack.com/sports/womens-swimming-and-diving/roster",
+    "https://nevadawolfpack.com/sports/womens-track-and-field/roster",
+    "https://nevadawolfpack.com/sports/womens-cross-country/roster",
+    "https://nevadawolfpack.com/sports/mens-golf/roster",
+    "https://nevadawolfpack.com/sports/womens-golf/roster",
+    "https://nevadawolfpack.com/sports/baseball/roster",
+    "https://nevadawolfpack.com/sports/softball/roster",
+    "https://nevadawolfpack.com/sports/mens-tennis/roster",
+    "https://nevadawolfpack.com/sports/womens-tennis/roster",
+    "https://nevadawolfpack.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nevadawolfpack.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

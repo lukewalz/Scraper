@@ -1,0 +1,184 @@
+{
+  "school": "/schools/mitchell",
+  "base": "https://mitchellathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://mitchellathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mitchellathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

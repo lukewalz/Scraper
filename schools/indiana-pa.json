@@ -1,0 +1,155 @@
+{
+  "school": "/schools/indiana-pa",
+  "base": "https://iupathletics.com",
+  "goodList": [
+    "https://iupathletics.com/sports/football/roster",
+    "https://iupathletics.com/sports/womens-soccer/roster",
+    "https://iupathletics.com/sports/mens-basketball/roster",
+    "https://iupathletics.com/sports/womens-basketball/roster",
+    "https://iupathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://iupathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://iupathletics.com/sports/mens-cross-country/roster",
+    "https://iupathletics.com/sports/womens-cross-country/roster",
+    "https://iupathletics.com/sports/mens-golf/roster",
+    "https://iupathletics.com/sports/womens-lacrosse/roster",
+    "https://iupathletics.com/sports/baseball/roster",
+    "https://iupathletics.com/sports/softball/roster",
+    "https://iupathletics.com/sports/womens-tennis/roster",
+    "https://iupathletics.com/sports/womens-volleyball/roster",
+    "https://iupathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://iupathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://iupathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "school": "/schools/st-scholastica",
+  "base": "https://csssaints.com",
+  "goodList": [
+    "https://csssaints.com/sports/football/roster",
+    "https://csssaints.com/sports/mens-soccer/roster",
+    "https://csssaints.com/sports/womens-soccer/roster",
+    "https://csssaints.com/sports/mens-basketball/roster",
+    "https://csssaints.com/sports/womens-basketball/roster",
+    "https://csssaints.com/sports/mens-ice-hockey/roster",
+    "https://csssaints.com/sports/womens-ice-hockey/roster",
+    "https://csssaints.com/sports/mens-track-and-field/roster",
+    "https://csssaints.com/sports/womens-track-and-field/roster",
+    "https://csssaints.com/sports/mens-cross-country/roster",
+    "https://csssaints.com/sports/womens-cross-country/roster",
+    "https://csssaints.com/sports/mens-golf/roster",
+    "https://csssaints.com/sports/womens-golf/roster",
+    "https://csssaints.com/sports/baseball/roster",
+    "https://csssaints.com/sports/softball/roster",
+    "https://csssaints.com/sports/mens-tennis/roster",
+    "https://csssaints.com/sports/womens-tennis/roster",
+    "https://csssaints.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://csssaints.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/golf/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/tri/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://csssaints.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

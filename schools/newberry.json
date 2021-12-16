@@ -1,0 +1,145 @@
+{
+  "school": "/schools/newberry",
+  "base": "https://newberrywolves.com",
+  "goodList": [
+    "https://newberrywolves.com/sports/football/roster",
+    "https://newberrywolves.com/sports/mens-soccer/roster",
+    "https://newberrywolves.com/sports/womens-soccer/roster",
+    "https://newberrywolves.com/sports/mens-basketball/roster",
+    "https://newberrywolves.com/sports/womens-basketball/roster",
+    "https://newberrywolves.com/sports/mens-track-and-field/roster",
+    "https://newberrywolves.com/sports/womens-track-and-field/roster",
+    "https://newberrywolves.com/sports/mens-cross-country/roster",
+    "https://newberrywolves.com/sports/womens-cross-country/roster",
+    "https://newberrywolves.com/sports/mens-golf/roster",
+    "https://newberrywolves.com/sports/womens-golf/roster",
+    "https://newberrywolves.com/sports/mens-lacrosse/roster",
+    "https://newberrywolves.com/sports/womens-lacrosse/roster",
+    "https://newberrywolves.com/sports/baseball/roster",
+    "https://newberrywolves.com/sports/softball/roster",
+    "https://newberrywolves.com/sports/mens-tennis/roster",
+    "https://newberrywolves.com/sports/womens-tennis/roster",
+    "https://newberrywolves.com/sports/womens-volleyball/roster",
+    "https://newberrywolves.com/sports/wrestling/roster",
+    "https://newberrywolves.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://newberrywolves.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/golf/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/tri/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://newberrywolves.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

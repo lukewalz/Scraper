@@ -1,0 +1,153 @@
+{
+  "school": "/schools/plattsburgh-st",
+  "base": "https://gocardinalsports.com/",
+  "goodList": [
+    "https://gocardinalsports.com//sports/mens-soccer/roster",
+    "https://gocardinalsports.com//sports/womens-soccer/roster",
+    "https://gocardinalsports.com//sports/mens-basketball/roster",
+    "https://gocardinalsports.com//sports/womens-basketball/roster",
+    "https://gocardinalsports.com//sports/mens-ice-hockey/roster",
+    "https://gocardinalsports.com//sports/womens-ice-hockey/roster",
+    "https://gocardinalsports.com//sports/mens-track-and-field/roster",
+    "https://gocardinalsports.com//sports/womens-track-and-field/roster",
+    "https://gocardinalsports.com//sports/mens-cross-country/roster",
+    "https://gocardinalsports.com//sports/womens-cross-country/roster",
+    "https://gocardinalsports.com//sports/mens-lacrosse/roster",
+    "https://gocardinalsports.com//sports/womens-lacrosse/roster",
+    "https://gocardinalsports.com//sports/baseball/roster",
+    "https://gocardinalsports.com//sports/softball/roster",
+    "https://gocardinalsports.com//sports/womens-tennis/roster",
+    "https://gocardinalsports.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gocardinalsports.com//sports/football/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/golf/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/tri/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gocardinalsports.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

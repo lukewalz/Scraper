@@ -1,0 +1,163 @@
+{
+  "school": "/schools/chattanooga",
+  "base": "https://gomocs.com",
+  "goodList": [
+    "https://gomocs.com/sports/football/roster",
+    "https://gomocs.com/sports/womens-soccer/roster",
+    "https://gomocs.com/sports/mens-basketball/roster",
+    "https://gomocs.com/sports/womens-basketball/roster",
+    "https://gomocs.com/sports/track-and-field/roster",
+    "https://gomocs.com/sports/cross-country/roster",
+    "https://gomocs.com/sports/softball/roster",
+    "https://gomocs.com/sports/mens-tennis/roster",
+    "https://gomocs.com/sports/womens-tennis/roster",
+    "https://gomocs.com/sports/womens-volleyball/roster",
+    "https://gomocs.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gomocs.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gomocs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

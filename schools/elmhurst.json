@@ -1,0 +1,145 @@
+{
+  "school": "/schools/elmhurst",
+  "base": "https://elmhurstbluejays.com",
+  "goodList": [
+    "https://elmhurstbluejays.com/sports/football/roster",
+    "https://elmhurstbluejays.com/sports/mens-soccer/roster",
+    "https://elmhurstbluejays.com/sports/womens-soccer/roster",
+    "https://elmhurstbluejays.com/sports/mens-basketball/roster",
+    "https://elmhurstbluejays.com/sports/womens-basketball/roster",
+    "https://elmhurstbluejays.com/sports/bowling/roster",
+    "https://elmhurstbluejays.com/sports/mens-track-and-field/roster",
+    "https://elmhurstbluejays.com/sports/womens-track-and-field/roster",
+    "https://elmhurstbluejays.com/sports/cross-country/roster",
+    "https://elmhurstbluejays.com/sports/womens-cross-country/roster",
+    "https://elmhurstbluejays.com/sports/mens-golf/roster",
+    "https://elmhurstbluejays.com/sports/womens-golf/roster",
+    "https://elmhurstbluejays.com/sports/mens-lacrosse/roster",
+    "https://elmhurstbluejays.com/sports/womens-lacrosse/roster",
+    "https://elmhurstbluejays.com/sports/baseball/roster",
+    "https://elmhurstbluejays.com/sports/softball/roster",
+    "https://elmhurstbluejays.com/sports/mens-tennis/roster",
+    "https://elmhurstbluejays.com/sports/womens-tennis/roster",
+    "https://elmhurstbluejays.com/sports/womens-volleyball/roster",
+    "https://elmhurstbluejays.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://elmhurstbluejays.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/golf/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/tri/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://elmhurstbluejays.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

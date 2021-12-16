@@ -1,0 +1,161 @@
+{
+  "school": "/schools/nc-at",
+  "base": "https://ncataggies.com",
+  "goodList": [
+    "https://ncataggies.com/sports/football/roster",
+    "https://ncataggies.com/sports/mens-basketball/roster",
+    "https://ncataggies.com/sports/womens-basketball/roster",
+    "https://ncataggies.com/sports/track-and-field/roster",
+    "https://ncataggies.com/sports/cross-country/roster",
+    "https://ncataggies.com/sports/mens-golf/roster",
+    "https://ncataggies.com/sports/womens-golf/roster",
+    "https://ncataggies.com/sports/baseball/roster",
+    "https://ncataggies.com/sports/softball/roster",
+    "https://ncataggies.com/sports/mens-tennis/roster",
+    "https://ncataggies.com/sports/womens-tennis/roster",
+    "https://ncataggies.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ncataggies.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ncataggies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "school": "/schools/kentucky-st",
+  "base": "https://ksuthorobreds.com",
+  "goodList": [
+    "https://ksuthorobreds.com/sports/football/roster",
+    "https://ksuthorobreds.com/sports/mens-basketball/roster",
+    "https://ksuthorobreds.com/sports/womens-basketball/roster",
+    "https://ksuthorobreds.com/sports/mens-track-and-field/roster",
+    "https://ksuthorobreds.com/sports/womens-track-and-field/roster",
+    "https://ksuthorobreds.com/sports/mens-cross-country/roster",
+    "https://ksuthorobreds.com/sports/womens-cross-country/roster",
+    "https://ksuthorobreds.com/sports/mens-golf/roster",
+    "https://ksuthorobreds.com/sports/baseball/roster",
+    "https://ksuthorobreds.com/sports/softball/roster",
+    "https://ksuthorobreds.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ksuthorobreds.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "school": "/schools/eastern-ill",
+  "base": "https://eiupanthers.com",
+  "goodList": [
+    "https://eiupanthers.com/sports/football/roster",
+    "https://eiupanthers.com/sports/mens-soccer/roster",
+    "https://eiupanthers.com/sports/womens-soccer/roster",
+    "https://eiupanthers.com/sports/mens-basketball/roster",
+    "https://eiupanthers.com/sports/womens-basketball/roster",
+    "https://eiupanthers.com/sports/mens-swimming-and-diving/roster",
+    "https://eiupanthers.com/sports/womens-swimming-and-diving/roster",
+    "https://eiupanthers.com/sports/mens-track-and-field/roster",
+    "https://eiupanthers.com/sports/womens-track-and-field/roster",
+    "https://eiupanthers.com/sports/mens-cross-country/roster",
+    "https://eiupanthers.com/sports/womens-cross-country/roster",
+    "https://eiupanthers.com/sports/mens-golf/roster",
+    "https://eiupanthers.com/sports/womens-golf/roster",
+    "https://eiupanthers.com/sports/baseball/roster",
+    "https://eiupanthers.com/sports/softball/roster",
+    "https://eiupanthers.com/sports/mens-tennis/roster",
+    "https://eiupanthers.com/sports/womens-tennis/roster",
+    "https://eiupanthers.com/sports/womens-volleyball/roster",
+    "https://eiupanthers.com/sports/womens-rugby/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://eiupanthers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://eiupanthers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

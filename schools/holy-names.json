@@ -1,0 +1,157 @@
+{
+  "school": "/schools/holy-names",
+  "base": "https://hnuhawks.com",
+  "goodList": [
+    "https://hnuhawks.com/sports/mens-soccer/roster",
+    "https://hnuhawks.com/sports/womens-soccer/roster",
+    "https://hnuhawks.com/sports/mens-basketball/roster",
+    "https://hnuhawks.com/sports/womens-basketball/roster",
+    "https://hnuhawks.com/sports/mens-cross-country/roster",
+    "https://hnuhawks.com/sports/womens-cross-country/roster",
+    "https://hnuhawks.com/sports/mens-golf/roster",
+    "https://hnuhawks.com/sports/womens-golf/roster",
+    "https://hnuhawks.com/sports/baseball/roster",
+    "https://hnuhawks.com/sports/softball/roster",
+    "https://hnuhawks.com/sports/mens-tennis/roster",
+    "https://hnuhawks.com/sports/womens-tennis/roster",
+    "https://hnuhawks.com/sports/mens-volleyball/roster",
+    "https://hnuhawks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hnuhawks.com/sports/football/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hnuhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

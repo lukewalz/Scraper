@@ -1,0 +1,137 @@
+{
+  "school": "/schools/la-salle",
+  "base": "https://goexplorers.com",
+  "goodList": [
+    "https://goexplorers.com/sports/mens-soccer/roster",
+    "https://goexplorers.com/sports/womens-soccer/roster",
+    "https://goexplorers.com/sports/mens-basketball/roster",
+    "https://goexplorers.com/sports/womens-basketball/roster",
+    "https://goexplorers.com/sports/mens-swimming-and-diving/roster",
+    "https://goexplorers.com/sports/womens-swimming-and-diving/roster",
+    "https://goexplorers.com/sports/track-and-field/roster",
+    "https://goexplorers.com/sports/mens-track-and-field/roster",
+    "https://goexplorers.com/sports/womens-track-and-field/roster",
+    "https://goexplorers.com/sports/mens-cross-country/roster",
+    "https://goexplorers.com/sports/womens-cross-country/roster",
+    "https://goexplorers.com/sports/equestrian/roster",
+    "https://goexplorers.com/sports/mens-golf/roster",
+    "https://goexplorers.com/sports/womens-golf/roster",
+    "https://goexplorers.com/sports/womens-lacrosse/roster",
+    "https://goexplorers.com/sports/baseball/roster",
+    "https://goexplorers.com/sports/softball/roster",
+    "https://goexplorers.com/sports/mens-tennis/roster",
+    "https://goexplorers.com/sports/womens-tennis/roster",
+    "https://goexplorers.com/sports/womens-volleyball/roster",
+    "https://goexplorers.com/sports/mens-water-polo/roster",
+    "https://goexplorers.com/sports/womens-water-polo/roster",
+    "https://goexplorers.com/sports/mens-rugby/roster",
+    "https://goexplorers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goexplorers.com/sports/football/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goexplorers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

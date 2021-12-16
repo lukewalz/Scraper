@@ -1,0 +1,155 @@
+{
+  "school": "/schools/lipscomb",
+  "base": "https://lipscombsports.com",
+  "goodList": [
+    "https://lipscombsports.com/sports/mens-soccer/roster",
+    "https://lipscombsports.com/sports/womens-soccer/roster",
+    "https://lipscombsports.com/sports/mens-basketball/roster",
+    "https://lipscombsports.com/sports/womens-basketball/roster",
+    "https://lipscombsports.com/sports/mens-track-and-field/roster",
+    "https://lipscombsports.com/sports/womens-track-and-field/roster",
+    "https://lipscombsports.com/sports/mens-cross-country/roster",
+    "https://lipscombsports.com/sports/womens-cross-country/roster",
+    "https://lipscombsports.com/sports/mens-golf/roster",
+    "https://lipscombsports.com/sports/womens-golf/roster",
+    "https://lipscombsports.com/sports/baseball/roster",
+    "https://lipscombsports.com/sports/softball/roster",
+    "https://lipscombsports.com/sports/mens-tennis/roster",
+    "https://lipscombsports.com/sports/womens-tennis/roster",
+    "https://lipscombsports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lipscombsports.com/sports/football/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lipscombsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

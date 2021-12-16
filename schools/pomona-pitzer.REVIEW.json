@@ -1,0 +1,184 @@
+{
+  "school": "/schools/pomona-pitzer",
+  "base": "https://sagehens.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://sagehens.com/sports/football/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/golf/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/softball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sagehens.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

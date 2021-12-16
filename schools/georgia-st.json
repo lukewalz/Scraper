@@ -1,0 +1,155 @@
+{
+  "school": "/schools/georgia-st",
+  "base": "https://georgiastatesports.com",
+  "goodList": [
+    "https://georgiastatesports.com/sports/football/roster",
+    "https://georgiastatesports.com/sports/mens-soccer/roster",
+    "https://georgiastatesports.com/sports/womens-soccer/roster",
+    "https://georgiastatesports.com/sports/mens-basketball/roster",
+    "https://georgiastatesports.com/sports/womens-basketball/roster",
+    "https://georgiastatesports.com/sports/womens-track-and-field/roster",
+    "https://georgiastatesports.com/sports/womens-cross-country/roster",
+    "https://georgiastatesports.com/sports/mens-golf/roster",
+    "https://georgiastatesports.com/sports/womens-golf/roster",
+    "https://georgiastatesports.com/sports/baseball/roster",
+    "https://georgiastatesports.com/sports/softball/roster",
+    "https://georgiastatesports.com/sports/mens-tennis/roster",
+    "https://georgiastatesports.com/sports/womens-tennis/roster",
+    "https://georgiastatesports.com/sports/womens-volleyball/roster",
+    "https://georgiastatesports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://georgiastatesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://georgiastatesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

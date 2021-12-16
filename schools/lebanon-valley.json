@@ -1,0 +1,139 @@
+{
+  "school": "/schools/lebanon-valley",
+  "base": "https://godutchmen.com",
+  "goodList": [
+    "https://godutchmen.com/sports/football/roster",
+    "https://godutchmen.com/sports/mens-soccer/roster",
+    "https://godutchmen.com/sports/womens-soccer/roster",
+    "https://godutchmen.com/sports/mens-basketball/roster",
+    "https://godutchmen.com/sports/womens-basketball/roster",
+    "https://godutchmen.com/sports/mens-ice-hockey/roster",
+    "https://godutchmen.com/sports/womens-ice-hockey/roster",
+    "https://godutchmen.com/sports/mens-swimming-and-diving/roster",
+    "https://godutchmen.com/sports/womens-swimming-and-diving/roster",
+    "https://godutchmen.com/sports/mens-track-and-field/roster",
+    "https://godutchmen.com/sports/womens-track-and-field/roster",
+    "https://godutchmen.com/sports/mens-cross-country/roster",
+    "https://godutchmen.com/sports/womens-cross-country/roster",
+    "https://godutchmen.com/sports/mens-golf/roster",
+    "https://godutchmen.com/sports/womens-golf/roster",
+    "https://godutchmen.com/sports/mens-lacrosse/roster",
+    "https://godutchmen.com/sports/womens-lacrosse/roster",
+    "https://godutchmen.com/sports/baseball/roster",
+    "https://godutchmen.com/sports/softball/roster",
+    "https://godutchmen.com/sports/mens-tennis/roster",
+    "https://godutchmen.com/sports/womens-tennis/roster",
+    "https://godutchmen.com/sports/womens-volleyball/roster",
+    "https://godutchmen.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://godutchmen.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/golf/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/tri/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://godutchmen.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

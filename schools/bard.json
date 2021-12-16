@@ -1,0 +1,153 @@
+{
+  "school": "/schools/bard",
+  "base": "https://bardathletics.com",
+  "goodList": [
+    "https://bardathletics.com/sports/mens-soccer/roster",
+    "https://bardathletics.com/sports/womens-soccer/roster",
+    "https://bardathletics.com/sports/mens-basketball/roster",
+    "https://bardathletics.com/sports/womens-basketball/roster",
+    "https://bardathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://bardathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://bardathletics.com/sports/mens-track-and-field/roster",
+    "https://bardathletics.com/sports/womens-track-and-field/roster",
+    "https://bardathletics.com/sports/mens-cross-country/roster",
+    "https://bardathletics.com/sports/womens-cross-country/roster",
+    "https://bardathletics.com/sports/womens-lacrosse/roster",
+    "https://bardathletics.com/sports/baseball/roster",
+    "https://bardathletics.com/sports/mens-tennis/roster",
+    "https://bardathletics.com/sports/womens-tennis/roster",
+    "https://bardathletics.com/sports/mens-volleyball/roster",
+    "https://bardathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bardathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bardathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

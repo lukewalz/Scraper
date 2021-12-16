@@ -1,0 +1,155 @@
+{
+  "school": "/schools/polytechnic-ny",
+  "base": "https://gonyuathletics.com",
+  "goodList": [
+    "https://gonyuathletics.com/sports/mens-soccer/roster",
+    "https://gonyuathletics.com/sports/womens-soccer/roster",
+    "https://gonyuathletics.com/sports/mens-basketball/roster",
+    "https://gonyuathletics.com/sports/womens-basketball/roster",
+    "https://gonyuathletics.com/sports/mens-cross-country/roster",
+    "https://gonyuathletics.com/sports/womens-cross-country/roster",
+    "https://gonyuathletics.com/sports/mens-golf/roster",
+    "https://gonyuathletics.com/sports/womens-golf/roster",
+    "https://gonyuathletics.com/sports/baseball/roster",
+    "https://gonyuathletics.com/sports/softball/roster",
+    "https://gonyuathletics.com/sports/mens-tennis/roster",
+    "https://gonyuathletics.com/sports/womens-tennis/roster",
+    "https://gonyuathletics.com/sports/mens-volleyball/roster",
+    "https://gonyuathletics.com/sports/womens-volleyball/roster",
+    "https://gonyuathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gonyuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gonyuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/salve-regina",
+  "base": "https://salveathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://salveathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://salveathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

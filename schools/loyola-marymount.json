@@ -1,0 +1,153 @@
+{
+  "school": "/schools/loyola-marymount",
+  "base": "https://lmulions.com",
+  "goodList": [
+    "https://lmulions.com/sports/mens-soccer/roster",
+    "https://lmulions.com/sports/womens-soccer/roster",
+    "https://lmulions.com/sports/mens-basketball/roster",
+    "https://lmulions.com/sports/womens-basketball/roster",
+    "https://lmulions.com/sports/womens-swimming-and-diving/roster",
+    "https://lmulions.com/sports/track-and-field/roster",
+    "https://lmulions.com/sports/cross-country/roster",
+    "https://lmulions.com/sports/mens-golf/roster",
+    "https://lmulions.com/sports/baseball/roster",
+    "https://lmulions.com/sports/softball/roster",
+    "https://lmulions.com/sports/mens-tennis/roster",
+    "https://lmulions.com/sports/womens-tennis/roster",
+    "https://lmulions.com/sports/womens-volleyball/roster",
+    "https://lmulions.com/sports/womens-beach-volleyball/roster",
+    "https://lmulions.com/sports/mens-water-polo/roster",
+    "https://lmulions.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lmulions.com/sports/football/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lmulions.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

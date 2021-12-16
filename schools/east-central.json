@@ -1,0 +1,75 @@
+{
+  "school": "/schools/east-central",
+  "base": "https://ecutigers.com/",
+  "goodList": [
+    "https://ecutigers.com//sports/football/roster",
+    "https://ecutigers.com//sports/mens-soccer/roster",
+    "https://ecutigers.com//sports/womens-soccer/roster",
+    "https://ecutigers.com//sports/mens-basketball/roster",
+    "https://ecutigers.com//sports/womens-basketball/roster",
+    "https://ecutigers.com//sports/bowling/roster",
+    "https://ecutigers.com//sports/fencing/roster",
+    "https://ecutigers.com//sports/gymnastics/roster",
+    "https://ecutigers.com//sports/mens-gymnastics/roster",
+    "https://ecutigers.com//sports/womens-gymnastics/roster",
+    "https://ecutigers.com//sports/ice-hockey/roster",
+    "https://ecutigers.com//sports/mens-ice-hockey/roster",
+    "https://ecutigers.com//sports/womens-ice-hockey/roster",
+    "https://ecutigers.com//sports/rifle/roster",
+    "https://ecutigers.com//sports/skiing/roster",
+    "https://ecutigers.com//sports/swimming-and-diving/roster",
+    "https://ecutigers.com//sports/mens-swimming-and-diving/roster",
+    "https://ecutigers.com//sports/womens-swimming-and-diving/roster",
+    "https://ecutigers.com//sports/track-and-field/roster",
+    "https://ecutigers.com//sports/mens-track-and-field/roster",
+    "https://ecutigers.com//sports/womens-track-and-field/roster",
+    "https://ecutigers.com//sports/mens-cross-country/roster",
+    "https://ecutigers.com//sports/womens-cross-country/roster",
+    "https://ecutigers.com//sports/xctrack/roster",
+    "https://ecutigers.com//sports/outdoor-track/roster",
+    "https://ecutigers.com//sports/equestrian/roster",
+    "https://ecutigers.com//sports/mens-golf/roster",
+    "https://ecutigers.com//sports/womens-golf/roster",
+    "https://ecutigers.com//sports/lacrosse/roster",
+    "https://ecutigers.com//sports/mens-lacrosse/roster",
+    "https://ecutigers.com//sports/womens-lacrosse/roster",
+    "https://ecutigers.com//sports/rowing/roster",
+    "https://ecutigers.com//sports/baseball/roster",
+    "https://ecutigers.com//sports/softball/roster",
+    "https://ecutigers.com//sports/mens-tennis/roster",
+    "https://ecutigers.com//sports/womens-tennis/roster",
+    "https://ecutigers.com//sports/womens-volleyball/roster",
+    "https://ecutigers.com//sports/mens-beach-volleyball/roster",
+    "https://ecutigers.com//sports/womens-beach-volleyball/roster",
+    "https://ecutigers.com//sports/wbvb/roster",
+    "https://ecutigers.com//sports/water-polo/roster",
+    "https://ecutigers.com//sports/mens-water-polo/roster",
+    "https://ecutigers.com//sports/womens-water-polo/roster",
+    "https://ecutigers.com//sports/wrestling/roster",
+    "https://ecutigers.com//sports/mwrest/roster",
+    "https://ecutigers.com//sports/wwrest/roster",
+    "https://ecutigers.com//sports/rugby/roster",
+    "https://ecutigers.com//sports/mens-rugby/roster",
+    "https://ecutigers.com//sports/womens-rugby/roster",
+    "https://ecutigers.com//sports/tri/roster",
+    "https://ecutigers.com//sports/mens-tri/roster",
+    "https://ecutigers.com//sports/womens-tri/roster",
+    "https://ecutigers.com//sports/field-hockey/roster",
+    "https://ecutigers.com//sports/womens-field-hockey/roster",
+    "https://ecutigers.com//sports/mens-field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ecutigers.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://ecutigers.com//sports/golf/roster"
+    },
+    {
+      "url": "https://ecutigers.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://ecutigers.com//sports/mens-volleyball/roster"
+    }
+  ]
+}

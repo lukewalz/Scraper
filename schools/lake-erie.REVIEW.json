@@ -1,0 +1,184 @@
+{
+  "school": "/schools/lake-erie",
+  "base": "https://lakeeriestorm.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://lakeeriestorm.com/sports/football/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/softball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lakeeriestorm.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

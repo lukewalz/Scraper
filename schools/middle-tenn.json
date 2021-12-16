@@ -1,0 +1,159 @@
+{
+  "school": "/schools/middle-tenn",
+  "base": "https://goblueraiders.com",
+  "goodList": [
+    "https://goblueraiders.com/sports/football/roster",
+    "https://goblueraiders.com/sports/womens-soccer/roster",
+    "https://goblueraiders.com/sports/mens-basketball/roster",
+    "https://goblueraiders.com/sports/womens-basketball/roster",
+    "https://goblueraiders.com/sports/mens-track-and-field/roster",
+    "https://goblueraiders.com/sports/womens-track-and-field/roster",
+    "https://goblueraiders.com/sports/mens-golf/roster",
+    "https://goblueraiders.com/sports/womens-golf/roster",
+    "https://goblueraiders.com/sports/baseball/roster",
+    "https://goblueraiders.com/sports/softball/roster",
+    "https://goblueraiders.com/sports/mens-tennis/roster",
+    "https://goblueraiders.com/sports/womens-tennis/roster",
+    "https://goblueraiders.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goblueraiders.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goblueraiders.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

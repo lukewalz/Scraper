@@ -1,0 +1,184 @@
+{
+  "school": "/schools/suffolk",
+  "base": "https://gosuffolkrams.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://gosuffolkrams.com/sports/football/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gosuffolkrams.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

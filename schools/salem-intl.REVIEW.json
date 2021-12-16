@@ -1,0 +1,184 @@
+{
+  "school": "/schools/salem-intl",
+  "base": "https://SIUTigerPride.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://SIUTigerPride.com/sports/football/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/golf/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/softball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/tri/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://SIUTigerPride.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

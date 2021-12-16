@@ -1,0 +1,151 @@
+{
+  "school": "/schools/uc-san-diego",
+  "base": "https://ucsdtritons.com",
+  "goodList": [
+    "https://ucsdtritons.com/sports/mens-soccer/roster",
+    "https://ucsdtritons.com/sports/womens-soccer/roster",
+    "https://ucsdtritons.com/sports/mens-basketball/roster",
+    "https://ucsdtritons.com/sports/womens-basketball/roster",
+    "https://ucsdtritons.com/sports/fencing/roster",
+    "https://ucsdtritons.com/sports/swimming-and-diving/roster",
+    "https://ucsdtritons.com/sports/track-and-field/roster",
+    "https://ucsdtritons.com/sports/cross-country/roster",
+    "https://ucsdtritons.com/sports/mens-golf/roster",
+    "https://ucsdtritons.com/sports/baseball/roster",
+    "https://ucsdtritons.com/sports/softball/roster",
+    "https://ucsdtritons.com/sports/mens-tennis/roster",
+    "https://ucsdtritons.com/sports/womens-tennis/roster",
+    "https://ucsdtritons.com/sports/mens-volleyball/roster",
+    "https://ucsdtritons.com/sports/womens-volleyball/roster",
+    "https://ucsdtritons.com/sports/mens-water-polo/roster",
+    "https://ucsdtritons.com/sports/womens-water-polo/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ucsdtritons.com/sports/football/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ucsdtritons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

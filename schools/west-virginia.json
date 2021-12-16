@@ -1,0 +1,153 @@
+{
+  "school": "/schools/west-virginia",
+  "base": "https://wvusports.com",
+  "goodList": [
+    "https://wvusports.com/sports/football/roster",
+    "https://wvusports.com/sports/mens-soccer/roster",
+    "https://wvusports.com/sports/womens-soccer/roster",
+    "https://wvusports.com/sports/mens-basketball/roster",
+    "https://wvusports.com/sports/womens-basketball/roster",
+    "https://wvusports.com/sports/womens-gymnastics/roster",
+    "https://wvusports.com/sports/rifle/roster",
+    "https://wvusports.com/sports/mens-swimming-and-diving/roster",
+    "https://wvusports.com/sports/womens-swimming-and-diving/roster",
+    "https://wvusports.com/sports/womens-track-and-field/roster",
+    "https://wvusports.com/sports/womens-cross-country/roster",
+    "https://wvusports.com/sports/mens-golf/roster",
+    "https://wvusports.com/sports/baseball/roster",
+    "https://wvusports.com/sports/womens-tennis/roster",
+    "https://wvusports.com/sports/womens-volleyball/roster",
+    "https://wvusports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wvusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wvusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

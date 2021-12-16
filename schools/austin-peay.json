@@ -1,0 +1,155 @@
+{
+  "school": "/schools/austin-peay",
+  "base": "https://letsgopeay.com",
+  "goodList": [
+    "https://letsgopeay.com/sports/football/roster",
+    "https://letsgopeay.com/sports/womens-soccer/roster",
+    "https://letsgopeay.com/sports/mens-basketball/roster",
+    "https://letsgopeay.com/sports/womens-basketball/roster",
+    "https://letsgopeay.com/sports/track-and-field/roster",
+    "https://letsgopeay.com/sports/mens-cross-country/roster",
+    "https://letsgopeay.com/sports/womens-cross-country/roster",
+    "https://letsgopeay.com/sports/mens-golf/roster",
+    "https://letsgopeay.com/sports/womens-golf/roster",
+    "https://letsgopeay.com/sports/baseball/roster",
+    "https://letsgopeay.com/sports/softball/roster",
+    "https://letsgopeay.com/sports/mens-tennis/roster",
+    "https://letsgopeay.com/sports/womens-tennis/roster",
+    "https://letsgopeay.com/sports/womens-volleyball/roster",
+    "https://letsgopeay.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://letsgopeay.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/golf/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/tri/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://letsgopeay.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

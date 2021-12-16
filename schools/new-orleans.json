@@ -1,0 +1,163 @@
+{
+  "school": "/schools/new-orleans",
+  "base": "https://unoprivateers.com",
+  "goodList": [
+    "https://unoprivateers.com/sports/mens-basketball/roster",
+    "https://unoprivateers.com/sports/womens-basketball/roster",
+    "https://unoprivateers.com/sports/swimming-and-diving/roster",
+    "https://unoprivateers.com/sports/track-and-field/roster",
+    "https://unoprivateers.com/sports/cross-country/roster",
+    "https://unoprivateers.com/sports/mens-golf/roster",
+    "https://unoprivateers.com/sports/baseball/roster",
+    "https://unoprivateers.com/sports/mens-tennis/roster",
+    "https://unoprivateers.com/sports/womens-tennis/roster",
+    "https://unoprivateers.com/sports/womens-volleyball/roster",
+    "https://unoprivateers.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://unoprivateers.com/sports/football/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://unoprivateers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

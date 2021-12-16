@@ -1,0 +1,157 @@
+{
+  "school": "/schools/south-fla",
+  "base": "https://gousfbulls.com/",
+  "goodList": [
+    "https://gousfbulls.com//sports/football/roster",
+    "https://gousfbulls.com//sports/mens-soccer/roster",
+    "https://gousfbulls.com//sports/womens-soccer/roster",
+    "https://gousfbulls.com//sports/mens-basketball/roster",
+    "https://gousfbulls.com//sports/womens-basketball/roster",
+    "https://gousfbulls.com//sports/track-and-field/roster",
+    "https://gousfbulls.com//sports/cross-country/roster",
+    "https://gousfbulls.com//sports/mens-golf/roster",
+    "https://gousfbulls.com//sports/womens-golf/roster",
+    "https://gousfbulls.com//sports/baseball/roster",
+    "https://gousfbulls.com//sports/softball/roster",
+    "https://gousfbulls.com//sports/mens-tennis/roster",
+    "https://gousfbulls.com//sports/womens-tennis/roster",
+    "https://gousfbulls.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gousfbulls.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/golf/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/tri/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gousfbulls.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

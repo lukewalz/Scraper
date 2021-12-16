@@ -1,0 +1,159 @@
+{
+  "school": "/schools/troy",
+  "base": "https://troytrojans.com",
+  "goodList": [
+    "https://troytrojans.com/sports/football/roster",
+    "https://troytrojans.com/sports/womens-soccer/roster",
+    "https://troytrojans.com/sports/mens-basketball/roster",
+    "https://troytrojans.com/sports/womens-basketball/roster",
+    "https://troytrojans.com/sports/track-and-field/roster",
+    "https://troytrojans.com/sports/cross-country/roster",
+    "https://troytrojans.com/sports/mens-golf/roster",
+    "https://troytrojans.com/sports/womens-golf/roster",
+    "https://troytrojans.com/sports/baseball/roster",
+    "https://troytrojans.com/sports/softball/roster",
+    "https://troytrojans.com/sports/mens-tennis/roster",
+    "https://troytrojans.com/sports/womens-tennis/roster",
+    "https://troytrojans.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://troytrojans.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://troytrojans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

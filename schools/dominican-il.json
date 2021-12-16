@@ -1,0 +1,159 @@
+{
+  "school": "/schools/dominican-il",
+  "base": "https://dustars.com",
+  "goodList": [
+    "https://dustars.com/sports/mens-soccer/roster",
+    "https://dustars.com/sports/womens-soccer/roster",
+    "https://dustars.com/sports/mens-basketball/roster",
+    "https://dustars.com/sports/womens-basketball/roster",
+    "https://dustars.com/sports/mens-cross-country/roster",
+    "https://dustars.com/sports/womens-cross-country/roster",
+    "https://dustars.com/sports/golf/roster",
+    "https://dustars.com/sports/baseball/roster",
+    "https://dustars.com/sports/softball/roster",
+    "https://dustars.com/sports/mens-tennis/roster",
+    "https://dustars.com/sports/womens-tennis/roster",
+    "https://dustars.com/sports/mens-volleyball/roster",
+    "https://dustars.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://dustars.com/sports/football/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://dustars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

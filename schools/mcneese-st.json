@@ -1,0 +1,153 @@
+{
+  "school": "/schools/mcneese-st",
+  "base": "https://mcneesesports.com",
+  "goodList": [
+    "https://mcneesesports.com/sports/football/roster",
+    "https://mcneesesports.com/sports/womens-soccer/roster",
+    "https://mcneesesports.com/sports/mens-basketball/roster",
+    "https://mcneesesports.com/sports/womens-basketball/roster",
+    "https://mcneesesports.com/sports/track-and-field/roster",
+    "https://mcneesesports.com/sports/mens-track-and-field/roster",
+    "https://mcneesesports.com/sports/womens-track-and-field/roster",
+    "https://mcneesesports.com/sports/cross-country/roster",
+    "https://mcneesesports.com/sports/mens-cross-country/roster",
+    "https://mcneesesports.com/sports/womens-cross-country/roster",
+    "https://mcneesesports.com/sports/mens-golf/roster",
+    "https://mcneesesports.com/sports/womens-golf/roster",
+    "https://mcneesesports.com/sports/baseball/roster",
+    "https://mcneesesports.com/sports/softball/roster",
+    "https://mcneesesports.com/sports/womens-tennis/roster",
+    "https://mcneesesports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://mcneesesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://mcneesesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

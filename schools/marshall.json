@@ -1,0 +1,157 @@
+{
+  "school": "/schools/marshall",
+  "base": "https://herdzone.com",
+  "goodList": [
+    "https://herdzone.com/sports/football/roster",
+    "https://herdzone.com/sports/mens-soccer/roster",
+    "https://herdzone.com/sports/womens-soccer/roster",
+    "https://herdzone.com/sports/mens-basketball/roster",
+    "https://herdzone.com/sports/womens-basketball/roster",
+    "https://herdzone.com/sports/womens-swimming-and-diving/roster",
+    "https://herdzone.com/sports/womens-track-and-field/roster",
+    "https://herdzone.com/sports/cross-country/roster",
+    "https://herdzone.com/sports/mens-golf/roster",
+    "https://herdzone.com/sports/womens-golf/roster",
+    "https://herdzone.com/sports/baseball/roster",
+    "https://herdzone.com/sports/softball/roster",
+    "https://herdzone.com/sports/womens-tennis/roster",
+    "https://herdzone.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://herdzone.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/golf/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/tri/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://herdzone.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

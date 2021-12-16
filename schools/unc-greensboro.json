@@ -1,0 +1,159 @@
+{
+  "school": "/schools/unc-greensboro",
+  "base": "https://uncgspartans.com",
+  "goodList": [
+    "https://uncgspartans.com/sports/mens-soccer/roster",
+    "https://uncgspartans.com/sports/womens-soccer/roster",
+    "https://uncgspartans.com/sports/mens-basketball/roster",
+    "https://uncgspartans.com/sports/womens-basketball/roster",
+    "https://uncgspartans.com/sports/track-and-field/roster",
+    "https://uncgspartans.com/sports/cross-country/roster",
+    "https://uncgspartans.com/sports/mens-golf/roster",
+    "https://uncgspartans.com/sports/womens-golf/roster",
+    "https://uncgspartans.com/sports/baseball/roster",
+    "https://uncgspartans.com/sports/softball/roster",
+    "https://uncgspartans.com/sports/mens-tennis/roster",
+    "https://uncgspartans.com/sports/womens-tennis/roster",
+    "https://uncgspartans.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uncgspartans.com/sports/football/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uncgspartans.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

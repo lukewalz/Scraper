@@ -1,0 +1,159 @@
+{
+  "school": "/schools/old-dominion",
+  "base": "https://odusports.com",
+  "goodList": [
+    "https://odusports.com/sports/football/roster",
+    "https://odusports.com/sports/mens-soccer/roster",
+    "https://odusports.com/sports/womens-soccer/roster",
+    "https://odusports.com/sports/mens-basketball/roster",
+    "https://odusports.com/sports/womens-basketball/roster",
+    "https://odusports.com/sports/swimming-and-diving/roster",
+    "https://odusports.com/sports/mens-golf/roster",
+    "https://odusports.com/sports/womens-lacrosse/roster",
+    "https://odusports.com/sports/mens-tennis/roster",
+    "https://odusports.com/sports/womens-tennis/roster",
+    "https://odusports.com/sports/womens-volleyball/roster",
+    "https://odusports.com/sports/wrestling/roster",
+    "https://odusports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://odusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://odusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

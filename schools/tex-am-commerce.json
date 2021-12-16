@@ -1,0 +1,161 @@
+{
+  "school": "/schools/tex-am-commerce",
+  "base": "https://lionathletics.com",
+  "goodList": [
+    "https://lionathletics.com/sports/football/roster",
+    "https://lionathletics.com/sports/womens-soccer/roster",
+    "https://lionathletics.com/sports/mens-basketball/roster",
+    "https://lionathletics.com/sports/womens-basketball/roster",
+    "https://lionathletics.com/sports/mens-track-and-field/roster",
+    "https://lionathletics.com/sports/womens-track-and-field/roster",
+    "https://lionathletics.com/sports/mens-cross-country/roster",
+    "https://lionathletics.com/sports/womens-cross-country/roster",
+    "https://lionathletics.com/sports/mens-golf/roster",
+    "https://lionathletics.com/sports/womens-golf/roster",
+    "https://lionathletics.com/sports/softball/roster",
+    "https://lionathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lionathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lionathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "school": "/schools/utah-st",
+  "base": "https://utahstateaggies.com",
+  "goodList": [
+    "https://utahstateaggies.com/sports/football/roster",
+    "https://utahstateaggies.com/sports/womens-soccer/roster",
+    "https://utahstateaggies.com/sports/mens-basketball/roster",
+    "https://utahstateaggies.com/sports/womens-basketball/roster",
+    "https://utahstateaggies.com/sports/womens-gymnastics/roster",
+    "https://utahstateaggies.com/sports/track-and-field/roster",
+    "https://utahstateaggies.com/sports/cross-country/roster",
+    "https://utahstateaggies.com/sports/mens-golf/roster",
+    "https://utahstateaggies.com/sports/softball/roster",
+    "https://utahstateaggies.com/sports/mens-tennis/roster",
+    "https://utahstateaggies.com/sports/womens-tennis/roster",
+    "https://utahstateaggies.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://utahstateaggies.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://utahstateaggies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

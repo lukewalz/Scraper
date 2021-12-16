@@ -1,0 +1,163 @@
+{
+  "school": "/schools/humboldt-st",
+  "base": "https://hsujacks.com",
+  "goodList": [
+    "https://hsujacks.com/sports/football/roster",
+    "https://hsujacks.com/sports/mens-soccer/roster",
+    "https://hsujacks.com/sports/womens-soccer/roster",
+    "https://hsujacks.com/sports/mens-basketball/roster",
+    "https://hsujacks.com/sports/womens-basketball/roster",
+    "https://hsujacks.com/sports/mens-track-and-field/roster",
+    "https://hsujacks.com/sports/womens-track-and-field/roster",
+    "https://hsujacks.com/sports/mens-cross-country/roster",
+    "https://hsujacks.com/sports/womens-cross-country/roster",
+    "https://hsujacks.com/sports/softball/roster",
+    "https://hsujacks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hsujacks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hsujacks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

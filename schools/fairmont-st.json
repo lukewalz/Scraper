@@ -1,0 +1,155 @@
+{
+  "school": "/schools/fairmont-st",
+  "base": "https://fightingfalcons.com",
+  "goodList": [
+    "https://fightingfalcons.com/sports/football/roster",
+    "https://fightingfalcons.com/sports/womens-soccer/roster",
+    "https://fightingfalcons.com/sports/mens-basketball/roster",
+    "https://fightingfalcons.com/sports/womens-basketball/roster",
+    "https://fightingfalcons.com/sports/mens-swimming-and-diving/roster",
+    "https://fightingfalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://fightingfalcons.com/sports/mens-cross-country/roster",
+    "https://fightingfalcons.com/sports/womens-cross-country/roster",
+    "https://fightingfalcons.com/sports/mens-golf/roster",
+    "https://fightingfalcons.com/sports/womens-golf/roster",
+    "https://fightingfalcons.com/sports/baseball/roster",
+    "https://fightingfalcons.com/sports/softball/roster",
+    "https://fightingfalcons.com/sports/mens-tennis/roster",
+    "https://fightingfalcons.com/sports/womens-tennis/roster",
+    "https://fightingfalcons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fightingfalcons.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fightingfalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "school": "/schools/abilene-christian",
+  "base": "https://acusports.com",
+  "goodList": [
+    "https://acusports.com/sports/football/roster",
+    "https://acusports.com/sports/womens-soccer/roster",
+    "https://acusports.com/sports/mens-basketball/roster",
+    "https://acusports.com/sports/womens-basketball/roster",
+    "https://acusports.com/sports/track-and-field/roster",
+    "https://acusports.com/sports/mens-track-and-field/roster",
+    "https://acusports.com/sports/womens-track-and-field/roster",
+    "https://acusports.com/sports/cross-country/roster",
+    "https://acusports.com/sports/mens-cross-country/roster",
+    "https://acusports.com/sports/womens-cross-country/roster",
+    "https://acusports.com/sports/mens-golf/roster",
+    "https://acusports.com/sports/baseball/roster",
+    "https://acusports.com/sports/softball/roster",
+    "https://acusports.com/sports/mens-tennis/roster",
+    "https://acusports.com/sports/womens-tennis/roster",
+    "https://acusports.com/sports/womens-volleyball/roster",
+    "https://acusports.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://acusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://acusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

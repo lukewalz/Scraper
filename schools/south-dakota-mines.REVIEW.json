@@ -1,0 +1,184 @@
+{
+  "school": "/schools/south-dakota-mines",
+  "base": "https://sdsmt.edu/Athletics",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/football/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/bowling/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/fencing/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/rifle/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/skiing/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/cross-country/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/golf/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/rowing/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/baseball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/softball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/tennis/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/rugby/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/tri/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sdsmt.edu/Athletics/sports/mens-field-hockey/roster"
+    }
+  ]
+}

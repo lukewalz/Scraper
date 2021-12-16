@@ -1,0 +1,145 @@
+{
+  "school": "/schools/lafayette",
+  "base": "https://goleopards.com",
+  "goodList": [
+    "https://goleopards.com/sports/football/roster",
+    "https://goleopards.com/sports/mens-soccer/roster",
+    "https://goleopards.com/sports/womens-soccer/roster",
+    "https://goleopards.com/sports/mens-basketball/roster",
+    "https://goleopards.com/sports/womens-basketball/roster",
+    "https://goleopards.com/sports/fencing/roster",
+    "https://goleopards.com/sports/swimming-and-diving/roster",
+    "https://goleopards.com/sports/track-and-field/roster",
+    "https://goleopards.com/sports/mens-track-and-field/roster",
+    "https://goleopards.com/sports/womens-track-and-field/roster",
+    "https://goleopards.com/sports/cross-country/roster",
+    "https://goleopards.com/sports/mens-golf/roster",
+    "https://goleopards.com/sports/mens-lacrosse/roster",
+    "https://goleopards.com/sports/womens-lacrosse/roster",
+    "https://goleopards.com/sports/baseball/roster",
+    "https://goleopards.com/sports/softball/roster",
+    "https://goleopards.com/sports/mens-tennis/roster",
+    "https://goleopards.com/sports/womens-tennis/roster",
+    "https://goleopards.com/sports/womens-volleyball/roster",
+    "https://goleopards.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goleopards.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goleopards.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

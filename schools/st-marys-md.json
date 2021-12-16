@@ -1,0 +1,151 @@
+{
+  "school": "/schools/st-marys-md",
+  "base": "https://smcmathletics.com",
+  "goodList": [
+    "https://smcmathletics.com/sports/mens-soccer/roster",
+    "https://smcmathletics.com/sports/womens-soccer/roster",
+    "https://smcmathletics.com/sports/mens-basketball/roster",
+    "https://smcmathletics.com/sports/womens-basketball/roster",
+    "https://smcmathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://smcmathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://smcmathletics.com/sports/mens-track-and-field/roster",
+    "https://smcmathletics.com/sports/womens-track-and-field/roster",
+    "https://smcmathletics.com/sports/mens-cross-country/roster",
+    "https://smcmathletics.com/sports/womens-cross-country/roster",
+    "https://smcmathletics.com/sports/mens-lacrosse/roster",
+    "https://smcmathletics.com/sports/womens-lacrosse/roster",
+    "https://smcmathletics.com/sports/baseball/roster",
+    "https://smcmathletics.com/sports/mens-tennis/roster",
+    "https://smcmathletics.com/sports/womens-tennis/roster",
+    "https://smcmathletics.com/sports/womens-volleyball/roster",
+    "https://smcmathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://smcmathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://smcmathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

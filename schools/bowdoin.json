@@ -1,0 +1,73 @@
+{
+  "school": "/schools/bowdoin",
+  "base": "https://athletics.bowdoin.edu",
+  "goodList": [
+    "https://athletics.bowdoin.edu/sports/football/roster",
+    "https://athletics.bowdoin.edu/sports/mens-soccer/roster",
+    "https://athletics.bowdoin.edu/sports/womens-soccer/roster",
+    "https://athletics.bowdoin.edu/sports/mens-basketball/roster",
+    "https://athletics.bowdoin.edu/sports/womens-basketball/roster",
+    "https://athletics.bowdoin.edu/sports/bowling/roster",
+    "https://athletics.bowdoin.edu/sports/fencing/roster",
+    "https://athletics.bowdoin.edu/sports/gymnastics/roster",
+    "https://athletics.bowdoin.edu/sports/mens-gymnastics/roster",
+    "https://athletics.bowdoin.edu/sports/womens-gymnastics/roster",
+    "https://athletics.bowdoin.edu/sports/ice-hockey/roster",
+    "https://athletics.bowdoin.edu/sports/mens-ice-hockey/roster",
+    "https://athletics.bowdoin.edu/sports/womens-ice-hockey/roster",
+    "https://athletics.bowdoin.edu/sports/rifle/roster",
+    "https://athletics.bowdoin.edu/sports/skiing/roster",
+    "https://athletics.bowdoin.edu/sports/swimming-and-diving/roster",
+    "https://athletics.bowdoin.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.bowdoin.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.bowdoin.edu/sports/track-and-field/roster",
+    "https://athletics.bowdoin.edu/sports/mens-track-and-field/roster",
+    "https://athletics.bowdoin.edu/sports/womens-track-and-field/roster",
+    "https://athletics.bowdoin.edu/sports/cross-country/roster",
+    "https://athletics.bowdoin.edu/sports/mens-cross-country/roster",
+    "https://athletics.bowdoin.edu/sports/womens-cross-country/roster",
+    "https://athletics.bowdoin.edu/sports/xctrack/roster",
+    "https://athletics.bowdoin.edu/sports/outdoor-track/roster",
+    "https://athletics.bowdoin.edu/sports/golf/roster",
+    "https://athletics.bowdoin.edu/sports/mens-golf/roster",
+    "https://athletics.bowdoin.edu/sports/womens-golf/roster",
+    "https://athletics.bowdoin.edu/sports/lacrosse/roster",
+    "https://athletics.bowdoin.edu/sports/mens-lacrosse/roster",
+    "https://athletics.bowdoin.edu/sports/womens-lacrosse/roster",
+    "https://athletics.bowdoin.edu/sports/rowing/roster",
+    "https://athletics.bowdoin.edu/sports/baseball/roster",
+    "https://athletics.bowdoin.edu/sports/softball/roster",
+    "https://athletics.bowdoin.edu/sports/tennis/roster",
+    "https://athletics.bowdoin.edu/sports/mens-tennis/roster",
+    "https://athletics.bowdoin.edu/sports/womens-tennis/roster",
+    "https://athletics.bowdoin.edu/sports/mens-volleyball/roster",
+    "https://athletics.bowdoin.edu/sports/womens-volleyball/roster",
+    "https://athletics.bowdoin.edu/sports/mens-beach-volleyball/roster",
+    "https://athletics.bowdoin.edu/sports/womens-beach-volleyball/roster",
+    "https://athletics.bowdoin.edu/sports/wbvb/roster",
+    "https://athletics.bowdoin.edu/sports/water-polo/roster",
+    "https://athletics.bowdoin.edu/sports/wrestling/roster",
+    "https://athletics.bowdoin.edu/sports/mwrest/roster",
+    "https://athletics.bowdoin.edu/sports/wwrest/roster",
+    "https://athletics.bowdoin.edu/sports/rugby/roster",
+    "https://athletics.bowdoin.edu/sports/mens-rugby/roster",
+    "https://athletics.bowdoin.edu/sports/womens-rugby/roster",
+    "https://athletics.bowdoin.edu/sports/tri/roster",
+    "https://athletics.bowdoin.edu/sports/mens-tri/roster",
+    "https://athletics.bowdoin.edu/sports/womens-tri/roster",
+    "https://athletics.bowdoin.edu/sports/field-hockey/roster",
+    "https://athletics.bowdoin.edu/sports/womens-field-hockey/roster",
+    "https://athletics.bowdoin.edu/sports/mens-field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.bowdoin.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.bowdoin.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.bowdoin.edu/sports/womens-water-polo/roster"
+    }
+  ]
+}

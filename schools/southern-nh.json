@@ -1,0 +1,149 @@
+{
+  "school": "/schools/southern-nh",
+  "base": "https://snhupenmen.com",
+  "goodList": [
+    "https://snhupenmen.com/sports/mens-soccer/roster",
+    "https://snhupenmen.com/sports/womens-soccer/roster",
+    "https://snhupenmen.com/sports/mens-basketball/roster",
+    "https://snhupenmen.com/sports/womens-basketball/roster",
+    "https://snhupenmen.com/sports/mens-ice-hockey/roster",
+    "https://snhupenmen.com/sports/womens-track-and-field/roster",
+    "https://snhupenmen.com/sports/mens-cross-country/roster",
+    "https://snhupenmen.com/sports/womens-cross-country/roster",
+    "https://snhupenmen.com/sports/mens-golf/roster",
+    "https://snhupenmen.com/sports/womens-golf/roster",
+    "https://snhupenmen.com/sports/mens-lacrosse/roster",
+    "https://snhupenmen.com/sports/womens-lacrosse/roster",
+    "https://snhupenmen.com/sports/baseball/roster",
+    "https://snhupenmen.com/sports/softball/roster",
+    "https://snhupenmen.com/sports/mens-tennis/roster",
+    "https://snhupenmen.com/sports/womens-tennis/roster",
+    "https://snhupenmen.com/sports/womens-volleyball/roster",
+    "https://snhupenmen.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://snhupenmen.com/sports/football/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/golf/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/tri/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://snhupenmen.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "school": "/schools/rhode-island",
+  "base": "https://gorhody.com",
+  "goodList": [
+    "https://gorhody.com/sports/football/roster",
+    "https://gorhody.com/sports/mens-soccer/roster",
+    "https://gorhody.com/sports/womens-soccer/roster",
+    "https://gorhody.com/sports/mens-basketball/roster",
+    "https://gorhody.com/sports/womens-basketball/roster",
+    "https://gorhody.com/sports/womens-swimming-and-diving/roster",
+    "https://gorhody.com/sports/mens-track-and-field/roster",
+    "https://gorhody.com/sports/womens-track-and-field/roster",
+    "https://gorhody.com/sports/mens-cross-country/roster",
+    "https://gorhody.com/sports/womens-cross-country/roster",
+    "https://gorhody.com/sports/mens-golf/roster",
+    "https://gorhody.com/sports/baseball/roster",
+    "https://gorhody.com/sports/softball/roster",
+    "https://gorhody.com/sports/womens-tennis/roster",
+    "https://gorhody.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gorhody.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gorhody.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

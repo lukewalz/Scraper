@@ -1,0 +1,147 @@
+{
+  "school": "/schools/shorter",
+  "base": "https://goshorterhawks.com",
+  "goodList": [
+    "https://goshorterhawks.com/sports/football/roster",
+    "https://goshorterhawks.com/sports/mens-soccer/roster",
+    "https://goshorterhawks.com/sports/womens-soccer/roster",
+    "https://goshorterhawks.com/sports/mens-basketball/roster",
+    "https://goshorterhawks.com/sports/womens-basketball/roster",
+    "https://goshorterhawks.com/sports/mens-track-and-field/roster",
+    "https://goshorterhawks.com/sports/womens-track-and-field/roster",
+    "https://goshorterhawks.com/sports/mens-cross-country/roster",
+    "https://goshorterhawks.com/sports/womens-cross-country/roster",
+    "https://goshorterhawks.com/sports/mens-golf/roster",
+    "https://goshorterhawks.com/sports/womens-golf/roster",
+    "https://goshorterhawks.com/sports/mens-lacrosse/roster",
+    "https://goshorterhawks.com/sports/womens-lacrosse/roster",
+    "https://goshorterhawks.com/sports/baseball/roster",
+    "https://goshorterhawks.com/sports/softball/roster",
+    "https://goshorterhawks.com/sports/mens-tennis/roster",
+    "https://goshorterhawks.com/sports/womens-tennis/roster",
+    "https://goshorterhawks.com/sports/womens-volleyball/roster",
+    "https://goshorterhawks.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goshorterhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goshorterhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

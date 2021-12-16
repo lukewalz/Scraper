@@ -1,0 +1,161 @@
+{
+  "school": "/schools/henderson-st",
+  "base": "https://hsusports.com",
+  "goodList": [
+    "https://hsusports.com/sports/football/roster",
+    "https://hsusports.com/sports/mens-basketball/roster",
+    "https://hsusports.com/sports/womens-basketball/roster",
+    "https://hsusports.com/sports/mens-swimming-and-diving/roster",
+    "https://hsusports.com/sports/womens-swimming-and-diving/roster",
+    "https://hsusports.com/sports/womens-cross-country/roster",
+    "https://hsusports.com/sports/mens-golf/roster",
+    "https://hsusports.com/sports/womens-golf/roster",
+    "https://hsusports.com/sports/baseball/roster",
+    "https://hsusports.com/sports/softball/roster",
+    "https://hsusports.com/sports/womens-tennis/roster",
+    "https://hsusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://hsusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://hsusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

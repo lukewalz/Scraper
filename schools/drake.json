@@ -1,0 +1,149 @@
+{
+  "school": "/schools/drake",
+  "base": "https://godrakebulldogs.com",
+  "goodList": [
+    "https://godrakebulldogs.com/sports/football/roster",
+    "https://godrakebulldogs.com/sports/mens-soccer/roster",
+    "https://godrakebulldogs.com/sports/womens-soccer/roster",
+    "https://godrakebulldogs.com/sports/mens-basketball/roster",
+    "https://godrakebulldogs.com/sports/womens-basketball/roster",
+    "https://godrakebulldogs.com/sports/track-and-field/roster",
+    "https://godrakebulldogs.com/sports/mens-track-and-field/roster",
+    "https://godrakebulldogs.com/sports/womens-track-and-field/roster",
+    "https://godrakebulldogs.com/sports/cross-country/roster",
+    "https://godrakebulldogs.com/sports/mens-cross-country/roster",
+    "https://godrakebulldogs.com/sports/womens-cross-country/roster",
+    "https://godrakebulldogs.com/sports/mens-golf/roster",
+    "https://godrakebulldogs.com/sports/womens-golf/roster",
+    "https://godrakebulldogs.com/sports/rowing/roster",
+    "https://godrakebulldogs.com/sports/softball/roster",
+    "https://godrakebulldogs.com/sports/mens-tennis/roster",
+    "https://godrakebulldogs.com/sports/womens-tennis/roster",
+    "https://godrakebulldogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://godrakebulldogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://godrakebulldogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

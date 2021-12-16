@@ -1,0 +1,157 @@
+{
+  "school": "/schools/lancaster-bible",
+  "base": "https://lbcchargers.com",
+  "goodList": [
+    "https://lbcchargers.com/sports/mens-soccer/roster",
+    "https://lbcchargers.com/sports/womens-soccer/roster",
+    "https://lbcchargers.com/sports/mens-basketball/roster",
+    "https://lbcchargers.com/sports/womens-basketball/roster",
+    "https://lbcchargers.com/sports/mens-cross-country/roster",
+    "https://lbcchargers.com/sports/womens-cross-country/roster",
+    "https://lbcchargers.com/sports/womens-lacrosse/roster",
+    "https://lbcchargers.com/sports/baseball/roster",
+    "https://lbcchargers.com/sports/softball/roster",
+    "https://lbcchargers.com/sports/mens-tennis/roster",
+    "https://lbcchargers.com/sports/womens-tennis/roster",
+    "https://lbcchargers.com/sports/mens-volleyball/roster",
+    "https://lbcchargers.com/sports/womens-volleyball/roster",
+    "https://lbcchargers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lbcchargers.com/sports/football/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lbcchargers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

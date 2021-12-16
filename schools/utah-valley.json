@@ -1,0 +1,161 @@
+{
+  "school": "/schools/utah-valley",
+  "base": "https://gouvu.com",
+  "goodList": [
+    "https://gouvu.com/sports/mens-soccer/roster",
+    "https://gouvu.com/sports/womens-soccer/roster",
+    "https://gouvu.com/sports/mens-basketball/roster",
+    "https://gouvu.com/sports/womens-basketball/roster",
+    "https://gouvu.com/sports/track-and-field/roster",
+    "https://gouvu.com/sports/cross-country/roster",
+    "https://gouvu.com/sports/mens-golf/roster",
+    "https://gouvu.com/sports/womens-golf/roster",
+    "https://gouvu.com/sports/baseball/roster",
+    "https://gouvu.com/sports/softball/roster",
+    "https://gouvu.com/sports/womens-volleyball/roster",
+    "https://gouvu.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gouvu.com/sports/football/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gouvu.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "school": "/schools/claflin",
+  "base": "https://athletics.claflin.edu",
+  "goodList": [
+    "https://athletics.claflin.edu/sports/mens-basketball/roster",
+    "https://athletics.claflin.edu/sports/womens-basketball/roster",
+    "https://athletics.claflin.edu/sports/mens-track-and-field/roster",
+    "https://athletics.claflin.edu/sports/mens-cross-country/roster",
+    "https://athletics.claflin.edu/sports/womens-cross-country/roster",
+    "https://athletics.claflin.edu/sports/baseball/roster",
+    "https://athletics.claflin.edu/sports/softball/roster",
+    "https://athletics.claflin.edu/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.claflin.edu/sports/football/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.claflin.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

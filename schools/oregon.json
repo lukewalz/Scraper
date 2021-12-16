@@ -1,0 +1,153 @@
+{
+  "school": "/schools/oregon",
+  "base": "https://goducks.com",
+  "goodList": [
+    "https://goducks.com/sports/football/roster",
+    "https://goducks.com/sports/womens-soccer/roster",
+    "https://goducks.com/sports/mens-basketball/roster",
+    "https://goducks.com/sports/womens-basketball/roster",
+    "https://goducks.com/sports/track-and-field/roster",
+    "https://goducks.com/sports/cross-country/roster",
+    "https://goducks.com/sports/golf/roster",
+    "https://goducks.com/sports/mens-golf/roster",
+    "https://goducks.com/sports/womens-golf/roster",
+    "https://goducks.com/sports/womens-lacrosse/roster",
+    "https://goducks.com/sports/baseball/roster",
+    "https://goducks.com/sports/softball/roster",
+    "https://goducks.com/sports/mens-tennis/roster",
+    "https://goducks.com/sports/womens-tennis/roster",
+    "https://goducks.com/sports/womens-volleyball/roster",
+    "https://goducks.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goducks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goducks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/stony-brook",
+  "base": "https://goseawolves.org",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://goseawolves.org/sports/football/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/bowling/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/fencing/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/rifle/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/skiing/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/golf/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/rowing/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/baseball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/softball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/tennis/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/wrestling/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/rugby/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/tri/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goseawolves.org/sports/mens-field-hockey/roster"
+    }
+  ]
+}

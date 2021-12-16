@@ -1,0 +1,161 @@
+{
+  "school": "/schools/fort-valley-st",
+  "base": "https://fvsusports.com",
+  "goodList": [
+    "https://fvsusports.com/sports/football/roster",
+    "https://fvsusports.com/sports/mens-basketball/roster",
+    "https://fvsusports.com/sports/womens-basketball/roster",
+    "https://fvsusports.com/sports/mens-track-and-field/roster",
+    "https://fvsusports.com/sports/womens-track-and-field/roster",
+    "https://fvsusports.com/sports/mens-cross-country/roster",
+    "https://fvsusports.com/sports/womens-cross-country/roster",
+    "https://fvsusports.com/sports/softball/roster",
+    "https://fvsusports.com/sports/mens-tennis/roster",
+    "https://fvsusports.com/sports/womens-tennis/roster",
+    "https://fvsusports.com/sports/mens-volleyball/roster",
+    "https://fvsusports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://fvsusports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://fvsusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

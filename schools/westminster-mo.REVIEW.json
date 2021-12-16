@@ -1,0 +1,184 @@
+{
+  "school": "/schools/westminster-mo",
+  "base": "https://westminster-mo.edu/athletics/index.html",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/football/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/bowling/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/fencing/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/rifle/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/skiing/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/cross-country/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/xctrack/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/equestrian/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/golf/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/rowing/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/baseball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/softball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/tennis/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/wbvb/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/water-polo/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/wrestling/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mwrest/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/wwrest/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/rugby/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/tri/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://westminster-mo.edu/athletics/index.html/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/east-mennonite",
+  "base": "https://emuroyals.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://emuroyals.com/sports/football/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/golf/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/softball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/tri/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://emuroyals.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/wis-platteville",
+  "base": "https://letsgopioneers.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://letsgopioneers.com/sports/football/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/softball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://letsgopioneers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

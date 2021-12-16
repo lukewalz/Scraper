@@ -1,0 +1,165 @@
+{
+  "school": "/schools/cedar-crest",
+  "base": "https://cedarcrestathletics.com",
+  "goodList": [
+    "https://cedarcrestathletics.com/sports/womens-soccer/roster",
+    "https://cedarcrestathletics.com/sports/womens-basketball/roster",
+    "https://cedarcrestathletics.com/sports/swimming-and-diving/roster",
+    "https://cedarcrestathletics.com/sports/track-and-field/roster",
+    "https://cedarcrestathletics.com/sports/womens-cross-country/roster",
+    "https://cedarcrestathletics.com/sports/womens-lacrosse/roster",
+    "https://cedarcrestathletics.com/sports/softball/roster",
+    "https://cedarcrestathletics.com/sports/womens-tennis/roster",
+    "https://cedarcrestathletics.com/sports/womens-volleyball/roster",
+    "https://cedarcrestathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cedarcrestathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cedarcrestathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

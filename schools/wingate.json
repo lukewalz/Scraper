@@ -1,0 +1,149 @@
+{
+  "school": "/schools/wingate",
+  "base": "https://wingatebulldogs.com",
+  "goodList": [
+    "https://wingatebulldogs.com/sports/football/roster",
+    "https://wingatebulldogs.com/sports/mens-soccer/roster",
+    "https://wingatebulldogs.com/sports/womens-soccer/roster",
+    "https://wingatebulldogs.com/sports/mens-basketball/roster",
+    "https://wingatebulldogs.com/sports/womens-basketball/roster",
+    "https://wingatebulldogs.com/sports/mens-swimming-and-diving/roster",
+    "https://wingatebulldogs.com/sports/womens-swimming-and-diving/roster",
+    "https://wingatebulldogs.com/sports/cross-country/roster",
+    "https://wingatebulldogs.com/sports/womens-cross-country/roster",
+    "https://wingatebulldogs.com/sports/mens-golf/roster",
+    "https://wingatebulldogs.com/sports/womens-golf/roster",
+    "https://wingatebulldogs.com/sports/mens-lacrosse/roster",
+    "https://wingatebulldogs.com/sports/womens-lacrosse/roster",
+    "https://wingatebulldogs.com/sports/baseball/roster",
+    "https://wingatebulldogs.com/sports/softball/roster",
+    "https://wingatebulldogs.com/sports/mens-tennis/roster",
+    "https://wingatebulldogs.com/sports/womens-tennis/roster",
+    "https://wingatebulldogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://wingatebulldogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wingatebulldogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

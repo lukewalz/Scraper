@@ -1,0 +1,163 @@
+{
+  "school": "/schools/lubbock-christian",
+  "base": "https://lcuchaps.com",
+  "goodList": [
+    "https://lcuchaps.com/sports/mens-soccer/roster",
+    "https://lcuchaps.com/sports/womens-soccer/roster",
+    "https://lcuchaps.com/sports/mens-basketball/roster",
+    "https://lcuchaps.com/sports/womens-basketball/roster",
+    "https://lcuchaps.com/sports/mens-cross-country/roster",
+    "https://lcuchaps.com/sports/womens-cross-country/roster",
+    "https://lcuchaps.com/sports/mens-golf/roster",
+    "https://lcuchaps.com/sports/womens-golf/roster",
+    "https://lcuchaps.com/sports/baseball/roster",
+    "https://lcuchaps.com/sports/softball/roster",
+    "https://lcuchaps.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://lcuchaps.com/sports/football/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/golf/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/tri/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://lcuchaps.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "school": "/schools/southern-me",
+  "base": "https://southernmainehuskies.com",
+  "goodList": [
+    "https://southernmainehuskies.com/sports/mens-soccer/roster",
+    "https://southernmainehuskies.com/sports/womens-soccer/roster",
+    "https://southernmainehuskies.com/sports/mens-basketball/roster",
+    "https://southernmainehuskies.com/sports/womens-basketball/roster",
+    "https://southernmainehuskies.com/sports/mens-ice-hockey/roster",
+    "https://southernmainehuskies.com/sports/womens-ice-hockey/roster",
+    "https://southernmainehuskies.com/sports/mens-track-and-field/roster",
+    "https://southernmainehuskies.com/sports/womens-track-and-field/roster",
+    "https://southernmainehuskies.com/sports/mens-cross-country/roster",
+    "https://southernmainehuskies.com/sports/womens-cross-country/roster",
+    "https://southernmainehuskies.com/sports/mens-golf/roster",
+    "https://southernmainehuskies.com/sports/mens-lacrosse/roster",
+    "https://southernmainehuskies.com/sports/womens-lacrosse/roster",
+    "https://southernmainehuskies.com/sports/baseball/roster",
+    "https://southernmainehuskies.com/sports/softball/roster",
+    "https://southernmainehuskies.com/sports/mens-tennis/roster",
+    "https://southernmainehuskies.com/sports/womens-tennis/roster",
+    "https://southernmainehuskies.com/sports/womens-volleyball/roster",
+    "https://southernmainehuskies.com/sports/wrestling/roster",
+    "https://southernmainehuskies.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://southernmainehuskies.com/sports/football/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://southernmainehuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

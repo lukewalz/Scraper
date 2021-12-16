@@ -1,0 +1,184 @@
+{
+  "school": "/schools/south-carolina-st",
+  "base": "https://scsuathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://scsuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://scsuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

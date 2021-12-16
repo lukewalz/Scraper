@@ -1,0 +1,161 @@
+{
+  "school": "/schools/savannah-st",
+  "base": "https://ssuathletics.com",
+  "goodList": [
+    "https://ssuathletics.com/sports/football/roster",
+    "https://ssuathletics.com/sports/mens-basketball/roster",
+    "https://ssuathletics.com/sports/womens-basketball/roster",
+    "https://ssuathletics.com/sports/mens-track-and-field/roster",
+    "https://ssuathletics.com/sports/womens-track-and-field/roster",
+    "https://ssuathletics.com/sports/mens-cross-country/roster",
+    "https://ssuathletics.com/sports/mens-golf/roster",
+    "https://ssuathletics.com/sports/womens-golf/roster",
+    "https://ssuathletics.com/sports/baseball/roster",
+    "https://ssuathletics.com/sports/softball/roster",
+    "https://ssuathletics.com/sports/womens-tennis/roster",
+    "https://ssuathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ssuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ssuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

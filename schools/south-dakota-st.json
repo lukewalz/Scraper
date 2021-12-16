@@ -1,0 +1,147 @@
+{
+  "school": "/schools/south-dakota-st",
+  "base": "https://gojacks.com",
+  "goodList": [
+    "https://gojacks.com/sports/football/roster",
+    "https://gojacks.com/sports/womens-soccer/roster",
+    "https://gojacks.com/sports/mens-basketball/roster",
+    "https://gojacks.com/sports/womens-basketball/roster",
+    "https://gojacks.com/sports/mens-swimming-and-diving/roster",
+    "https://gojacks.com/sports/womens-swimming-and-diving/roster",
+    "https://gojacks.com/sports/mens-track-and-field/roster",
+    "https://gojacks.com/sports/womens-track-and-field/roster",
+    "https://gojacks.com/sports/mens-cross-country/roster",
+    "https://gojacks.com/sports/womens-cross-country/roster",
+    "https://gojacks.com/sports/equestrian/roster",
+    "https://gojacks.com/sports/mens-golf/roster",
+    "https://gojacks.com/sports/womens-golf/roster",
+    "https://gojacks.com/sports/baseball/roster",
+    "https://gojacks.com/sports/softball/roster",
+    "https://gojacks.com/sports/mens-tennis/roster",
+    "https://gojacks.com/sports/womens-tennis/roster",
+    "https://gojacks.com/sports/womens-volleyball/roster",
+    "https://gojacks.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gojacks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gojacks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

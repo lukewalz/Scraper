@@ -1,0 +1,165 @@
+{
+  "school": "/schools/notre-dame-md",
+  "base": "https://notredamegators.com",
+  "goodList": [
+    "https://notredamegators.com/sports/womens-soccer/roster",
+    "https://notredamegators.com/sports/womens-basketball/roster",
+    "https://notredamegators.com/sports/womens-swimming-and-diving/roster",
+    "https://notredamegators.com/sports/track-and-field/roster",
+    "https://notredamegators.com/sports/womens-cross-country/roster",
+    "https://notredamegators.com/sports/womens-lacrosse/roster",
+    "https://notredamegators.com/sports/softball/roster",
+    "https://notredamegators.com/sports/womens-tennis/roster",
+    "https://notredamegators.com/sports/womens-volleyball/roster",
+    "https://notredamegators.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://notredamegators.com/sports/football/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/golf/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/tri/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://notredamegators.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

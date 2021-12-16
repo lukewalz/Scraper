@@ -1,0 +1,145 @@
+{
+  "school": "/schools/thiel",
+  "base": "https://thielathletics.com",
+  "goodList": [
+    "https://thielathletics.com/sports/football/roster",
+    "https://thielathletics.com/sports/mens-soccer/roster",
+    "https://thielathletics.com/sports/womens-soccer/roster",
+    "https://thielathletics.com/sports/mens-basketball/roster",
+    "https://thielathletics.com/sports/womens-basketball/roster",
+    "https://thielathletics.com/sports/track-and-field/roster",
+    "https://thielathletics.com/sports/womens-track-and-field/roster",
+    "https://thielathletics.com/sports/cross-country/roster",
+    "https://thielathletics.com/sports/womens-cross-country/roster",
+    "https://thielathletics.com/sports/mens-golf/roster",
+    "https://thielathletics.com/sports/womens-golf/roster",
+    "https://thielathletics.com/sports/mens-lacrosse/roster",
+    "https://thielathletics.com/sports/womens-lacrosse/roster",
+    "https://thielathletics.com/sports/baseball/roster",
+    "https://thielathletics.com/sports/softball/roster",
+    "https://thielathletics.com/sports/mens-tennis/roster",
+    "https://thielathletics.com/sports/womens-tennis/roster",
+    "https://thielathletics.com/sports/mens-volleyball/roster",
+    "https://thielathletics.com/sports/womens-volleyball/roster",
+    "https://thielathletics.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://thielathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://thielathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

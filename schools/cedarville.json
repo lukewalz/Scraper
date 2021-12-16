@@ -1,0 +1,157 @@
+{
+  "school": "/schools/cedarville",
+  "base": "https://yellowjackets.cedarville.edu",
+  "goodList": [
+    "https://yellowjackets.cedarville.edu/sports/mens-soccer/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-soccer/roster",
+    "https://yellowjackets.cedarville.edu/sports/mens-basketball/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-basketball/roster",
+    "https://yellowjackets.cedarville.edu/sports/mens-track-and-field/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-track-and-field/roster",
+    "https://yellowjackets.cedarville.edu/sports/mens-cross-country/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-cross-country/roster",
+    "https://yellowjackets.cedarville.edu/sports/mens-golf/roster",
+    "https://yellowjackets.cedarville.edu/sports/baseball/roster",
+    "https://yellowjackets.cedarville.edu/sports/softball/roster",
+    "https://yellowjackets.cedarville.edu/sports/mens-tennis/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-tennis/roster",
+    "https://yellowjackets.cedarville.edu/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/football/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/wrestling/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://yellowjackets.cedarville.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

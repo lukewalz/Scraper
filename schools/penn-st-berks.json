@@ -1,0 +1,161 @@
+{
+  "school": "/schools/penn-st-berks",
+  "base": "https://psuberksathletics.com",
+  "goodList": [
+    "https://psuberksathletics.com/sports/mens-soccer/roster",
+    "https://psuberksathletics.com/sports/womens-soccer/roster",
+    "https://psuberksathletics.com/sports/mens-basketball/roster",
+    "https://psuberksathletics.com/sports/womens-basketball/roster",
+    "https://psuberksathletics.com/sports/mens-cross-country/roster",
+    "https://psuberksathletics.com/sports/womens-cross-country/roster",
+    "https://psuberksathletics.com/sports/mens-golf/roster",
+    "https://psuberksathletics.com/sports/baseball/roster",
+    "https://psuberksathletics.com/sports/softball/roster",
+    "https://psuberksathletics.com/sports/mens-tennis/roster",
+    "https://psuberksathletics.com/sports/womens-tennis/roster",
+    "https://psuberksathletics.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://psuberksathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://psuberksathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

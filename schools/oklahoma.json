@@ -1,0 +1,155 @@
+{
+  "school": "/schools/oklahoma",
+  "base": "https://soonersports.com",
+  "goodList": [
+    "https://soonersports.com/sports/football/roster",
+    "https://soonersports.com/sports/mens-basketball/roster",
+    "https://soonersports.com/sports/womens-basketball/roster",
+    "https://soonersports.com/sports/mens-gymnastics/roster",
+    "https://soonersports.com/sports/womens-gymnastics/roster",
+    "https://soonersports.com/sports/track-and-field/roster",
+    "https://soonersports.com/sports/cross-country/roster",
+    "https://soonersports.com/sports/mens-golf/roster",
+    "https://soonersports.com/sports/womens-golf/roster",
+    "https://soonersports.com/sports/rowing/roster",
+    "https://soonersports.com/sports/baseball/roster",
+    "https://soonersports.com/sports/softball/roster",
+    "https://soonersports.com/sports/mens-tennis/roster",
+    "https://soonersports.com/sports/womens-tennis/roster",
+    "https://soonersports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://soonersports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://soonersports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

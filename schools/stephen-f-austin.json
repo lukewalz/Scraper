@@ -1,0 +1,159 @@
+{
+  "school": "/schools/stephen-f-austin",
+  "base": "https://sfajacks.com",
+  "goodList": [
+    "https://sfajacks.com/sports/football/roster",
+    "https://sfajacks.com/sports/womens-soccer/roster",
+    "https://sfajacks.com/sports/mens-basketball/roster",
+    "https://sfajacks.com/sports/womens-basketball/roster",
+    "https://sfajacks.com/sports/track-and-field/roster",
+    "https://sfajacks.com/sports/cross-country/roster",
+    "https://sfajacks.com/sports/mens-golf/roster",
+    "https://sfajacks.com/sports/womens-golf/roster",
+    "https://sfajacks.com/sports/baseball/roster",
+    "https://sfajacks.com/sports/softball/roster",
+    "https://sfajacks.com/sports/womens-tennis/roster",
+    "https://sfajacks.com/sports/womens-volleyball/roster",
+    "https://sfajacks.com/sports/womens-beach-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://sfajacks.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://sfajacks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

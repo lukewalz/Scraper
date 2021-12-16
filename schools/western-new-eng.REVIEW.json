@@ -1,0 +1,184 @@
+{
+  "school": "/schools/western-new-eng",
+  "base": "https://wnegoldenbears.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://wnegoldenbears.com/sports/football/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/golf/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/softball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/tri/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://wnegoldenbears.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

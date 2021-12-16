@@ -1,0 +1,163 @@
+{
+  "school": "/schools/saint-peters",
+  "base": "https://saintpeterspeacocks.com",
+  "goodList": [
+    "https://saintpeterspeacocks.com/sports/mens-soccer/roster",
+    "https://saintpeterspeacocks.com/sports/womens-soccer/roster",
+    "https://saintpeterspeacocks.com/sports/mens-basketball/roster",
+    "https://saintpeterspeacocks.com/sports/womens-basketball/roster",
+    "https://saintpeterspeacocks.com/sports/swimming-and-diving/roster",
+    "https://saintpeterspeacocks.com/sports/track-and-field/roster",
+    "https://saintpeterspeacocks.com/sports/cross-country/roster",
+    "https://saintpeterspeacocks.com/sports/mens-golf/roster",
+    "https://saintpeterspeacocks.com/sports/baseball/roster",
+    "https://saintpeterspeacocks.com/sports/softball/roster",
+    "https://saintpeterspeacocks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://saintpeterspeacocks.com/sports/football/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://saintpeterspeacocks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

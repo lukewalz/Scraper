@@ -1,0 +1,143 @@
+{
+  "school": "/schools/wisconsin",
+  "base": "https://uwbadgers.com",
+  "goodList": [
+    "https://uwbadgers.com/sports/football/roster",
+    "https://uwbadgers.com/sports/mens-soccer/roster",
+    "https://uwbadgers.com/sports/womens-soccer/roster",
+    "https://uwbadgers.com/sports/mens-basketball/roster",
+    "https://uwbadgers.com/sports/womens-basketball/roster",
+    "https://uwbadgers.com/sports/mens-ice-hockey/roster",
+    "https://uwbadgers.com/sports/womens-ice-hockey/roster",
+    "https://uwbadgers.com/sports/mens-swimming-and-diving/roster",
+    "https://uwbadgers.com/sports/womens-swimming-and-diving/roster",
+    "https://uwbadgers.com/sports/mens-track-and-field/roster",
+    "https://uwbadgers.com/sports/womens-track-and-field/roster",
+    "https://uwbadgers.com/sports/mens-cross-country/roster",
+    "https://uwbadgers.com/sports/womens-cross-country/roster",
+    "https://uwbadgers.com/sports/mens-golf/roster",
+    "https://uwbadgers.com/sports/womens-golf/roster",
+    "https://uwbadgers.com/sports/rowing/roster",
+    "https://uwbadgers.com/sports/softball/roster",
+    "https://uwbadgers.com/sports/mens-tennis/roster",
+    "https://uwbadgers.com/sports/womens-tennis/roster",
+    "https://uwbadgers.com/sports/womens-volleyball/roster",
+    "https://uwbadgers.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uwbadgers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uwbadgers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

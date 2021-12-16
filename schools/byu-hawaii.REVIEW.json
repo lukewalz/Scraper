@@ -1,0 +1,184 @@
+{
+  "school": "/schools/byu-hawaii",
+  "base": "https://byuhawaiisports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://byuhawaiisports.com/sports/football/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://byuhawaiisports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

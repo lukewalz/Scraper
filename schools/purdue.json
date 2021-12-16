@@ -1,0 +1,153 @@
+{
+  "school": "/schools/purdue",
+  "base": "https://purduesports.com",
+  "goodList": [
+    "https://purduesports.com/sports/football/roster",
+    "https://purduesports.com/sports/womens-soccer/roster",
+    "https://purduesports.com/sports/mens-basketball/roster",
+    "https://purduesports.com/sports/womens-basketball/roster",
+    "https://purduesports.com/sports/mens-swimming-and-diving/roster",
+    "https://purduesports.com/sports/womens-swimming-and-diving/roster",
+    "https://purduesports.com/sports/track-and-field/roster",
+    "https://purduesports.com/sports/cross-country/roster",
+    "https://purduesports.com/sports/mens-golf/roster",
+    "https://purduesports.com/sports/womens-golf/roster",
+    "https://purduesports.com/sports/baseball/roster",
+    "https://purduesports.com/sports/softball/roster",
+    "https://purduesports.com/sports/mens-tennis/roster",
+    "https://purduesports.com/sports/womens-tennis/roster",
+    "https://purduesports.com/sports/womens-volleyball/roster",
+    "https://purduesports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://purduesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://purduesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

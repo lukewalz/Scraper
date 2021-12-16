@@ -1,0 +1,155 @@
+{
+  "school": "/schools/cazenovia",
+  "base": "https://cazenoviawildcats.com",
+  "goodList": [
+    "https://cazenoviawildcats.com/sports/mens-soccer/roster",
+    "https://cazenoviawildcats.com/sports/womens-soccer/roster",
+    "https://cazenoviawildcats.com/sports/mens-basketball/roster",
+    "https://cazenoviawildcats.com/sports/womens-basketball/roster",
+    "https://cazenoviawildcats.com/sports/mens-swimming-and-diving/roster",
+    "https://cazenoviawildcats.com/sports/womens-swimming-and-diving/roster",
+    "https://cazenoviawildcats.com/sports/mens-cross-country/roster",
+    "https://cazenoviawildcats.com/sports/womens-cross-country/roster",
+    "https://cazenoviawildcats.com/sports/equestrian/roster",
+    "https://cazenoviawildcats.com/sports/golf/roster",
+    "https://cazenoviawildcats.com/sports/mens-lacrosse/roster",
+    "https://cazenoviawildcats.com/sports/womens-lacrosse/roster",
+    "https://cazenoviawildcats.com/sports/baseball/roster",
+    "https://cazenoviawildcats.com/sports/softball/roster",
+    "https://cazenoviawildcats.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://cazenoviawildcats.com/sports/football/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/tri/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://cazenoviawildcats.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

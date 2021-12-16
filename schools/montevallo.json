@@ -1,0 +1,147 @@
+{
+  "school": "/schools/montevallo",
+  "base": "https://montevallofalcons.com",
+  "goodList": [
+    "https://montevallofalcons.com/sports/mens-soccer/roster",
+    "https://montevallofalcons.com/sports/womens-soccer/roster",
+    "https://montevallofalcons.com/sports/mens-basketball/roster",
+    "https://montevallofalcons.com/sports/womens-basketball/roster",
+    "https://montevallofalcons.com/sports/mens-swimming-and-diving/roster",
+    "https://montevallofalcons.com/sports/womens-swimming-and-diving/roster",
+    "https://montevallofalcons.com/sports/mens-track-and-field/roster",
+    "https://montevallofalcons.com/sports/womens-track-and-field/roster",
+    "https://montevallofalcons.com/sports/mens-cross-country/roster",
+    "https://montevallofalcons.com/sports/womens-cross-country/roster",
+    "https://montevallofalcons.com/sports/mens-golf/roster",
+    "https://montevallofalcons.com/sports/womens-golf/roster",
+    "https://montevallofalcons.com/sports/mens-lacrosse/roster",
+    "https://montevallofalcons.com/sports/womens-lacrosse/roster",
+    "https://montevallofalcons.com/sports/baseball/roster",
+    "https://montevallofalcons.com/sports/softball/roster",
+    "https://montevallofalcons.com/sports/mens-tennis/roster",
+    "https://montevallofalcons.com/sports/womens-tennis/roster",
+    "https://montevallofalcons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://montevallofalcons.com/sports/football/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://montevallofalcons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

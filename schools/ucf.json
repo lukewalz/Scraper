@@ -1,0 +1,157 @@
+{
+  "school": "/schools/ucf",
+  "base": "https://ucfknights.com",
+  "goodList": [
+    "https://ucfknights.com/sports/football/roster",
+    "https://ucfknights.com/sports/mens-soccer/roster",
+    "https://ucfknights.com/sports/womens-soccer/roster",
+    "https://ucfknights.com/sports/mens-basketball/roster",
+    "https://ucfknights.com/sports/womens-basketball/roster",
+    "https://ucfknights.com/sports/womens-track-and-field/roster",
+    "https://ucfknights.com/sports/cross-country/roster",
+    "https://ucfknights.com/sports/mens-golf/roster",
+    "https://ucfknights.com/sports/womens-golf/roster",
+    "https://ucfknights.com/sports/baseball/roster",
+    "https://ucfknights.com/sports/softball/roster",
+    "https://ucfknights.com/sports/mens-tennis/roster",
+    "https://ucfknights.com/sports/womens-tennis/roster",
+    "https://ucfknights.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ucfknights.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/golf/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ucfknights.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

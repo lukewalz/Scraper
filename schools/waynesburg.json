@@ -1,0 +1,149 @@
+{
+  "school": "/schools/waynesburg",
+  "base": "https://waynesburgsports.com",
+  "goodList": [
+    "https://waynesburgsports.com/sports/football/roster",
+    "https://waynesburgsports.com/sports/mens-soccer/roster",
+    "https://waynesburgsports.com/sports/womens-soccer/roster",
+    "https://waynesburgsports.com/sports/mens-basketball/roster",
+    "https://waynesburgsports.com/sports/womens-basketball/roster",
+    "https://waynesburgsports.com/sports/mens-track-and-field/roster",
+    "https://waynesburgsports.com/sports/womens-track-and-field/roster",
+    "https://waynesburgsports.com/sports/mens-cross-country/roster",
+    "https://waynesburgsports.com/sports/womens-cross-country/roster",
+    "https://waynesburgsports.com/sports/mens-golf/roster",
+    "https://waynesburgsports.com/sports/womens-golf/roster",
+    "https://waynesburgsports.com/sports/womens-lacrosse/roster",
+    "https://waynesburgsports.com/sports/baseball/roster",
+    "https://waynesburgsports.com/sports/softball/roster",
+    "https://waynesburgsports.com/sports/mens-tennis/roster",
+    "https://waynesburgsports.com/sports/womens-tennis/roster",
+    "https://waynesburgsports.com/sports/womens-volleyball/roster",
+    "https://waynesburgsports.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://waynesburgsports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://waynesburgsports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

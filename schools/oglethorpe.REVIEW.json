@@ -1,0 +1,184 @@
+{
+  "school": "/schools/oglethorpe",
+  "base": "https://gopetrels.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://gopetrels.com/sports/football/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/softball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gopetrels.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

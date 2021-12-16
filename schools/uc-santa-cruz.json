@@ -1,0 +1,161 @@
+{
+  "school": "/schools/uc-santa-cruz",
+  "base": "https://goslugs.com/",
+  "goodList": [
+    "https://goslugs.com//sports/mens-soccer/roster",
+    "https://goslugs.com//sports/womens-soccer/roster",
+    "https://goslugs.com//sports/mens-basketball/roster",
+    "https://goslugs.com//sports/womens-basketball/roster",
+    "https://goslugs.com//sports/womens-swimming-and-diving/roster",
+    "https://goslugs.com//sports/mens-track-and-field/roster",
+    "https://goslugs.com//sports/womens-cross-country/roster",
+    "https://goslugs.com//sports/womens-golf/roster",
+    "https://goslugs.com//sports/mens-tennis/roster",
+    "https://goslugs.com//sports/womens-tennis/roster",
+    "https://goslugs.com//sports/mens-volleyball/roster",
+    "https://goslugs.com//sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goslugs.com//sports/football/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/bowling/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/fencing/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/rifle/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/skiing/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/cross-country/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/xctrack/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/equestrian/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/golf/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-golf/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/rowing/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/baseball/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/softball/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/tennis/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/wbvb/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/water-polo/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/wrestling/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mwrest/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/wwrest/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/rugby/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/tri/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goslugs.com//sports/mens-field-hockey/roster"
+    }
+  ]
+}

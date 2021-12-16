@@ -1,0 +1,153 @@
+{
+  "school": "/schools/northern-ill",
+  "base": "https://niuhuskies.com",
+  "goodList": [
+    "https://niuhuskies.com/sports/football/roster",
+    "https://niuhuskies.com/sports/mens-soccer/roster",
+    "https://niuhuskies.com/sports/womens-soccer/roster",
+    "https://niuhuskies.com/sports/mens-basketball/roster",
+    "https://niuhuskies.com/sports/womens-basketball/roster",
+    "https://niuhuskies.com/sports/womens-gymnastics/roster",
+    "https://niuhuskies.com/sports/womens-track-and-field/roster",
+    "https://niuhuskies.com/sports/womens-cross-country/roster",
+    "https://niuhuskies.com/sports/mens-golf/roster",
+    "https://niuhuskies.com/sports/womens-golf/roster",
+    "https://niuhuskies.com/sports/baseball/roster",
+    "https://niuhuskies.com/sports/softball/roster",
+    "https://niuhuskies.com/sports/mens-tennis/roster",
+    "https://niuhuskies.com/sports/womens-tennis/roster",
+    "https://niuhuskies.com/sports/womens-volleyball/roster",
+    "https://niuhuskies.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://niuhuskies.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/golf/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/tri/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://niuhuskies.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

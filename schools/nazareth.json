@@ -1,0 +1,135 @@
+{
+  "school": "/schools/nazareth",
+  "base": "https://nazathletics.com",
+  "goodList": [
+    "https://nazathletics.com/sports/mens-soccer/roster",
+    "https://nazathletics.com/sports/womens-soccer/roster",
+    "https://nazathletics.com/sports/mens-basketball/roster",
+    "https://nazathletics.com/sports/womens-basketball/roster",
+    "https://nazathletics.com/sports/mens-ice-hockey/roster",
+    "https://nazathletics.com/sports/womens-ice-hockey/roster",
+    "https://nazathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://nazathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://nazathletics.com/sports/mens-track-and-field/roster",
+    "https://nazathletics.com/sports/womens-track-and-field/roster",
+    "https://nazathletics.com/sports/mens-cross-country/roster",
+    "https://nazathletics.com/sports/womens-cross-country/roster",
+    "https://nazathletics.com/sports/equestrian/roster",
+    "https://nazathletics.com/sports/mens-golf/roster",
+    "https://nazathletics.com/sports/womens-golf/roster",
+    "https://nazathletics.com/sports/mens-lacrosse/roster",
+    "https://nazathletics.com/sports/womens-lacrosse/roster",
+    "https://nazathletics.com/sports/rowing/roster",
+    "https://nazathletics.com/sports/softball/roster",
+    "https://nazathletics.com/sports/mens-tennis/roster",
+    "https://nazathletics.com/sports/womens-tennis/roster",
+    "https://nazathletics.com/sports/mens-volleyball/roster",
+    "https://nazathletics.com/sports/womens-volleyball/roster",
+    "https://nazathletics.com/sports/mens-rugby/roster",
+    "https://nazathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nazathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nazathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "school": "/schools/randolph-macon",
+  "base": "https://rmcathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://rmcathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rmcathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

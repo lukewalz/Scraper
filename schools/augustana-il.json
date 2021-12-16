@@ -1,0 +1,137 @@
+{
+  "school": "/schools/augustana-il",
+  "base": "https://athletics.augustana.edu",
+  "goodList": [
+    "https://athletics.augustana.edu/sports/football/roster",
+    "https://athletics.augustana.edu/sports/mens-soccer/roster",
+    "https://athletics.augustana.edu/sports/womens-soccer/roster",
+    "https://athletics.augustana.edu/sports/mens-basketball/roster",
+    "https://athletics.augustana.edu/sports/womens-basketball/roster",
+    "https://athletics.augustana.edu/sports/mens-swimming-and-diving/roster",
+    "https://athletics.augustana.edu/sports/womens-swimming-and-diving/roster",
+    "https://athletics.augustana.edu/sports/mens-track-and-field/roster",
+    "https://athletics.augustana.edu/sports/womens-track-and-field/roster",
+    "https://athletics.augustana.edu/sports/mens-cross-country/roster",
+    "https://athletics.augustana.edu/sports/womens-cross-country/roster",
+    "https://athletics.augustana.edu/sports/mens-golf/roster",
+    "https://athletics.augustana.edu/sports/womens-golf/roster",
+    "https://athletics.augustana.edu/sports/mens-lacrosse/roster",
+    "https://athletics.augustana.edu/sports/womens-lacrosse/roster",
+    "https://athletics.augustana.edu/sports/baseball/roster",
+    "https://athletics.augustana.edu/sports/softball/roster",
+    "https://athletics.augustana.edu/sports/mens-tennis/roster",
+    "https://athletics.augustana.edu/sports/womens-tennis/roster",
+    "https://athletics.augustana.edu/sports/mens-volleyball/roster",
+    "https://athletics.augustana.edu/sports/womens-volleyball/roster",
+    "https://athletics.augustana.edu/sports/mens-water-polo/roster",
+    "https://athletics.augustana.edu/sports/womens-water-polo/roster",
+    "https://athletics.augustana.edu/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://athletics.augustana.edu/sports/bowling/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/fencing/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/rifle/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/skiing/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/cross-country/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/xctrack/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/equestrian/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/golf/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/rowing/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/tennis/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/wbvb/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/water-polo/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mwrest/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/wwrest/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/rugby/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/tri/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://athletics.augustana.edu/sports/mens-field-hockey/roster"
+    }
+  ]
+}

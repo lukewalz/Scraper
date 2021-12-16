@@ -1,0 +1,141 @@
+{
+  "school": "/schools/robert-morris",
+  "base": "https://rmucolonials.com",
+  "goodList": [
+    "https://rmucolonials.com/sports/football/roster",
+    "https://rmucolonials.com/sports/mens-soccer/roster",
+    "https://rmucolonials.com/sports/womens-soccer/roster",
+    "https://rmucolonials.com/sports/mens-basketball/roster",
+    "https://rmucolonials.com/sports/womens-basketball/roster",
+    "https://rmucolonials.com/sports/mens-ice-hockey/roster",
+    "https://rmucolonials.com/sports/womens-ice-hockey/roster",
+    "https://rmucolonials.com/sports/mens-track-and-field/roster",
+    "https://rmucolonials.com/sports/womens-track-and-field/roster",
+    "https://rmucolonials.com/sports/cross-country/roster",
+    "https://rmucolonials.com/sports/mens-cross-country/roster",
+    "https://rmucolonials.com/sports/womens-cross-country/roster",
+    "https://rmucolonials.com/sports/mens-golf/roster",
+    "https://rmucolonials.com/sports/womens-golf/roster",
+    "https://rmucolonials.com/sports/mens-lacrosse/roster",
+    "https://rmucolonials.com/sports/womens-lacrosse/roster",
+    "https://rmucolonials.com/sports/rowing/roster",
+    "https://rmucolonials.com/sports/softball/roster",
+    "https://rmucolonials.com/sports/mens-tennis/roster",
+    "https://rmucolonials.com/sports/womens-tennis/roster",
+    "https://rmucolonials.com/sports/womens-volleyball/roster",
+    "https://rmucolonials.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://rmucolonials.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/golf/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/tri/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://rmucolonials.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

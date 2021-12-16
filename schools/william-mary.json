@@ -1,0 +1,143 @@
+{
+  "school": "/schools/william-mary",
+  "base": "https://tribeathletics.com",
+  "goodList": [
+    "https://tribeathletics.com/sports/football/roster",
+    "https://tribeathletics.com/sports/mens-soccer/roster",
+    "https://tribeathletics.com/sports/womens-soccer/roster",
+    "https://tribeathletics.com/sports/mens-basketball/roster",
+    "https://tribeathletics.com/sports/womens-basketball/roster",
+    "https://tribeathletics.com/sports/mens-gymnastics/roster",
+    "https://tribeathletics.com/sports/womens-gymnastics/roster",
+    "https://tribeathletics.com/sports/mens-swimming-and-diving/roster",
+    "https://tribeathletics.com/sports/womens-swimming-and-diving/roster",
+    "https://tribeathletics.com/sports/mens-track-and-field/roster",
+    "https://tribeathletics.com/sports/womens-track-and-field/roster",
+    "https://tribeathletics.com/sports/mens-cross-country/roster",
+    "https://tribeathletics.com/sports/womens-cross-country/roster",
+    "https://tribeathletics.com/sports/mens-golf/roster",
+    "https://tribeathletics.com/sports/womens-golf/roster",
+    "https://tribeathletics.com/sports/womens-lacrosse/roster",
+    "https://tribeathletics.com/sports/baseball/roster",
+    "https://tribeathletics.com/sports/mens-tennis/roster",
+    "https://tribeathletics.com/sports/womens-tennis/roster",
+    "https://tribeathletics.com/sports/womens-volleyball/roster",
+    "https://tribeathletics.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://tribeathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://tribeathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

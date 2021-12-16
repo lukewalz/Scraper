@@ -1,0 +1,159 @@
+{
+  "school": "/schools/mo-st-louis",
+  "base": "https://umsltritons.com",
+  "goodList": [
+    "https://umsltritons.com/sports/mens-soccer/roster",
+    "https://umsltritons.com/sports/womens-soccer/roster",
+    "https://umsltritons.com/sports/mens-basketball/roster",
+    "https://umsltritons.com/sports/womens-basketball/roster",
+    "https://umsltritons.com/sports/mens-swimming-and-diving/roster",
+    "https://umsltritons.com/sports/womens-swimming-and-diving/roster",
+    "https://umsltritons.com/sports/mens-golf/roster",
+    "https://umsltritons.com/sports/womens-golf/roster",
+    "https://umsltritons.com/sports/baseball/roster",
+    "https://umsltritons.com/sports/softball/roster",
+    "https://umsltritons.com/sports/mens-tennis/roster",
+    "https://umsltritons.com/sports/womens-tennis/roster",
+    "https://umsltritons.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://umsltritons.com/sports/football/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/golf/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/tri/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://umsltritons.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

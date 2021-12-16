@@ -1,0 +1,139 @@
+{
+  "school": "/schools/birmingham-so",
+  "base": "https://bscsports.net",
+  "goodList": [
+    "https://bscsports.net/sports/football/roster",
+    "https://bscsports.net/sports/mens-soccer/roster",
+    "https://bscsports.net/sports/womens-soccer/roster",
+    "https://bscsports.net/sports/mens-basketball/roster",
+    "https://bscsports.net/sports/womens-basketball/roster",
+    "https://bscsports.net/sports/swimming-and-diving/roster",
+    "https://bscsports.net/sports/mens-swimming-and-diving/roster",
+    "https://bscsports.net/sports/womens-swimming-and-diving/roster",
+    "https://bscsports.net/sports/track-and-field/roster",
+    "https://bscsports.net/sports/mens-track-and-field/roster",
+    "https://bscsports.net/sports/womens-track-and-field/roster",
+    "https://bscsports.net/sports/mens-cross-country/roster",
+    "https://bscsports.net/sports/womens-cross-country/roster",
+    "https://bscsports.net/sports/outdoor-track/roster",
+    "https://bscsports.net/sports/mens-golf/roster",
+    "https://bscsports.net/sports/womens-golf/roster",
+    "https://bscsports.net/sports/mens-lacrosse/roster",
+    "https://bscsports.net/sports/womens-lacrosse/roster",
+    "https://bscsports.net/sports/baseball/roster",
+    "https://bscsports.net/sports/softball/roster",
+    "https://bscsports.net/sports/mens-tennis/roster",
+    "https://bscsports.net/sports/womens-tennis/roster",
+    "https://bscsports.net/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bscsports.net/sports/bowling/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/fencing/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/rifle/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/skiing/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/golf/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/rowing/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/tennis/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/rugby/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/tri/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bscsports.net/sports/mens-field-hockey/roster"
+    }
+  ]
+}

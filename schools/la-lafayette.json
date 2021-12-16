@@ -1,0 +1,153 @@
+{
+  "school": "/schools/la-lafayette",
+  "base": "https://ragincajuns.com",
+  "goodList": [
+    "https://ragincajuns.com/sports/football/roster",
+    "https://ragincajuns.com/sports/womens-soccer/roster",
+    "https://ragincajuns.com/sports/mens-basketball/roster",
+    "https://ragincajuns.com/sports/womens-basketball/roster",
+    "https://ragincajuns.com/sports/track-and-field/roster",
+    "https://ragincajuns.com/sports/mens-track-and-field/roster",
+    "https://ragincajuns.com/sports/womens-track-and-field/roster",
+    "https://ragincajuns.com/sports/cross-country/roster",
+    "https://ragincajuns.com/sports/mens-cross-country/roster",
+    "https://ragincajuns.com/sports/womens-cross-country/roster",
+    "https://ragincajuns.com/sports/golf/roster",
+    "https://ragincajuns.com/sports/baseball/roster",
+    "https://ragincajuns.com/sports/softball/roster",
+    "https://ragincajuns.com/sports/mens-tennis/roster",
+    "https://ragincajuns.com/sports/womens-tennis/roster",
+    "https://ragincajuns.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://ragincajuns.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/tri/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://ragincajuns.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

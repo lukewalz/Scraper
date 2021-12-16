@@ -1,0 +1,159 @@
+{
+  "school": "/schools/houston",
+  "base": "https://uhcougars.com",
+  "goodList": [
+    "https://uhcougars.com/sports/football/roster",
+    "https://uhcougars.com/sports/womens-soccer/roster",
+    "https://uhcougars.com/sports/mens-basketball/roster",
+    "https://uhcougars.com/sports/womens-basketball/roster",
+    "https://uhcougars.com/sports/womens-swimming-and-diving/roster",
+    "https://uhcougars.com/sports/track-and-field/roster",
+    "https://uhcougars.com/sports/cross-country/roster",
+    "https://uhcougars.com/sports/mens-golf/roster",
+    "https://uhcougars.com/sports/womens-golf/roster",
+    "https://uhcougars.com/sports/baseball/roster",
+    "https://uhcougars.com/sports/softball/roster",
+    "https://uhcougars.com/sports/womens-tennis/roster",
+    "https://uhcougars.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://uhcougars.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/golf/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/tri/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://uhcougars.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

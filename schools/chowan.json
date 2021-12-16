@@ -1,0 +1,149 @@
+{
+  "school": "/schools/chowan",
+  "base": "https://gocuhawks.com",
+  "goodList": [
+    "https://gocuhawks.com/sports/football/roster",
+    "https://gocuhawks.com/sports/mens-soccer/roster",
+    "https://gocuhawks.com/sports/womens-soccer/roster",
+    "https://gocuhawks.com/sports/mens-basketball/roster",
+    "https://gocuhawks.com/sports/womens-basketball/roster",
+    "https://gocuhawks.com/sports/mens-swimming-and-diving/roster",
+    "https://gocuhawks.com/sports/womens-swimming-and-diving/roster",
+    "https://gocuhawks.com/sports/mens-cross-country/roster",
+    "https://gocuhawks.com/sports/womens-cross-country/roster",
+    "https://gocuhawks.com/sports/mens-golf/roster",
+    "https://gocuhawks.com/sports/womens-golf/roster",
+    "https://gocuhawks.com/sports/mens-lacrosse/roster",
+    "https://gocuhawks.com/sports/womens-lacrosse/roster",
+    "https://gocuhawks.com/sports/baseball/roster",
+    "https://gocuhawks.com/sports/softball/roster",
+    "https://gocuhawks.com/sports/mens-tennis/roster",
+    "https://gocuhawks.com/sports/womens-tennis/roster",
+    "https://gocuhawks.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://gocuhawks.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/golf/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/tri/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://gocuhawks.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

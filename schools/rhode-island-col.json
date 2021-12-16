@@ -1,0 +1,147 @@
+{
+  "school": "/schools/rhode-island-col",
+  "base": "https://goanchormen.com",
+  "goodList": [
+    "https://goanchormen.com/sports/mens-soccer/roster",
+    "https://goanchormen.com/sports/womens-soccer/roster",
+    "https://goanchormen.com/sports/mens-basketball/roster",
+    "https://goanchormen.com/sports/womens-basketball/roster",
+    "https://goanchormen.com/sports/womens-gymnastics/roster",
+    "https://goanchormen.com/sports/womens-swimming-and-diving/roster",
+    "https://goanchormen.com/sports/mens-track-and-field/roster",
+    "https://goanchormen.com/sports/womens-track-and-field/roster",
+    "https://goanchormen.com/sports/mens-cross-country/roster",
+    "https://goanchormen.com/sports/womens-cross-country/roster",
+    "https://goanchormen.com/sports/mens-golf/roster",
+    "https://goanchormen.com/sports/womens-golf/roster",
+    "https://goanchormen.com/sports/womens-lacrosse/roster",
+    "https://goanchormen.com/sports/baseball/roster",
+    "https://goanchormen.com/sports/softball/roster",
+    "https://goanchormen.com/sports/mens-tennis/roster",
+    "https://goanchormen.com/sports/womens-tennis/roster",
+    "https://goanchormen.com/sports/womens-volleyball/roster",
+    "https://goanchormen.com/sports/wrestling/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://goanchormen.com/sports/football/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/golf/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/tri/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://goanchormen.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

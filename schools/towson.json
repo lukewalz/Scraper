@@ -1,0 +1,147 @@
+{
+  "school": "/schools/towson",
+  "base": "https://towsontigers.com",
+  "goodList": [
+    "https://towsontigers.com/sports/football/roster",
+    "https://towsontigers.com/sports/mens-soccer/roster",
+    "https://towsontigers.com/sports/womens-soccer/roster",
+    "https://towsontigers.com/sports/mens-basketball/roster",
+    "https://towsontigers.com/sports/womens-basketball/roster",
+    "https://towsontigers.com/sports/womens-gymnastics/roster",
+    "https://towsontigers.com/sports/mens-swimming-and-diving/roster",
+    "https://towsontigers.com/sports/womens-swimming-and-diving/roster",
+    "https://towsontigers.com/sports/womens-track-and-field/roster",
+    "https://towsontigers.com/sports/womens-cross-country/roster",
+    "https://towsontigers.com/sports/mens-golf/roster",
+    "https://towsontigers.com/sports/womens-golf/roster",
+    "https://towsontigers.com/sports/mens-lacrosse/roster",
+    "https://towsontigers.com/sports/womens-lacrosse/roster",
+    "https://towsontigers.com/sports/baseball/roster",
+    "https://towsontigers.com/sports/softball/roster",
+    "https://towsontigers.com/sports/womens-tennis/roster",
+    "https://towsontigers.com/sports/womens-volleyball/roster",
+    "https://towsontigers.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://towsontigers.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/golf/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/tri/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://towsontigers.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

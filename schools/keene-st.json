@@ -1,0 +1,157 @@
+{
+  "school": "/schools/keene-st",
+  "base": "https://keeneowls.com",
+  "goodList": [
+    "https://keeneowls.com/sports/mens-soccer/roster",
+    "https://keeneowls.com/sports/womens-soccer/roster",
+    "https://keeneowls.com/sports/mens-basketball/roster",
+    "https://keeneowls.com/sports/womens-basketball/roster",
+    "https://keeneowls.com/sports/mens-swimming-and-diving/roster",
+    "https://keeneowls.com/sports/womens-swimming-and-diving/roster",
+    "https://keeneowls.com/sports/mens-cross-country/roster",
+    "https://keeneowls.com/sports/womens-cross-country/roster",
+    "https://keeneowls.com/sports/mens-lacrosse/roster",
+    "https://keeneowls.com/sports/womens-lacrosse/roster",
+    "https://keeneowls.com/sports/baseball/roster",
+    "https://keeneowls.com/sports/softball/roster",
+    "https://keeneowls.com/sports/womens-volleyball/roster",
+    "https://keeneowls.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://keeneowls.com/sports/football/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/golf/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/tri/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://keeneowls.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

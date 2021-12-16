@@ -1,0 +1,143 @@
+{
+  "school": "/schools/barton",
+  "base": "https://bartonbulldogs.com",
+  "goodList": [
+    "https://bartonbulldogs.com/sports/football/roster",
+    "https://bartonbulldogs.com/sports/mens-soccer/roster",
+    "https://bartonbulldogs.com/sports/womens-soccer/roster",
+    "https://bartonbulldogs.com/sports/mens-basketball/roster",
+    "https://bartonbulldogs.com/sports/womens-basketball/roster",
+    "https://bartonbulldogs.com/sports/mens-swimming-and-diving/roster",
+    "https://bartonbulldogs.com/sports/womens-swimming-and-diving/roster",
+    "https://bartonbulldogs.com/sports/mens-track-and-field/roster",
+    "https://bartonbulldogs.com/sports/womens-track-and-field/roster",
+    "https://bartonbulldogs.com/sports/mens-cross-country/roster",
+    "https://bartonbulldogs.com/sports/womens-cross-country/roster",
+    "https://bartonbulldogs.com/sports/mens-golf/roster",
+    "https://bartonbulldogs.com/sports/womens-golf/roster",
+    "https://bartonbulldogs.com/sports/mens-lacrosse/roster",
+    "https://bartonbulldogs.com/sports/womens-lacrosse/roster",
+    "https://bartonbulldogs.com/sports/baseball/roster",
+    "https://bartonbulldogs.com/sports/softball/roster",
+    "https://bartonbulldogs.com/sports/mens-tennis/roster",
+    "https://bartonbulldogs.com/sports/womens-tennis/roster",
+    "https://bartonbulldogs.com/sports/mens-volleyball/roster",
+    "https://bartonbulldogs.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://bartonbulldogs.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/golf/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/tri/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://bartonbulldogs.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "school": "/schools/north-texas",
+  "base": "https://meangreensports.com",
+  "goodList": [
+    "https://meangreensports.com/sports/football/roster",
+    "https://meangreensports.com/sports/womens-soccer/roster",
+    "https://meangreensports.com/sports/mens-basketball/roster",
+    "https://meangreensports.com/sports/womens-basketball/roster",
+    "https://meangreensports.com/sports/swimming-and-diving/roster",
+    "https://meangreensports.com/sports/track-and-field/roster",
+    "https://meangreensports.com/sports/cross-country/roster",
+    "https://meangreensports.com/sports/mens-golf/roster",
+    "https://meangreensports.com/sports/womens-golf/roster",
+    "https://meangreensports.com/sports/softball/roster",
+    "https://meangreensports.com/sports/womens-tennis/roster",
+    "https://meangreensports.com/sports/womens-volleyball/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://meangreensports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://meangreensports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

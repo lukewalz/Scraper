@@ -1,0 +1,184 @@
+{
+  "school": "/schools/kansas",
+  "base": "https://kuathletics.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://kuathletics.com/sports/football/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/golf/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/softball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/tri/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://kuathletics.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

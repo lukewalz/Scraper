@@ -1,0 +1,149 @@
+{
+  "school": "/schools/northwestern",
+  "base": "https://nusports.com",
+  "goodList": [
+    "https://nusports.com/sports/football/roster",
+    "https://nusports.com/sports/mens-soccer/roster",
+    "https://nusports.com/sports/womens-soccer/roster",
+    "https://nusports.com/sports/mens-basketball/roster",
+    "https://nusports.com/sports/womens-basketball/roster",
+    "https://nusports.com/sports/mens-swimming-and-diving/roster",
+    "https://nusports.com/sports/womens-swimming-and-diving/roster",
+    "https://nusports.com/sports/womens-cross-country/roster",
+    "https://nusports.com/sports/mens-golf/roster",
+    "https://nusports.com/sports/womens-golf/roster",
+    "https://nusports.com/sports/womens-lacrosse/roster",
+    "https://nusports.com/sports/baseball/roster",
+    "https://nusports.com/sports/softball/roster",
+    "https://nusports.com/sports/mens-tennis/roster",
+    "https://nusports.com/sports/womens-tennis/roster",
+    "https://nusports.com/sports/womens-volleyball/roster",
+    "https://nusports.com/sports/wrestling/roster",
+    "https://nusports.com/sports/field-hockey/roster"
+  ],
+  "badList": [
+    {
+      "url": "https://nusports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://nusports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}

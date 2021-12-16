@@ -1,0 +1,184 @@
+{
+  "school": "/schools/la-roche",
+  "base": "https://larochesports.com",
+  "goodList": [],
+  "badList": [
+    {
+      "url": "https://larochesports.com/sports/football/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-soccer/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-soccer/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-basketball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-basketball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/bowling/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/fencing/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/gymnastics/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-gymnastics/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-gymnastics/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/ice-hockey/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-ice-hockey/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-ice-hockey/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/rifle/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/skiing/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/swimming-and-diving/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-swimming-and-diving/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/track-and-field/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-track-and-field/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-track-and-field/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/cross-country/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-cross-country/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-cross-country/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/xctrack/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/outdoor-track/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/equestrian/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/golf/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-golf/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-golf/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/lacrosse/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-lacrosse/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-lacrosse/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/rowing/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/baseball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/softball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/tennis/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-tennis/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-tennis/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-volleyball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-volleyball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-beach-volleyball/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/wbvb/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/water-polo/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-water-polo/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-water-polo/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/wrestling/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mwrest/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/wwrest/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/rugby/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-rugby/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-rugby/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/tri/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-tri/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-tri/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/field-hockey/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/womens-field-hockey/roster"
+    },
+    {
+      "url": "https://larochesports.com/sports/mens-field-hockey/roster"
+    }
+  ]
+}
